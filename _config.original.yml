@@ -21,7 +21,7 @@ googleAnalyticsSiteUrl: "gdg-x.github.io"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "500Tech"
+organizerName: "GDG Lviv"
 organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "lviv@gdg.org.ua"
@@ -43,12 +43,12 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Logistics"}
-# - {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
 rightNavigationButtons:
@@ -56,17 +56,16 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-#heroTitle: "ANGULAR UP <typeout> 2016"
-heroTitle: "ANGULAR UP 2016"
-eventDate: "Israel's largest International Angular Conference"
-#typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-#typeoutFallback: "Season"
+heroTitle: "ANGULAR UP <typeout> 2016"
+eventDate: "November, 2016"
+typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
+typeoutFallback: "Season"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About Angular Up"
+aboutTitle: "About GDG DevFest"
 aboutBlock:
  - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
  - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
@@ -75,13 +74,13 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "450", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "24", specialCharacter: "+", info: "hours", detail: "of pure Angular content"}
- - {count: "14", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "350", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
+ - {count: "48", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
+ - {count: "20", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "3", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
 
 # Latest News Block
-#latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -91,43 +90,43 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Dan Panorama Convetion Centere"
-#eventLocationLink: "http://cabinet.kinopalace.lvi.ua/showtimes/"
-eventStreetAddress: "HaMered St 33"
-eventAddressLocality: "Tel Aviv-Yafo"
-#eventAddressLocalityRegion: "Lvivska"
-#eventPostalCode: "79000"
-eventAddressCountry: "Israel"
+eventLocationName: "Conference Hall"
+eventLocationLink: "http://cabinet.kinopalace.lviv.ua/showtimes/"
+eventStreetAddress: "22 Teatral'na St"
+eventAddressLocality: "Lviv"
+eventAddressLocalityRegion: "Lvivska"
+eventPostalCode: "79000"
+eventAddressCountry: "Ukraine"
 eventStartTime: "2014-10-25T10:00"
-eventDoorTime: "08:30"
-eventEndTime: "2014-10-25T18:00"
-eventPlaceCoordinates: "32.0649487,34.7623849"
-mapCenterCoordinates: "32.0649487,34.7623849"
-mapMobileCenterCoordinates: "32.0649487,34.7623849"
+eventDoorTime: "09:00"
+eventEndTime: "2014-10-25T20:00"
+eventPlaceCoordinates: "49.843237, 24.028751"
+mapCenterCoordinates: "49.842537, 24.025701"
+mapMobileCenterCoordinates: "49.841620, 24.029411"
 
 # Venue Block
-#venueBlockTitle: "Venue"
-#venueBigImage: "venue_0.jpg"
-#venueSmallImage1: "outside.jpg"
-#venueSmallImage2: "venue_2.jpg"
-#venueSmallImage3: "venue_3.jpg"
-#venueTitle: "Dan Panorama Hotel"
-#venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
+venueBlockTitle: "Venue"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle: "Kinopalace Cinema"
+venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "What's Up?"
-twitterHashTag: "angularup"
-#twitterFeed: "href='https://twitter.com/angularup/likes'"
+twitterHashTag: "devfest"
+twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
 organizersTitle: "Organizers"
 partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor!"
+partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Stay informed!"
+subscribeTitle: "Subscribe for updates"
 subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
 subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
 
@@ -137,41 +136,41 @@ ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lu
 ticketsOffers:
  -
   name: "Early Bird"
-  price: "280"
-  priceCurrency: "NIS"
-  ticketsNumber: "30"
+  price: "350"
+  priceCurrency: "UAH"
+  ticketsNumber: "150"
   ribbon: "-5%"
-  featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-08-25T10:00"
   validThrough: "2014-09-30T23:59"
  -
-  name: "Standart"
-  price: "480"
-  priceCurrency: "NIS"
+  name: "Last Chance"
+  price: "450"
+  priceCurrency: "UAH"
   ticketsNumber: "100"
   ribbon: "-20%"
+  featured: true
   buyButtonLink: "http://dfua.ticketforevent.com/"
   buyButtonText: "Buy Now"
   ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
   validFrom: "2014-10-01T00:00"
   validThrough: "2014-10-23T23:59"
   disabled: true
-# -
-#  name: "Student"
-#  price: "200"
-#  priceCurrency: "UAH"
-#  ticketsNumber: "50"
-#  buyButtonLink: "http://dfua.ticketforevent.com/"
-#  buyButtonText: "Buy Now"
-#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-20T10:00"
-#  validThrough: "2014-10-23T23:59"
-#  soldOut: true
-#  soldOutText: "Sold Out"
+ -
+  name: "Student"
+  price: "200"
+  priceCurrency: "UAH"
+  ticketsNumber: "50"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+  soldOut: true
+  soldOutText: "Sold Out"
 
 # Footer
 socialLinks:

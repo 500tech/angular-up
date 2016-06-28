@@ -1,0 +1,16 @@
+{
+  "name": "angular-up",
+  "version": "1.0.0",
+  "description": "### About  Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "jekyll serve -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nirkaufman@bitbucket.org/500tech/angular-up.git"
+  },
+  "author": "Nir Kaufman <nirkaufman@gmail.com> (nirkaufman.com)",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/500tech/angular-up#readme"
+}
