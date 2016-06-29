@@ -3,6 +3,17 @@
     height: 100%;
     padding-top: 0;
     .jumbotron {
+        .logo {
+            margin: 20px auto 0;
+            background-size: 100% auto;
+            width: 450px;
+            height: 85px;
+             @media (max-width: 767px) {
+                width: 100%;
+                background-position: center -6%;                
+                transform: scale(0.6) translateX(-40px);
+            }
+        }
         position: relative;
         top: 50%;
         margin: 0;

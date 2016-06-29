@@ -37,10 +37,11 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
         }    
     }
     .logo {
+        background-size: cover;
         display: inline-block;
         float: left;
-        width: 185px;
-        height: 60px;
+        width: 275px;
+        height: 50px;
         margin-right: 20px;
         transform: scale(.7);
         vertical-align: middle;
@@ -50,9 +51,11 @@ $nav-scroll-color-hover: rgba(0, 0, 0, .8);
     }
 }
 .logo-navbar {
-    width: 185px;
-    height: 60px;
+    width: 260px;
+    height: 45px;
     margin: 8px 20px 0 -10px;
+    background-position: 0px -53px !important;
+    background-size: cover;
     transform: scale(.6);
     vertical-align: middle;
 }

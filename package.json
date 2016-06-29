@@ -4,7 +4,8 @@
   "description": "### About  Project Zeppelin allows you to setup awesome GDG DevFest site in 5 minutes.",
   "main": "index.js",
   "scripts": {
-    "start": "jekyll serve -w"
+    "start": "jekyll serve -w",
+    "build": "rm -rf dist && jekyll build -d dist && http-server dist"
   },
   "repository": {
     "type": "git",

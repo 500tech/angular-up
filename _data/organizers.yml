@@ -1,10 +1,12 @@
 - 
-  group: "Main organizer"
+  group: "Main organizer & supporter"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Lviv - Open and volunteer geek community", link: "http://lviv.gdg.org.ua", imageUrl: "gdg-lviv.svg"}
+    - {name: "500Tech", description: "500Tech - leading frontend consultancy in Israel", link: "http://500tech.com", imageUrl: "500tech.png"}
 - 
-  group: "Co-organizers"
+  group: "Organizers"
   elements: 
-    - {name: "GDG Lviv", description: "GDG Kyiv - Open and volunteer geek community", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {title: "Boris Dinkevich", name: "Boris Dinkevich", description: "", link: "https://www.linkedin.com/in/borisdinkevich", imageUrl: "boris.jpg"}
+    - {title: "Adam Klein", name: "Adam Klein", description: "", link: "https://www.linkedin.com/in/adamklein500", imageUrl: "adam.jpg"}
+    - {title: "Nir Kaufman", name: "Nir Kaufman", description: "", link: "https://www.linkedin.com/in/nirkaufman", imageUrl: "nir.jpg"}
+    - {title: "Uri Shaked", name: "Uri Shaked", description: "", link: "https://www.linkedin.com/in/urishaked", imageUrl: "uri.jpg"}
+    - {title: "Gil Fink", name: "Gil Fink", description: "", link: "https://www.linkedin.com/in/gilfink", imageUrl: "gil.jpg"}

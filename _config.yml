@@ -13,20 +13,20 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Angular Up Confernece"
 email: "info@angular-up.com"
 description: "The biggest international angular conference in israel"
-baseurl: "/zeppelin"
-url: "https://gdg-x.github.io"
+baseurl: ""
+url: "http://angular-up.com"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-33424960-10"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "500Tech"
-organizerAlternateName: "500Tech"
-organizerDescription: "Angular and Reaxt, development courses and consulting"
-organizerEmail: "orginizer@angular-up.com"
-organizerLogo: "/img/seo/organizer-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+# organizerName: "500Tech"
+# organizerAlternateName: "500Tech"
+# organizerDescription: "Angular and Reaxt, development courses and consulting"
+# organizerEmail: "orginizer@angular-up.com"
+# organizerLogo: "/img/seo/organizer-logo.png"
+# organizerLink: "http://lviv.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, conference, angular, javascript"
@@ -36,49 +36,49 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
+c4pUrl: "https://ilyagelman.typeform.com/to/tgm55n"
+c4sponsorsUrl: "mailto:sponsors@angular-up.com"
 
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/#", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
- - {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Logistics"}
+ - {permalink: "/#about", text: "About"}
+ - {permalink: "/#location-map", text: "Venue"}
+ - {permalink: "/#rockstar-speakers", text: "Speakers"}
+ - {permalink: "/#partners", text: "Team"}
+ - {permalink: "/#subscribe", text: "Tickets"}
+ # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://ilyagelman.typeform.com/to/tgm55n", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://ilyagelman.typeform.com/to/tgm55n", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
-#heroTitle: "ANGULAR UP <typeout> 2016"
-heroTitle: "ANGULAR UP 2016"
-eventDate: "Israel's largest International Angular Conference"
-#typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
-#typeoutFallback: "Season"
+heroTitle: "Angular Up"
+heroSubtitle: "Israel's international Angular conference"
+eventDate: "Tel Aviv, 17 November 2016"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "https://ilyagelman.typeform.com/to/tgm55n", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
 aboutTitle: "About Angular Up"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Workshops", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
- - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
+ - {title: "Speakers", image: "conference.jpg", text: "Top speakers from around the world and Israel, speaking about Angular 2, Typescript, and more, including a Q&A panel" }
+ - {title: "Venue", image: "venue.jpg", text: "Beautiful convention area in Dan Panorama hotel, located on the beach. Serving full lunch, and refreshments through-out the event" }
+ - {title: "Community", image: "community.jpg", text: "Second largest Angular community in the world" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "450", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "24", specialCharacter: "+", info: "hours", detail: "of pure Angular content"}
- - {count: "14", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: "plus entertainment lounge"}
+ - {count: "450", specialCharacter: "+", info: "attendees", detail: ""}
+ - {count: "14", specialCharacter: "+", info: "speakers", detail: ""}
+ - {count: "1", specialCharacter: "", info: "day", detail: ""}
+ - {count: "2", specialCharacter: "", info: "parallel tracks", detail: ""}
 
 # Latest News Block
 #latestNewsTitle: "Latest news"
@@ -91,16 +91,16 @@ rockstarSpeakersButtonText: "See all speakers"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Dan Panorama Convetion Centere"
+eventLocationName: "Dan Panorama Convention Center"
 #eventLocationLink: "http://cabinet.kinopalace.lvi.ua/showtimes/"
-eventStreetAddress: "HaMered St 33"
+eventStreetAddress: "10 Prof. Yehezkel Kaufmann Street"
 eventAddressLocality: "Tel Aviv-Yafo"
 #eventAddressLocalityRegion: "Lvivska"
 #eventPostalCode: "79000"
 eventAddressCountry: "Israel"
-eventStartTime: "2014-10-25T10:00"
+eventStartTime: "2016-11-17T08:30"
 eventDoorTime: "08:30"
-eventEndTime: "2014-10-25T18:00"
+eventEndTime: "2016-11-17T18:00"
 eventPlaceCoordinates: "32.0649487,34.7623849"
 mapCenterCoordinates: "32.0649487,34.7623849"
 mapMobileCenterCoordinates: "32.0649487,34.7623849"
@@ -127,68 +127,77 @@ partnersC4sponsorsButton: "Become a sponsor!"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Stay informed!"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo: "Registration will be open around end of August. Number of tickets are limited. Stay tuned!"
+subscribeTitle: "Get super early bird tickets"
+subscribeInfo: "Registration is open for super early bird tickets. Be one of the firsts to join this amazing experience!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
-ticketsInfo: "Tickets grant access to all conference sections, coffee brakes, lunch and party. Accommodation is NOT included in the ticket price."
+ticketsInfo: "Tickets grant access to all conference sections, coffee breaks & lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Early Bird"
+  name: "Super Early Bird"
   price: "280"
-  priceCurrency: "NIS"
-  ticketsNumber: "30"
-  ribbon: "-5%"
+  priceCurrency: "ILS"
+  validity: "Only 20 tickets available"
   featured: true
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-25T10:00"
-  validThrough: "2014-09-30T23:59"
+  euroPrice: "65"
+  soldOut: false
+  disabled: false
  -
-  name: "Standart"
-  price: "480"
-  priceCurrency: "NIS"
-  ticketsNumber: "100"
-  ribbon: "-20%"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
+  name: "Early Bird"
+  price: "350"
+  priceCurrency: "ILS"
+  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
   buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-10-01T00:00"
-  validThrough: "2014-10-23T23:59"
+  euroPrice: "82"
+  soldOut: false
   disabled: true
-# -
-#  name: "Student"
-#  price: "200"
-#  priceCurrency: "UAH"
-#  ticketsNumber: "50"
-#  buyButtonLink: "http://dfua.ticketforevent.com/"
-#  buyButtonText: "Buy Now"
-#  additionalInfo: "Requires a valid student ID at the conference check in. Without student ID at the check in, ticket will be cancelled without refund"
-#  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-#  validFrom: "2014-08-20T10:00"
-#  validThrough: "2014-10-23T23:59"
-#  soldOut: true
-#  soldOutText: "Sold Out"
+ -
+  name: "Normal Bird"
+  price: "560"
+  priceCurrency: "ILS"
+  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
+  buyButtonText: "Buy Now"
+  euroPrice: "130"
+  soldOut: false
+  disabled: true
+ -
+  name: "Sleepy bird"
+  price: "660"
+  priceCurrency: "ILS"
+  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
+  buyButtonText: "Buy Now"
+  euroPrice: "155"
+  soldOut: false
+  disabled: true
+ -
+  name: "Angry bird"
+  price: "800"
+  priceCurrency: "ILS"
+  validity: ""
+  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
+  buyButtonText: "Buy Now"
+  euroPrice: "187"
+  soldOut: false
+  disabled: true
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://twitter.com/intent/user?screen_name=angularup", icon: "twitter"}
+ - {link: "https://facebook.com/angularup", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
   links:
-   - {link: "http://gdg.org.ua", text: "GDG.org.ua"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://meetup.com/angularjs-il", text: "AngularJS-IL"}
+   - {link: "http://500tech.com", text: "500Tech"}
  -
   title: "Contacts"
   links:
-   - {link: "mailto:lviv@gdg.org.ua", text: "lviv@gdg.org.ua"}
+   - {link: "mailto:info@angular-up.com", text: "info@angular-up.com"}
  -
   title: "FAQ"
   links:

@@ -4,12 +4,15 @@
     <div class="content-wrapper">
     <div class="jumbotron">
         <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-            {% assign heroText = site.heroTitle | split:"<typeout>" %}
-            <h1 style="font-weight: bold">{{ heroText[0] }}<span class="typeout-fallback">{{ site.typeoutFallback }}</span>{{ heroText[1] }}</h1>
-            <p style="font-weight: bold">{{ site.eventDate }}</p>
+            <div class="logo logo-big"></div>
+            <p style="font-weight:bold">{{ site.heroSubtitle }}</p>
+            <br>
             {% for button in site.heroButtons %}
             <a href="{% if button.permalink != null %} {{ button.permalink | prepend: site.baseurl }} {% else %} {{ button.link }} {% endif %}" class="btn btn-primary waves-effect waves-button waves-light waves-float" {% if button.link != null %}target="_blank"{% endif %}>{{ button.text }}</a>
             {% endfor %}
+            <br>
+            <br>
+            <p  style="font-weight:bold">{{ site.eventDate }}</p>
         </div>
     </div>
     <a href="#about" class="explore">

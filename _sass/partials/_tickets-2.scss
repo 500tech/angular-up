@@ -1,6 +1,11 @@
 $border-color: rgba(51, 51, 51, .6);
 
 .tickets-2 {
+    .soldout-price {
+        .ticket-text, .price {
+            text-decoration: line-through;
+        }
+    }
     .ticket-text {
         margin: 0;
         font-size: 32px;
