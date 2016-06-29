@@ -164,7 +164,7 @@ ticketsOffers:
   soldOut: false
   disabled: true
  -
-  name: "Sleepy bird"
+  name: "Sleepy Bird"
   price: "660"
   priceCurrency: "ILS"
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
