@@ -172,16 +172,16 @@ ticketsOffers:
   euroPrice: "155"
   soldOut: false
   disabled: true
- -
-  name: "Angry bird"
-  price: "800"
-  priceCurrency: "ILS"
-  validity: ""
-  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
-  buyButtonText: "Buy Now"
-  euroPrice: "187"
-  soldOut: false
-  disabled: true
+ # -
+ #  name: "Angry bird"
+ #  price: "800"
+ #  priceCurrency: "ILS"
+ #  validity: ""
+ #  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
+ #  buyButtonText: "Buy Now"
+ #  euroPrice: "187"
+ #  soldOut: false
+ #  disabled: true
 
 # Footer
 socialLinks:
