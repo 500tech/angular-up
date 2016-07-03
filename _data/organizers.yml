@@ -1,5 +1,6 @@
 - 
   group: ""
+  class: "individuals"
   elements: 
     - {title: "Boris Dinkevich", name: "Boris Dinkevich", description: "", link: "https://www.linkedin.com/in/borisdinkevich", imageUrl: "boris.jpg"}
     - {title: "Adam Klein", name: "Adam Klein", description: "", link: "https://www.linkedin.com/in/adamklein500", imageUrl: "adam.jpg"}
@@ -8,5 +9,6 @@
     - {title: "Gil Fink", name: "Gil Fink", description: "", link: "https://www.linkedin.com/in/gilfink", imageUrl: "gil.jpg"}
 - 
   group: "Main organizer & supporter"
+  class: "main"
   elements: 
-    - {name: "500Tech", description: "500Tech - leading frontend consultancy in Israel", link: "http://500tech.com", imageUrl: "500tech.png"}
+    - {name: "500Tech", title: "helping companies develop great frontend", description: "500Tech - leading frontend consultancy in Israel", link: "http://500tech.com", imageUrl: "500tech.png"}

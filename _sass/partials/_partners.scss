@@ -18,6 +18,11 @@
                 width: 40%;
                 max-width: 160px;
             }
+            @media (max-width: 767px) {
+                h6 { 
+                    font-size: 120%;
+                }
+            }
         }
     }
     img {
@@ -30,5 +35,22 @@
     }
     img.organizer-image {
         border-radius: 6px;
+    }
+    .organizers-main {
+        .list-inline {
+            li {
+                max-width: 500px !important;
+                width: 60% !important;
+
+                h6 {
+                    line-height: 1.2em ;
+                    white-space: normal ;
+                }
+                img {        
+                    -webkit-filter: none;
+                    max-width: 260px;
+                }
+            }
+        }
     }
 }
