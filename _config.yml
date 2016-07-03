@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Angular Up Confernece"
 email: "info@angular-up.com"
-description: "The biggest international angular conference in israel"
+description: "The international angular conference in israel"
 baseurl: ""
 url: "http://angular-up.com"
 permalink: "/blog/:title"
@@ -59,7 +59,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Angular Up"
-heroSubtitle: "Israel's international Angular conference"
+heroSubtitle: "Israel's International Angular Conference"
 eventDate: "Tel Aviv, 17 November 2016"
 heroButtons:
  - {link: "https://ilyagelman.typeform.com/to/tgm55n", text: "Become a speaker"}
@@ -81,7 +81,7 @@ statisticBlock:
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: ""}
 
 # Latest News Block
-#latestNewsTitle: "Latest news"
+latestNewsTitle: "Latest news"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -122,13 +122,14 @@ twitterHashTag: "angularup"
 
 # Partners Block
 organizersTitle: "Organizers"
-partnersTitle: "Partners"
+partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor!"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Get super early bird tickets"
-subscribeInfo: "Registration is open for super early bird tickets. Be one of the firsts to join this amazing experience!"
+subscribeInfo: "Registration is open for super early bird tickets for individuals."
+subscribeInfo2: "Be one of the firsts to join this amazing experience!"
 
 # Tickets Block
 ticketsTitle: "Pricetable"
@@ -138,7 +139,7 @@ ticketsOffers:
   name: "Super Early Bird"
   price: "280"
   priceCurrency: "ILS"
-  validity: "Only 20 tickets available"
+  validity: "Individuals only. 20 tickets available"
   featured: true
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
   buyButtonText: "Buy Now"
@@ -149,6 +150,7 @@ ticketsOffers:
   name: "Early Bird"
   price: "350"
   priceCurrency: "ILS"
+  validity: "Individuals only. Limited amount available"
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
   buyButtonText: "Buy Now"
   euroPrice: "82"
