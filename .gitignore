@@ -14,3 +14,5 @@ ehthumbs.db
 
 dist
 .DS_Store
+
+node_modules

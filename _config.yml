@@ -45,8 +45,8 @@ navigationLinks:
  - {permalink: "/#", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#about", text: "About"}
- - {permalink: "/#location-map", text: "Venue"}
  - {permalink: "/#rockstar-speakers", text: "Speakers"}
+ - {permalink: "/#location-map", text: "Venue"}
  - {permalink: "/#partners", text: "Team"}
  - {permalink: "/#subscribe", text: "Tickets"}
  # - {permalink: "/logistics/", text: "Logistics"}

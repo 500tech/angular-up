@@ -5,11 +5,21 @@
   "main": "index.js",
   "scripts": {
     "start": "jekyll serve -w",
-    "build": "rm -rf dist && jekyll build -d dist && http-server dist"
+    "build": "rm -rf dist && jekyll build -d dist && http-server dist",
+    "deploy": "node_modules/.bin/gulp upload"
   },
   "repository": {
     "type": "git",
     "url": "git+https://nirkaufman@bitbucket.org/500tech/angular-up.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^2.0.7",
+    "gulp-gzip": "^1.3.0",
+    "gulp-htmlmin": "^2.0.0",
+    "gulp-s3-gzip": "^0.3.2",
+    "gulp-sass": "^2.3.1",
+    "gulp-uglify": "^1.5.3"
   },
   "author": "Nir Kaufman <nirkaufman@gmail.com> (nirkaufman.com)",
   "license": "ISC",
