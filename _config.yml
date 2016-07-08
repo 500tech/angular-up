@@ -68,9 +68,9 @@ heroButtons:
 # About Block
 aboutTitle: "About Angular Up"
 aboutBlock:
- - {title: "Speakers", image: "conference.jpg", text: "Top speakers from around the world and Israel. Learn about Angular 2, Typescript, Tooling and  much more" }
+ - {title: "Speakers", image: "conference.jpg", text: "Top speakers from around the world. Learn about the present & future of Angular 2, the Eco System, Typescript, tools and much more" }
  - {title: "Venue", image: "venue.jpg", text: "Beautiful convention area in Dan Panorama hotel, located on the beach. Serving full lunch, and refreshments throughout the event" }
- - {title: "Community", image: "community.jpg", text: "Second largest Angular community in the world, in one place at one time" }
+ - {title: "Community", image: "community.jpg", text: "Meet passionate Angular developers from around the world, share ideas & knowledge, and experience one of the biggest Angular communities in the world" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
