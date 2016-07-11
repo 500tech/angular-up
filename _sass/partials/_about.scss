@@ -1,8 +1,13 @@
 .about-details {
-    img {
-        width: 128px;
+  img {
+      width: 128px;
+  }
+  p {
+      margin-top: 10px;
+  }
+  .col-md-4:nth-child(4) {
+    @media (min-width: 768px) and (max-width: 1023px) {
+      left: 25%;
     }
-    p {
-        margin-top: 10px;
-    }
+  }
 }

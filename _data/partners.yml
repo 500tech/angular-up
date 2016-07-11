@@ -3,7 +3,8 @@
 
 - 
   group: "Media partners"
+  class: "media"
   elements: 
     - {name: "AngularJS-IL", description: "Israel's AngularJS community", link: "https://www.meetup.com/angularjs-il/", imageUrl: "angularjs-il.jpg"}
     - {name: "GDG Rashlatz", description: "Google Developer Group - Rishon Le Zion", link: "http://www.meetup.com/GDG-Rashlatz/", imageUrl: "gdg_rishon.png"}
-
+    - {name: "Javascript Israel", description: "Javascript Israel community", link: "http://www.meetup.com/Javascript-Israel/", imageUrl: "javascript-israel.png"}

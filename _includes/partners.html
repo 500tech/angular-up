@@ -20,19 +20,23 @@
                 </ul>
             </div>
             {% endfor %}
-            <h3>{{ site.partnersTitle }}</h3>
-            {% for partner in site.data.partners %}
-            <h5>{{ partner.group }}</h5>
-            <ul class="list-inline">
-                {% for element in partner.elements %}
-                <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                    <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                    </a>
-                </li>
+            <div class="partners-sponsors">
+                <h3>{{ site.partnersTitle }}</h3>
+                {% for partner in site.data.partners %}
+                <div class="partners-{{ partner.class }}">
+                    <h5>{{ partner.group }}</h5>
+                    <ul class="list-inline">
+                        {% for element in partner.elements %}
+                        <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                            <a href="{{ element.link }}" target="_blank">
+                                <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                            </a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
                 {% endfor %}
-            </ul>
-            {% endfor %}
+            </div>
             <a href="{{ site.c4sponsorsUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
         </div>
     </div> 
