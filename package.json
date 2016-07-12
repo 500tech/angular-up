@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "jekyll serve -w",
-    "build": "rm -rf dist && jekyll build -d dist && http-server dist",
+    "build": "rm -rf dist && jekyll build -d dist",
+    "start:dist": "http-server dist",
     "deploy": "git push origin master:live"
   },
   "repository": {
