@@ -36,9 +36,9 @@
                 logo.removeClass('logo-dark').addClass('logo-light');
             }
 
-            if (scroll >= $('.top-section').height() && $(window).width() > 767) {
+            if (scroll >= 100 && $(window).width() > 767) {
                 buyButton.removeClass('right-nav-button-hidden');
-            } else if (scroll < $('.top-section').height() && $(window).width() > 767){
+            } else if (scroll < 100 && $(window).width() > 767){
                 buyButton.addClass('right-nav-button-hidden');
             }
 

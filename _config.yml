@@ -36,7 +36,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "https://ilyagelman.typeform.com/to/tgm55n"
+c4pUrl: "/cfp/"
 c4sponsorsUrl: "mailto:sponsors@angular-up.com"
 
 
@@ -52,9 +52,9 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {link: "https://ilyagelman.typeform.com/to/tgm55n", text: "Become a speaker"}
+ - {permalink: "/cfp/", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "https://ilyagelman.typeform.com/to/tgm55n", text: "Become a speaker"}
+ - {permalink: "/cfp/", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -62,7 +62,7 @@ heroTitle: "Angular Up"
 heroSubtitle: "Israel's International Angular Conference"
 eventDate: "Tel Aviv, 17 November 2016"
 heroButtons:
- - {link: "https://ilyagelman.typeform.com/to/tgm55n", text: "Become a speaker"}
+ - {permalink: "/cfp/", text: "Become a speaker"}
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
