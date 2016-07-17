@@ -7,7 +7,17 @@
         height: 64px;
         fill: #fff;
     }
+
+    .up-to-date-link {
+        position: relative;
+        display: inline-block;
+        top: 16px;
+        &.up-to-date-link-facebook {
+            left: -16px;
+        }
+    }
 }
+
 .tweets {
     max-width: 850px;
     margin: 0 auto;

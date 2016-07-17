@@ -116,8 +116,10 @@ mapMobileCenterCoordinates: "32.0649487,34.7623849"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "Stay up-to-date"
 twitterHashTag: "angularup"
+facebookEventUrl: "https://www.facebook.com/events/1191590164219326/"
+facebookEventTitle: "angularup"
 #twitterFeed: "href='https://twitter.com/angularup/likes'"
 
 # Partners Block
