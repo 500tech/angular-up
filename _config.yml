@@ -10,9 +10,9 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Angular Up Confernece"
+title: "Angular Up 2016"
 email: "info@angular-up.com"
-description: "The international angular conference in israel"
+description: "Israel's International Angular Conference"
 baseurl: ""
 url: "http://angular-up.com"
 permalink: "/blog/:title"
@@ -31,9 +31,9 @@ googleAnalyticsTrackingId: "UA-33424960-10"
 # Head
 metaKeywords: "event, conference, angular, javascript"
 twitterAccount: "@angularup"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing.png"
+socialImageSrcTwitter: "/img/seo/sharing.png"
+socialImageSrcFacebook: "/img/seo/sharing.png"
 
 # Documents
 c4pUrl: "/cfp/"
