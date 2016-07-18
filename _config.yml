@@ -31,9 +31,9 @@ googleAnalyticsTrackingId: "UA-33424960-10"
 # Head
 metaKeywords: "event, conference, angular, javascript"
 twitterAccount: "@angularup"
-socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
-socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
-socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
+socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.jpg"
+socialImageSrcTwitter: "/img/seo/sharing-twitter.jpg"
+socialImageSrcFacebook: "/img/seo/sharing-facebook.jpg"
 
 # Documents
 c4pUrl: "/cfp/"
