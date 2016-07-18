@@ -2,8 +2,7 @@
   id: 3
   name: "Coming"
   surname: "Soon"
-  company: "company"
-  title: "title"
+  title: ""
   bio: ""
   thumbnailUrl: face.png
   rockstar: true
@@ -13,7 +12,7 @@
   name: "Sebastian"
   surname: "Witalec"
   company: "Telerik"
-  title: "Technical Evangelist"
+  title: "Technical Evangelist at Telerik"
   bio: "Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture.
 Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript (a member of the team).
 He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
@@ -28,7 +27,7 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   name: "Daniel"
   surname: "Rosenwasser"
   company: "Microsoft"
-  title: "Program Manager on TypeScript"
+  title: "Program Manager on TypeScript at Microsoft"
   bio: 'Daniel is the Program Manager on TypeScript, previously having worked as an engineer on the team. He has a passion for programming languages, developer tools, and solving hard problems. He also likes progressive rock, cooking, and kayaking, so ask him about all that stuff and more'
   thumbnailUrl: daniel.jpg
   rockstar: true

@@ -129,8 +129,8 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Get super early bird tickets"
-subscribeInfo: "Registration is open for super early bird tickets for individuals."
+subscribeTitle: "Get early bird tickets"
+subscribeInfo: "Registration is open for early bird tickets for individuals."
 subscribeInfo2: "Be one of the firsts to join this amazing experience!"
 
 # Tickets Block
@@ -138,28 +138,18 @@ ticketsTitle: "Pricing"
 ticketsInfo: "Tickets grant access to all conference sections, coffee breaks and lunch. Accommodation is NOT included in the ticket price."
 ticketsOffers:
  -
-  name: "Super Early Bird"
-  price: "280"
-  priceCurrency: "ILS"
-  validity: "Individuals only. 20 tickets available."
-  featured: true
-  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
-  buyButtonText: "Buy Now"
-  euroPrice: "65"
-  soldOut: false
-  disabled: false
- -
   name: "Early Bird"
   price: "350"
   priceCurrency: "ILS"
-  validity: "Individuals only. Limited amount available."
+  featured: true
+  validity: "Individuals only. Only 50 tickets available."
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
   buyButtonText: "Buy Now"
   euroPrice: "82"
   soldOut: false
-  disabled: true
+  disabled: false
  -
-  name: "Normal Bird"
+  name: "Standard Ticket"
   price: "560"
   priceCurrency: "ILS"
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
@@ -168,7 +158,7 @@ ticketsOffers:
   soldOut: false
   disabled: true
  -
-  name: "Sleepy Bird"
+  name: "Late Bird"
   price: "660"
   priceCurrency: "ILS"
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
@@ -177,7 +167,7 @@ ticketsOffers:
   soldOut: false
   disabled: true
  # -
- #  name: "Angry bird"
+ #  name: "Sleepy bird"
  #  price: "800"
  #  priceCurrency: "ILS"
  #  validity: ""
