@@ -12,7 +12,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 # Site Settings
 title: "Angular Up 2016"
 email: "info@angular-up.com"
-description: "Israel's International Angular Conference"
+description: "Israel's International Angular Conference & Tour"
 baseurl: ""
 url: "http://angular-up.com"
 permalink: "/blog/:title"
@@ -49,6 +49,7 @@ navigationLinks:
  - {permalink: "/#location-map", text: "Venue"}
  - {permalink: "/#partners", text: "Team"}
  - {permalink: "/#subscribe", text: "Tickets"}
+ - {permalink: "/tour", text: "About Israel & Tour"}
  # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
@@ -59,7 +60,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle: "Angular Up"
-heroSubtitle: "Israel's International Angular Conference"
+heroSubtitle: "Israel's International Angular Conference & Tour"
 eventDate: "Tel Aviv, 17 November 2016"
 heroButtons:
  - {permalink: "/cfp/", text: "Become a speaker"}
@@ -68,9 +69,9 @@ heroButtons:
 # About Block
 aboutTitle: "About Angular Up"
 aboutBlock:
- - {title: "Speakers", image: "conference.jpg", text: "Hear top speakers from around the world. Learn about the present and future of Angular 2 and its ecosystem, TypeScript, tools and much more" }
- - {title: "Venue", image: "venue.jpg", text: "Join us at the beautiful convention area of Dan Panorama hotel, located on the beach. Enjoy full lunch and refreshments throughout the event" }
- - {title: "Community", image: "community.jpg", text: "Meet passionate Angular developers from around the world, share ideas and knowledge, and experience one of the biggest Angular communities on the planet" }
+ - {title: "Speakers", image: "about-section/conference.jpg", text: "Hear top speakers from around the world. Learn about the present and future of Angular 2 and its ecosystem, TypeScript, tools and much more" }
+ - {title: "Venue", image: "about-section/venue.jpg", text: "Join us at the beautiful convention area of Dan Panorama hotel, located on the beach. Enjoy full lunch and refreshments throughout the event" }
+ - {title: "Tour", image: "tour/deadsea.jpg", text: "Join our Angular tour of Israel, float in the dead sea, walk in the streets of Jerusalem, and eat great Hummus", moreLink: '/tour' }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"

@@ -1,0 +1,16 @@
+.about-israel {
+    min-height: 600px;
+    @media (max-width: 767px) {
+        min-height: 500px;
+        padding: 0 10px;
+    }
+    .card {
+        height: auto;
+    }
+    img {
+        width: 100%;
+    }
+    h5 {
+        line-height: 1.3em;
+    }
+}
