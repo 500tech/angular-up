@@ -7,6 +7,7 @@
     - {title: "Nir Kaufman", name: "Nir Kaufman", description: "", link: "https://www.linkedin.com/in/nirkaufman", imageUrl: "nir.jpg"}
     - {title: "Uri Shaked", name: "Uri Shaked", description: "", link: "https://www.linkedin.com/in/urishaked", imageUrl: "uri.jpg"}
     - {title: "Gil Fink", name: "Gil Fink", description: "", link: "https://www.linkedin.com/in/gilfink", imageUrl: "gil.jpg"}
+    - {title: "Noam Kfir", name: "Noam Kfir", description: "", link: "https://www.linkedin.com/in/noamkfir", imageUrl: "noam.jpg"}
 - 
   group: "Main organizer & supporter"
   class: "main"

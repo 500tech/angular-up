@@ -34,3 +34,16 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   social: 
     - {name: "twitter", link: "https://twitter.com/drosenwasser"}
     - {name: "github", link: "https://github.com/DanielRosenwasser"}
+- 
+  id: 3
+  name: "Tero"
+  surname: "Parviainen"
+  company: "Independent Contractor"
+  title: "Independent Contractor"
+  bio: "Tero Parviainen is an independent software developer, writer of programming books and articles, and an Angular 2 docs contributor"
+  thumbnailUrl: tero.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/teropa"}
+    - {name: "github", link: "https://github.com/teropa"}
+    - {name: "website", link: "http://teropa.info/"}
