@@ -36,6 +36,16 @@
     img.organizer-image {
         border-radius: 6px;
     }
+    .organizers-individuals {
+        @media (min-width: 900px) {
+            .list-inline {
+                padding: 0 200px;
+                li {
+                    width: 40%;
+                }
+            }
+        }
+    }
     .organizers-main {
         .list-inline {
             li {

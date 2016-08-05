@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Angular Up 2016"
+title: "Angular UP 2016"
 email: "info@angular-up.com"
 description: "Israel's International Angular Conference & Tour"
 baseurl: ""
@@ -59,7 +59,7 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "Angular Up"
+heroTitle: "Angular UP"
 heroSubtitle: "Israel's International Angular Conference & Tour"
 eventDate: "Tel Aviv, 17 November 2016"
 heroButtons:
@@ -67,7 +67,7 @@ heroButtons:
  - {permalink: "/#tickets", text: "Buy tickets"}
 
 # About Block
-aboutTitle: "About Angular Up"
+aboutTitle: "About Angular UP"
 aboutBlock:
  - {title: "Speakers", image: "about-section/conference.jpg", text: "Hear top speakers from around the world. Learn about the present and future of Angular 2 and its ecosystem, TypeScript, tools and much more" }
  - {title: "Venue", image: "about-section/venue.jpg", text: "Join us at the beautiful convention area of Dan Panorama hotel, located on the beach. Enjoy full lunch and refreshments throughout the event" }
@@ -124,7 +124,6 @@ facebookEventTitle: "angularup"
 #twitterFeed: "href='https://twitter.com/angularup/likes'"
 
 # Partners Block
-organizersTitle: "Team"
 partnersTitle: "Sponsors"
 partnersC4sponsorsButton: "Become a sponsor"
 
