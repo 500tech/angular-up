@@ -152,15 +152,17 @@ ticketsOffers:
   name: "Standard Ticket"
   price: "560"
   priceCurrency: "ILS"
+  validity: "For companies & individuals. Sale ends on 15/9/2016"
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
   buyButtonText: "Buy Now"
   euroPrice: "130"
   soldOut: false
-  disabled: true
+  disabled: false
  -
   name: "Late Bird"
   price: "660"
   priceCurrency: "ILS"
+  validity: "For companies & individuals. Sale ends on 31/10/2016"
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
   buyButtonText: "Buy Now"
   euroPrice: "155"
