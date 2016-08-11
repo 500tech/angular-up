@@ -129,9 +129,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Get early bird tickets"
-subscribeInfo: "Registration is open for early bird tickets for individuals."
-subscribeInfo2: "Be one of the first to join this amazing experience!"
+subscribeTitle: "Webstorm license raffle for first 100 standard ticket holders"
+subscribeInfo: "First 100 standard ticket holders will participate in a raffle"
+subscribeInfo2: "of 10 yearly Webstorm licenses - provided by Jetbrains"
 
 # Tickets Block
 ticketsTitle: "Pricing"
