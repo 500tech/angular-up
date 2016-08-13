@@ -1,13 +1,4 @@
 - 
-  id: 3
-  name: "Coming"
-  surname: "Soon"
-  title: ""
-  bio: ""
-  thumbnailUrl: face.png
-  rockstar: true
-
-- 
   id: 1
   name: "Sebastian"
   surname: "Witalec"
@@ -27,7 +18,7 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   name: "Daniel"
   surname: "Rosenwasser"
   company: "Microsoft"
-  title: "Program Manager on TypeScript at Microsoft"
+  title: "Program Manager on TypeScript"
   bio: 'Daniel is the Program Manager on TypeScript, previously having worked as an engineer on the team. He has a passion for programming languages, developer tools, and solving hard problems. He also likes progressive rock, cooking, and kayaking, so ask him about all that stuff and more'
   thumbnailUrl: daniel.jpg
   rockstar: true
@@ -47,3 +38,16 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
     - {name: "twitter", link: "https://twitter.com/teropa"}
     - {name: "github", link: "https://github.com/teropa"}
     - {name: "website", link: "http://teropa.info/"}
+- 
+  id: 4
+  name: "Ben"
+  surname: "Lesh"
+  company: "Netflix"
+  title: "RxJS 5 Lead"
+  bio: ""
+  thumbnailUrl: ben.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/BenLesh"}
+    - {name: "github", link: "https://github.com/blesh"}
+    - {name: "website", link: "http://www.benlesh.com/"}
