@@ -2,6 +2,12 @@
   group: ""
 
 - 
+  group: "Bronze Sponsors"
+  class: ""
+  elements: 
+    - {name: "JetBrains", description: "Jetbrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains.svg"}
+
+- 
   group: "Media partners"
   class: "media"
   elements: 
@@ -13,8 +19,3 @@
     - {name: "Frontend-IL", scale: "0.65", description: "Front-End development community", link: "http://www.meetup.com/frontend-il/", imageUrl: "frontend-il.png"}
     - {name: "Angular After Hours", scale: "0.9", description: "A group for web developers who can’t get their hands off the keyboard", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "afterhours.png"}
 
-- 
-  group: "Bronze Sponsors"
-  class: ""
-  elements: 
-    - {name: "JetBrains", description: "Jetbrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains.svg"}

@@ -44,7 +44,7 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   surname: "Lesh"
   company: "Netflix"
   title: "RxJS 5 Lead"
-  bio: ""
+  bio: "Ben works for Netflix in Los Gatos, CA on the UI Platform team. Ben is the lead author of RxJS 5, which is a complete rewrite of RxJS with goals of better performance and JavaScript future spec compliance. He has also been advising the Angular team on their Rx integration."
   thumbnailUrl: ben.jpg
   rockstar: true
   social: 

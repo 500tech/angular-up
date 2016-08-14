@@ -1,14 +1,18 @@
 -
-  id: 307
+  id: 101
   title: "Coffee Break"
   place: "Hall"
   service: true
   description: "The best time to talk with speakers and attendees"
 -
-  id: 503
+  id: 102
   title: "Lunch Break"
   place: "Dining room"
   service: true
+-
+  id: 103
+  title: "TBD"
+  place: ""
 -
   id: 001
   title: "TypeScript + Angular: Better Together"
@@ -17,13 +21,27 @@
   speakers: [2]
   language: en
   complexity: "Intermediate"
-  video: ""
 -
   id: 002
   title: "Managing Async With RxJS 5"
   description: "Managing asynchrony in web applications is challenging: Ajax, web sockets, user events, animations. It's very easy to make mistakes and waste system resources, especially in single page applications. In this talk, we'll identify some of the ways most applications are wasting resources while managing async with common abstractions like promises and callbacks. We'll then talk about what RxJS is, and what Observables are, and how they can help you remedy these problems in your application. We'll go over how RxJS 5 relates to Angular, and show why it's such a powerful tool."
   subtype: presentation
+  speakers: [4]
+  language: en
+  complexity: "Beginners"
+-
+  id: 003
+  title: "NativeScript"
+  description: ""
+  subtype: presentation
+  speakers: [1]
+  language: en
+  complexity: "Intermediate"
+-
+  id: 004
+  title: "Creating music with Angular 2"
+  description: ""
+  subtype: presentation
   speakers: [3]
   language: en
   complexity: "Beginners"
-  video: ""
