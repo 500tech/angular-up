@@ -4,6 +4,7 @@
   surname: "Witalec"
   company: "Telerik"
   title: "Technical Evangelist at Telerik"
+  longTitle: "Technical Evangelist at Telerik"
   bio: "Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture.
 Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript (a member of the team).
 He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
@@ -19,6 +20,7 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   surname: "Rosenwasser"
   company: "Microsoft"
   title: "Program Manager on TypeScript"
+  longTitle: "Program Manager on TypeScript at Microsoft"
   bio: 'Daniel is the Program Manager on TypeScript, previously having worked as an engineer on the team. He has a passion for programming languages, developer tools, and solving hard problems. He also likes progressive rock, cooking, and kayaking, so ask him about all that stuff and more'
   thumbnailUrl: daniel.jpg
   rockstar: true
@@ -30,7 +32,8 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   name: "Tero"
   surname: "Parviainen"
   company: "Independent Contractor"
-  title: "Independent Contractor"
+  title: "Developer, writer and docs contributor"
+  longTitle: "Developer, writer and docs contributor"
   bio: "Tero Parviainen is an independent software developer, writer of programming books and articles, and an Angular 2 docs contributor"
   thumbnailUrl: tero.jpg
   rockstar: true
@@ -44,6 +47,7 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   surname: "Lesh"
   company: "Netflix"
   title: "RxJS 5 Lead"
+  longTitle: "RxJS 5 Lead, Senior Software Engineer @ Netflix "
   bio: "Ben works for Netflix in Los Gatos, CA on the UI Platform team. Ben is the lead author of RxJS 5, which is a complete rewrite of RxJS with goals of better performance and JavaScript future spec compliance. He has also been advising the Angular team on their Rx integration."
   thumbnailUrl: ben.jpg
   rockstar: true
