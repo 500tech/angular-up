@@ -15,7 +15,7 @@
   place: ""
 -
   id: 001
-  title: "TypeScript + Angular: Better Together"
+  title: "TypeScript 2.1 + Angular: Better Together"
   description: "<p>TypeScript has become the tool of choice in writing both Angular 2 and apps. Does this mean you’ll need to learn a completely new language? No! TypeScript builds upon JavaScript as it exists today and in the future, building on what you know now and bringing you future features today.</p><p>Come see how easy TypeScript is to introduce to a project today and how the team is pushing the language forward.</p>"
   subtype: presentation
   speakers: [2]
