@@ -142,12 +142,11 @@ ticketsOffers:
   name: "Early Bird"
   price: "350"
   priceCurrency: "ILS"
-  featured: true
-  validity: "Individuals only. Hurry up, only 1 ticket left!"
+  validity: "Sold Out"
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
   buyButtonText: "Buy Now"
   euroPrice: "82"
-  soldOut: false
+  soldOut: true
   disabled: false
  -
   name: "Standard Ticket"
