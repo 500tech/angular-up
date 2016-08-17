@@ -9,7 +9,6 @@
                         <div id="session-2" class="slot col-md-12 col-xs-12 flexbox-item-height" data-slot-detail="Android" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                             <div class="color-line" style="background: #90be4e"></div>
                             <div class="slot-content" style="border-right-color: #90be4e">
-                                <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                                 <ul class="slot-speakers">
                                     {% for speaker in site.data.speakers %}
                                     {% for session_speaker in session.speakers %}
@@ -24,13 +23,18 @@
                                     {% endfor %}    
                                     {% endfor %}
                                 </ul>
+                                <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                             </div>
                         </div>
                     </div>
                 </div>
             {% endif %}
             {% endfor %}
-            
+        </div>
+        <div class="col-lg-6 col-lg-offset-3">
+            <h4>Where's the full schedule?</h4>
+            <p>We are constantly reviewing talk proposals from the community and adding them to the agenda.</p>
+            <p>The full schedule will be published once CFP is closed (17.9.2016)</p>
         </div>
     </div>
 </section>

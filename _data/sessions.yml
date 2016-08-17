@@ -14,21 +14,17 @@
   title: "TBD"
   place: ""
 -
-  id: 001
-  title: "TypeScript 2.1 + Angular: Better Together"
-  description: "<p>TypeScript has become the tool of choice in writing both Angular 2 and apps. Does this mean you’ll need to learn a completely new language? No! TypeScript builds upon JavaScript as it exists today and in the future, building on what you know now and bringing you future features today.</p><p>Come see how easy TypeScript is to introduce to a project today and how the team is pushing the language forward.</p>"
-  subtype: presentation
-  speakers: [2]
-  language: en
-  complexity: "Intermediate"
--
   id: 002
   title: "Managing Async With RxJS 5"
   description: "<p>Managing asynchrony in web applications is challenging: Ajax, web sockets, user events, animations. It's very easy to make mistakes and waste system resources, especially in single page applications.</p><p> In this talk, we'll identify some of the ways most applications are wasting resources while managing async with common abstractions like promises and callbacks. We'll then talk about what RxJS is, and what Observables are, and how they can help you remedy these problems in your application. We'll go over how RxJS 5 relates to Angular, and show why it's such a powerful tool.</p>"
   subtype: presentation
   speakers: [4]
-  language: en
-  complexity: "Beginners"
+-
+  id: 001
+  title: "TypeScript 2.1 + Angular: Better Together"
+  description: "<p>TypeScript has become the tool of choice in writing both Angular 2 and apps. Does this mean you’ll need to learn a completely new language? No! TypeScript builds upon JavaScript as it exists today and in the future, building on what you know now and bringing you future features today.</p><p>Come see how easy TypeScript is to introduce to a project today and how the team is pushing the language forward.</p>"
+  subtype: presentation
+  speakers: [2]
 -
   id: 003
   title: "Building mobile apps with Angular2 and NativeScript"
@@ -42,13 +38,9 @@
     <p>Curious about how it all works? Come learn! Architectures will be explained; apps will be built; and fun will be had by all</p>"
   subtype: presentation
   speakers: [1]
-  language: en
-  complexity: "Intermediate"
 -
   id: 004
   title: "Reactive Music Apps in Angular and RxJS"
   description: "<p>Angular 2 combined with RxJS, @ngrx/store, and Immutable.js is a fantastic platform for reactive web applications. If we then add hot loading and the Web Audio API to the mix, we have something truly exciting: A platform for reactive music creation.</p><p>This talk is about creating musical systems on the Angular platform. We’ll see how we can model an asynchronous process that generates music right there in the browser and allows the user to control it on the fly. It’s a really enjoyable way to learn reactive Angular application development.</p>"
   subtype: presentation
   speakers: [3]
-  language: en
-  complexity: "Beginners"
