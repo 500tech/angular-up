@@ -143,7 +143,7 @@ ticketsOffers:
   price: "350"
   priceCurrency: "ILS"
   featured: true
-  validity: "Individuals only. Hurry up, only a few tickets left."
+  validity: "Individuals only. Hurry up, only 1 ticket left!"
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
   buyButtonText: "Buy Now"
   euroPrice: "82"
