@@ -42,20 +42,20 @@ c4sponsorsUrl: "mailto:sponsors@angular-up.com"
 
 # Navigation
 navigationLinks:
- - {permalink: "/#", text: "Home"}
+ # - {permalink: "/#", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#about", text: "About"}
  - {permalink: "/#sessions", text: "Speakers"}
  - {permalink: "/#location-map", text: "Venue"}
+ - {permalink: "/#organizers", text: "Team"}
  - {permalink: "/#sponsors", text: "Sponsors"}
- - {permalink: "/#subscribe", text: "Tickets"}
  - {permalink: "/tour", text: "About Israel & Tour"}
  # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
  - {permalink: "/cfp/", text: "Become a speaker"}
 rightNavigationButtons:
- - {permalink: "/cfp/", text: "Become a speaker"}
+ - {permalink: "/#subscribe", text: "Tickets"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -117,7 +117,7 @@ mapMobileCenterCoordinates: "32.0649487,34.7623849"
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "Stay up-to-date"
+tweetsFeedTitle: "Want updates?"
 twitterHashTag: "angularup"
 facebookEventUrl: "https://www.facebook.com/events/1191590164219326/"
 facebookEventTitle: "angularup"

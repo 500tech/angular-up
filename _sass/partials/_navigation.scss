@@ -77,7 +77,7 @@ nav {
         padding: 0;
         list-style: none;
         text-align: left;
-        transform: translateY(40px);
+        transform: translateY(36px);
         transition: $base-transition;
         @media (max-width: 767px) {
             line-height: 20px;
@@ -86,7 +86,7 @@ nav {
             transform: translateY(0);  
         }
         .top-header.after-scroll & {
-            transform: translateY(20px);  
+            transform: translateY(16px);  
             @media (max-width: 767px) {
                 transform: translateY(0);  
             }
@@ -100,11 +100,14 @@ nav {
             display: block;
         }
         a {
-            font-size: $base-font-size;
+            font-size: $base-font-size + 2;
             font-weight: $regular;
             transition: $base-transition;
             text-transform: uppercase;
             color: $nav-color;
+            @media (max-width: 1023px) {
+                font-size: $base-font-size;
+            }
             @media (max-width: 767px) {
                 font-size: 16px;
                 display: block;
@@ -137,7 +140,10 @@ nav {
     }
 }
 .right-nav-button {
-    margin: 11px 11px 0 0;
+    margin: 22px 11px 0 0;
+    .after-scroll & {
+        margin-top: 11px;
+    }
     transition: $base-transition;
     opacity: 1;
     display: block;

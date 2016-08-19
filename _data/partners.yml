@@ -1,9 +1,12 @@
 - 
-  group: ""
+  group: "Gold Sponsors"
+  class: "gold"
+  elements: 
+    - {name: "SiSense", description: "Sisense simplifies business analytics for complex data with an end-to-end platform that empowers business users to prepare and analyze both large and disparate datasets.  By enabling easy data mash-up, Sisense delivers analytical insights on complex data that is immediate, comprehensive and autonomous, all for a lower TCO.", link: "https://www.sisense.com/", imageUrl: "sisense.png"}
 
 - 
   group: "Bronze Sponsors"
-  class: ""
+  class: "bronze"
   elements: 
     - {name: "JetBrains", description: "Jetbrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains.svg"}
 

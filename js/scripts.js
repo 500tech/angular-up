@@ -36,11 +36,12 @@
                 logo.removeClass('logo-dark').addClass('logo-light');
             }
 
-            if (scroll >= 100 && $(window).width() > 767) {
-                buyButton.removeClass('right-nav-button-hidden');
-            } else if (scroll < 100 && $(window).width() > 767){
-                buyButton.addClass('right-nav-button-hidden');
-            }
+            // if (scroll >= 100 && $(window).width() > 767) {
+            //     buyButton.removeClass('right-nav-button-hidden');
+            // } else if (scroll < 100 && $(window).width() > 767){
+            //     buyButton.addClass('right-nav-button-hidden');
+            // }
+            
 
             $('.slot').each(function() {
                 var currentPosition = $(this).offset().top - scroll;

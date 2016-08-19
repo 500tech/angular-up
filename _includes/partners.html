@@ -2,23 +2,25 @@
 <section id="partners" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            {% for organizer in site.data.organizers %}
-            <div class="organizers-{{ organizer.class }}">
-                <h5>{{ organizer.group }}</h5>
-                <ul class="list-inline">
-                    {% for element in organizer.elements %}
-                    <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
-                        <a href="{{ element.link }}" target="_blank">
-                            <img class="organizer-image" src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
-                        </a>
-                        {% if element.title %}
-                            <h6>{{ element.title }}</h6>
-                        {% endif %}
-                    </li>
-                    {% endfor %}
-                </ul>
+            <div id="organizers"
+                {% for organizer in site.data.organizers %}
+                <div class="organizers-{{ organizer.class }}">
+                    <h5>{{ organizer.group }}</h5>
+                    <ul class="list-inline">
+                        {% for element in organizer.elements %}
+                        <li {% if element.width != null %}style="width: {{ element.width }};"{% endif %}>
+                            <a href="{{ element.link }}" target="_blank">
+                                <img class="organizer-image" src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                            </a>
+                            {% if element.title %}
+                                <h6>{{ element.title }}</h6>
+                            {% endif %}
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                {% endfor %}
             </div>
-            {% endfor %}
             <div id="sponsors" class="partners-sponsors">
                 <h3>{{ site.partnersTitle }}</h3>
                 {% for partner in site.data.partners %}
