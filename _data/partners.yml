@@ -3,6 +3,7 @@
   class: "gold"
   elements: 
     - {name: "SiSense", description: "Sisense simplifies business analytics for complex data with an end-to-end platform that empowers business users to prepare and analyze both large and disparate datasets.  By enabling easy data mash-up, Sisense delivers analytical insights on complex data that is immediate, comprehensive and autonomous, all for a lower TCO.", link: "https://www.sisense.com/", imageUrl: "sisense.png"}
+    - {name: "ThetaRay", description: "ThetaRay is a leading provider of a big data analytics platform and solutions for advanced cyber security, operational efficiency, and risk detection, protecting financial services sectors and critical infrastructure against unknown threats. ThetaRay’s core technology is based on state of the art algorithms, which power its proprietary Hyper-Dimensional, Multi-Domain Big Data Analytics platform. Organizations whose operations rely on highly heterogeneous and complex environments leverage ThetaRay’s unmatched detection and low false positive rates as a see-all power that enables them to unify detection and defeat the unknown", link: "http://www.thetaray.com/", imageUrl: "thetaray.jpg"}
 
 - 
   group: "Bronze Sponsors"

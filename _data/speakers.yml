@@ -55,3 +55,45 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
     - {name: "twitter", link: "https://twitter.com/BenLesh"}
     - {name: "github", link: "https://github.com/blesh"}
     - {name: "website", link: "http://www.benlesh.com/"}
+- 
+  id: 5
+  name: "Eyal"
+  surname: "Vardi"
+  company: ""
+  title: "Consultant, teacher, Microsoft MVP"
+  longTitle: "Consultant, teacher, Microsoft MVP"
+  bio: "Eyal was nominated as MVP (Microsoft Most Valuable Professional) for 9 years in a row. The title was given to him based on the contribution to the developers and technical community through lectures, conferences, open house events, blog posts and free tools. Eyal is involved in many cutting edge industry projects, specializing in architecture, design and development of advanced projects and products. Specialties: AngularJS, Node.js, JavaScript, C#, WCF, WPF ,WF, ADO.NET, XML, CAB, SCSF, LINQ, SOA, Silvelight and more"
+  thumbnailUrl: eyal.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/eVardi"}
+    - {name: "github", link: "https://github.com/eyalvardi"}
+    - {name: "website", link: "https://eyalvardi.wordpress.com/author/eyalvardi"}
+-
+  id: 6
+  name: "Uri"
+  surname: "Shaked"
+  company: "Blackberry"
+  title: "Web Technologies Google Developer Expert, Senior Software Engineer at Blackberry"
+  longTitle: "Web Technologies Google Developer Expert, Senior Software Engineer at Blackberry"
+  bio: "Uri Shaked is a Google Developer Expert for Web Technologies. He created the popular angular-moment open source module and regularly speaks about Web and IoT-related technologies in conferences and meetups. Among his interests are reverse engineering, hardware hacking, building 3d-printed robots and games, playing music and Salsa dancing"
+  thumbnailUrl: uri.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/UriShaked"}
+    - {name: "github", link: "https://github.com/urish"}
+    - {name: "website", link: "http://urish.org/"}
+-
+  id: 7
+  name: "Nir"
+  surname: "Kaufman"
+  company: "500Tech"
+  title: "Head of Angular Development at 500Tech"
+  longTitle: "Head of Angular Development at 500Tech"
+  bio: "Nir is the Head of Angular Development at 500Tech - a leading front-end consultancy in Israel. He is a passionate JavaScript developer and Angular evangelist. Nir running 3 local Angular meetup groups: the AngularJS-IL (with over 3500 members), Angular After Hours and the Frontend Band. He also collaborates with other local Angular communities around the world."
+  thumbnailUrl: nir.jpg
+  rockstar: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/nirkaufman"}
+    - {name: "github", link: "https://github.com/nirkaufman"}
+    - {name: "website", link: "http://500tech.com"}

@@ -14,13 +14,13 @@
   title: "TBD"
   place: ""
 -
-  id: 002
+  id: 001
   title: "Managing Async With RxJS 5"
   description: "<p>Managing asynchrony in web applications is challenging: Ajax, web sockets, user events, animations. It's very easy to make mistakes and waste system resources, especially in single page applications.</p><p> In this talk, we'll identify some of the ways most applications are wasting resources while managing async with common abstractions like promises and callbacks. We'll then talk about what RxJS is, and what Observables are, and how they can help you remedy these problems in your application. We'll go over how RxJS 5 relates to Angular, and show why it's such a powerful tool.</p>"
   subtype: presentation
   speakers: [4]
 -
-  id: 001
+  id: 002
   title: "TypeScript 2.1 + Angular: Better Together"
   description: "<p>TypeScript has become the tool of choice in writing both Angular 2 and apps. Does this mean you’ll need to learn a completely new language? No! TypeScript builds upon JavaScript as it exists today and in the future, building on what you know now and bringing you future features today.</p><p>Come see how easy TypeScript is to introduce to a project today and how the team is pushing the language forward.</p>"
   subtype: presentation
@@ -41,6 +41,36 @@
 -
   id: 004
   title: "Reactive Music Apps in Angular and RxJS"
-  description: "<p>Angular 2 combined with RxJS, @ngrx/store, and Immutable.js is a fantastic platform for reactive web applications. If we then add hot loading and the Web Audio API to the mix, we have something truly exciting: A platform for reactive music creation.</p><p>This talk is about creating musical systems on the Angular platform. We’ll see how we can model an asynchronous process that generates music right there in the browser and allows the user to control it on the fly. It’s a really enjoyable way to learn reactive Angular application development.</p>"
+  description: "
+    <p>
+      Angular 2 combined with RxJS, @ngrx/store, and Immutable.js is a fantastic platform for reactive web applications.
+      If we then add hot loading and the Web Audio API to the mix, we have something truly exciting: A platform for reactive music creation.
+    </p>
+    <p>
+      This talk is about creating musical systems on the Angular platform.
+      We’ll see how we can model an asynchronous process that generates music right there in the browser and allows the user to control it on the fly.
+      It’s a really enjoyable way to learn reactive Angular application development.
+    </p>"
   subtype: presentation
   speakers: [3]
+-
+  id: 005
+  title: "Angular 2 Change Detection and Performance Optimization"
+  description: "<p>In Angular 1 the main reason for performance issues was the digest loop ($apply method). Angular 2.0 brings an entirely new approach called change detection (ChangeDetectorRef class).</p><p>In this session I am going to speak about the change detection mechanism, how it works to update the screen and how to use it to improve the performance for high frequency data changes.</p>"
+  subtype: presentation
+  speakers: [5]
+-
+  id: 006
+  title: "Getting Physical with Web Bluetooth"
+  description: "<p>
+      It is time to get out of your web browser boundaries!
+      With a new technology \"Web Bluetooth\", our web apps are finally able to communicate directly with Physical Devices and control them.
+      Whether it is a heart-rate sensor, a BB-8 robot, or your smart refrigerator - Web Bluetooth got you covered.
+    </p><p>
+      In this talk, we will learn the basics of the underlying Bluetooth Low Energy technology,
+      then cover the Web Bluetooth APIs,
+      and finally engage in a live demo where we will control a Smart Light Bulb,
+      as well as a cute 3D-printed Robot, directly from a web page.
+    </p>"
+  subtype: presentation
+  speakers: [6]

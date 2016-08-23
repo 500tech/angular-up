@@ -32,9 +32,6 @@
     img {
         width: 100%;
         transition: $base-transition;
-        &:hover {
-            transform: scale(1.05);
-        }
     }
     img.organizer-image {
         border-radius: 6px;
