@@ -148,6 +148,15 @@ ticketsOffers:
   soldOut: true
   disabled: false
  -
+  name: "Soldiers / Students"
+  price: "300 / 480"
+  priceCurrency: "ILS"
+  validity: "Send us your soldier / student ID for a discount code"
+  buyButtonLink: "mailto:tickets@angular-up.com"
+  buyButtonText: "Get Code"
+  soldOut: false
+  disabled: false
+ -
   name: "Standard Ticket"
   price: "560"
   priceCurrency: "ILS"
