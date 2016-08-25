@@ -55,12 +55,25 @@
   speakers: [3]
 -
   id: 005
-  title: "Angular 2 Change Detection and Performance Optimization"
-  description: "<p>In Angular 1 the main reason for performance issues was the digest loop ($apply method). Angular 2.0 brings an entirely new approach called change detection (ChangeDetectorRef class).</p><p>In this session I am going to speak about the change detection mechanism, how it works to update the screen and how to use it to improve the performance for high frequency data changes.</p>"
+  title: "Across the universe - Server side rendering with angular universal"
+  description: "<p>Angular 2 is designed to be agnostic about the runtime environment. 
+      This means that the same application can be deployed to different environments like browsers, servers or even native devices.
+    </p>
+    <p>
+      In this talk we will learn how to leverage this power using Angular Universal,
+      and deploy our front-end SPA on the server without modification.<br>
+      We will also learn how to avoid accessing environment specific functions, like direct DOM access, etc.
+    </p>"
   subtype: presentation
   speakers: [5]
 -
   id: 006
+  title: "Angular 2 Change Detection and Performance Optimization"
+  description: "<p>In Angular 1 the main reason for performance issues was the digest loop ($apply method). Angular 2.0 brings an entirely new approach called change detection (ChangeDetectorRef class).</p><p>In this session I am going to speak about the change detection mechanism, how it works to update the screen and how to use it to improve the performance for high frequency data changes.</p>"
+  subtype: presentation
+  speakers: [6]
+-
+  id: 007
   title: "Getting Physical with Web Bluetooth"
   description: "<p>
       It is time to get out of your web browser boundaries!
@@ -73,4 +86,4 @@
       as well as a cute 3D-printed Robot, directly from a web page.
     </p>"
   subtype: presentation
-  speakers: [6]
+  speakers: [7]
