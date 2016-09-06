@@ -97,3 +97,19 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
     - {name: "twitter", link: "https://twitter.com/UriShaked"}
     - {name: "github", link: "https://github.com/urish"}
     - {name: "website", link: "http://urish.org/"}
+-
+  id: 8
+  name: "Tracy"
+  surname: "Lee"
+  company: "modern-web.org"
+  title: "Founder"
+  longTitle: "modern-web.org"
+  bio: "Tracy is passionate about MVC frameworks and the latest JavaScript technologies. Tracy runs Modern Web podcast & conferences, loves open source, building community, and most of all, cli tools. 
+    She helps organize various events in the JS community such as ng-cruise, track chair for QConSF, Global Ember Meetup, and empowers large teams with mentorship through EmberSherpa. 
+    You can find more at http://modern-web.org and http://embersherpa.com or follow her on Twitter @ladyleet."
+  thumbnailUrl: tracy.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/ladyleet"}
+    - {name: "github", link: "https://github.com/ladyleet"}
+    - {name: "website", link: "http://modern-web.org"}

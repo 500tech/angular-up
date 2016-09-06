@@ -14,19 +14,19 @@
   title: "TBD"
   place: ""
 -
-  id: 001
+  id: 1
   title: "Managing Async With RxJS 5"
   description: "<p>Managing asynchrony in web applications is challenging: Ajax, web sockets, user events, animations. It's very easy to make mistakes and waste system resources, especially in single page applications.</p><p> In this talk, we'll identify some of the ways most applications are wasting resources while managing async with common abstractions like promises and callbacks. We'll then talk about what RxJS is, and what Observables are, and how they can help you remedy these problems in your application. We'll go over how RxJS 5 relates to Angular, and show why it's such a powerful tool.</p>"
   subtype: presentation
   speakers: [4]
 -
-  id: 002
+  id: 2
   title: "TypeScript 2.1 + Angular: Better Together"
   description: "<p>TypeScript has become the tool of choice in writing both Angular 2 and apps. Does this mean you’ll need to learn a completely new language? No! TypeScript builds upon JavaScript as it exists today and in the future, building on what you know now and bringing you future features today.</p><p>Come see how easy TypeScript is to introduce to a project today and how the team is pushing the language forward.</p>"
   subtype: presentation
   speakers: [2]
 -
-  id: 003
+  id: 3
   title: "Building mobile apps with Angular2 and NativeScript"
   description: "<p>NativeScript is a free and open source JavaScript framework for building native iOS, Android, and Windows Phone apps. Add to that Angular 2.0 with TypeScript and you will get a truly amazing combination. But I know what you’re thinking: another way of building apps? What makes NativeScript special? Here are a few cool things:</p>
     <ul>
@@ -39,8 +39,8 @@
   subtype: presentation
   speakers: [1]
 -
-  id: 004
-  title: "Reactive Music Apps in Angular and RxJS"
+  id: 4
+  title: "Reactive Music Apps in Angular and ngrx/store"
   description: "
     <p>
       Angular 2 combined with RxJS, @ngrx/store, and Immutable.js is a fantastic platform for reactive web applications.
@@ -54,7 +54,7 @@
   subtype: presentation
   speakers: [3]
 -
-  id: 005
+  id: 5
   title: "Across the universe - Server side rendering with angular universal"
   description: "<p>Angular 2 is designed to be agnostic about the runtime environment. 
       This means that the same application can be deployed to different environments like browsers, servers or even native devices.
@@ -67,13 +67,13 @@
   subtype: presentation
   speakers: [5]
 -
-  id: 006
+  id: 6
   title: "Angular 2 Change Detection and Performance Optimization"
   description: "<p>In Angular 1 the main reason for performance issues was the digest loop ($apply method). Angular 2.0 brings an entirely new approach called change detection (ChangeDetectorRef class).</p><p>In this session I am going to speak about the change detection mechanism, how it works to update the screen and how to use it to improve the performance for high frequency data changes.</p>"
   subtype: presentation
   speakers: [6]
 -
-  id: 007
+  id: 7
   title: "Getting Physical with Web Bluetooth"
   description: "<p>
       It is time to get out of your web browser boundaries!
@@ -87,3 +87,11 @@
     </p>"
   subtype: presentation
   speakers: [7]
+-
+  id: 8
+  title: "Getting Started in Angular 2 with Angular-CLI"
+  description: "<p>
+    Watch a live code session of an Angular 2 Angular-CLI application and see how easy it is to use this new framework and why it is great for quickly prototyping ideas and why it is being used to scale across large scale organizations.</p>
+    <p>We'll discuss the features of the CLI, the Angular 2 component structure, the newest new router, using directives, and template-driven forms.</p>"
+  subtype: presentation
+  speakers: [8]
