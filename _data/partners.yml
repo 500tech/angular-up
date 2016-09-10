@@ -15,7 +15,7 @@
   class: "bronze"
   elements: 
     - {name: "JetBrains", description: "Jetbrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains.svg"}
-
+    - {name: "Progress", scale: 2.5, imageUrl: "progress.png", link: "http://www.progress.com", description: "Progress is a global leader in application development, empowering the digital transformation organizations need to create and sustain engaging user experiences in today’s marketplace. With offerings spanning web, mobile and data for on-premises and cloud environments, Progress powers startups and industry titans worldwide, promoting success one customer at a time."}
 - 
   group: "Media partners"
   class: "media"
