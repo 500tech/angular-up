@@ -54,6 +54,14 @@
   subtype: presentation
   speakers: [3]
 -
+  id: 8
+  title: "Getting Started in Angular 2 with Angular-CLI"
+  description: "<p>
+    Watch a live code session of an Angular 2 Angular-CLI application and see how easy it is to use this new framework and why it is great for quickly prototyping ideas and why it is being used to scale across large scale organizations.</p>
+    <p>We'll discuss the features of the CLI, the Angular 2 component structure, the newest new router, using directives, and template-driven forms.</p>"
+  subtype: presentation
+  speakers: [8]
+-
   id: 5
   title: "Across the universe - Server side rendering with angular universal"
   description: "<p>Angular 2 is designed to be agnostic about the runtime environment. 
@@ -87,11 +95,3 @@
     </p>"
   subtype: presentation
   speakers: [7]
--
-  id: 8
-  title: "Getting Started in Angular 2 with Angular-CLI"
-  description: "<p>
-    Watch a live code session of an Angular 2 Angular-CLI application and see how easy it is to use this new framework and why it is great for quickly prototyping ideas and why it is being used to scale across large scale organizations.</p>
-    <p>We'll discuss the features of the CLI, the Angular 2 component structure, the newest new router, using directives, and template-driven forms.</p>"
-  subtype: presentation
-  speakers: [8]
