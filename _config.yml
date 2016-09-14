@@ -76,8 +76,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "450", specialCharacter: "+", info: "developers", detail: ""}
- - {count: "14", specialCharacter: "+", info: "speakers", detail: ""}
+ - {count: "500", specialCharacter: "+", info: "developers", detail: ""}
+ - {count: "18", specialCharacter: "+", info: "speakers", detail: ""}
  - {count: "1", specialCharacter: "", info: "day", detail: ""}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: ""}
 
