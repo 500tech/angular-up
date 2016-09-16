@@ -141,12 +141,42 @@ ticketsOffers:
   name: "Early Bird"
   price: "350"
   priceCurrency: "ILS"
-  validity: "Sold Out"
+  validity: "First 50 tickets sold out"
   buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
   buyButtonText: "Buy Now"
   euroPrice: "82"
   soldOut: true
   disabled: false
+ -
+  name: "Standard Ticket"
+  price: "560"
+  priceCurrency: "ILS"
+  validity: "Sale ended on 15/9/2016"
+  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
+  buyButtonText: "Buy Now"
+  euroPrice: "130"
+  soldOut: true
+  disabled: false
+ -
+  name: "Late Bird"
+  price: "660"
+  priceCurrency: "ILS"
+  validity: "Sale ends on 31/10/2016"
+  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
+  buyButtonText: "Buy Now"
+  euroPrice: "155"
+  soldOut: false
+  disabled: false
+ -
+  name: "Sleepy bird"
+  price: "800"
+  priceCurrency: "ILS"
+  validity: "Sale starts on 1/11/2016"
+  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
+  buyButtonText: "Buy Now"
+  euroPrice: "187"
+  soldOut: false
+  disabled: true
  -
   name: "Soldiers / Students"
   price: "350 / 480"
@@ -156,36 +186,6 @@ ticketsOffers:
   buyButtonText: "Get Code"
   soldOut: false
   disabled: false
- -
-  name: "Standard Ticket"
-  price: "560"
-  priceCurrency: "ILS"
-  validity: "For companies & individuals. Sale ends on 15/9/2016"
-  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
-  buyButtonText: "Buy Now"
-  euroPrice: "130"
-  soldOut: false
-  disabled: false
- -
-  name: "Late Bird"
-  price: "660"
-  priceCurrency: "ILS"
-  validity: "For companies & individuals. Sale ends on 31/10/2016"
-  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
-  buyButtonText: "Buy Now"
-  euroPrice: "155"
-  soldOut: false
-  disabled: true
- -
-  name: "Sleepy bird"
-  price: "800"
-  priceCurrency: "ILS"
-  validity: ""
-  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
-  buyButtonText: "Buy Now"
-  euroPrice: "187"
-  soldOut: false
-  disabled: true
 
 # Footer
 socialLinks:
