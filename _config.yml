@@ -46,6 +46,7 @@ navigationLinks:
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#about", text: "About"}
  - {permalink: "/#sessions", text: "Speakers"}
+ # - {permalink: "/schedule", text: "Schedule"}
  - {permalink: "/#location-map", text: "Venue"}
  - {permalink: "/#organizers", text: "Team"}
  - {permalink: "/#sponsors", text: "Sponsors"}

@@ -110,6 +110,7 @@ $small-label-width: 80px;
         margin-left: $small-label-width;
     }
 }
+
 .slot-title {
     font-size: 18px;
     font-weight: $regular;
@@ -123,6 +124,8 @@ $small-label-width: 80px;
 }
 .track-header-title {
     @extend .slot-title;
+    padding-top: 0;
+    line-height: 1.3em;    
 }
 .track-header-slot {
     padding: 10px 15px 10px;
@@ -153,6 +156,14 @@ $small-label-width: 80px;
     }
     &.service-slot {
         @extend .blank-col;
+    }
+}
+#schedule {
+    .slot.center-slot {
+        .slot-title {
+            text-align: center;
+            padding: 20px 0 0px 0;
+        }        
     }
 }
 .color-line {

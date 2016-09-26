@@ -37,7 +37,7 @@
                     {% if slot != 404 %}
                     {% for session in site.data.sessions %}
                     {% if slot == session.id and session.service == null %}
-                    <div id="session-{{ session.id }}" class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                    <div id="session-{{ session.id }}" class="slot {% if session.center %} center-slot {% endif %} col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                         <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                         <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                             <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
@@ -58,7 +58,7 @@
                         </div>
                     </div>
                     {% elsif slot == session.id and session.service != null %}
-                    <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot flexbox-item-height" data-slot-detail="{{ session.place }}">
+                    <div class="slot col-md-{{ slotColWidth }} col-xs-12 service-slot center-slot flexbox-item-height" data-slot-detail="{{ session.place }}">
                         <div class="color-line"></div>
                         <div class="slot-content">
                             <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>

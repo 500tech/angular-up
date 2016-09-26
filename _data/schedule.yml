@@ -6,22 +6,82 @@
     - {title: "Track 2", color: "#03a9f4"}
   timeslots:
     - {
-    	startTime: "10:00",
-    	endTime: "10:45",
-    	sessionIds: [103, 103]
+    	startTime: "8:30",
+    	sessionIds: [100]
     }
     - {
-        startTime: "10:45",
-        endTime: "11:00",
-        sessionIds: [101]
+        startTime: "9:30",
+        sessionIds: [105]
     }
     - {
-        startTime: "11:00",
-        endTime: "11:45",
+        startTime: "9:50",
+        sessionIds: [302]
+    }
+    - {
+        startTime: "10:20",
+        sessionIds: [1, 6] # Ben, Eyal
+    }
+    - {
+        startTime: "10:55",
+        sessionIds: [2, 7] # Daniel, Uri
+    }
+    - {
+    	startTime: "11:30",
+    	sessionIds: [101] # coffee break
+    }
+    - {
+        startTime: "11:50",
+        sessionIds: [10, 12] # Marc, Adam
+    }
+    - {
+        startTime: "12:25",
+        sessionIds: [5, 103] # Nir, Elad
+    }
+    - {
+        startTime: "13:00",
+        sessionIds: [102] # lunch
+    }
+    - {
+        startTime: "13:50",
+        sessionIds: [3, 103] # Sebastian, Sani
+    }
+    - {
+        startTime: "14:25",
+        sessionIds: [11, 4] # Uri, Tero
+    }
+    - {
+        startTime: "15:00",
+        sessionIds: [304] # Lightening
+    }
+    - {
+        startTime: "15:20",
+        sessionIds: [104] # Quiz & raffles
+    }
+    - {
+        startTime: "15:40",
+        sessionIds: [101] # break
+    }
+    - {
+        startTime: "16:15",
+        sessionIds: [9, 8] # Pawel, Tracy
+    }
+    - {
+        startTime: "16:50",
         sessionIds: [103, 103]
     }
     - {
-    	startTime: "12:00",
-    	endTime: "12:45",
-    	sessionIds: [102]
+        startTime: "17:25",
+        sessionIds: [103, 103]
+    }
+    - {
+        startTime: "17:45",
+        sessionIds: [303]
+    }
+    - {
+        startTime: "18:25",
+        sessionIds: [106]
+    }
+    - {
+        startTime: "18:30",
+        sessionIds: [107]
     }

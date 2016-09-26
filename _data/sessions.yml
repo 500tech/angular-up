@@ -1,18 +1,47 @@
 -
-  id: 101
-  title: "Coffee Break"
-  place: "Hall"
+  id: 100
+  title: "Doors open, registration, swag and light breakfast"
+  place: "Main Foyer"
   service: true
-  description: "The best time to talk with speakers and attendees"
+  description: ""
+-
+  id: 101
+  title: "Break"
+  place: "Main Foyer"
+  service: true
+  description: ""
 -
   id: 102
   title: "Lunch Break"
-  place: "Dining room"
+  place: "Hotel Restaurant"
   service: true
 -
   id: 103
   title: "TBD"
   place: ""
+-
+  id: 104
+  title: "Angular Quiz & Raffles"
+  place: "Hall A"
+  service: true
+-
+  id: 105
+  title: "Conference Opening"
+  description: ""
+  place: "Hall A"
+  service: true
+-
+  id: 106
+  title: "The big raffle"
+  description: ""
+  place: "Hall A"
+  service: true
+-
+  id: 107
+  title: "Conference Ends"
+  description: ""
+  place: "Hall A"
+  service: true
 -
   id: 1
   title: "Managing Async With RxJS 5"
@@ -25,6 +54,18 @@
   description: "<p>TypeScript has become the tool of choice in writing both Angular 2 and apps. Does this mean you’ll need to learn a completely new language? No! TypeScript builds upon JavaScript as it exists today and in the future, building on what you know now and bringing you future features today.</p><p>Come see how easy TypeScript is to introduce to a project today and how the team is pushing the language forward.</p>"
   subtype: presentation
   speakers: [2]
+-
+  id: 9
+  title: "Widget development with Angular 2"
+  description: ""
+  subtype: presentation
+  speakers: [9]
+-
+  id: 10
+  title: "Packaging and performance"
+  description: ""
+  subtype: presentation
+  speakers: [10]
 -
   id: 3
   title: "Building mobile apps with Angular2 and NativeScript"
@@ -95,3 +136,48 @@
     </p>"
   subtype: presentation
   speakers: [7]
+-
+  id: 11
+  title: "Angular and GraphQL - Handling server data with Apollo"
+  description: "<p>
+      Angular 2 has officially been released, and the Angular team has been focusing on making it a great platform for building Progressive Web Apps.
+    </p><p>
+      A critical component of a progressive web app is the smart use of sending data through the network for better application performance and user experience.
+    </p><p>
+      GraphQL and the Apollo-Angular integration help get data in front of users instantly, efficiently and easily
+    </p>"
+  subtype: presentation
+  speakers: [11]
+-
+  id: 12
+  title: "Angular 2 - the good, the bad and the ugly"
+  description: "<p>
+      Many companies are in a crossroad of migrating to Angular2.
+    </p><p>
+      Angular2 brings so many awesome features with it, as well as completely new concepts.
+    </p><p>
+      In this talk we will see the what are the benefits of Angular2 over other frameworks, and what are its downsides and limitations
+    </p>"
+  subtype: presentation
+  speakers: [12]
+-
+  id: 302
+  title: "Angular 2 status and development process"
+  place: "Hall A"
+  description: ""
+  subtype: presentation
+  speakers: [9]
+-
+  id: 303
+  title: "Q&A Panel"
+  center: true
+  place: "Hall A"
+  description: "Listen to a panel of the top expert speakers from our line-up, answering the really important questions about Angular and the Ecosystem."
+  subtype: presentation
+-
+  id: 304
+  title: "Lightening talks"
+  center: true
+  description: "Lightening talks about various topics from community speakers. More details soon"
+  subtype: presentation
+  speakers: []

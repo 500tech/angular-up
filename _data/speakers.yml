@@ -113,3 +113,91 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
     - {name: "twitter", link: "https://twitter.com/ladyleet"}
     - {name: "github", link: "https://github.com/ladyleet"}
     - {name: "website", link: "http://modern-web.org"}
+
+-
+  id: 9
+  name: "Pawel"
+  surname: "Kozlowski"
+  company: "Amadeus"
+  title: "Angular 2 contributor & AngularUI lead developer."
+  longTitle: "Angular 2 contributor & AngularUI lead developer."
+  bio: "Open source hacker, Angular 2 contributor, author of ng2-play, AngularJS book author, AngularUI lead developer."
+  thumbnailUrl: pawel.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/pkozlowski_os"}
+    - {name: "github", link: "https://github.com/pkozlowski-opensource"}
+    - {name: "website", link: "https://www.packtpub.com/web-development/mastering-web-application-development-angularjs"}
+ 
+-
+  id: 10
+  name: "Marc"
+  surname: "Laval"
+  company: "Amadeus"
+  title: "Contributor to Angular 2 & angular2-bootstrap"
+  longTitle: "Contributor to Angular 2 & angular2-bootstrap"
+  bio: "Prolific open source developer on Angular 2, angular2-bootstrap, angular-react-native and more. Marc also works on @amadeusitgroup."
+  thumbnailUrl: marc.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/marclaval"}
+    - {name: "github", link: "https://github.com/mlaval"}
+    - {name: "website", link: "http://www.amadeus.com/"}
+-
+  id: 11
+  name: "Uri"
+  surname: "Goldstein"
+  company: "Meteor"
+  title: "Core Developer at Meteor Development Group"
+  longTitle: "Core Developer at Meteor Development Group"
+  bio: "Uri works at Meteor Development group at the Apollo team and is the creator of the angular-meteor library and the Angular-Apollo library which lets Angular developers integrate GraphQL into their apps. Uri travels around the world building infrastructure, applications and helping developers. He started with assembler, C++, then C# and WPF before taking on the web a few years ago. Since then he works to expand the Angular community to new areas like data integration with the server, Meteor and GraphQL."
+  thumbnailUrl: urig.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/UriGoldshtein"}
+    - {name: "github", link: "https://github.com/urigo"}
+    - {name: "website", link: "http://angular-meteor.com/"}
+-
+  id: 12
+  name: "Adam"
+  surname: "Klein"
+  company: "500Tech"
+  title: "CTO of 500Tech & Angular Consultant"
+  longTitle: "CTO of 500Tech & Angular Consultant"
+  bio: "Adam is the CTO of 500Tech - a leading frontend consultancy in Israel.
+    Adam is passionate about good code, open source projects, and building amazing applications.
+    He’s an experienced developer, mentor, consultant and speaker."
+  thumbnailUrl: adam.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "http://twitter.com/adamklein500"}
+    - {name: "github", link: "https://github.com/500tech"}
+    - {name: "website", link: "http://500tech.com/"}
+-
+  id: 13
+  name: "Sani"
+  surname: "Yusuf"
+  company: "Haibrid"
+  title: ""
+  longTitle: ""
+  bio: ""
+  thumbnailUrl: sani.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "website", link: ""}
+-
+  id: 14
+  name: "Elad"
+  surname: "Bezalel"
+  company: "Angular Material"
+  title: "Angular Material team member"
+  longTitle: "Angular Material team member"
+  bio: ""
+  thumbnailUrl: elad.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "website", link: ""}
