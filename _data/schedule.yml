@@ -35,7 +35,7 @@
     }
     - {
       startTime: "12:30",
-      sessionIds: [5, 103] # Nir, Elad
+      sessionIds: [5, 4] # Nir, Tero - TODO: Elad
     }
     - {
       startTime: "13:05",
@@ -43,11 +43,11 @@
     }
     - {
       startTime: "13:55",
-      sessionIds: [3, 103] # Sebastian, Sani
+      sessionIds: [10, 8] # Marc, Tracy
     }
     - {
       startTime: "14:30",
-      sessionIds: [11, 4] # Uri, Tero
+      sessionIds: [11, 3] # Uri, TODO: Tero
     }
     - {
       startTime: "15:05",
@@ -63,12 +63,12 @@
     }
     - {
       startTime: "16:20",
-      sessionIds: [10, 8] # Marc, Tracy
+      sessionIds: [103, 103] # TODO: Sebastian, Sani
     }
-    - {
-      startTime: "16:55",
-      sessionIds: [103, 103]
-    }
+    # - {
+    #   startTime: "16:55",
+    #   sessionIds: [103, 103]
+    # }
     - {
       startTime: "17:30",
       sessionIds: [303]
