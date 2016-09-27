@@ -130,9 +130,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Webstorm license raffle for first 100 standard ticket holders"
-subscribeInfo: "First 100 standard ticket holders will participate in a raffle"
-subscribeInfo2: "of 10 yearly Webstorm licenses - provided by Jetbrains"
+subscribeTitle: "Ready to join?"
+subscribeInfo: "Discounts available for students and soldiers."
+subscribeInfo2: "More info on ticket pricing below"
 
 # Tickets Block
 ticketsTitle: "Pricing"
@@ -149,7 +149,7 @@ ticketsOffers:
   soldOut: true
   disabled: false
  -
-  name: "Standard Ticket"
+  name: "Tier 1"
   price: "560"
   priceCurrency: "ILS"
   validity: "Sale ended on 15/9/2016"
@@ -159,7 +159,7 @@ ticketsOffers:
   soldOut: true
   disabled: false
  -
-  name: "Late Bird"
+  name: "Tier 2"
   price: "660"
   priceCurrency: "ILS"
   validity: "Sale ends on 31/10/2016"
@@ -169,7 +169,7 @@ ticketsOffers:
   soldOut: false
   disabled: false
  -
-  name: "Sleepy bird"
+  name: "Late bird"
   price: "800"
   priceCurrency: "ILS"
   validity: "Sale starts on 1/11/2016"

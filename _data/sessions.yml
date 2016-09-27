@@ -43,6 +43,14 @@
   place: "Hall A"
   service: true
 -
+  id: 302
+  title: "Keynote"
+  place: "Hall A"
+  description: ""
+  subtype: presentation
+  center: true
+  speakers: [] # TODO: 15
+-
   id: 1
   title: "Managing Async With RxJS 5"
   description: "<p>Managing asynchrony in web applications is challenging: Ajax, web sockets, user events, animations. It's very easy to make mistakes and waste system resources, especially in single page applications.</p><p> In this talk, we'll identify some of the ways most applications are wasting resources while managing async with common abstractions like promises and callbacks. We'll then talk about what RxJS is, and what Observables are, and how they can help you remedy these problems in your application. We'll go over how RxJS 5 relates to Angular, and show why it's such a powerful tool.</p>"
@@ -105,7 +113,7 @@
 -
   id: 5
   title: "Across the universe - Server side rendering with angular universal"
-  description: "<p>Angular 2 is designed to be agnostic about the runtime environment. 
+  description: "<p>Angular 2 is designed to be agnostic about the runtime environment.
       This means that the same application can be deployed to different environments like browsers, servers or even native devices.
     </p>
     <p>
@@ -161,13 +169,6 @@
   subtype: presentation
   speakers: [12]
 -
-  id: 302
-  title: "Angular 2 status and development process"
-  place: "Hall A"
-  description: ""
-  subtype: presentation
-  speakers: [9]
--
   id: 303
   title: "Q&A Panel"
   center: true
@@ -176,8 +177,8 @@
   subtype: presentation
 -
   id: 304
-  title: "Lightening talks"
+  title: "Lightning talks"
   center: true
-  description: "Lightening talks about various topics from community speakers. More details soon"
+  description: "Lightning talks about various topics from community speakers. More details soon"
   subtype: presentation
   speakers: []
