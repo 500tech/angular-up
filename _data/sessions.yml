@@ -162,9 +162,9 @@
   description: "<p>
       Many companies are in a crossroad of migrating to Angular2.
     </p><p>
-      Angular2 brings so many awesome features with it, as well as completely new concepts.
+      Angular2 brings so many awesome features with it, as well as completely new concepts to learn and get used to.
     </p><p>
-      In this talk we will see the what are the benefits of Angular2 over other frameworks, and what are its downsides and limitations
+      In this talk we will see what are the benefits of Angular2 over other frameworks, as well its downsides and limitations.
     </p>"
   subtype: presentation
   speakers: [12]
