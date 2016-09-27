@@ -1,7 +1,7 @@
 <section id="sessions" class="schedule">
     <div class="content-wrapper">
         <div class="schedule-table col-lg-6 col-lg-offset-3">
-            <h3>Featured talks</h3>
+            <h3>Speakers</h3>
             {% for session in site.data.sessions %}
             {% if session.id < 100 %}
                 <div class="timeslot" itemtype="http://schema.org/subEvent">
@@ -32,12 +32,9 @@
             {% endfor %}
         </div>
         <div class="col-lg-6 col-lg-offset-3">
-            <h4>The full schedule</h4>
-            <p>We are constantly reviewing talk proposals from the community and adding them to the agenda.</p>
-            <p>The full schedule will be published once the CFP process is over</p>
-            <a  href="{{ site.c4pUrl | prepend: site.baseurl }}"
+            <a  href="/schedule"
                 class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">
-                Become a speaker
+                The full schedule
             </a>
         </div>
 
