@@ -45,11 +45,11 @@ navigationLinks:
  # - {permalink: "/#", text: "Home"}
 # - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#about", text: "About"}
- - {permalink: "/#sessions", text: "Speakers"}
- - {permalink: "/schedule", text: "Schedule"}
- - {permalink: "/#location-map", text: "Venue"}
+ - {permalink: "/#schedule", text: "Schedule"}
  - {permalink: "/#organizers", text: "Team"}
  - {permalink: "/#sponsors", text: "Sponsors"}
+ - {permalink: "/#tickets", text: "Tickets"}
+ - {permalink: "/#location-map", text: "Venue"}
  - {permalink: "/tour", text: "About Israel & Tour"}
  # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -214,7 +214,7 @@ blogCommentsEnabled: true
 discusShortName: "devfestua"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "About us"

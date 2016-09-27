@@ -19,7 +19,7 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   name: "Daniel"
   surname: "Rosenwasser"
   company: "Microsoft"
-  title: "Program Manager on TypeScript"
+  title: "Program Manager on TypeScript at Microsoft"
   longTitle: "Program Manager on TypeScript at Microsoft"
   bio: 'Daniel is the Program Manager on TypeScript, previously having worked as an engineer on the team. He has a passion for programming languages, developer tools, and solving hard problems. He also likes progressive rock, cooking, and kayaking, so ask him about all that stuff and more'
   thumbnailUrl: daniel.jpg
@@ -46,8 +46,8 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   name: "Ben"
   surname: "Lesh"
   company: "Netflix"
-  title: "RxJS 5 Lead"
-  longTitle: "RxJS 5 Lead, Senior Software Engineer @ Netflix "
+  title: "RxJS 5 Lead, Senior Software Engineer at Netflix"
+  longTitle: "RxJS 5 Lead, Senior Software Engineer at Netflix"
   bio: "Ben works for Netflix in Los Gatos, CA on the UI Platform team. Ben is the lead author of RxJS 5, which is a complete rewrite of RxJS with goals of better performance and JavaScript future spec compliance. He has also been advising the Angular team on their Rx integration."
   thumbnailUrl: ben.jpg
   rockstar: true
@@ -74,7 +74,7 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   name: "Eyal"
   surname: "Vardi"
   company: ""
-  title: "AngularJS guru, works with the leading industry companies in Israel"
+  title: "AngularJS guru, works with leading companies in Israel"
   longTitle: "AngularJS guru, works with the leading industry companies in Israel"
   bio: "Eyal Vardi breathes, lives and works with AngularJS for 4 years. Eyal is involved in a wide range of cutting-edge industry projects, specializing in architecture, design and development of advanced AngularJS projects"
   thumbnailUrl: eyal.jpg
@@ -88,7 +88,7 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   name: "Uri"
   surname: "Shaked"
   company: "Blackberry"
-  title: "Web Technologies Google Developer Expert, Senior Software Engineer at Blackberry"
+  title: "Web Technologies GDE, Senior Software Engineer at Blackberry"
   longTitle: "Web Technologies Google Developer Expert, Senior Software Engineer at Blackberry"
   bio: "Uri Shaked is a Google Developer Expert for Web Technologies. He created the popular angular-moment open source module and regularly speaks about Web and IoT-related technologies in conferences and meetups. Among his interests are reverse engineering, hardware hacking, building 3d-printed robots and games, playing music and Salsa dancing"
   thumbnailUrl: uri.jpg
@@ -102,8 +102,8 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   name: "Tracy"
   surname: "Lee"
   company: "modern-web.org"
-  title: "Founder"
-  longTitle: "modern-web.org"
+  title: "Founder of modern-web.org"
+  longTitle: "Founder of modern-web.org"
   bio: "Tracy is passionate about MVC frameworks and the latest JavaScript technologies. Tracy runs Modern Web podcast & conferences, loves open source, building community, and most of all, cli tools.
     She helps organize various events in the JS community such as ng-cruise, track chair for QConSF, Global Ember Meetup, and empowers large teams with mentorship through EmberSherpa.
     You can find more at http://modern-web.org and http://embersherpa.com or follow her on Twitter @ladyleet."
@@ -151,7 +151,7 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   title: "Core Developer at Meteor Development Group"
   longTitle: "Core Developer at Meteor Development Group"
   bio: "Uri works at Meteor Development group at the Apollo team and is the creator of the angular-meteor library and the Angular-Apollo library which lets Angular developers integrate GraphQL into their apps. Uri travels around the world building infrastructure, applications and helping developers. He started with assembler, C++, then C# and WPF before taking on the web a few years ago. Since then he works to expand the Angular community to new areas like data integration with the server, Meteor and GraphQL."
-  thumbnailUrl: urig.png
+  thumbnailUrl: urig.jpg
   rockstar: true
   social:
     - {name: "twitter", link: "http://twitter.com/UriGoldshtein"}
@@ -192,15 +192,17 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   name: "Elad"
   surname: "Bezalel"
   company: "Angular Material"
-  title: "Angular Material team member"
-  longTitle: "Angular Material team member"
-  bio: ""
+  title: "Angular Material Core Team Member"
+  longTitle: "Angular Material Core Team Member"
+  bio: "Elad is a fullstack developer with a very strong love for design.
+    Since 8 years old, he's been designing in Photoshop and later on fell in love with programing.
+    This strong bond between design and computer programming gave birth to a new kind of love,
+    and he is currently doing the combination of both, as a core member of the ngMaterial project"
   thumbnailUrl: elad.png
   rockstar: true
   social:
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "website", link: ""}
+    - {name: "twitter", link: "https://twitter.com/elad_bezalel"}
+    - {name: "github", link: "https://github.com/EladBezalel"}
 -
   id: 15
   name: "Rob"

@@ -122,10 +122,26 @@ $small-label-width: 80px;
         font-size: 18px;
     }
 }
+.speakers-slot {
+  .slot-title {
+    line-height: 1.4em;
+    min-height: 48px;
+  }
+  .slot-content {
+    padding: 10px 15px 15px;
+    min-height: 80px;
+  }
+}
 .track-header-title {
     @extend .slot-title;
     padding-top: 0;
-    line-height: 1.3em;    
+    line-height: auto;
+    height: auto;
+}
+.speaker-title {
+    display: block;
+    font-size: 16px;
+    line-height: 16px;
 }
 .track-header-slot {
     padding: 10px 15px 10px;
@@ -163,7 +179,7 @@ $small-label-width: 80px;
         .slot-title {
             text-align: center;
             padding: 20px 0 0px 0;
-        }        
+        }
     }
 }
 .color-line {
@@ -175,8 +191,8 @@ $small-label-width: 80px;
     background: #ccc;
 }
 .slot-content {
-    padding: 20px 15px 30px;
-    min-height: 120px;
+    padding: 5px 15px 10px;
+    min-height: 70px;
     background: #fff;
     transform: translateY(0);
     transition: $base-transition;

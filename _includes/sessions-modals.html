@@ -38,12 +38,12 @@
 										</div>
 										<div class="col-md-10 col-sm-10 details">
 											<p class="name">{{ speaker.name }} {{ speaker.surname }}
-												<span class="position">{{ speaker.title }}, {{ speaker.company }}</span>
+												<span class="position">{{ speaker.longTitle }}</span>
 											</p>
 											{% if speaker.ribbon != null %}
 											<div class="modal-ribbon-wrapper">
 					                            {% for ribbon in speaker.ribbon %}
-					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>   
+					                               <a class="modal-ribbon" href="{{ ribbon["url"] }}" target="_blank">{{ ribbon["title"] }}</a>
 					                            {% endfor %}
 					                        </div>
 					                        {% endif %}

@@ -49,7 +49,7 @@
   description: ""
   subtype: presentation
   center: true
-  speakers: [] # TODO: 15
+  # TODO: speakers: [15]
 -
   id: 1
   title: "Managing Async With RxJS 5"
@@ -169,6 +169,15 @@
   subtype: presentation
   speakers: [12]
 -
+  id: 14
+  title: "Angular Material 2"
+  description: "<p>Components are a critical part of the Angular Platform.</p>
+  <p>Angular Material aims to give you the components you need to build a quality app in no time at all.</p>
+  <p>In this talk, you will hear the latest status update directly from the team and get a sneak peek at what is coming.</p>
+  "
+  subtype: presentation
+  speakers: [14]
+-
   id: 303
   title: "Q&A Panel"
   center: true
@@ -181,4 +190,3 @@
   center: true
   description: "Lightning talks about various topics from community speakers. More details soon"
   subtype: presentation
-  speakers: []
