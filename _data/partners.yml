@@ -4,6 +4,7 @@
   elements:
     - {name: "SiSense", description: "Sisense simplifies business analytics for complex data with an end-to-end platform that empowers business users to prepare and analyze both large and disparate datasets.  By enabling easy data mash-up, Sisense delivers analytical insights on complex data that is immediate, comprehensive and autonomous, all for a lower TCO.", link: "https://www.sisense.com/", imageUrl: "sisense.png"}
     - {name: "CyberArk", scale: 0.8, description: "CyberArk is the only security company laser-focused on striking down targeted cyber threats, those that make their way inside to attack the heart of the enterprise", link: "https://www.cyberark.com/", imageUrl: "cyberark.jpg"}
+    - {name: "Como", scale: 1.0, description: "Your Swiss Army Knife for Happy Customers. Complete set of customer management tools", link: "http://www.como.com/", imageUrl: "como.png"}
 
 -
   group: "Silver"
