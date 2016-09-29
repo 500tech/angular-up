@@ -1,25 +1,26 @@
-- 
+-
   group: "Gold"
   class: "gold"
-  elements: 
+  elements:
     - {name: "SiSense", description: "Sisense simplifies business analytics for complex data with an end-to-end platform that empowers business users to prepare and analyze both large and disparate datasets.  By enabling easy data mash-up, Sisense delivers analytical insights on complex data that is immediate, comprehensive and autonomous, all for a lower TCO.", link: "https://www.sisense.com/", imageUrl: "sisense.png"}
+    - {name: "CyberArk", scale: 0.8, description: "CyberArk is the only security company laser-focused on striking down targeted cyber threats, those that make their way inside to attack the heart of the enterprise", link: "https://www.cyberark.com/", imageUrl: "cyberark.jpg"}
 
-- 
+-
   group: "Silver"
   class: "silver"
-  elements: 
-    - {name: "ThetaRay", scale: 2.5, description: "ThetaRay is a leading provider of a big data analytics platform and solutions for advanced cyber security, operational efficiency, and risk detection, protecting financial services sectors and critical infrastructure against unknown threats. ThetaRay’s core technology is based on state of the art algorithms, which power its proprietary Hyper-Dimensional, Multi-Domain Big Data Analytics platform. Organizations whose operations rely on highly heterogeneous and complex environments leverage ThetaRay’s unmatched detection and low false positive rates as a see-all power that enables them to unify detection and defeat the unknown", link: "http://www.thetaray.com/", imageUrl: "thetaray.jpg"}
+  elements:
+    - {name: "ThetaRay", scale: 2.4, description: "ThetaRay is a leading provider of a big data analytics platform and solutions for advanced cyber security, operational efficiency, and risk detection, protecting financial services sectors and critical infrastructure against unknown threats. ThetaRay’s core technology is based on state of the art algorithms, which power its proprietary Hyper-Dimensional, Multi-Domain Big Data Analytics platform. Organizations whose operations rely on highly heterogeneous and complex environments leverage ThetaRay’s unmatched detection and low false positive rates as a see-all power that enables them to unify detection and defeat the unknown", link: "http://www.thetaray.com/", imageUrl: "thetaray.jpg"}
 
-- 
+-
   group: "Bronze"
   class: "bronze"
-  elements: 
-    - {name: "JetBrains", description: "Jetbrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains.svg"}
-    - {name: "Progress", scale: 2.5, imageUrl: "progress.png", link: "http://www.progress.com", description: "Progress is a global leader in application development, empowering the digital transformation organizations need to create and sustain engaging user experiences in today’s marketplace. With offerings spanning web, mobile and data for on-premises and cloud environments, Progress powers startups and industry titans worldwide, promoting success one customer at a time."}
-- 
+  elements:
+    - {name: "JetBrains", scale: 0.8, description: "Jetbrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains.svg"}
+    - {name: "Progress", scale: 2, imageUrl: "progress.png", link: "http://www.progress.com", description: "Progress is a global leader in application development, empowering the digital transformation organizations need to create and sustain engaging user experiences in today’s marketplace. With offerings spanning web, mobile and data for on-premises and cloud environments, Progress powers startups and industry titans worldwide, promoting success one customer at a time."}
+-
   group: "Media partners"
   class: "media"
-  elements: 
+  elements:
     - {name: "AngularJS-IL", description: "Israel's AngularJS community", link: "https://www.meetup.com/angularjs-il/", imageUrl: "angularjs-il.jpg"}
     - {name: "GDG Rashlatz", description: "Google Developer Group - Rishon Le Zion", link: "http://www.meetup.com/gdg-rashlatz/", imageUrl: "gdg_rishon.png"}
     - {name: "GDG Tel Aviv", description: "Google Developer Group - Tel Aviv", link: "http://www.meetup.com/GDG-Tel-Aviv/", imageUrl: "gdg_telaviv.jpeg"}
@@ -28,4 +29,3 @@
     - {name: "Frontend-IL", scale: "0.65", description: "Front-End development community", link: "http://www.meetup.com/frontend-il/", imageUrl: "frontend-il.png"}
     - {name: "Angular After Hours", scale: "0.9", description: "A group for web developers who can’t get their hands off the keyboard", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "afterhours.png"}
     - {name: "Modern Web", scale: "0.9", description: "Podcast about frameworks, standards and techniques", link: "http://www.modern-web.org/", imageUrl: "modernweb.png"}
-
