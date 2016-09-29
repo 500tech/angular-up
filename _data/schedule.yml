@@ -63,7 +63,7 @@
     }
     - {
       startTime: "16:20",
-      sessionIds: [3, 103] # Sebastian, TODO: Sani
+      sessionIds: [3, 13] # Sebastian, Sani
     }
     - {
       startTime: "16:55",

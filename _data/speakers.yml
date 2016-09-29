@@ -178,10 +178,10 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   name: "Sani"
   surname: "Yusuf"
   company: "Haibrid"
-  title: ""
-  longTitle: ""
-  bio: ""
-  thumbnailUrl: sani.png
+  title: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
+  longTitle: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
+  bio: "Sani is a Co-Organiser of the Ionic UK community and writes and creates content around Ionic. He is a Developer, Writer & Trainer and runs a startup called Haibrid that uses cross-platform mobile development techniques to create mobile solutions. When he is not coding, Sani likes to spend time contributing to the tech community and recently travelled the world for 8 months across 12 cities in 3 continents evangelising on mobile"
+  thumbnailUrl: sani.jpg
   rockstar: true
   social:
     - {name: "twitter", link: ""}

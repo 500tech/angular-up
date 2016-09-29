@@ -169,6 +169,18 @@
   subtype: presentation
   speakers: [12]
 -
+  id: 13
+  title: "Building Mobile Apps Progressively With Ionic"
+  description: "<p>
+      With multiple competing mobile eco systems to worry about, it is always important to choose an efficient solution for creating your mobile Apps
+    </p><p>
+      With the exciting prospects of Progressive Web Apps taking the web & mobile web world by storm, it can be quite challenging to fit a current mobile setup to work with Progressive Web Apps
+    </p><p>
+      This talk will showcase how you can create a mobile app for Android, IOS, WIndows with 100% the same code & same project and still have it work as a Progressive Web application without any change
+  </p>"
+  subtype: presentation
+  speakers: [13]
+-
   id: 14
   title: "Angular Material 2"
   description: "<p>Components are a critical part of the Angular Platform.</p>
