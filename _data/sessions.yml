@@ -58,7 +58,7 @@
   speakers: [4]
 -
   id: 2
-  title: "TypeScript 2.1 + Angular: Better Together"
+  title: "TypeScript 2.1 + Angular 2: Better Together"
   description: "<p>TypeScript has become the tool of choice in writing both Angular 2 and apps. Does this mean you’ll need to learn a completely new language? No! TypeScript builds upon JavaScript as it exists today and in the future, building on what you know now and bringing you future features today.</p><p>Come see how easy TypeScript is to introduce to a project today and how the team is pushing the language forward.</p>"
   subtype: presentation
   speakers: [2]
@@ -89,7 +89,7 @@
   speakers: [10]
 -
   id: 3
-  title: "Building mobile apps with Angular2 and NativeScript"
+  title: "Building mobile apps with Angular 2 and NativeScript"
   description: "<p>NativeScript is a free and open source JavaScript framework for building native iOS, Android, and Windows Phone apps. Add to that Angular 2.0 with TypeScript and you will get a truly amazing combination. But I know what you’re thinking: another way of building apps? What makes NativeScript special? Here are a few cool things:</p>
     <ul>
       <li>Direct access to native APIs—no plugins required. Want to create a file on Android? Run new java.io.File()—in JavaScript!</li>
@@ -102,7 +102,7 @@
   speakers: [1]
 -
   id: 4
-  title: "Reactive Music Apps in Angular and ngrx/store"
+  title: "Reactive Music Apps in Angular 2 and ngrx/store"
   description: "
     <p>
       Angular 2 combined with RxJS, @ngrx/store, and Immutable.js is a fantastic platform for reactive web applications.
@@ -125,7 +125,7 @@
   speakers: [8]
 -
   id: 5
-  title: "Across the universe - Server side rendering with angular universal"
+  title: "Across the universe - Server side rendering with Angular Universal"
   description: "<p>Angular 2 is designed to be agnostic about the runtime environment.
       This means that the same application can be deployed to different environments like browsers, servers or even native devices.
     </p>
@@ -159,7 +159,7 @@
   speakers: [7]
 -
   id: 11
-  title: "Angular and GraphQL - Handling server data with Apollo"
+  title: "Angular 2 and GraphQL - Handling server data with Apollo"
   description: "<p>
       Angular 2 has officially been released, and the Angular team has been focusing on making it a great platform for building Progressive Web Apps.
     </p><p>
