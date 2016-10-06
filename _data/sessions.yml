@@ -65,13 +65,26 @@
 -
   id: 9
   title: "Widget development with Angular 2"
-  description: ""
+  description: "<p>With the rest of the angular-ui/bootstrap team I've set
+      out recently to migrate Bootstrap widgets to Angular 2. To my delight
+      the resulting https://ng-bootstrap.github.io library offers much
+      better APIs and was significantly easier to write as compared to the
+      Angular 1 counterpart.</p>
+    <p>During this talk I would go over specific
+      patterns and tricks in Angular 2 that makes custom widget development
+      a breeze. I want to focus on practical code examples that you can
+      reuse while developing your own components and directives</p>"
   subtype: presentation
   speakers: [9]
 -
   id: 10
-  title: "Packaging and performance"
-  description: ""
+  title: "Optimizing Angular 2 apps for production"
+  description: "<p>
+    When it comes to Angular applications, good resolutions on performances mean faster and lighter.
+    There is a number of technics which can improve speed: bundling, tree shaking, ahead of time compilation, lazy loading.
+ </p><p>
+    In this talk, we’ll learn more about each of them, and we’ll see them in action on a sample application
+  </p>"
   subtype: presentation
   speakers: [10]
 -

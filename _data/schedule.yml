@@ -11,11 +11,7 @@
     }
     - {
       startTime: "9:30",
-      sessionIds: [105]
-    }
-    - {
-      startTime: "9:40",
-      sessionIds: [302]
+      sessionIds: [105] # conference opening
     }
     - {
       startTime: "10:25",
@@ -26,58 +22,58 @@
       sessionIds: [2, 7] # Daniel, Uri
     }
     - {
-      startTime: "11:35",
+      startTime: "11:30",
       sessionIds: [101] # coffee break
     }
     - {
-      startTime: "11:55",
+      startTime: "11:50",
       sessionIds: [9, 12] # Pawel, Adam
     }
     - {
-      startTime: "12:30",
+      startTime: "12:25",
       sessionIds: [5, 14] # Nir, Elad
     }
     - {
-      startTime: "13:05",
+      startTime: "12:55",
       sessionIds: [102] # lunch
     }
     - {
-      startTime: "13:55",
+      startTime: "13:45",
       sessionIds: [10, 8] # Marc, Tracy
     }
     - {
-      startTime: "14:30",
+      startTime: "14:20",
       sessionIds: [11, 4] # Uri, Tero
     }
     - {
-      startTime: "15:05",
+      startTime: "14:55",
       sessionIds: [304] # Lightening
     }
     - {
-      startTime: "15:40",
+      startTime: "15:30",
       sessionIds: [104] # Quiz & raffles
     }
     - {
-      startTime: "16:00",
+      startTime: "15:50",
       sessionIds: [101] # break
     }
     - {
-      startTime: "16:20",
+      startTime: "16:10",
       sessionIds: [3, 13] # Sebastian, Sani
     }
     - {
-      startTime: "16:55",
+      startTime: "16:45",
       sessionIds: [103, 103]
     }
     - {
-      startTime: "17:30",
-      sessionIds: [303]
+      startTime: "17:20",
+      sessionIds: [303] # Panel
     }
     - {
-      startTime: "18:10",
-      sessionIds: [106]
+      startTime: "18:00",
+      sessionIds: [106] # Big raffle
     }
     - {
-      startTime: "18:15",
-      sessionIds: [107]
+      startTime: "18:05",
+      sessionIds: [107] # End
     }

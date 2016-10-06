@@ -64,8 +64,8 @@ heroTitle: "AngularUP"
 heroSubtitle: "Israel's International Angular Conference & Tour"
 eventDate: "Tel Aviv, 17 November 2016"
 heroButtons:
- - {permalink: "/cfp/", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Get tickets"}
+ - {link: "http://bit.ly/angularup", text: "Convince your Boss"}
 
 # About Block
 aboutTitle: "About AngularUP"

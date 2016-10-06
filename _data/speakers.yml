@@ -121,7 +121,7 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   company: "Amadeus"
   title: "Angular 2 contributor & AngularUI lead developer."
   longTitle: "Angular 2 contributor & AngularUI lead developer."
-  bio: "Open source hacker, Angular 2 contributor, author of ng2-play, AngularJS book author, AngularUI lead developer."
+  bio: "Open source hacker, Angular 2 contributor, AngularUI and ng-bootstrap lead developer, AngularJS book author"
   thumbnailUrl: pawel.png
   rockstar: true
   social:
@@ -134,9 +134,9 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   name: "Marc"
   surname: "Laval"
   company: "Amadeus"
-  title: "Contributor to Angular 2 & angular2-bootstrap"
-  longTitle: "Contributor to Angular 2 & angular2-bootstrap"
-  bio: "Prolific open source developer on Angular 2, angular2-bootstrap, angular-react-native and more. Marc also works on @amadeusitgroup."
+  title: "Developer and Angular contributor"
+  longTitle: "Developer and Angular contributor"
+  bio: "Marc is a front-end engineer at Amadeus. He’s been working with the Angular core team for more than two years, contributing to Angular and its ecosystem."
   thumbnailUrl: marc.png
   rockstar: true
   social:
@@ -172,7 +172,7 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   social:
     - {name: "twitter", link: "http://twitter.com/adamklein500"}
     - {name: "github", link: "https://github.com/500tech"}
-    - {name: "website", link: "http://500tech.com/"}
+    - {name: "website", link: "http://500tech.com"}
 -
   id: 13
   name: "Sani"
@@ -184,9 +184,8 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   thumbnailUrl: sani.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "website", link: ""}
+    - {name: "twitter", link: "https://twitter.com/saniyusuf"}
+    - {name: "github", link: "https://github.com/saniyusuf"}
 -
   id: 14
   name: "Elad"
