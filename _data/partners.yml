@@ -18,6 +18,7 @@
   elements:
     - {name: "JetBrains", scale: 0.8, description: "Jetbrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains.svg"}
     - {name: "Progress", scale: 2, imageUrl: "progress.png", link: "http://www.progress.com", description: "Progress is a global leader in application development, empowering the digital transformation organizations need to create and sustain engaging user experiences in today’s marketplace. With offerings spanning web, mobile and data for on-premises and cloud environments, Progress powers startups and industry titans worldwide, promoting success one customer at a time."}
+    - {name: "Angular Air", scale: 1, imageUrl: "angularair.png", link: "http://angularair.com", description: "A live video podcast all about Angular."}
 
 -
   group: "Media partners"
@@ -30,4 +31,7 @@
     - {name: "Javascript Israel", scale: "1.1", description: "Javascript Israel community", link: "http://www.meetup.com/javascript-israel/", imageUrl: "javascript-israel.png"}
     - {name: "Frontend-IL", scale: "0.65", description: "Front-End development community", link: "http://www.meetup.com/frontend-il/", imageUrl: "frontend-il.png"}
     - {name: "Angular After Hours", scale: "0.9", description: "A group for web developers who can’t get their hands off the keyboard", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "afterhours.png"}
-    - {name: "Modern Web", scale: "0.9", description: "Podcast about frameworks, standards and techniques", link: "http://www.modern-web.org/", imageUrl: "modernweb.png"}
+    - {name: "Modern Web", scale: "1.0", description: "Podcast about frameworks, standards and techniques", link: "http://www.modern-web.org/", imageUrl: "modernweb.png"}
+    - {name: "AngularJS Warsaw", scale: "0.8", description: "", link: "https://www.meetup.com/AngularJS-Warsaw/", imageUrl: "warsaw.jpeg"}
+    - {name: "AngularJS Meetup Berlin", scale: "0.7", description: "", link: "https://www.meetup.com/AngularJS-Meetup-Berlin", imageUrl: "berlin.jpeg"}
+    - {name: "AngularJS Meetup Budapest", scale: "1.0", description: "", link: "http://www.meetup.com/Budapest-AngularJS-Meetup/", imageUrl: "budapest.svg"}

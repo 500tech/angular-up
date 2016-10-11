@@ -130,9 +130,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Ready to join?"
-subscribeInfo: "Discounts available for students and soldiers."
-subscribeInfo2: "More info on ticket pricing below"
+subscribeTitle: "Don't be a late bird"
+subscribeInfo: "Prices go up end of October, "
+subscribeInfo2: "so hurry up and secure your tickets"
 
 # Tickets Block
 ticketsTitle: "Pricing"

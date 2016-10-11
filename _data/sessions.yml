@@ -144,16 +144,12 @@
   speakers: [6]
 -
   id: 7
-  title: "Getting Physical with Web Bluetooth"
+  title: "AoT and the New Angular Compiler"
   description: "<p>
-      It is time to get out of your web browser boundaries!
-      With a new technology \"Web Bluetooth\", our web apps are finally able to communicate directly with Physical Devices and control them.
-      Whether it is a heart-rate sensor, a BB-8 robot, or your smart refrigerator - Web Bluetooth got you covered.
+      One of the amazing features offered by Angular 2 is Ahead of Time template compilation.
+      It comes with a lot of benefits, such as static analysis of your application templates, runtime performance benefits, and reduced production payload size.
     </p><p>
-      In this talk, we will learn the basics of the underlying Bluetooth Low Energy technology,
-      then cover the Web Bluetooth APIs,
-      and finally engage in a live demo where we will control a Smart Light Bulb,
-      as well as a cute 3D-printed Robot, directly from a web page.
+      In this talk, we are going to learn about ngc - the new Angular Compiler, discuss the internal mechanisms that make it tick, and discover how our apps can benefit from it.
     </p>"
   subtype: presentation
   speakers: [7]
