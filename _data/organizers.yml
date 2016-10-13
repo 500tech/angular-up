@@ -1,21 +1,22 @@
-- 
+-
   group: "Main organizer & supporter"
   class: "main"
-  elements: 
+  elements:
     - {name: "500Tech", title: "helping companies develop great frontend", description: "500Tech - leading frontend consultancy in Israel", link: "http://500tech.com", imageUrl: "500tech.png"}
-- 
+-
   group: "Team"
   class: "individuals"
-  elements: 
+  elements:
     - {title: "Adam Klein", name: "Adam Klein", description: "", link: "https://www.linkedin.com/in/adamklein500", imageUrl: "adam.jpg"}
     - {title: "Boris Dinkevich", name: "Boris Dinkevich", description: "", link: "https://www.linkedin.com/in/borisdinkevich", imageUrl: "boris.jpg"}
     - {title: "Uri Shaked", name: "Uri Shaked", description: "", link: "https://www.linkedin.com/in/urishaked", imageUrl: "uri.jpg"}
     - {title: "Gil Fink", name: "Gil Fink", description: "", link: "https://www.linkedin.com/in/gilfink", imageUrl: "gil.jpg"}
     - {title: "Nir Kaufman", name: "Nir Kaufman", description: "", link: "https://www.linkedin.com/in/nirkaufman", imageUrl: "nir.jpg"}
-- 
+    - {title: "Nur Lee Harel", name: "Nur Lee Harel", description: "", link: "", imageUrl: "nur.jpg"}
+-
   group: "Community Volunteers"
   class: ""
-  elements: 
+  elements:
     - {title: "Noam Kfir", name: "Noam Kfir", description: "", link: "https://www.linkedin.com/in/noamkfir", imageUrl: "noam.jpg"}
     - {title: "Shmuela Jacobs", name: "Shmuela Jacobs", description: "", link: "https://www.linkedin.com/in/shmuelaj", imageUrl: "shmuela.jpg"}
     - {title: "Elad Bezalel", name: "Elad Bezalel", description: "", link: "https://www.linkedin.com/in/eladbezalel", imageUrl: "elad.png"}
