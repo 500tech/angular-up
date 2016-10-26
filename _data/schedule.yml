@@ -47,33 +47,33 @@
     }
     - {
       startTime: "14:40",
-      sessionIds: [304] # Lightning
+      sessionIds: [304, 17] # Lightning, Shlomi
     }
     - {
       startTime: "15:15",
-      sessionIds: [104] # Quiz & raffles
-    }
-    - {
-      startTime: "15:35",
       sessionIds: [101] # break
     }
     - {
-      startTime: "15:55",
+      startTime: "15:35",
       sessionIds: [3, 13] # Sebastian, Sani
     }
     - {
-      startTime: "16:30",
-      sessionIds: [103, 103] # Shai, Shlomi
+      startTime: "16:10",
+      sessionIds: [15, 16] # Gil, Ori
     }
     - {
-      startTime: "17:05",
+      startTime: "16:45",
+      sessionIds: [104] # Quiz & prizes
+    }
+    - {
+      startTime: "17:10",
+      sessionIds: [106] # The big raffle
+    }
+    - {
+      startTime: "17:15",
       sessionIds: [303] # Panel
     }
     - {
-      startTime: "17:45",
-      sessionIds: [106] # Big raffle
-    }
-    - {
-      startTime: "17:50",
+      startTime: "18:00",
       sessionIds: [107] # End
     }

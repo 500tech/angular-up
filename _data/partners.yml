@@ -35,3 +35,4 @@
     - {name: "AngularJS Warsaw", scale: "0.8", description: "", link: "https://www.meetup.com/AngularJS-Warsaw/", imageUrl: "warsaw.jpeg"}
     - {name: "AngularJS Meetup Berlin", scale: "0.7", description: "", link: "https://www.meetup.com/AngularJS-Meetup-Berlin", imageUrl: "berlin.jpeg"}
     - {name: "AngularJS Meetup Budapest", scale: "1.0", description: "", link: "http://www.meetup.com/Budapest-AngularJS-Meetup/", imageUrl: "budapest.svg"}
+    - {name: "ngGirls", scale: "1.0", description: "", link: "http://ng-girls.org/", imageUrl: "nggirls.png"}

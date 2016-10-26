@@ -199,6 +199,44 @@
   subtype: presentation
   speakers: [14]
 -
+  id: 15
+  title: "Redux Data Flow with Angular 2"
+  description: "<p>
+    There are many ways to create data flows in Angular 2. One of those ways is the architectural pattern called Redux.
+    </p><p>
+    Redux is a small library which introduces a unidirectional data flow and a predictable state container that scales.
+    </p><p>
+    In this session we will deep dive into Redux concepts and how to apply them in Angular 2 apps
+  </p>"
+  subtype: presentation
+  speakers: [15]
+-
+  id: 16
+  title: "Angular Web Worker - Building Super Responsive UI"
+  description: "<p>
+      HTML5 brings the power of web workers. However, managing a web worker is a tedious and error prone work
+    </p><p>
+      Angular 2 has a built-in support for running application logic inside a secondary web worker. Angular does the magic of marshaling requests between DOM and the application worker and let you focus on building super responsive UI components while enjoying the power of parallel code execution.
+    </p><p>
+      During this session we will cover the architecture and details behind the Angular 2 web worker support
+    </p>"
+  subtype: presentation
+  speakers: [16]
+-
+  id: 17
+  title: "Reminiscing $compile: Compiling component's in runtime"
+  description: "<p>
+    Dynamic (or runtime) compilation was a native feature in angular 1 using the $compile service. This feature is \"most likely\" not available in your angular 2 application.
+    </p><p>
+      In this talk we will try to figure out what is that little price we pay when we choose AoT over JiT. In a dynamic compilation context, we will take a brief de-tour reviewing the compiler, understanding the performance penalties of runtime compilation and why AoT is preferred over JiT even if loosing the ability to dynamically create components.
+    </p><p>
+      We will clarify the difference between creating and instantiating components, how ComponentFactory and the Injector align, review approaches and code examples and go over scenarios where we might want to use it.
+    </p><p>
+      Just before giving up on JiT we will wonder off contemplating on futuristic ideas such as combining AoT, JiT & lazy loading for best of all world or maybe using the server as a compilation service...
+  </p>"
+  subtype: presentation
+  speakers: [17]
+-
   id: 303
   title: "Q&A Panel"
   center: true
