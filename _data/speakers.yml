@@ -218,22 +218,6 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
     - {name: "website", link: "http://gilfink.azurewebsites.net/"}
 -
   id: 16
-  name: "Shlomi"
-  surname: "Assaf"
-  company: "Cisco"
-  title: "Web application Tech lead @ Cisco"
-  longTitle: "Web application Tech lead @ Cisco"
-  bio: "Shlomi is fortunate to work at what he loves, software development.
-    He works at Cisco, architecting web application from the ground up, leading a small team and writing code all day long.
-    Shlomi is a passionate Angular fanboy, with ~5 years of Angular experience, admires TypeScript, worships Webpack and dig's open source.
-    Shlomi created a chess game (ng2-chess) and the angular2-modal library, sharing the Angular journey from alpha.17 to final release."
-  thumbnailUrl: shlomi.png
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/shlomiassaf"}
-    - {name: "github", link: "https://github.com/shlomiassaf"}
--
-  id: 17
   name: "Ori"
   surname: "Calvo"
   company: "Trainologic"
@@ -249,3 +233,19 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
     - {name: "twitter", link: "https://twitter.com/OriCalvo"}
     - {name: "github", link: "https://github.com/oricalvo"}
     - {name: "website", link: "oricalvo.wordpress.com"}
+-
+  id: 17
+  name: "Shlomi"
+  surname: "Assaf"
+  company: "Cisco"
+  title: "Web application Tech lead @ Cisco"
+  longTitle: "Web application Tech lead @ Cisco"
+  bio: "Shlomi is fortunate to work at what he loves, software development.
+    He works at Cisco, architecting web application from the ground up, leading a small team and writing code all day long.
+    Shlomi is a passionate Angular fanboy, with ~5 years of Angular experience, admires TypeScript, worships Webpack and dig's open source.
+    Shlomi created a chess game (ng2-chess) and the angular2-modal library, sharing the Angular journey from alpha.17 to final release."
+  thumbnailUrl: shlomi.png
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/shlomiassaf"}
+    - {name: "github", link: "https://github.com/shlomiassaf"}
