@@ -135,58 +135,9 @@ subscribeInfo: "Prices go up end of October, "
 subscribeInfo2: "so hurry up and secure your tickets"
 
 # Tickets Block
-ticketsTitle: "Pricing"
-ticketsInfo: "Tickets grant access to all conference sections, coffee breaks and lunch. Accommodation is NOT included in the ticket price."
+ticketsTitle: "Tickets - Sold Out!"
+ticketsInfo: "We are all sold out, join us next year!"
 ticketsOffers:
- -
-  name: "Early Bird"
-  price: "350"
-  priceCurrency: "ILS"
-  validity: "First 50 tickets sold out"
-  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
-  buyButtonText: "Buy Now"
-  euroPrice: "82"
-  soldOut: true
-  disabled: false
- -
-  name: "Tier 1"
-  price: "560"
-  priceCurrency: "ILS"
-  validity: "Sale ended on 15/9/2016"
-  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
-  buyButtonText: "Buy Now"
-  euroPrice: "130"
-  soldOut: true
-  disabled: false
- -
-  name: "Tier 2"
-  price: "660"
-  priceCurrency: "ILS"
-  validity: "Sale ends on 6/11/2016"
-  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
-  buyButtonText: "Buy Now"
-  euroPrice: "155"
-  soldOut: false
-  disabled: false
- -
-  name: "Late bird"
-  price: "800"
-  priceCurrency: "ILS"
-  validity: "Sale starts on 7/11/2016"
-  buyButtonLink: "https://www.eventbrite.com/e/angular-up-2016-tickets-26302186548"
-  buyButtonText: "Buy Now"
-  euroPrice: "187"
-  soldOut: false
-  disabled: true
- -
-  name: "Soldiers / Students"
-  price: "350 / 480"
-  priceCurrency: "ILS"
-  validity: "Send us your soldier / student ID for a discount code"
-  buyButtonLink: "mailto:tickets@angular-up.com"
-  buyButtonText: "Get Code"
-  soldOut: false
-  disabled: false
 
 # Footer
 socialLinks:
