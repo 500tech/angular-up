@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/#schedule", text: "Schedule"}
  - {permalink: "/#organizers", text: "Team"}
  - {permalink: "/#sponsors", text: "Sponsors"}
- - {permalink: "/#tickets", text: "Tickets"}
+ - {permalink: "/#subscribe", text: "Tickets"}
  - {permalink: "/#location-map", text: "Venue"}
  - {permalink: "/tour", text: "About Israel & Tour"}
  # - {permalink: "/logistics/", text: "Logistics"}
@@ -64,8 +64,7 @@ heroTitle: "AngularUP"
 heroSubtitle: "Israel's International Angular Conference & Tour"
 eventDate: "Tel Aviv, 17 November 2016"
 heroButtons:
- - {permalink: "/#tickets", text: "Get tickets"}
- - {link: "http://bit.ly/angularup", text: "Convince your Boss"}
+ - {permalink: "/#subscribe", text: "Tickets Sold Out!"}
 
 # About Block
 aboutTitle: "About AngularUP"
@@ -130,14 +129,14 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Don't be a late bird"
-subscribeInfo: "Prices go up end of October, "
-subscribeInfo2: "so hurry up and secure your tickets"
+subscribeTitle: "Tickets - Sold out!"
+subscribeInfo: "We are all sold out"
+subscribeInfo2: "join us next year!"
 
 # Tickets Block
-ticketsTitle: "Tickets - Sold Out!"
-ticketsInfo: "We are all sold out, join us next year!"
-ticketsOffers:
+# ticketsTitle: "Tickets - Sold Out!"
+# ticketsInfo: "We are all sold out, join us next year!"
+# ticketsOffers:
 
 # Footer
 socialLinks:
