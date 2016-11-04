@@ -171,7 +171,7 @@
   description: "<p>
       Imagine the magic of Angular 1 digest, but extremely performant and smart.
     </p><p>
-      MobX automatically reacts to changes in plain objects, without the hassle of using immutables, actions, reducers, a dispatcher, etc.
+      MobX detects changes in plain objects, allowing you to react automatically to changes you make on observable attributes, and define computed values
     </p><p>
       In this talk I will introduce MobX and its benefits, and the ng2-mobx library I wrote to connect it seamlessly to Angular2
     </p>"
