@@ -11,7 +11,7 @@
   class: "silver"
   elements:
     - {name: "ThetaRay", scale: 2.4, description: "ThetaRay is a leading provider of a big data analytics platform and solutions for advanced cyber security, operational efficiency, and risk detection, protecting financial services sectors and critical infrastructure against unknown threats. ThetaRay’s core technology is based on state of the art algorithms, which power its proprietary Hyper-Dimensional, Multi-Domain Big Data Analytics platform. Organizations whose operations rely on highly heterogeneous and complex environments leverage ThetaRay’s unmatched detection and low false positive rates as a see-all power that enables them to unify detection and defeat the unknown", link: "http://www.thetaray.com/", imageUrl: "thetaray.jpg"}
-
+    - {name: "Jive Software", scale: 1.6, description: "Jive is the leading provider of modern communication and collaboration solutions for business. Our products apply powerful technology that helps employees, partners and customers work better together", link: "https://www.jivesoftware.com/", imageUrl: "jive.png"}
 -
   group: "Bronze"
   class: "bronze"
