@@ -64,8 +64,7 @@ heroTitle: "AngularUP"
 heroSubtitle: "Israel's International Angular Conference & Tour"
 eventDate: "Tel Aviv, 17 November 2016"
 heroButtons:
- - {permalink: "/#tickets", text: "Get tickets"}
- - {link: "http://bit.ly/angularup", text: "Convince your Boss"}
+ - {permalink: "/#subscribe", text: "Tickets Sold Out!"}
 
 # About Block
 aboutTitle: "About AngularUP"
@@ -135,9 +134,9 @@ subscribeInfo: "We are all sold out"
 subscribeInfo2: "join us next year!"
 
 # Tickets Block
-ticketsTitle: "Tickets - Sold Out!"
-ticketsInfo: "We are all sold out, join us next year!"
-ticketsOffers:
+# ticketsTitle: "Tickets - Sold Out!"
+# ticketsInfo: "We are all sold out, join us next year!"
+# ticketsOffers:
 
 # Footer
 socialLinks:
