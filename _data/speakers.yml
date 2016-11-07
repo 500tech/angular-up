@@ -250,3 +250,78 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
     - {name: "twitter", link: "https://twitter.com/shlomiassaf"}
     - {name: "github", link: "https://github.com/shlomiassaf"}
     - {name: "website", link: "http://blog.assaf.co"}
+-
+  id: 18
+  name: "Maayan"
+  surname: "Glikser"
+  company: "500Tech"
+  title: "Developer/Consultant @ 500Tech"
+  longTitle: "Developer/Consultant @ 500Tech"
+  thumbnailUrl: maayan.png
+  bio: "<p>Introduction to BDSM</p>
+  <p>Every day we work with multiple teams to build our products, communication and sync are key factors to deliver your product on time without compromising quality.<br>
+    In this talk I will introduce BDSM a new mocking tool that will change the way you coordinate between client and server teams minimizing friction allowing each team to work at its own pace while keeping in sync</p>"
+  social:
+    - {name: "twitter", link: "https://twitter.com/MaayanGlikser"}
+    - {name: "github", link: "https://github.com/morsdyce"}
+
+-
+  id: 19
+  name: "Shmuela"
+  surname: "Jacobs"
+  company: "500Tech"
+  title: "Developer/Consultant @ 500Tech"
+  longTitle: "Developer/Consultant @ 500Tech"
+  bio: "<p>Making your life better with Augury
+  </p><p>
+    You may be a phenomenal Angular 2 developer. You may also be an ambitious total beginner. Maybe you’re not a developer at all - perhaps a QA tester or a product manager. Whatever you may be, if you’re working on an Angular 2 application then Augury will give you immediate insights and useful tools to handle the project. Learn how Augury can make your life not only easier, but also better
+  </p>"
+  thumbnailUrl: shmuela.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/ShmuelaJ"}
+    - { name: "github", link: "https://github.com/shmool"}
+-
+  id: 20
+  name: "Ziv"
+  surname: "Gilad"
+  title: "Full stack trainer and consultant"
+  longTitle: "Full stack trainer and consultant"
+  bio: "<p>Tales of a live band and real-time web</p>
+  <p>In this talk I'll present my web site, the one that is being used on-stage every Tuesday for syncing a live band on stage.
+	I'll explain the progress I made (and still making) while developing, and the way I used socketio for realtime and indexeddb for performance.</p>"
+  thumbnailUrl: ziv.jpg
+  company: ""
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/zivgilad"}
+    - {name: "github", link: "https://github.com/zivgi"}
+    - {name: "website", link: "http://www.synctheband.com/guest/"}
+
+-
+  id: 21
+  name: "Noam"
+  surname: "Kfir"
+  title: ""
+  longTitle: ""
+  bio: "<p>Reaching Out with Angular 2 - Accessibility & Internationalization</p>
+    <p>Your app is basically unusable. Whole populations will never even know you exist, and you're probably alienating many who do.<br>
+      Putting yourself on the map means reaching out to all your potential customers, regardless of whether they use a keyboard or mouse, where they live, the language they speak or sign, or if they need a screen reader to use your app.<br>
+      In this lightning talk, we'll run through a bunch of quick demos and show how to start preparing your Angular 2 app for people that come from all walks of life.<br>"
+  thumbnailUrl: noam.jpg
+  company: ""
+  social:
+    - {name: "twitter", link: "https://twitter.com/noamkfir"}
+    - {name: "github", link: "https://github.com/"}
+    - {name: "website", link: "http://noam.kfir.cc/blog/"}
+
+-
+  id: 22
+  name: "Ofir"
+  surname: "Dagan"
+  title: ""
+  longTitle: ""
+  bio: "The Secret Life of Side Projects"
+  thumbnailUrl: ofir.jpeg
+  company: "Wix"
+  social:
+    - {name: "twitter", link: "https://twitter.com/ofirdagan2"}
+    - {name: "github", link: "https://github.com/ofirdagan"}

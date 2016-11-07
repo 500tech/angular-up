@@ -37,25 +37,28 @@
                     {% if slot != 404 %}
                     {% for session in site.data.sessions %}
                     {% if slot == session.id and session.service == null %}
-                    <div id="session-{{ session.id }}" class="slot {% if session.center %} center-slot {% endif %} {% if session.speakers %} speakers-slot {% endif %} col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
+                    <div id="session-{{ session.id }}" class="slot {% if session.center %} center-slot {% endif %} {{ session.class }} {% if session.speakers %} speakers-slot {% endif %} col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}" data-toggle="modal" data-target="#sessionDetail-{{ session.id }}">
                         <div class="color-line" style="background: {{ day.tracks[slotIndex].color }}"></div>
                         <div class="slot-content" style="border-right-color: {{ day.tracks[slotIndex].color }}">
                             {% if session.speakers %}
+                              <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                               <ul class="slot-speakers">
                                   {% for speaker in site.data.speakers %}
                                   {% for session_speaker in session.speakers %}
                                   {% if session_speaker == speaker.id %}
                                   <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
+                                    {% if session.class != "lightning" %}
                                       <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
                                         <span class="speaker-title">{{ speaker.title }}</span>
                                       </p>
+                                    {% endif %}
                                   </li>
                                   {% endif %}
                                   {% endfor %}
                                   {% endfor %}
                               </ul>
+                              <div class="clearfix"></div>
                             {% endif %}
-                            <h5 class="slot-title" itemprop="name">{{ session.title }}</h5>
                         </div>
                     </div>
                     {% elsif slot == session.id and session.service != null %}

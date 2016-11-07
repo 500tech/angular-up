@@ -41,7 +41,7 @@
             // } else if (scroll < 100 && $(window).width() > 767){
             //     buyButton.addClass('right-nav-button-hidden');
             // }
-            
+
 
             $('.slot').each(function() {
                 var currentPosition = $(this).offset().top - scroll;
@@ -101,7 +101,7 @@
             if(window.location.href.indexOf("schedule") > -1 && window.location.hash) {
                 var hash = window.location.hash;
                 $(hash).click();
-            } 
+            }
         });
 
         $(function() {
@@ -263,6 +263,103 @@
             }
         }
     });
+
+
+    function initMap() {
+      var e, o = window.innerWidth > 1200;
+      e = new google.maps.Map(document.getElementById("map"),{
+          center: {
+              lat: 32.063722,
+              lng: 34.763542
+          },
+          scrollwheel: !1,
+          draggable: o,
+          disableDefaultUI: !o,
+          zoom: 16
+      }),
+      new google.maps.Marker({
+          position: {
+              lat: 32.064722,
+              lng: 34.763542
+          },
+          map: e,
+          title: "Dan Panorama Hotel"
+      }),
+      new google.maps.Marker({
+          position: {
+              lat: 32.067164,
+              lng: 34.766315
+          },
+          map: e,
+          icon: "img/venue/parking.png",
+          title: "Carmelit, 289 Spaces, 24 ILS"
+      }),
+      new google.maps.Marker({
+          position: {
+              lat: 32.067046,
+              lng: 34.763912
+          },
+          map: e,
+          icon: "img/venue/parking.png",
+          title: "Ha-Kovshim 2, 156 Spaces, 20 ILS"
+      }),
+      new google.maps.Marker({
+          position: {
+              lat: 32.066119,
+              lng: 34.764014
+          },
+          map: e,
+          icon: "img/venue/parking.png",
+          title: "Yosef Levi 5, 172 Spaces, 20 ILS"
+      }),
+      new google.maps.Marker({
+          position: {
+              lat: 32.064755,
+              lng: 34.764604
+          },
+          map: e,
+          icon: "img/venue/parking.png",
+          title: "Hamered 36, 31 Spaces, 20 ILS"
+      }),
+      new google.maps.Marker({
+          position: {
+              lat: 32.064087,
+              lng: 34.764148
+          },
+          map: e,
+          icon: "img/venue/parking.png",
+          title: "Hamered 32, 51 Spaces, 24 ILS"
+      }),
+      new google.maps.Marker({
+          position: {
+              lat: 32.062901,
+              lng: 34.763885
+          },
+          map: e,
+          icon: "img/venue/parking.png",
+          title: "Ein Yaakov 16, 205 Spaces, 24 ILS"
+      }),
+      new google.maps.Marker({
+          position: {
+              lat: 32.060009,
+              lng: 34.761051
+          },
+          map: e,
+          icon: "img/venue/parking.png",
+          title: "Yehezkel Kaufmann 65, 770 Spaces, 20 ILS"
+      }),
+      new google.maps.Marker({
+          position: {
+              lat: 32.059125,
+              lng: 34.759484
+          },
+          map: e,
+          icon: "img/venue/parking.png",
+          title: "Beit Haetzel, 260 Spaces, 20 ILS"
+      })
+    }
+    initMap();
+
 
     //Google plus
     function initGooglePlus() {
@@ -481,7 +578,7 @@
                 setDirectionInput(origin);
                 $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
             }
-            
+
             function calcRouteFromMyLocation() {
                 if (navigator.geolocation) {
                     navigator.geolocation.getCurrentPosition(function(position) {

@@ -48,13 +48,13 @@ navigationLinks:
  - {permalink: "/#schedule", text: "Schedule"}
  - {permalink: "/#organizers", text: "Team"}
  - {permalink: "/#sponsors", text: "Sponsors"}
- - {permalink: "/#subscribe", text: "Tickets"}
  - {permalink: "/#location-map", text: "Venue"}
  - {permalink: "/tour", text: "About Israel & Tour"}
+ # - {link: "https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA", text: "Talk videos"}
  # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
 bottomNavigationLinks:
- - {permalink: "/cfp/", text: "Become a speaker"}
+ # - {permalink: "https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA", text: "Youtube channel"}
 rightNavigationButtons:
  - {permalink: "/#subscribe", text: "Tickets"}
 
@@ -64,7 +64,7 @@ heroTitle: "AngularUP"
 heroSubtitle: "Israel's International Angular Conference & Tour"
 eventDate: "Tel Aviv, 17 November 2016"
 heroButtons:
- - {permalink: "/#subscribe", text: "Tickets Sold Out!"}
+ - {permalink: "/#subscribe", text: "Tickets sold out"}
 
 # About Block
 aboutTitle: "About AngularUP"
@@ -129,9 +129,10 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Tickets - Sold Out!"
-subscribeInfo: "We are all sold out"
-subscribeInfo2: "join us next year!"
+subscribeTitle: "Tickets Sold Out"
+subscribeInfo: "All talks will be recorded and uploaded to our youtube channel"
+subscribeInfo2: "Check out the website a few days after the conference"
+# subscribeInfo2: "and uploaded to our <a target=\"_blank\" href=\"https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA\">youtube channel</a>"
 
 # Tickets Block
 # ticketsTitle: "Tickets - Sold Out!"

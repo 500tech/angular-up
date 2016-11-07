@@ -1,32 +1,26 @@
-<!-- Begin Location Section -->
-<section id="location-map" class="location-map">
-    <div id="canvas-map" class="canvas-map"></div>
-    <div class="content-wrapper">
-        <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1  location-description text-left">
-            <div class="row">
-                <div class="pull-left">
-                    <h3>{{ site.locationBlockTitle }}</h3>
-                    <ul>
-                        {% if site.eventLocationName %}<li>{{ site.eventLocationName }}</li>{% endif %}
-                        <li>{{ site.eventStreetAddress }}, {{ site.eventAddressLocality }}</li>
-                        <!--<li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>-->
-                        <li>
-                            {% assign startTime = site.eventStartTime | split: "T" %}
-                            <time>{{ startTime[1] }}</time> -
-                            {% assign endTime = site.eventEndTime | split: "T" %}
-                            <time>{{ endTime[1] }}</time>
-                        </li>
-                    </ul>
-                </div>
-<!--                 <a href="{{ site.baseurl | append: '/logistics/#find-way' }}" class="pull-right">
- -->
-                <a class="pull-right">
-                    <svg class="icon icon-direction" viewBox="0 0 32 32">
-                        <use xlink:href="{{ site.baseurl }}/img/sprites/sprites.svg#icon-direction"></use>
-                    </svg>
-                </a>
-            </div>
-        </div>
-    </div>
+<section id="venue">
+  <div id="venue-details">
+    <div><img src="img/venue/dan-panorama-logo.png" alt="Dan Panorama Tel Aviv"></div>
+    <br>
+    <h5>November 15th, <a href="http://www.danhotels.com/TelAvivHotels/DanPanoramaTelAvivHotel/">Dan Panorama Hotel</a>, HaMered St 33, Tel Aviv-Yafo</h5>
+    <p class="directions"><b>Google Maps</b> and <b>Waze</b> would provide much better directions and public transit information than we ever could ;-)</p>
+  </div>
+  <div id="map"></div>
 </section>
-<!-- End Location Section -->
+
+<!-- <section id="venueDetails">
+<div class="content-wrapper">
+<div class="col-lg-10 col-lg-offset-1">
+<h3>Getting there</h3>
+<p></p>
+</div>
+</div>
+<div class="content-wrapper">
+<div class="col-lg-10 col-lg-offset-1">
+<h3>Parking Lots</h3>
+<p>Hotel parking - 40 a day</p>
+<p>Dolphinarium parking - 15 a day</p>
+</div>
+</div>
+</section>
+<!-- End Venue Section --> -->

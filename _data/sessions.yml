@@ -21,24 +21,18 @@
   place: ""
 -
   id: 104
-  title: "Angular Quiz & Raffles"
+  title: "Angular Quiz + Prizes for the winners"
   place: "Hall A"
   service: true
 -
   id: 105
-  title: "Conference Opening"
-  description: ""
-  place: "Hall A"
-  service: true
--
-  id: 106
-  title: "The big raffle"
+  title: "Opening Words"
   description: ""
   place: "Hall A"
   service: true
 -
   id: 107
-  title: "Conference Ends"
+  title: "Closing words"
   description: ""
   place: "Hall A"
   service: true
@@ -64,16 +58,13 @@
   speakers: [2]
 -
   id: 9
-  title: "Widget development with Angular 2"
-  description: "<p>With the rest of the angular-ui/bootstrap team I've set
-      out recently to migrate Bootstrap widgets to Angular 2. To my delight
-      the resulting https://ng-bootstrap.github.io library offers much
-      better APIs and was significantly easier to write as compared to the
-      Angular 1 counterpart.</p>
-    <p>During this talk I would go over specific
-      patterns and tricks in Angular 2 that makes custom widget development
-      a breeze. I want to focus on practical code examples that you can
-      reuse while developing your own components and directives</p>"
+  title: "A toolbox"
+  description: "<p>
+    Our craft requires a large toolbox of utils, gadgets and techniques.
+    As all professionals we spend a lot of time refining which items go into our personal toolbox.
+  </p><p>
+    This is the story of my toolbox evaluation and what I've learned from working as part of the Angular team
+  </p>"
   subtype: presentation
   speakers: [9]
 -
@@ -224,28 +215,30 @@
   speakers: [16]
 -
   id: 17
-  title: "Reminiscing $compile: Compiling component's in runtime"
+  title: "Dynamic content creation in Angular 2"
   description: "<p>
-    Dynamic (or runtime) compilation was a native feature in angular 1 using the $compile service. This feature is \"most likely\" not available in your angular 2 application.
-    </p><p>
-      In this talk we will try to figure out what is that little price we pay when we choose AoT over JiT. In a dynamic compilation context, we will take a brief de-tour reviewing the compiler, understanding the performance penalties of runtime compilation and why AoT is preferred over JiT even if loosing the ability to dynamically create components.
-    </p><p>
-      We will clarify the difference between creating and instantiating components, how ComponentFactory and the Injector align, review approaches and code examples and go over scenarios where we might want to use it.
-    </p><p>
-      Just before giving up on JiT we will wonder off contemplating on futuristic ideas such as combining AoT, JiT & lazy loading for best of all world or maybe using the server as a compilation service...
-  </p>"
+      Ahead of Time compilation is what the Angular team recommends these days.
+      </p><p>
+        In this talk we will try to figure out what is that little price we pay when we choose AoT over JiT. In a dynamic compilation context, we will take a brief de-tour reviewing the compiler, understanding the performance penalties of runtime compilation and why AoT is preferred over JiT even if loosing the ability to dynamically create components.
+      </p><p>
+        We will clarify the difference between creating and instantiating components, how ComponentFactory and the Injector align, and go over scenarios where we might want to use it.
+      </p><p>
+        Just before giving up on JiT we will wonder off contemplating on futuristic ideas such as combining AoT, JiT & lazy loading for best of all world or maybe using the server as a compilation service...
+    </p>"
   subtype: presentation
   speakers: [17]
 -
   id: 303
   title: "Q&A Panel"
-  center: true
   place: "Hall A"
-  description: "Listen to a panel of the top expert speakers from our line-up, answering the really important questions about Angular and the Ecosystem."
-  subtype: presentation
+  service: true
 -
   id: 304
   title: "Lightning talks"
-  center: true
-  description: "Lightning talks about various topics from community speakers. More details soon"
+  class: "lightning"
+  description: "<p>
+    Lightning talks about various topics from community speakers.
+  </p><p>
+  </p>"
   subtype: presentation
+  speakers: [18, 20, 22, 19, 21]

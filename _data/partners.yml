@@ -5,6 +5,7 @@
     - {name: "SiSense", description: "Sisense simplifies business analytics for complex data with an end-to-end platform that empowers business users to prepare and analyze both large and disparate datasets.  By enabling easy data mash-up, Sisense delivers analytical insights on complex data that is immediate, comprehensive and autonomous, all for a lower TCO.", link: "https://www.sisense.com/", imageUrl: "sisense.png"}
     - {name: "CyberArk", scale: 0.8, description: "CyberArk is the only security company laser-focused on striking down targeted cyber threats, those that make their way inside to attack the heart of the enterprise", link: "https://www.cyberark.com/", imageUrl: "cyberark.jpg"}
     - {name: "Como", scale: 1.0, description: "Your Swiss Army Knife for Happy Customers. Complete set of customer management tools", link: "http://www.como.com/", imageUrl: "como.png"}
+    - {name: "AG Grid", scale: 1.2, description: "The JavaScript Datagrid for Enterprise", link: "https://www.ag-grid.com/", imageUrl: "aggrid.png"}
 
 -
   group: "Silver"
@@ -12,6 +13,7 @@
   elements:
     - {name: "ThetaRay", scale: 2.4, description: "ThetaRay is a leading provider of a big data analytics platform and solutions for advanced cyber security, operational efficiency, and risk detection, protecting financial services sectors and critical infrastructure against unknown threats. ThetaRay’s core technology is based on state of the art algorithms, which power its proprietary Hyper-Dimensional, Multi-Domain Big Data Analytics platform. Organizations whose operations rely on highly heterogeneous and complex environments leverage ThetaRay’s unmatched detection and low false positive rates as a see-all power that enables them to unify detection and defeat the unknown", link: "http://www.thetaray.com/", imageUrl: "thetaray.jpg"}
     - {name: "Jive Software", scale: 1.6, description: "Jive is the leading provider of modern communication and collaboration solutions for business. Our products apply powerful technology that helps employees, partners and customers work better together", link: "https://www.jivesoftware.com/", imageUrl: "jive.png"}
+    - {name: "Big Panda", scale: 1.2, description: "Automatically consolidate your alerts by up to 99%", link: "https://bigpanda.io/", imageUrl: "panda.png"}
 -
   group: "Bronze"
   class: "bronze"

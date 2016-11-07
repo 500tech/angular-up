@@ -14,66 +14,66 @@
       sessionIds: [105] # conference opening
     }
     - {
-      startTime: "10:10",
-      sessionIds: [1, 6] # Ben, Eyal
+      startTime: "09:50",
+      sessionIds: [9] # Pawel
     }
     - {
-      startTime: "10:45",
-      sessionIds: [2, 7] # Daniel, Uri
+      startTime: "10:30",
+      sessionIds: [1, 7] # Ben, Urish
     }
     - {
-      startTime: "11:15",
-      sessionIds: [101] # coffee break
+      startTime: "11:05",
+      sessionIds: [2, 10] # Daniel, Marc
     }
     - {
       startTime: "11:35",
-      sessionIds: [9, 12] # Pawel, Adam
+      sessionIds: [101] # coffee break
     }
     - {
-      startTime: "12:10",
-      sessionIds: [5, 14] # Nir, Elad
+      startTime: "11:55",
+      sessionIds: [5, 8] # Nir, Tracy
     }
     - {
-      startTime: "12:40",
+      startTime: "12:30",
+      sessionIds: [11, 3] # Urigo, Sebastian
+    }
+    - {
+      startTime: "13:00",
       sessionIds: [102] # lunch
     }
     - {
-      startTime: "13:30",
-      sessionIds: [10, 8] # Marc, Tracy
+      startTime: "13:50",
+      sessionIds: [6, 15] # Eyal, Gil
     }
     - {
-      startTime: "14:05",
-      sessionIds: [11, 4] # Uri, Tero
+      startTime: "14:35",
+      sessionIds: [13, 12] # Sani, Adam
     }
     - {
-      startTime: "14:40",
-      sessionIds: [304, 17] # Lightning, Shlomi
+      startTime: "15:10",
+      sessionIds: [4, 16] # Tero, Ori Calvo
     }
     - {
-      startTime: "15:15",
+      startTime: "15:40",
       sessionIds: [101] # break
     }
     - {
-      startTime: "15:35",
-      sessionIds: [3, 13] # Sebastian, Sani
+      startTime: "16:00",
+      sessionIds: [14, 17] # Elad, Ori
     }
     - {
-      startTime: "16:10",
-      sessionIds: [15, 16] # Gil, Ori
-    }
-    - {
-      startTime: "16:45",
-      sessionIds: [104] # Quiz & prizes
+      startTime: "16:35",
+      sessionIds: [304] # lightning
     }
     - {
       startTime: "17:10",
-      sessionIds: [106] # The big raffle
+      sessionIds: [104] # Quiz & prizes
     }
     - {
-      startTime: "17:15",
+      startTime: "17:35",
       sessionIds: [303] # Panel
     }
     - {
-      startTime: "18:00",
+      startTime: "18:15",
       sessionIds: [107] # End
     }
