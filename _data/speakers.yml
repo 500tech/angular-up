@@ -319,7 +319,14 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   surname: "Dagan"
   title: ""
   longTitle: ""
-  bio: "The Secret Life of Side Projects"
+  bio: "<p>The Secret Life of Side Projects</p>
+  <p>So you’re a ninja software engineer, and you work at a really cool company.<br>
+    But a curious mind like yourself might want to expand your horizons and learn a new language / platform, and get a taste of marketing and product development as well.<br>
+    Last but not least last night while having beers with your mates you had a vision of the next big thing and you gotta write it!<br>
+
+    This is exactly what happened to me.<br>
+    In the following talk posts I will share my two cents about how I was able to learn a new language, write an app, monitor it, market it, write a blog post about it, man hunt the perfect hire candidate using open source, and more.
+    </p>"
   thumbnailUrl: ofir.jpeg
   company: "Wix"
   social:
