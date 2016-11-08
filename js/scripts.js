@@ -386,14 +386,98 @@
                 mapOptions.zoomControl = true;
             }
 
-            map = new google.maps.Map(document.getElementById('canvas-map'), mapOptions);
-            var marker = new google.maps.Marker({
-                position: eventPlace,
-                animation: google.maps.Animation.DROP,
-                icon: icon,
-                map: map
+
+            var map = new google.maps.Map(document.getElementById("canvas-map"),{
+                center: {
+                    lat: 32.063722,
+                    lng: 34.763542
+                },
+                scrollwheel: !1,
+                draggable: o,
+                disableDefaultUI: !o,
+                zoom: 16
             });
-            markers.push(marker);
+            new google.maps.Marker({
+                position: {
+                    lat: 32.064722,
+                    lng: 34.763542
+                },
+                map: map,
+                title: "Dan Panorama Hotel"
+            });
+            new google.maps.Marker({
+                position: {
+                    lat: 32.067164,
+                    lng: 34.766315
+                },
+                map: map,
+                icon: "img/venue/parking.png",
+                title: "Carmelit, 289 Spaces, 24 ILS"
+            });
+            new google.maps.Marker({
+                position: {
+                    lat: 32.067046,
+                    lng: 34.763912
+                },
+                map: map,
+                icon: "img/venue/parking.png",
+                title: "Ha-Kovshim 2, 156 Spaces, 20 ILS"
+            });
+            new google.maps.Marker({
+                position: {
+                    lat: 32.066119,
+                    lng: 34.764014
+                },
+                map: map,
+                icon: "img/venue/parking.png",
+                title: "Yosef Levi 5, 172 Spaces, 20 ILS"
+            });
+            new google.maps.Marker({
+                position: {
+                    lat: 32.064755,
+                    lng: 34.764604
+                },
+                map: map,
+                icon: "img/venue/parking.png",
+                title: "Hamered 36, 31 Spaces, 20 ILS"
+            });
+            new google.maps.Marker({
+                position: {
+                    lat: 32.064087,
+                    lng: 34.764148
+                },
+                map: map,
+                icon: "img/venue/parking.png",
+                title: "Hamered 32, 51 Spaces, 24 ILS"
+            });
+            new google.maps.Marker({
+                position: {
+                    lat: 32.062901,
+                    lng: 34.763885
+                },
+                map: map,
+                icon: "img/venue/parking.png",
+                title: "Ein Yaakov 16, 205 Spaces, 24 ILS"
+            });
+            new google.maps.Marker({
+                position: {
+                    lat: 32.060009,
+                    lng: 34.761051
+                },
+                map: map,
+                icon: "img/venue/parking.png",
+                title: "Yehezkel Kaufmann 65, 770 Spaces, 20 ILS"
+            });
+            new google.maps.Marker({
+                position: {
+                    lat: 32.059125,
+                    lng: 34.759484
+                },
+                map: map,
+                icon: "img/venue/parking.png",
+                title: "Beit Haetzel, 260 Spaces, 20 ILS"
+            });
+
             var defaultMapOptions = {
                 name: 'Default Style'
             };
@@ -404,176 +488,176 @@
             var zoomedMapType = new google.maps.StyledMapType(zoomedOpts, zoomedMapOptions);
             map.mapTypes.set('default', defaultMapType);
             map.mapTypes.set('zoomed', zoomedMapType);
-            if (googleMaps === 'logistics') {
-                map.setMapTypeId('default');
-                var input = (document.getElementById('location-input'));
-                autocomplete = new google.maps.places.Autocomplete(input);
-                google.maps.event.addListener(autocomplete, 'place_changed', function() {
-                    marker.setVisible(false);
-                    var place = autocomplete.getPlace();
-                    if (place.geometry == 'undefined' || !place.geometry) {
-                        return;
-                    }
-                    var address = '';
-                    if (place.address_components) {
-                        address = [
-                            (place.address_components[0] && place.address_components[0].short_name || ''), (place.address_components[1] && place.address_components[1].short_name || ''), (place.address_components[2] && place.address_components[2].short_name || '')
-                        ].join(' ');
-                    }
-                    geocoder.geocode({
-                        'address': address
-                    }, function(results, status) {
-                        if (status == google.maps.GeocoderStatus.OK) {
-                            origin = results[0].geometry.location;
-                            calcRoute(origin, 'TRANSIT');
-                        } else {
-                            alert('Geocode was not successful for the following reason: ' + status);
-                        }
-                    });
-                });
+            // if (googleMaps === 'logistics') {
+            //     map.setMapTypeId('default');
+            //     var input = (document.getElementById('location-input'));
+            //     autocomplete = new google.maps.places.Autocomplete(input);
+            //     google.maps.event.addListener(autocomplete, 'place_changed', function() {
+            //         marker.setVisible(false);
+            //         var place = autocomplete.getPlace();
+            //         if (place.geometry == 'undefined' || !place.geometry) {
+            //             return;
+            //         }
+            //         var address = '';
+            //         if (place.address_components) {
+            //             address = [
+            //                 (place.address_components[0] && place.address_components[0].short_name || ''), (place.address_components[1] && place.address_components[1].short_name || ''), (place.address_components[2] && place.address_components[2].short_name || '')
+            //             ].join(' ');
+            //         }
+            //         geocoder.geocode({
+            //             'address': address
+            //         }, function(results, status) {
+            //             if (status == google.maps.GeocoderStatus.OK) {
+            //                 origin = results[0].geometry.location;
+            //                 calcRoute(origin, 'TRANSIT');
+            //             } else {
+            //                 alert('Geocode was not successful for the following reason: ' + status);
+            //             }
+            //         });
+            //     });
+            //
+            // } else {
+            //     map.setMapTypeId('zoomed');
+            // }
 
-            } else {
-                map.setMapTypeId('zoomed');
-            }
-
-            function calcRoute(origin, selectedMode) {
-                var request = {
-                    origin: origin,
-                    destination: eventPlace,
-                    travelMode: google.maps.TravelMode[selectedMode]
-                };
-                directionsService.route(request, function(response, status) {
-                    if (status == google.maps.DirectionsStatus.OK) {
-                        map.setMapTypeId('zoomed');
-                        directionsDisplay.setMap(map);
-                        directionsDisplay.setDirections(response);
-                        var leg = response.routes[0].legs[0];
-                        makeMarker(leg.start_location);
-                        makeMarker(leg.end_location);
-                        $('#distance').text(leg.distance.text);
-                        $('#estimateTime').text(leg.duration.text);
-                        $('#mode-select').val(selectedMode);
-                        $('#mode').removeClass('hidden');
-                        var attribute = $('#mode-icon use').attr('xlink:href');
-                        attribute = attribute.substring(0, attribute.indexOf('#') + 1) + 'icon-' + selectedMode.toLowerCase();
-                        $('#mode-icon use').attr('xlink:href', attribute);
-                    } else if (status != google.maps.DirectionsStatus.OK && selectedMode != 'DRIVING') {
-                        calcRoute(origin, 'DRIVING');
-                    } else {
-                        var path = polyline.getPath();
-                        path.push(origin);
-                        path.push(eventPlace);
-                        makeMarker(origin);
-                        makeMarker(eventPlace);
-                        var bounds = new google.maps.LatLngBounds();
-                        bounds.extend(origin);
-                        bounds.extend(eventPlace);
-                        map.fitBounds(bounds);
-                        polyline.setMap(map);
-                        var distance = Math.round(google.maps.geometry.spherical.computeDistanceBetween(origin, eventPlace) / 1000);
-                        $('#distance').text(distance + ' km');
-                        $('#estimateTime').text('');
-                        $('#find-flight').removeClass('hidden');
-                        $('#mode').addClass('hidden');
-                    }
-                });
-                deleteMarkers();
-                $('#find-way').addClass('location-active');
-                setDirectionInput(origin);
-                $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
-            }
-
-            function calcRouteFromMyLocation() {
-                if (navigator.geolocation) {
-                    navigator.geolocation.getCurrentPosition(function(position) {
-                        origin = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
-                        calcRoute(origin, 'TRANSIT');
-                    });
-                }
-            }
-
-            function makeMarker(position) {
-                var directionMarker = new google.maps.Marker({
-                    position: position,
-                    map: map,
-                    icon: icon
-                });
-                markers.push(directionMarker);
-            }
-
-            function addMarker(location) {
-                var marker = new google.maps.Marker({
-                    position: location,
-                    map: map
-                });
-                markers.push(marker);
-            }
-
-            function deleteMarkers() {
-                for (var i = 0; i < markers.length; i++) {
-                    markers[i].setMap(null);
-                }
-                markers = [];
-            }
-
-            function smoothZoom(level) {
-                var currentZoom = map.getZoom(),
-                    timeStep = 50;
-                var numOfSteps = Math.abs(level - currentZoom);
-                var step = (level > currentZoom) ? 1 : -1;
-                for (var i = 0; i < numOfSteps; i++) {
-                    setTimeout(function() {
-                        currentZoom += step;
-                        map.setZoom(currentZoom);
-                    }, (i + 1) * timeStep);
-                }
-            }
-
-            function setDirectionInput(origin) {
-                geocoder.geocode({
-                    'latLng': origin
-                }, function(results, status) {
-                    if (status == google.maps.GeocoderStatus.OK && results[1]) {
-                        var arrAddress = results[1].address_components;
-                        $.each(arrAddress, function(i, address_component) {
-                            if (address_component.types[0] == "locality") {
-                                $('#result-name').text(address_component.long_name);
-                                return false;
-                            }
-                        });
-                    }
-                });
-            }
-
-            $('#mode-select').change(function() {
-                var selectedMode = $(this).val();
-                calcRoute(origin, selectedMode);
-            });
-
-            $("#direction-locate").click(calcRouteFromMyLocation);
-
-            $("#direction-cancel").click(function() {
-                $('#find-way').removeClass('location-active');
-                $('#location-input').val('');
-                $("#find-flight").addClass('hidden');
-                deleteMarkers();
-                directionsDisplay.setMap(null);
-                polyline.setMap(null);
-                map.setMapTypeId('default');
-                map.panTo(eventPlace);
-                if ($(window).width() < 768) {
-                    map.setCenter(mobileCenterMap);
-                } else {
-                    map.setCenter(centerMap);
-                }
-                makeMarker(eventPlace);
-                smoothZoom(5);
-                $('#find-way h3').removeClass('fadeOutDown').addClass('fadeInUp');
-            });
-
-            if (typeof autoDirectionEnabled !== 'undefined' && autoDirectionEnabled == true) {
-                calcRouteFromMyLocation();
-            }
+            // function calcRoute(origin, selectedMode) {
+            //     var request = {
+            //         origin: origin,
+            //         destination: eventPlace,
+            //         travelMode: google.maps.TravelMode[selectedMode]
+            //     };
+            //     directionsService.route(request, function(response, status) {
+            //         if (status == google.maps.DirectionsStatus.OK) {
+            //             map.setMapTypeId('zoomed');
+            //             directionsDisplay.setMap(map);
+            //             directionsDisplay.setDirections(response);
+            //             var leg = response.routes[0].legs[0];
+            //             makeMarker(leg.start_location);
+            //             makeMarker(leg.end_location);
+            //             $('#distance').text(leg.distance.text);
+            //             $('#estimateTime').text(leg.duration.text);
+            //             $('#mode-select').val(selectedMode);
+            //             $('#mode').removeClass('hidden');
+            //             var attribute = $('#mode-icon use').attr('xlink:href');
+            //             attribute = attribute.substring(0, attribute.indexOf('#') + 1) + 'icon-' + selectedMode.toLowerCase();
+            //             $('#mode-icon use').attr('xlink:href', attribute);
+            //         } else if (status != google.maps.DirectionsStatus.OK && selectedMode != 'DRIVING') {
+            //             calcRoute(origin, 'DRIVING');
+            //         } else {
+            //             var path = polyline.getPath();
+            //             path.push(origin);
+            //             path.push(eventPlace);
+            //             makeMarker(origin);
+            //             makeMarker(eventPlace);
+            //             var bounds = new google.maps.LatLngBounds();
+            //             bounds.extend(origin);
+            //             bounds.extend(eventPlace);
+            //             map.fitBounds(bounds);
+            //             polyline.setMap(map);
+            //             var distance = Math.round(google.maps.geometry.spherical.computeDistanceBetween(origin, eventPlace) / 1000);
+            //             $('#distance').text(distance + ' km');
+            //             $('#estimateTime').text('');
+            //             $('#find-flight').removeClass('hidden');
+            //             $('#mode').addClass('hidden');
+            //         }
+            //     });
+            //     deleteMarkers();
+            //     $('#find-way').addClass('location-active');
+            //     setDirectionInput(origin);
+            //     $('#find-way h3').removeClass('fadeInUp').addClass('fadeOutDown');
+            // }
+            //
+            // function calcRouteFromMyLocation() {
+            //     if (navigator.geolocation) {
+            //         navigator.geolocation.getCurrentPosition(function(position) {
+            //             origin = new google.maps.LatLng(position.coords.latitude, position.coords.longitude);
+            //             calcRoute(origin, 'TRANSIT');
+            //         });
+            //     }
+            // }
+            //
+            // function makeMarker(position) {
+            //     var directionMarker = new google.maps.Marker({
+            //         position: position,
+            //         map: map,
+            //         icon: icon
+            //     });
+            //     markers.push(directionMarker);
+            // }
+            //
+            // function addMarker(location) {
+            //     var marker = new google.maps.Marker({
+            //         position: location,
+            //         map: map
+            //     });
+            //     markers.push(marker);
+            // }
+            //
+            // function deleteMarkers() {
+            //     for (var i = 0; i < markers.length; i++) {
+            //         markers[i].setMap(null);
+            //     }
+            //     markers = [];
+            // }
+            //
+            // function smoothZoom(level) {
+            //     var currentZoom = map.getZoom(),
+            //         timeStep = 50;
+            //     var numOfSteps = Math.abs(level - currentZoom);
+            //     var step = (level > currentZoom) ? 1 : -1;
+            //     for (var i = 0; i < numOfSteps; i++) {
+            //         setTimeout(function() {
+            //             currentZoom += step;
+            //             map.setZoom(currentZoom);
+            //         }, (i + 1) * timeStep);
+            //     }
+            // }
+            //
+            // function setDirectionInput(origin) {
+            //     geocoder.geocode({
+            //         'latLng': origin
+            //     }, function(results, status) {
+            //         if (status == google.maps.GeocoderStatus.OK && results[1]) {
+            //             var arrAddress = results[1].address_components;
+            //             $.each(arrAddress, function(i, address_component) {
+            //                 if (address_component.types[0] == "locality") {
+            //                     $('#result-name').text(address_component.long_name);
+            //                     return false;
+            //                 }
+            //             });
+            //         }
+            //     });
+            // }
+            //
+            // $('#mode-select').change(function() {
+            //     var selectedMode = $(this).val();
+            //     calcRoute(origin, selectedMode);
+            // });
+            //
+            // $("#direction-locate").click(calcRouteFromMyLocation);
+            //
+            // $("#direction-cancel").click(function() {
+            //     $('#find-way').removeClass('location-active');
+            //     $('#location-input').val('');
+            //     $("#find-flight").addClass('hidden');
+            //     deleteMarkers();
+            //     directionsDisplay.setMap(null);
+            //     polyline.setMap(null);
+            //     map.setMapTypeId('default');
+            //     map.panTo(eventPlace);
+            //     if ($(window).width() < 768) {
+            //         map.setCenter(mobileCenterMap);
+            //     } else {
+            //         map.setCenter(centerMap);
+            //     }
+            //     makeMarker(eventPlace);
+            //     smoothZoom(5);
+            //     $('#find-way h3').removeClass('fadeOutDown').addClass('fadeInUp');
+            // });
+            //
+            // if (typeof autoDirectionEnabled !== 'undefined' && autoDirectionEnabled == true) {
+            //     calcRouteFromMyLocation();
+            // }
         }
 
         google.maps.event.addDomListener(window, 'load', initialize);
