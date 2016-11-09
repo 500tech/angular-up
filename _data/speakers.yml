@@ -264,24 +264,8 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
   social:
     - {name: "twitter", link: "https://twitter.com/MaayanGlikser"}
     - {name: "github", link: "https://github.com/morsdyce"}
-
 -
   id: 19
-  name: "Shmuela"
-  surname: "Jacobs"
-  company: "500Tech"
-  title: "Developer/Consultant @ 500Tech"
-  longTitle: "Developer/Consultant @ 500Tech"
-  bio: "<p>Making your life better with Augury
-  </p><p>
-    You may be a phenomenal Angular 2 developer. You may also be an ambitious total beginner. Maybe you’re not a developer at all - perhaps a QA tester or a product manager. Whatever you may be, if you’re working on an Angular 2 application then Augury will give you immediate insights and useful tools to handle the project. Learn how Augury can make your life not only easier, but also better
-  </p>"
-  thumbnailUrl: shmuela.jpg
-  social:
-    - { name: "twitter", link: "https://twitter.com/ShmuelaJ"}
-    - { name: "github", link: "https://github.com/shmool"}
--
-  id: 20
   name: "Ziv"
   surname: "Gilad"
   title: "Full stack trainer and consultant"
@@ -296,29 +280,13 @@ He is always happy to learn about the new stuff and to pass the knowledge as far
     - {name: "github", link: "https://github.com/zivgi"}
     - {name: "website", link: "http://www.synctheband.com/guest/"}
 
--
-  id: 21
-  name: "Noam"
-  surname: "Kfir"
-  title: ""
-  longTitle: ""
-  bio: "<p>Reaching Out with Angular 2 - Accessibility & Internationalization</p>
-    <p>Your app is basically unusable. Whole populations will never even know you exist, and you're probably alienating many who do.<br>
-      Putting yourself on the map means reaching out to all your potential customers, regardless of whether they use a keyboard or mouse, where they live, the language they speak or sign, or if they need a screen reader to use your app.<br>
-      In this lightning talk, we'll run through a bunch of quick demos and show how to start preparing your Angular 2 app for people that come from all walks of life.<br>"
-  thumbnailUrl: noam.jpg
-  company: ""
-  social:
-    - {name: "twitter", link: "https://twitter.com/noamkfir"}
-    - {name: "github", link: "https://github.com/"}
-    - {name: "website", link: "http://noam.kfir.cc/blog/"}
 
 -
-  id: 22
+  id: 20
   name: "Ofir"
   surname: "Dagan"
-  title: ""
-  longTitle: ""
+  title: "Team lead @ Wix"
+  longTitle: "Team lead @ Wix"
   bio: "<p>The Secret Life of Side Projects</p>
   <p>So you’re a ninja software engineer, and you work at a really cool company. <br>
 You love your job but a curious mind like yourself might want to expand your horizons and learn a new language / platform, and get a taste of the marketing and product worlds as well.<br>
@@ -331,3 +299,34 @@ In this lightning talk I will share my two cents about why doing side projects a
   social:
     - {name: "twitter", link: "https://twitter.com/ofirdagan2"}
     - {name: "github", link: "https://github.com/ofirdagan"}
+-
+  id: 21
+  name: "Shmuela"
+  surname: "Jacobs"
+  company: "500Tech"
+  title: "Developer/Consultant @ 500Tech"
+  longTitle: "Developer/Consultant @ 500Tech"
+  bio: "<p>Making your life better with Augury
+  </p><p>
+    You may be a phenomenal Angular 2 developer. You may also be an ambitious total beginner. Maybe you’re not a developer at all - perhaps a QA tester or a product manager. Whatever you may be, if you’re working on an Angular 2 application then Augury will give you immediate insights and useful tools to handle the project. Learn how Augury can make your life not only easier, but also better
+  </p>"
+  thumbnailUrl: shmuela.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/ShmuelaJ"}
+    - { name: "github", link: "https://github.com/shmool"}
+-
+  id: 22
+  name: "Noam"
+  surname: "Kfir"
+  title: "Independent Consultant & Trainer"
+  longTitle: "Independent Consultant & Trainer"
+  bio: "<p>Reaching Out with Angular 2 - Accessibility & Internationalization</p>
+    <p>Your app is basically unusable. Whole populations will never even know you exist, and you're probably alienating many who do.<br>
+      Putting yourself on the map means reaching out to all your potential customers, regardless of whether they use a keyboard or mouse, where they live, the language they speak or sign, or if they need a screen reader to use your app.<br>
+      In this lightning talk, we'll run through a bunch of quick demos and show how to start preparing your Angular 2 app for people that come from all walks of life.<br>"
+  thumbnailUrl: noam.jpg
+  company: ""
+  social:
+    - {name: "twitter", link: "https://twitter.com/noamkfir"}
+    - {name: "github", link: "https://github.com/"}
+    - {name: "website", link: "http://noam.kfir.cc/blog/"}
