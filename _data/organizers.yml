@@ -13,6 +13,7 @@
     - {title: "Gil Fink", name: "Gil Fink", description: "", link: "https://www.linkedin.com/in/gilfink", imageUrl: "gil.jpg"}
     - {title: "Nir Kaufman", name: "Nir Kaufman", description: "", link: "https://www.linkedin.com/in/nirkaufman", imageUrl: "nir.jpg"}
     - {title: "Nur Lee Harel", name: "Nur Lee Harel", description: "", link: "", imageUrl: "nur.jpg"}
+    - {title: "Ilya Gelman", name: "Ilya Gelman", description: "", link: "https://www.linkedin.com/in/ilyagelman", imageUrl: "ilya.jpg"}
 -
   group: "Community Volunteers"
   class: ""
