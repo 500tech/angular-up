@@ -2,26 +2,16 @@
   group: "Gold"
   class: "gold"
   elements:
-    - {name: "SiSense", description: "Sisense simplifies business analytics for complex data with an end-to-end platform that empowers business users to prepare and analyze both large and disparate datasets.  By enabling easy data mash-up, Sisense delivers analytical insights on complex data that is immediate, comprehensive and autonomous, all for a lower TCO.", link: "https://www.sisense.com/", imageUrl: "sisense.png"}
-    - {name: "CyberArk", scale: 0.8, description: "CyberArk is the only security company laser-focused on striking down targeted cyber threats, those that make their way inside to attack the heart of the enterprise", link: "https://www.cyberark.com/", imageUrl: "cyberark.jpg"}
-    - {name: "Como", scale: 1.0, description: "Your Swiss Army Knife for Happy Customers. Complete set of customer management tools", link: "http://www.como.com/", imageUrl: "como.png"}
-    - {name: "AG Grid", scale: 1.2, description: "The JavaScript Datagrid for Enterprise", link: "https://www.ag-grid.com/", imageUrl: "aggrid.png"}
+    # - {name: "", description: "", link: "", imageUrl: ""}
 
 -
   group: "Silver"
   class: "silver"
   elements:
-    - {name: "ThetaRay", scale: 2.4, description: "ThetaRay is a leading provider of a big data analytics platform and solutions for advanced cyber security, operational efficiency, and risk detection, protecting financial services sectors and critical infrastructure against unknown threats. ThetaRay’s core technology is based on state of the art algorithms, which power its proprietary Hyper-Dimensional, Multi-Domain Big Data Analytics platform. Organizations whose operations rely on highly heterogeneous and complex environments leverage ThetaRay’s unmatched detection and low false positive rates as a see-all power that enables them to unify detection and defeat the unknown", link: "http://www.thetaray.com/", imageUrl: "thetaray.jpg"}
-    - {name: "Jive Software", scale: 1.6, description: "Jive is the leading provider of modern communication and collaboration solutions for business. Our products apply powerful technology that helps employees, partners and customers work better together", link: "https://www.jivesoftware.com/", imageUrl: "jive.png"}
-    - {name: "Big Panda", scale: 1.2, description: "Automatically consolidate your alerts by up to 99%", link: "https://bigpanda.io/", imageUrl: "panda.png"}
 -
   group: "Bronze"
   class: "bronze"
   elements:
-    - {name: "JetBrains", scale: 1.0, description: "Jetbrains", link: "https://www.jetbrains.com/", imageUrl: "jetbrains.svg"}
-    - {name: "Progress", scale: 2.2, imageUrl: "progress.png", link: "http://www.progress.com", description: "Progress is a global leader in application development, empowering the digital transformation organizations need to create and sustain engaging user experiences in today’s marketplace. With offerings spanning web, mobile and data for on-premises and cloud environments, Progress powers startups and industry titans worldwide, promoting success one customer at a time."}
-    - {name: "Angular Air", scale: 1.5, imageUrl: "angularair.png", link: "http://angularair.com", description: "A live video podcast all about Angular."}
-    - {name: "Pauza", scale: 1.0, imageUrl: "pauza.png", link: "http://www.pauza.co.il/", description: "חברת פתרונות הקפה הגדולה והמובילה בישראל"}
 
 -
   group: "Media partners"

@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "AngularUP 2016"
+title: "AngularUP 2017"
 email: "info@angular-up.com"
 description: "Israel's International Angular Conference & Tour"
 baseurl: ""
@@ -36,20 +36,19 @@ socialImageSrcTwitter: "/img/seo/sharing.png"
 socialImageSrcFacebook: "/img/seo/sharing.png"
 
 # Documents
-c4pUrl: "/cfp/"
+c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSf5XQd7HFg2KCwke1PuYmrX14sMGY9dJJHWJUQ3czGSs4E2-w/viewform"
 c4sponsorsUrl: "mailto:sponsors@angular-up.com"
 
 
 # Navigation
 navigationLinks:
- # - {permalink: "/#", text: "Home"}
-# - {permalink: "/blog/", text: "Blog"}
  - {permalink: "/#about", text: "About"}
- - {permalink: "/#schedule", text: "Schedule"}
+ - {permalink: "/#speakers", text: "Speakers"}
  - {permalink: "/#organizers", text: "Team"}
  - {permalink: "/#sponsors", text: "Sponsors"}
  - {permalink: "/#location-map", text: "Venue"}
  - {permalink: "/tour", text: "About Israel & Tour"}
+ - {link: "http://2016.angular-up.com", text: "AngularUP 2016"}
  # - {link: "https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA", text: "Talk videos"}
  # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
@@ -62,9 +61,9 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "AngularUP"
 heroSubtitle: "Israel's International Angular Conference & Tour"
-eventDate: "Tel Aviv, 17 November 2016"
+eventDate: "Tel Aviv, 10 September 2017"
 heroButtons:
- - {permalink: "/#subscribe", text: "Tickets sold out"}
+ - {permalink: "/#subscribe", text: "Tickets"}
 
 # About Block
 aboutTitle: "About AngularUP"
@@ -76,7 +75,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "500", specialCharacter: "+", info: "developers", detail: ""}
+ - {count: "800", specialCharacter: "+", info: "developers", detail: ""}
  - {count: "18", specialCharacter: "+", info: "speakers", detail: ""}
  - {count: "1", specialCharacter: "", info: "day", detail: ""}
  - {count: "2", specialCharacter: "", info: "parallel tracks", detail: ""}
@@ -92,19 +91,19 @@ rockstarSpeakersButtonText: "See the schedule"
 
 # Location Block
 locationBlockTitle: "Location"
-eventLocationName: "Dan Panorama Convention Center"
+eventLocationName: "David Intercontinental Convention Center"
 #eventLocationLink: "http://cabinet.kinopalace.lvi.ua/showtimes/"
-eventStreetAddress: "10 Prof. Yehezkel Kaufmann Street"
+eventStreetAddress: "12 Prof. Yehezkel Kaufmann Street"
 eventAddressLocality: "Tel Aviv-Yafo"
 #eventAddressLocalityRegion: "Lvivska"
 #eventPostalCode: "79000"
 eventAddressCountry: "Israel"
-eventStartTime: "2016-11-17T08:30"
+eventStartTime: "2017-09-10T08:30"
 eventDoorTime: "08:30"
-eventEndTime: "2016-11-17T18:00"
-eventPlaceCoordinates: "32.0649487,34.7623849"
-mapCenterCoordinates: "32.0649487,34.7623849"
-mapMobileCenterCoordinates: "32.0649487,34.7623849"
+eventEndTime: "2017-09-10T18:00"
+eventPlaceCoordinates: "32.0653958,34.7640649"
+mapCenterCoordinates: "32.0653958,34.7640649"
+mapMobileCenterCoordinates: "32.0653958,34.7640649"
 
 # Venue Block
 #venueBlockTitle: "Venue"
@@ -129,9 +128,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
-subscribeTitle: "Tickets Sold Out"
-subscribeInfo: "All talks will be recorded and uploaded to our youtube channel"
-subscribeInfo2: "Check out the website a few days after the conference"
+subscribeTitle: "Early bird tickets"
+subscribeInfo: "50 Early bird tickets are available for individuals only"
+subscribeInfo2: "Hurry up before they run out"
 # subscribeInfo2: "and uploaded to our <a target=\"_blank\" href=\"https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA\">youtube channel</a>"
 
 # Tickets Block
@@ -255,3 +254,45 @@ viewOnMap: "View on Google Maps"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+
+ticketsOffers:
+  -
+    name: "Early Bird"
+    price: "420"
+    priceCurrency: "ILS"
+    validity: "First 50 tickets for individuals only"
+    buyButtonLink: "https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
+    buyButtonText: "Buy Now"
+    euroPrice: "105"
+    soldOut: false
+    disabled: false
+  -
+    name: "Regular"
+    price: "620"
+    priceCurrency: "ILS"
+    validity: "Sale ended on 07/31/2017"
+    buyButtonLink: "https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
+    buyButtonText: "Buy Now"
+    euroPrice: "155"
+    soldOut: false
+    disabled: true
+  -
+    name: "Late Bird"
+    price: "750"
+    priceCurrency: "ILS"
+    validity: "Sale ends on 08/31/2017"
+    buyButtonLink: "https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
+    buyButtonText: "Buy Now"
+    euroPrice: "190"
+    soldOut: false
+    disabled: true
+  -
+    name: "Last Minute"
+    price: "1120"
+    priceCurrency: "ILS"
+    validity: "Sale is open until we're sold out"
+    buyButtonLink: "https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
+    buyButtonText: "Buy Now"
+    euroPrice: "280"
+    soldOut: false
+    disabled: true
