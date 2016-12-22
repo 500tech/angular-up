@@ -61,7 +61,7 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "AngularUP"
 heroSubtitle: "Israel's International Angular Conference & Tour"
-eventDate: "Tel Aviv, 10 September 2017"
+eventDate: "Tel Aviv, 25 June 2017"
 heroButtons:
  - {permalink: "/#subscribe", text: "Tickets"}
 
@@ -270,7 +270,7 @@ ticketsOffers:
     name: "Regular"
     price: "620"
     priceCurrency: "ILS"
-    validity: "Sale ended on 07/31/2017"
+    validity: "Sale ends on TBD"
     buyButtonLink: "https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
     buyButtonText: "Buy Now"
     euroPrice: "155"
@@ -280,7 +280,7 @@ ticketsOffers:
     name: "Late Bird"
     price: "750"
     priceCurrency: "ILS"
-    validity: "Sale ends on 08/31/2017"
+    validity: "Sale ends on TBD"
     buyButtonLink: "https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
     buyButtonText: "Buy Now"
     euroPrice: "190"
