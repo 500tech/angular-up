@@ -7,7 +7,8 @@
     "start": "jekyll serve -w",
     "build": "rm -rf dist && jekyll build -d dist",
     "start:dist": "http-server dist",
-    "deploy": "git push origin master:live"
+    "deploy": "git push origin master:staging",
+    "deploy:production": "git push origin master:live"
   },
   "repository": {
     "type": "git",
