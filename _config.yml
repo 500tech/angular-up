@@ -48,7 +48,9 @@ navigationLinks:
  - {permalink: "/#sponsors", text: "Sponsors"}
  - {permalink: "/#location-map", text: "Venue"}
  - {permalink: "/tour", text: "About Israel & Tour"}
- - {link: "http://2016.angular-up.com", text: "AngularUP 2016"}
+ - {link: "http://2016.angular-up.com", text: "2016 Website"}
+ - {link: "https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA/videos", text: "2016 Videos"}
+
  # - {link: "https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA", text: "Talk videos"}
  # - {permalink: "/logistics/", text: "Logistics"}
 # - {permalink: "/hackathon/", text: "Hackathon"}
