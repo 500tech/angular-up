@@ -131,7 +131,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
 subscribeTitle: "Discounted packages & tour"
-subscribeInfo: "We offer discounted packages including hotel, the event, and the holy land tour"
+subscribeInfo: "We offer discounted packages including 3 nights at the hotel, the Conference, and the Angular Tour of Israel"
 subscribeInfo2: "<a href=\"/tour\">More details</a>"
 # subscribeInfo2: "and uploaded to our <a target=\"_blank\" href=\"https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA\">youtube channel</a>"
 
@@ -301,7 +301,7 @@ ticketsOffers:
 
 packageTicketsOffers:
   -
-    name: "Early Bird Tour Combo"
+    name: "Tour Combo"
     price: "TBD"
     priceCurrency: "EUR"
     validity: "First 50 tickets for individuals only"
@@ -311,7 +311,7 @@ packageTicketsOffers:
     soldOut: false
     disabled: false
   -
-    name: "Early Bird Full Combo"
+    name: "Full Combo"
     price: "TBD"
     priceCurrency: "EUR"
     validity: "First 50 tickets for individuals only"
@@ -322,7 +322,7 @@ packageTicketsOffers:
     soldOut: false
     disabled: false
   -
-    name: "Early Bird Couples Combo"
+    name: "Couples Combo"
     price: "TBD"
     priceCurrency: "EUR"
     validity: "First 50 tickets for individuals only"

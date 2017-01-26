@@ -3,6 +3,14 @@ $title-background-color: #f2f2f2;
 $button-background-color: #333;
 $button-background-color-hover: #4d4d4d;
 
+.packages-tickets {
+  .pricing-col {
+    .ticket-additional-info {
+      position: static;
+    }
+  }
+}
+
 .pricing-col {
     overflow: hidden;
     margin-bottom: 26px;
