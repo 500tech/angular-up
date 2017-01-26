@@ -302,7 +302,7 @@ ticketsOffers:
 packageTicketsOffers:
   -
     name: "Tour Combo"
-    price: "TBD"
+    price: "400"
     priceCurrency: "EUR"
     validity: "First 50 tickets for individuals only"
     buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
@@ -312,7 +312,7 @@ packageTicketsOffers:
     disabled: false
   -
     name: "Full Combo"
-    price: "TBD"
+    price: "750"
     priceCurrency: "EUR"
     validity: "First 50 tickets for individuals only"
     validity: "Sale ends on TBD"
@@ -323,7 +323,7 @@ packageTicketsOffers:
     disabled: false
   -
     name: "Couples Combo"
-    price: "TBD"
+    price: "1100"
     priceCurrency: "EUR"
     validity: "First 50 tickets for individuals only"
     buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
