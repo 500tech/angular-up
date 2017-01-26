@@ -16,5 +16,8 @@
   },
   "author": "Nir Kaufman <nirkaufman@gmail.com> (nirkaufman.com)",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/500tech/angular-up#readme"
+  "homepage": "https://bitbucket.org/500tech/angular-up#readme",
+  "dependencies": {
+    "angular2-modal": "2.0.3"
+  }
 }
