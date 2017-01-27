@@ -393,8 +393,8 @@
                     lng: 34.763542
                 },
                 scrollwheel: !1,
-                draggable: o,
-                disableDefaultUI: !o,
+                draggable: true,
+                disableDefaultUI: false,
                 zoom: 16
             });
             new google.maps.Marker({
