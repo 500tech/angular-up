@@ -20,7 +20,7 @@ exclude:
 - CNAME
 email: info@angular-up.com
 description: Israel's International Angular Conference & Tour
-baseurl: ''
+baseurl: 
 url: http://angular-up.com
 googleAnalyticsTrackingId: UA-33424960-10
 siteVerification: _bip9-FpfnhCa6taFy05cJCndLdRzKMh5Mm3aoVQAqE
@@ -76,22 +76,22 @@ aboutBlock:
   moreLink: "/tour"
 statisticBlockImage: statistic.jpg
 statisticBlock:
-- count: '800'
+- count: 800
   specialCharacter: "+"
   info: developers
-  detail: ''
-- count: '18'
+  detail: 
+- count: 18
   specialCharacter: "+"
   info: speakers
-  detail: ''
-- count: '1'
-  specialCharacter: ''
+  detail: 
+- count: 1
+  specialCharacter: 
   info: day
-  detail: ''
-- count: '2'
-  specialCharacter: ''
+  detail: 
+- count: 2
+  specialCharacter: 
   info: parallel tracks
-  detail: ''
+  detail: 
 latestNewsTitle: Latest news
 rockstarSpeakersImage: rockstar-speakers.jpg
 rockstarSpeakersCount: 4
@@ -102,9 +102,9 @@ eventLocationName: David Intercontinental Convention Center
 eventStreetAddress: 12 Prof. Yehezkel Kaufmann Street
 eventAddressLocality: Tel Aviv-Yafo
 eventAddressCountry: Israel
-eventStartTime: 2017-09-10T08:30
+eventStartTime: 2017-09-10 08:30:00.000000000 Z
 eventDoorTime: '08:30'
-eventEndTime: 2017-09-10T18:00
+eventEndTime: 2017-09-10 18:00:00.000000000 Z
 eventPlaceCoordinates: 32.0653958,34.7640649
 mapCenterCoordinates: 32.0653958,34.7640649
 mapMobileCenterCoordinates: 32.0653958,34.7640649
@@ -266,77 +266,77 @@ hackathonLocationLink: http://communa.net.ua/
 hackathonStreetAddress: 1 Halytska St
 hackathonAddressLocality: Lviv
 hackathonAddressLocalityRegion: Lvivska
-hackathonPostalCode: '79000'
+hackathonPostalCode: 79000
 hackathonAddressCountry: Ukraine
 hackathonTimeTitle: Hack through
-hackathonStartTime: 2014-10-24T10:00
+hackathonStartTime: 2014-10-24 10:00:00.000000000 Z
 hackathonDoorTime: '09:00'
-hackathonEndTime: 2014-10-25T00:00
+hackathonEndTime: 2014-10-25 00:00:00.000000000 Z
 viewOnMap: View on Google Maps
 hackathonPlaceCoordinates: 49.840999, 24.031144
 hackathonMapCenterCoordinates: 49.840696, 24.028754
 hackathonMapMobileCenterCoordinates: 49.841639, 24.031182
 ticketsOffers:
 - name: Early Bird
-  price: '420'
+  price: 420
   priceCurrency: ILS
   validity: First 50 tickets for individuals only
-  buyButtonLink: ''
+  buyButtonLink: 
   buyButtonText: Coming Soon
-  euroPrice: '105'
+  euroPrice: 105
   soldOut: false
   disabled: false
 - name: Regular
-  price: '620'
+  price: 620
   priceCurrency: ILS
   validity: Sale ends on TBD
   buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
   buyButtonText: Buy Now
-  euroPrice: '155'
+  euroPrice: 155
   soldOut: false
   disabled: true
 - name: Late Bird
-  price: '750'
+  price: 750
   priceCurrency: ILS
   validity: Sale ends on TBD
   buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
   buyButtonText: Buy Now
-  euroPrice: '190'
+  euroPrice: 190
   soldOut: false
   disabled: true
 - name: Last Minute
-  price: '1120'
+  price: 1120
   priceCurrency: ILS
   validity: Sale is open until we're sold out
   buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
   buyButtonText: Buy Now
-  euroPrice: '280'
+  euroPrice: 280
   soldOut: false
   disabled: true
 packageTicketsOffers:
 - name: Tour Combo
-  price: '400'
+  price: 400
   priceCurrency: EUR
   validity: First 50 tickets for individuals only
-  buyButtonLink: ''
+  buyButtonLink: 
   buyButtonText: Coming Soon
   details: Conference + Tour
   soldOut: false
   disabled: false
 - name: Full Combo
-  price: '750'
+  price: 750
   priceCurrency: EUR
   validity: Sale ends on TBD
-  buyButtonLink: ''
+  buyButtonLink: 
   buyButtonText: Coming Soon
   details: Conference + Hotel + Tour
   soldOut: false
   disabled: false
 - name: Couples Combo
-  price: '1100'
+  price: 1100
   priceCurrency: EUR
   validity: First 50 tickets for individuals only
-  buyButtonLink: ''
+  buyButtonLink: 
   buyButtonText: Coming Soon
   details: Conference + Hotel + Tour
   soldOut: false
