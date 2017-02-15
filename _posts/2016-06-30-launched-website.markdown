@@ -1,7 +1,7 @@
 ---
+title: Website officially launched
+date: 2016-06-30 11:24:00 Z
 layout: post
-title:  "Website officially launched"
-date:   2016-06-30 11:24:00
 isStaticPost: false
 ---
 

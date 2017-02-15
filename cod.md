@@ -1,7 +1,7 @@
 ---
-layout: post
 title: Code of conduct
-permalink: /cod/
+permalink: "/cod/"
+layout: post
 isStaticPost: true
 ---
 
