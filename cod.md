@@ -1,15 +1,15 @@
 ---
 title: Code of conduct
 permalink: "/cod/"
-layout: post
 isStaticPost: true
+layout: post
 ---
 
 #### Conference Code of Conduct
 
 All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
-##### Need Help?
+##### Need Help?!
 
 You have our contact details in the emails we've sent.
 
@@ -33,8 +33,7 @@ Conference staff will be happy to help participants contact hotel/venue security
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
-
-__Contacts:__
+**Contacts:**
 [info@angular-up.com](mailto:info@angular-up.com)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
