@@ -94,6 +94,9 @@ $button-background-color-hover: #4d4d4d;
         @media (max-width: 1500px) {
             font-size: 52px;
         }
+        @media (min-width: 767px) and (max-width: 780px) {
+            font-size: 45px;
+        }
         font-weight: $light;
         color: #000;
     }
