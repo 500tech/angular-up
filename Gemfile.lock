@@ -168,6 +168,3 @@ DEPENDENCIES
   github-pages
   jekyll-admin
   sass-media_query_combiner
-
-BUNDLED WITH
-   1.13.6

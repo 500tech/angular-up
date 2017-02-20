@@ -322,7 +322,7 @@ packageTicketsOffers:
     soldOut: false
     disabled: false
   -
-    name: "Buddies Combo"
+    name: "Buddies"
     price: "1100"
     priceCurrency: "EUR"
     validity: "First 50 tickets for individuals only"
@@ -332,7 +332,7 @@ packageTicketsOffers:
     soldOut: false
     disabled: false
   -
-    name: "Couples Combo"
+    name: "Couples"
     price: "1300"
     priceCurrency: "EUR"
     validity: "First 50 tickets for individuals only"
