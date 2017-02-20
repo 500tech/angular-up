@@ -1,5 +1,5 @@
 -
-  id: 1
+  id: 31
   name: "Maybe"
   surname: "You?"
   company: ""
@@ -13,7 +13,7 @@
     - {name: "twitter", link: ""}
 
 -
-  id: 2
+  id: 32
   name: "Maybe"
   surname: "You?"
   company: ""
@@ -26,22 +26,22 @@
     - {name: "github", link: ""}
     - {name: "twitter", link: ""}
 
-# -
-#   id: 1
-#   name: "Sebastian"
-#   surname: "Witalec"
-#   company: "Telerik"
-#   title: "Technical Evangelist at Telerik"
-#   longTitle: "Technical Evangelist at Telerik"
-#   bio: "Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture.
-# Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript (a member of the team).
-# He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
-# "
-#   thumbnailUrl: sebastian.png
-#   rockstar: true
-#   social:
-#     - {name: "github", link: "https://github.com/sebawita"}
-#     - {name: "twitter", link: "https://twitter.com/sebawita"}
+-
+  id: 1
+  name: "Sebastian"
+  surname: "Witalec"
+  company: "Telerik"
+  title: "Technical Evangelist at Telerik"
+  longTitle: "Technical Evangelist at Telerik"
+  bio: "Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture.
+  Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript (a member of the team).
+  He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
+  "
+  thumbnailUrl: sebastian.png
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/sebawita"}
+    - {name: "twitter", link: "https://twitter.com/sebawita"}
 # -
 #   id: 2
 #   name: "Daniel"
@@ -201,19 +201,19 @@
 #     - {name: "twitter", link: "http://twitter.com/adamklein500"}
 #     - {name: "github", link: "https://github.com/adamkleingit"}
 #     - {name: "website", link: "http://500tech.com"}
-# -
-#   id: 13
-#   name: "Sani"
-#   surname: "Yusuf"
-#   company: "Haibrid"
-#   title: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
-#   longTitle: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
-#   bio: "Sani is a Co-Organiser of the Ionic UK community and writes and creates content around Ionic. He is a Developer, Writer & Trainer and runs a startup called Haibrid that uses cross-platform mobile development techniques to create mobile solutions. When he is not coding, Sani likes to spend time contributing to the tech community and recently travelled the world for 8 months across 12 cities in 3 continents evangelising on mobile"
-#   thumbnailUrl: sani.jpg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/saniyusuf"}
-#     - {name: "github", link: "https://github.com/saniyusuf"}
+-
+  id: 13
+  name: "Sani"
+  surname: "Yusuf"
+  company: "Haibrid"
+  title: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
+  longTitle: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
+  bio: "Sani is a Co-Organiser of the Ionic UK community and writes and creates content around Ionic. He is a Developer, Writer & Trainer and runs a startup called Haibrid that uses cross-platform mobile development techniques to create mobile solutions. When he is not coding, Sani likes to spend time contributing to the tech community and recently travelled the world for 8 months across 12 cities in 3 continents evangelising on mobile"
+  thumbnailUrl: sani.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/saniyusuf"}
+    - {name: "github", link: "https://github.com/saniyusuf"}
 # -
 #   id: 14
 #   name: "Elad"
@@ -358,3 +358,29 @@
 #     - {name: "twitter", link: "https://twitter.com/noamkfir"}
 #     - {name: "github", link: "https://github.com/"}
 #     - {name: "website", link: "http://noam.kfir.cc/blog/"}
+-
+  id: 23
+  name: "Ari"
+  surname: "Lerner"
+  company: "Fullstack.io"
+  title: "Cofounder at Fullstack.io, Author of ng-book"
+  longTitle: "Cofounder at Fullstack.io, Author of ng-book"
+  bio: "Ari Lerner is an author and developer with more than 20 years of experience, as well as co-founder of Fullstack.io. He has been using AngularJS for a long time and is a recognized expert in the field. He co-runs the ng-newsletter, speaks at conferences, constantly produces content all about AngularJS, has recently released Riding Rails with AngularJS, and teaches in-person classes at Hack Reactor. He constantly speaks about AngularJS and more, including talks and workshops such as Angular on Mobile, Powering physical interfaces with Angular at ngConf, and Workshop: AngularJS for beginners."
+  thumbnailUrl: sani.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/auser"}
+    - {name: "github", link: "https://github.com/auser"}
+-
+  id: 24
+  name: "Pascal"
+  surname: "Precht"
+  company: "Thoughtram"
+  title: "Cofounder at Thoughtram"
+  longTitle: "Cofounder at Thoughtram"
+  bio: "Pascal is a front-end engineer and a Angular Developer Expert nominated by Google. He created the angular-translate module, is an Angular contributor and also part of the Angular Docs Authoring team."
+  thumbnailUrl: sani.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/PascalPrecht"}
+    - {name: "github", link: "https://github.com/PascalPrecht"}

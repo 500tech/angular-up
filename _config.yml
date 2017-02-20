@@ -322,12 +322,22 @@ packageTicketsOffers:
     soldOut: false
     disabled: false
   -
-    name: "Couples Combo"
+    name: "Buddies Combo"
     price: "1100"
     priceCurrency: "EUR"
     validity: "First 50 tickets for individuals only"
     buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
     buyButtonText: "Coming Soon"
-    details: "Conference + Hotel + Tour"
+    details: "Conference + Hotel (twin room) + Tour*2"
+    soldOut: false
+    disabled: false
+  -
+    name: "Couples Combo"
+    price: "1300"
+    priceCurrency: "EUR"
+    validity: "First 50 tickets for individuals only"
+    buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
+    buyButtonText: "Coming Soon"
+    details: "Conference*1 + Hotel (double room) + Tour*2"
     soldOut: false
     disabled: false
