@@ -321,7 +321,7 @@ packageTicketsOffers:
   soldOut: false
   disabled: false
 - name: Buddies
-  price: '1100'
+  price: '1300'
   priceCurrency: EUR
   validity: First 50 tickets for individuals only
   buyButtonLink: ''
@@ -330,7 +330,7 @@ packageTicketsOffers:
   soldOut: false
   disabled: false
 - name: Couples
-  price: '1300'
+  price: '1100'
   priceCurrency: EUR
   validity: First 50 tickets for individuals only
   buyButtonLink: ''
