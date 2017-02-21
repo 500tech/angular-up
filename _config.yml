@@ -326,7 +326,7 @@ packageTicketsOffers:
   validity: First 50 tickets for individuals only
   buyButtonLink: ''
   buyButtonText: Coming Soon
-  details: Conference + Hotel (twin room) + Tour*2
+  details: Conference*2 + Hotel (twin room) + Tour*2
   soldOut: false
   disabled: false
 - name: Couples
