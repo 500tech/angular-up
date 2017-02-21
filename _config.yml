@@ -312,7 +312,7 @@ packageTicketsOffers:
   soldOut: false
   disabled: false
 - name: Full Combo
-  price: '750'
+  price: '700'
   priceCurrency: EUR
   validity: Sale ends on TBD
   buyButtonLink: ''
