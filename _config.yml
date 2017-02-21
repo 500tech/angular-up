@@ -306,35 +306,35 @@ packageTicketsOffers:
   price: '400'
   priceCurrency: EUR
   validity: First 50 tickets for individuals only
-  buyButtonLink: ''
-  buyButtonText: Coming Soon
-  details: Conference + Tour
+  buyButtonLink: 'https://angularup2017.eventbrite.com'
+  buyButtonText: I want this!
+  details: 
   soldOut: false
   disabled: false
 - name: Full Combo
   price: '700'
   priceCurrency: EUR
   validity: Sale ends on TBD
-  buyButtonLink: ''
-  buyButtonText: Coming Soon
-  details: Conference + Hotel + Tour
+  buyButtonLink: 'https://angularup2017.eventbrite.com'
+  buyButtonText: I want this!
+  details: 
   soldOut: false
   disabled: false
 - name: Buddies
   price: '1300'
   priceCurrency: EUR
   validity: First 50 tickets for individuals only
-  buyButtonLink: ''
-  buyButtonText: Coming Soon
-  details: Conference*2 + Hotel (twin room) + Tour*2
+  buyButtonLink: 'https://angularup2017.eventbrite.com'
+  buyButtonText: We want this!
+  details: 
   soldOut: false
   disabled: false
 - name: Couples
   price: '1100'
   priceCurrency: EUR
   validity: First 50 tickets for individuals only
-  buyButtonLink: ''
-  buyButtonText: Coming Soon
-  details: Conference*1 + Hotel (double room) + Tour*2
+  buyButtonLink: 'https://angularup2017.eventbrite.com'
+  buyButtonText: We want this!
+  details: 
   soldOut: false
   disabled: false
