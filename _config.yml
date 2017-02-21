@@ -306,7 +306,7 @@ packageTicketsOffers:
   price: '400'
   priceCurrency: EUR
   validity: First 50 tickets for individuals only
-  buyButtonLink: 'https://angularup2017.eventbrite.com'
+  buyButtonLink: https://angularup2017.eventbrite.com
   buyButtonText: I want this!
   details: 
   soldOut: false
@@ -315,7 +315,7 @@ packageTicketsOffers:
   price: '700'
   priceCurrency: EUR
   validity: Sale ends on TBD
-  buyButtonLink: 'https://angularup2017.eventbrite.com'
+  buyButtonLink: https://angularup2017.eventbrite.com
   buyButtonText: I want this!
   details: 
   soldOut: false
@@ -324,7 +324,7 @@ packageTicketsOffers:
   price: '1300'
   priceCurrency: EUR
   validity: First 50 tickets for individuals only
-  buyButtonLink: 'https://angularup2017.eventbrite.com'
+  buyButtonLink: https://angularup2017.eventbrite.com
   buyButtonText: We want this!
   details: 
   soldOut: false
@@ -333,7 +333,7 @@ packageTicketsOffers:
   price: '1100'
   priceCurrency: EUR
   validity: First 50 tickets for individuals only
-  buyButtonLink: 'https://angularup2017.eventbrite.com'
+  buyButtonLink: https://angularup2017.eventbrite.com
   buyButtonText: We want this!
   details: 
   soldOut: false
