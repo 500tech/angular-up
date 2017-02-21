@@ -1,343 +1,345 @@
-# Plugins
+---
+title: AngularUP 2017
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 gems:
 - jekyll-sitemap
 safe: false
-
-# Build Settings
 markdown: kramdown
-permalink: pretty
-exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
-
-
-# Site Settings
-title: "AngularUP 2017"
-email: "info@angular-up.com"
-description: "Israel's International Angular Conference & Tour"
-baseurl: ""
-url: "http://angular-up.com"
 permalink: "/blog/:title"
-googleAnalyticsTrackingId: "UA-33424960-10"
-#googleAnalyticsSiteUrl: "gdg-x.github.io"
-siteVerification: "_bip9-FpfnhCa6taFy05cJCndLdRzKMh5Mm3aoVQAqE"
-
-# Organizer Info
-# organizerName: "500Tech"
-# organizerAlternateName: "500Tech"
-# organizerDescription: "Angular and Reaxt, development courses and consulting"
-# organizerEmail: "orginizer@angular-up.com"
-# organizerLogo: "/img/seo/organizer-logo.png"
-# organizerLink: "http://lviv.gdg.org.ua/"
-
-# Head
-metaKeywords: "event, conference, angular, javascript"
+exclude:
+- "/automation/"
+- README.md
+- LICENSE.txt
+- CNAME
+email: info@angular-up.com
+description: Israel's International Angular Conference & Tour
+baseurl:
+url: http://angular-up.com
+googleAnalyticsTrackingId: UA-33424960-10
+siteVerification: _bip9-FpfnhCa6taFy05cJCndLdRzKMh5Mm3aoVQAqE
+metaKeywords: event, conference, angular, javascript
 twitterAccount: "@angularup"
 socialImageSrcGooglePlus: "/img/seo/sharing.png"
 socialImageSrcTwitter: "/img/seo/sharing.png"
 socialImageSrcFacebook: "/img/seo/sharing.png"
-
-# Documents
-c4pUrl: "https://docs.google.com/forms/d/e/1FAIpQLSf5XQd7HFg2KCwke1PuYmrX14sMGY9dJJHWJUQ3czGSs4E2-w/viewform"
-c4sponsorsUrl: "mailto:sponsors@angular-up.com"
-
-
-# Navigation
+c4pUrl: https://docs.google.com/forms/d/e/1FAIpQLSf5XQd7HFg2KCwke1PuYmrX14sMGY9dJJHWJUQ3czGSs4E2-w/viewform
+c4sponsorsUrl: mailto:sponsors@angular-up.com
 navigationLinks:
- - {permalink: "/#about", text: "About"}
- - {permalink: "/#speakers", text: "Speakers"}
- - {permalink: "/#organizers", text: "Team"}
- - {permalink: "/#sponsors", text: "Sponsors"}
- - {permalink: "/#location-map", text: "Venue"}
- - {permalink: "/tour", text: "About Israel & Tour"}
- - {link: "http://2016.angular-up.com", text: "2016 Website"}
- - {link: "https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA/videos", text: "2016 Videos"}
-
- # - {link: "https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA", text: "Talk videos"}
- # - {permalink: "/logistics/", text: "Logistics"}
-# - {permalink: "/hackathon/", text: "Hackathon"}
+- permalink: "/#about"
+  text: About
+- permalink: "/#speakers"
+  text: Speakers
+- permalink: "/#organizers"
+  text: Team
+- permalink: "/#sponsors"
+  text: Sponsors
+- permalink: "/#location-map"
+  text: Venue
+- permalink: "/tour"
+  text: About Israel & Tour
+- link: http://2016.angular-up.com
+  text: 2016 Website
+- link: https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA/videos
+  text: 2016 Videos
 bottomNavigationLinks:
- # - {permalink: "https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA", text: "Youtube channel"}
 rightNavigationButtons:
- - {permalink: "/#subscribe", text: "Tickets"}
-
-# Hero Block
-heroImage: "hero.jpg"
-heroTitle: "AngularUP"
-heroSubtitle: "Israel's International Angular Conference & Tour"
-eventDate: "Tel Aviv, 25 June 2017"
+- permalink: "/#subscribe"
+  text: Tickets
+heroImage: hero.jpg
+heroTitle: AngularUP
+heroSubtitle: Israel's International Angular Conference & Tour
+eventDate: Tel Aviv, 25 June 2017
 heroButtons:
- - {permalink: "/#subscribe", text: "Tickets"}
-
-# About Block
-aboutTitle: "About AngularUP"
+- permalink: "/#subscribe"
+  text: Tickets
+aboutTitle: About AngularUP
 aboutBlock:
- - {title: "Speakers", image: "about-section/conference.jpg", text: "Hear top speakers from around the world. Learn about the present and future of Angular 2 and its ecosystem, TypeScript, tools and much more" }
- - {title: "Venue", image: "about-section/venue.jpg", text: "Join us at the beautiful convention area of Dan Panorama hotel, located on the beach. Enjoy full lunch and refreshments throughout the event" }
- - {title: "Tour", image: "tour/deadsea.jpg", text: "Join our Angular tour of Israel, float in the dead sea, walk in the streets of Jerusalem, and eat great Hummus", moreLink: '/tour' }
-
-# Statistic Block
-statisticBlockImage: "statistic.jpg"
+- title: Speakers
+  image: about-section/conference.jpg
+  text: Hear top speakers from around the world. Learn about the present and future
+    of Angular 2 and its ecosystem, TypeScript, tools and much more
+- title: Venue
+  image: about-section/venue.jpg
+  text: Join us at the beautiful convention area of Dan Panorama hotel, located on
+    the beach. Enjoy full lunch and refreshments throughout the event
+- title: Tour
+  image: tour/deadsea.jpg
+  text: Join our Angular tour of Israel, float in the dead sea, walk in the streets
+    of Jerusalem, and eat great Hummus
+  moreLink: "/tour"
+statisticBlockImage: statistic.jpg
 statisticBlock:
- - {count: "800", specialCharacter: "+", info: "developers", detail: ""}
- - {count: "18", specialCharacter: "+", info: "speakers", detail: ""}
- - {count: "1", specialCharacter: "", info: "day", detail: ""}
- - {count: "2", specialCharacter: "", info: "parallel tracks", detail: ""}
-
-# Latest News Block
-latestNewsTitle: "Latest news"
-
-# Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
+- count: 800
+  specialCharacter: "+"
+  info: developers
+  detail:
+- count: 18
+  specialCharacter: "+"
+  info: speakers
+  detail:
+- count: 1
+  specialCharacter:
+  info: day
+  detail:
+- count: 2
+  specialCharacter:
+  info: parallel tracks
+  detail:
+latestNewsTitle: Latest news
+rockstarSpeakersImage: rockstar-speakers.jpg
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rock star speakers"
-rockstarSpeakersButtonText: "See the schedule"
-
-# Location Block
-locationBlockTitle: "Location"
-eventLocationName: "David Intercontinental Convention Center"
-#eventLocationLink: "http://cabinet.kinopalace.lvi.ua/showtimes/"
-eventStreetAddress: "12 Prof. Yehezkel Kaufmann Street"
-eventAddressLocality: "Tel Aviv-Yafo"
-#eventAddressLocalityRegion: "Lvivska"
-#eventPostalCode: "79000"
-eventAddressCountry: "Israel"
-eventStartTime: "2017-09-10T08:30"
-eventDoorTime: "08:30"
-eventEndTime: "2017-09-10T18:00"
-eventPlaceCoordinates: "32.0653958,34.7640649"
-mapCenterCoordinates: "32.0653958,34.7640649"
-mapMobileCenterCoordinates: "32.0653958,34.7640649"
-
-# Venue Block
-#venueBlockTitle: "Venue"
-#venueBigImage: "venue_0.jpg"
-#venueSmallImage1: "outside.jpg"
-#venueSmallImage2: "venue_2.jpg"
-#venueSmallImage3: "venue_3.jpg"
-#venueTitle: "Dan Panorama Hotel"
-#venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
-
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "Want updates?"
-twitterHashTag: "angularup"
-facebookEventUrl: "https://www.facebook.com/events/1191590164219326/"
-facebookEventTitle: "angularup"
-#twitterFeed: "href='https://twitter.com/angularup/likes'"
-
-# Partners Block
-partnersTitle: "Sponsors"
-partnersC4sponsorsButton: "Become a sponsor"
-
-# Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle: "Discounted packages & tour"
-subscribeInfo: "We offer discounted packages including 3 nights at the hotel, the Conference, and the Angular Tour of Israel"
-subscribeInfo2: "<a href=\"/tour\">More details</a>"
-# subscribeInfo2: "and uploaded to our <a target=\"_blank\" href=\"https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA\">youtube channel</a>"
-
-# Tickets Block
-ticketsTitle: "Conference Tickets"
-# ticketsInfo: "We are all sold out, join us next year!"
-# ticketsOffers:
-
-# Footer
+rockstarSpeakersTitle: Rock star speakers
+rockstarSpeakersButtonText: See the schedule
+locationBlockTitle: Location
+eventLocationName: David Intercontinental Convention Center
+eventStreetAddress: 12 Prof. Yehezkel Kaufmann Street
+eventAddressLocality: Tel Aviv-Yafo
+eventAddressCountry: Israel
+eventStartTime: 2017-09-10 08:30:00.000000000 Z
+eventDoorTime: '08:30'
+eventEndTime: 2017-09-10 18:00:00.000000000 Z
+eventPlaceCoordinates: 32.0653958,34.7640649
+mapCenterCoordinates: 32.0653958,34.7640649
+mapMobileCenterCoordinates: 32.0653958,34.7640649
+tweetsFeedImage: twitter-feed.jpg
+tweetsFeedTitle: Want updates?
+twitterHashTag: angularup
+facebookEventUrl: https://www.facebook.com/events/1191590164219326/
+facebookEventTitle: angularup
+partnersTitle: Sponsors
+partnersC4sponsorsButton: Become a sponsor
+subscribeImage: subscribe.jpg
+subscribeTitle: Discounted packages & tour
+subscribeInfo: We offer discounted packages including 3 nights at the hotel, the Conference,
+  and the Angular Tour of Israel
+subscribeInfo2: <a href="/tour">More details</a>
+ticketsTitle: Conference Tickets
 socialLinks:
- - {link: "https://twitter.com/intent/user?screen_name=angularup", icon: "twitter"}
- - {link: "https://facebook.com/angularup", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+- link: https://twitter.com/intent/user?screen_name=angularup
+  icon: twitter
+- link: https://facebook.com/angularup
+  icon: facebook
+- permalink: "/feed.xml"
+  icon: rss
 footerBlocks:
- -
-  title: "Links"
+- title: Links
   links:
-   - {link: "https://meetup.com/angularjs-il", text: "AngularJS-IL"}
-   - {link: "http://500tech.com", text: "500Tech"}
- -
-  title: "Contacts"
+  - link: https://meetup.com/angularjs-il
+    text: AngularJS-IL
+  - link: http://500tech.com
+    text: 500Tech
+- title: Contacts
   links:
-   - {link: "mailto:info@angular-up.com", text: "info@angular-up.com"}
- -
-  title: "FAQ"
+  - link: mailto:info@angular-up.com
+    text: info@angular-up.com
+- title: FAQ
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
-
-# Blog
-blogTitle: "Latest news"
+  - permalink: "/cod/"
+    text: Code of Conduct
+blogTitle: Latest news
 blogCommentsEnabled: true
-discusShortName: "devfestua"
-
-# Speakers List Block
+discusShortName: devfestua
 showSessions: false
-
-# Team Block
-teamBlockTitle: "About us"
-aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
-
-# Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
-logisticsMapCenterCoordinates: "49.056728, 3.117289"
-logisticsMapMobileCenterCoordinates: "48.335365, 23.711648"
+teamBlockTitle: About us
+aboutUs: Google's services have become synonymous with simple things online. Number
+  of technological innovations and IT industries in which Google is creating new products
+  is enormous. It's hard to get to know all of them, but realistic. This is why people
+  have started to gather in small local groups and share their experience. Later,
+  the following groups have been called Google Developer Groups. GDGs can take many
+  forms -- from just a few people getting together to watch some videos, to large
+  gatherings with demos, tech talks, hackathons and conferences.
+findWayTitle: Find your way here
+findWayDistance: Distance
+findWayDriving: DRIVING
+findWayWalking: WALKING
+findWayBicycling: BICYCLING
+findWayTransit: TRANSIT
+findWayFindFlight: Find Flight
+logisticsMapCenterCoordinates: 49.056728, 3.117289
+logisticsMapMobileCenterCoordinates: 48.335365, 23.711648
 logisticsMapAutoDirections: false
-
-# Logistics Direction Details Block
-directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Lviv"
-directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is right at the city border. It is easily reachable by car, public transport or taxi. More information is available at <a href="http://lwo.aero/en/transport">airport website</a>.'}
- - {title: "Public Transit", information: 'Google Transit is available in Lviv. So you can find your way in Google Maps. Moreover, you can download any of the offline public transit apps available for Lviv.'}
- - {title: "Hotels", information: 'Lviv has lots of great hotels and hostels. More information will be available later.'}
+directionDetailsImage: direction-details.jpg
+directionDetailsTitle: Get around Lviv
 directionDetailsWideCards:
- -
-  title: "Questions?"
+- title: Questions?
   subCards:
-   -
-    title: "Hotels"
+  - title: Hotels
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Registration"
+    - link: https://plus.google.com/b/102444623953913144164
+      text: InterContinental
+    - link: https://plus.google.com/b/102444623953913144164
+      text: The Hotel Rex
+    - link: https://plus.google.com/b/102444623953913144164
+      text: Westin Market Street
+    - link: https://plus.google.com/b/102444623953913144164
+      text: Hotel Adagio
+  - title: Registration
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-   -
-    title: "Attendance Details"
+    - link: https://plus.google.com/b/102444623953913144164
+      text: InterContinental
+    - link: https://plus.google.com/b/102444623953913144164
+      text: The Hotel Rex
+    - link: https://plus.google.com/b/102444623953913144164
+      text: Westin Market Street
+    - link: https://plus.google.com/b/102444623953913144164
+      text: Hotel Adagio
+  - title: Attendance Details
     links:
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     - {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
-
-# Hackathon
-hackathonTitle: "Hackathon"
+    - link: https://plus.google.com/b/102444623953913144164
+      text: InterContinental
+    - link: https://plus.google.com/b/102444623953913144164
+      text: The Hotel Rex
+    - link: https://plus.google.com/b/102444623953913144164
+      text: Westin Market Street
+    - link: https://plus.google.com/b/102444623953913144164
+      text: Hotel Adagio
+hackathonTitle: Hackathon
 enableHackathon: true
-
-# Hackathon About Block
-aboutHackathonTitle: "Meet our themes"
+aboutHackathonTitle: Meet our themes
 hackathonRows:
- - {title: "Android Wear", image: "hackathon-0.png", details: "The front doors will be locked because this is after hours, please park behind the building and come to the door nearest the parking lot.<br><br>Our last meeting showed that there was a lot of interest in Android Wear so we decided to put on an Android Wear Hackathon to see what you could come up with! We realize that this is pretty short notice so we hope you can help us spread the word! There will be pizza, prizes and a great group of geeks to spend the evening coding with! Even if you don't have an app idea come on in and lend a hand to someone else or maybe find inspiration once you're here!"}
- - {title: "Google Glass", image: "hackathon-1.png", details: "We love wearable computing especially Google Glass for which we want to gather the break up community in order to boost innovation.<br><br>Coding an app on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid skills on Android. He knows his way around Android SDK, already checked the Glass Developement Kit (GDK) quick start guide allowing him to jump start developing an app for Glass.The Designer has the hard task to build the visual identity from the ground up, he has strong UX knowledge and a deep understanding of the new rules set by the Glass. His design skills give him the credibility to decide the most effective UI and the most compelling Glass experience."}
- - {title: "Polymer", image: "hackathon-2.png", details: "Polymer is a library that introduces web components. Web components are small elements on a page that can be extended and incorporated in web applications. The result is an increase in productivity.<br><br>We used Polymer mainly to explore the concept of web components. The transition of Google to material design was also a factor.While the library was never touched by the team, it still was painless to wireframe the application. Later on we incorporated some Polymer components in the design. We didn’t use the full potential of Polymer because of the limited time."}
-
-# Hackathon Judges Block
-judgesImage: "judges.jpg"
-judgesTitle: "Judges"
-
-# Hackathon Prizes Block
-prizesTitle: "Prizes"
+- title: Android Wear
+  image: hackathon-0.png
+  details: The front doors will be locked because this is after hours, please park
+    behind the building and come to the door nearest the parking lot.<br><br>Our last
+    meeting showed that there was a lot of interest in Android Wear so we decided
+    to put on an Android Wear Hackathon to see what you could come up with! We realize
+    that this is pretty short notice so we hope you can help us spread the word! There
+    will be pizza, prizes and a great group of geeks to spend the evening coding with!
+    Even if you don't have an app idea come on in and lend a hand to someone else
+    or maybe find inspiration once you're here!
+- title: Google Glass
+  image: hackathon-1.png
+  details: 'We love wearable computing especially Google Glass for which we want to
+    gather the break up community in order to boost innovation.<br><br>Coding an app
+    on Google Glass needs its Rockstar Dev : the team needs a fast learner with solid
+    skills on Android. He knows his way around Android SDK, already checked the Glass
+    Developement Kit (GDK) quick start guide allowing him to jump start developing
+    an app for Glass.The Designer has the hard task to build the visual identity from
+    the ground up, he has strong UX knowledge and a deep understanding of the new
+    rules set by the Glass. His design skills give him the credibility to decide the
+    most effective UI and the most compelling Glass experience.'
+- title: Polymer
+  image: hackathon-2.png
+  details: Polymer is a library that introduces web components. Web components are
+    small elements on a page that can be extended and incorporated in web applications.
+    The result is an increase in productivity.<br><br>We used Polymer mainly to explore
+    the concept of web components. The transition of Google to material design was
+    also a factor.While the library was never touched by the team, it still was painless
+    to wireframe the application. Later on we incorporated some Polymer components
+    in the design. We didn’t use the full potential of Polymer because of the limited
+    time.
+judgesImage: judges.jpg
+judgesTitle: Judges
+prizesTitle: Prizes
 prizes:
- - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
- - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
- - {title: "3nd Place", image: "prize-3.png", info: "Useful Chromecast"}
-
-# Hackathon Location Block
-hackathonLocationBlockTitle: "Location"
-hackathonLocationName: "Communa"
-hackathonLocationLink: "http://communa.net.ua/"
-hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Lviv"
-hackathonAddressLocalityRegion: "Lvivska"
-hackathonPostalCode: "79000"
-hackathonAddressCountry: "Ukraine"
-hackathonTimeTitle: "Hack through"
-hackathonStartTime: "2014-10-24T10:00"
-hackathonDoorTime: "09:00"
-hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
-
+- title: 2nd Place
+  image: prize-2.png
+  info: Amazing Moto 360
+- title: 1nd Place
+  image: prize-1.png
+  info: Nexus 5 with pre-installed Android L
+- title: 3nd Place
+  image: prize-3.png
+  info: Useful Chromecast
+hackathonLocationBlockTitle: Location
+hackathonLocationName: Communa
+hackathonLocationLink: http://communa.net.ua/
+hackathonStreetAddress: 1 Halytska St
+hackathonAddressLocality: Lviv
+hackathonAddressLocalityRegion: Lvivska
+hackathonPostalCode: 79000
+hackathonAddressCountry: Ukraine
+hackathonTimeTitle: Hack through
+hackathonStartTime: 2014-10-24 10:00:00.000000000 Z
+hackathonDoorTime: '09:00'
+hackathonEndTime: 2014-10-25 00:00:00.000000000 Z
+viewOnMap: View on Google Maps
+hackathonPlaceCoordinates: 49.840999, 24.031144
+hackathonMapCenterCoordinates: 49.840696, 24.028754
+hackathonMapMobileCenterCoordinates: 49.841639, 24.031182
 ticketsOffers:
-  -
-    name: "Early Bird"
-    price: "420"
-    priceCurrency: "ILS"
-    validity: "First 50 tickets for individuals only"
-    buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-    buyButtonText: "Coming Soon"
-    euroPrice: "105"
-    soldOut: false
-    disabled: false
-  -
-    name: "Regular"
-    price: "620"
-    priceCurrency: "ILS"
-    validity: "Sale ends on TBD"
-    buyButtonLink: "https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-    buyButtonText: "Buy Now"
-    euroPrice: "155"
-    soldOut: false
-    disabled: true
-  -
-    name: "Late Bird"
-    price: "750"
-    priceCurrency: "ILS"
-    validity: "Sale ends on TBD"
-    buyButtonLink: "https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-    buyButtonText: "Buy Now"
-    euroPrice: "190"
-    soldOut: false
-    disabled: true
-  -
-    name: "Last Minute"
-    price: "1120"
-    priceCurrency: "ILS"
-    validity: "Sale is open until we're sold out"
-    buyButtonLink: "https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-    buyButtonText: "Buy Now"
-    euroPrice: "280"
-    soldOut: false
-    disabled: true
-
+- name: Early Bird
+  price: 420
+  priceCurrency: ILS
+  validity: First 50 tickets for individuals only
+  buyButtonLink:
+  buyButtonText: Coming Soon
+  euroPrice: 105
+  soldOut: false
+  disabled: false
+- name: Regular
+  price: 620
+  priceCurrency: ILS
+  validity: Sale ends on TBD
+  buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
+  buyButtonText: Buy Now
+  euroPrice: 155
+  soldOut: false
+  disabled: true
+- name: Late Bird
+  price: 750
+  priceCurrency: ILS
+  validity: Sale ends on TBD
+  buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
+  buyButtonText: Buy Now
+  euroPrice: 190
+  soldOut: false
+  disabled: true
+- name: Last Minute
+  price: 1120
+  priceCurrency: ILS
+  validity: Sale is open until we're sold out
+  buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
+  buyButtonText: Buy Now
+  euroPrice: 280
+  soldOut: false
+  disabled: true
 packageTicketsOffers:
-  -
-    name: "Tour Combo"
-    price: "400"
-    priceCurrency: "EUR"
-    validity: "First 50 tickets for individuals only"
-    buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-    buyButtonText: "Coming Soon"
-    details: "Conference + Tour"
-    soldOut: false
-    disabled: false
-  -
-    name: "Full Combo"
-    price: "750"
-    priceCurrency: "EUR"
-    validity: "First 50 tickets for individuals only"
-    validity: "Sale ends on TBD"
-    buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-    buyButtonText: "Coming Soon"
-    details: "Conference + Hotel + Tour"
-    soldOut: false
-    disabled: false
-  -
-    name: "Buddies"
-    price: "1100"
-    priceCurrency: "EUR"
-    validity: "First 50 tickets for individuals only"
-    buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-    buyButtonText: "Coming Soon"
-    details: "Conference + Hotel (twin room) + Tour*2"
-    soldOut: false
-    disabled: false
-  -
-    name: "Couples"
-    price: "1300"
-    priceCurrency: "EUR"
-    validity: "First 50 tickets for individuals only"
-    buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-    buyButtonText: "Coming Soon"
-    details: "Conference*1 + Hotel (double room) + Tour*2"
-    soldOut: false
-    disabled: false
+-
+  name: "Tour Combo"
+  price: "400"
+  priceCurrency: "EUR"
+  validity: "First 50 tickets for individuals only"
+  buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
+  buyButtonText: "Coming Soon"
+  details: "Conference + Tour"
+  soldOut: false
+  disabled: false
+-
+  name: "Full Combo"
+  price: "750"
+  priceCurrency: "EUR"
+  validity: "First 50 tickets for individuals only"
+  validity: "Sale ends on TBD"
+  buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
+  buyButtonText: "Coming Soon"
+  details: "Conference + Hotel + Tour"
+  soldOut: false
+  disabled: false
+-
+  name: "Buddies"
+  price: "1100"
+  priceCurrency: "EUR"
+  validity: "First 50 tickets for individuals only"
+  buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
+  buyButtonText: "Coming Soon"
+  details: "Conference + Hotel (twin room) + Tour*2"
+  soldOut: false
+  disabled: false
+-
+  name: "Couples"
+  price: "1300"
+  priceCurrency: "EUR"
+  validity: "First 50 tickets for individuals only"
+  buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
+  buyButtonText: "Coming Soon"
+  details: "Conference*1 + Hotel (double room) + Tour*2"
+  soldOut: false
+  disabled: false

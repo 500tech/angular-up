@@ -1,7 +1,7 @@
 ---
+title: CFP is now open
+date: 2016-12-31 11:24:00 Z
 layout: post
-title:  "CFP is now open"
-date:   2016-12-31 11:24:00
 isStaticPost: false
 ---
 

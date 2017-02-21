@@ -1,8 +1,8 @@
 ---
-layout: post
 title: Code of conduct
-permalink: /cod/
+permalink: "/cod/"
 isStaticPost: true
+layout: post
 ---
 
 #### Conference Code of Conduct
@@ -33,8 +33,7 @@ Conference staff will be happy to help participants contact hotel/venue security
 
 We expect participants to follow these rules at conference and workshop venues and conference-related social events.
 
-
-__Contacts:__
+**Contacts:**
 [info@angular-up.com](mailto:info@angular-up.com)
 
 <img class="img-responsive feature-image" src="{{ site.baseurl }}/img/posts/cod.jpg" style="display:none">
