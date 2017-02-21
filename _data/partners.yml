@@ -23,7 +23,6 @@
     - {name: "GDG Herzliya", scale: "0.7", description: "Google Developer Group - Herzliya", link: "http://www.meetup.com/GDG-HZ/", imageUrl: "gdg_hertz.png"}
     - {name: "Javascript Israel", scale: "1.1", description: "Javascript Israel community", link: "http://www.meetup.com/javascript-israel/", imageUrl: "javascript-israel.png"}
     - {name: "Frontend-IL", scale: "0.65", description: "Front-End development community", link: "http://www.meetup.com/frontend-il/", imageUrl: "frontend-il.png"}
-    - {name: "Angular After Hours", scale: "0.9", description: "A group for web developers who can’t get their hands off the keyboard", link: "http://www.meetup.com/Angular-AfterHours/", imageUrl: "afterhours.png"}
     - {name: "Modern Web", scale: "1.0", description: "Podcast about frameworks, standards and techniques", link: "http://www.modern-web.org/", imageUrl: "modernweb.png"}
     - {name: "AngularJS Warsaw", scale: "0.8", description: "", link: "https://www.meetup.com/AngularJS-Warsaw/", imageUrl: "warsaw.jpeg"}
     - {name: "AngularJS Meetup Berlin", scale: "0.7", description: "", link: "https://www.meetup.com/AngularJS-Meetup-Berlin", imageUrl: "berlin.jpeg"}
