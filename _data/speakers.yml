@@ -40,6 +40,19 @@
   social:
     - {name: "twitter", link: "https://twitter.com/auser"}
     - {name: "github", link: "https://github.com/auser"}
+-
+  id: 4
+  name: "Pascal"
+  surname: "Precht"
+  company: "Thoughtram"
+  title: "Cofounder at Thoughtram"
+  longTitle: "Cofounder at Thoughtram"
+  bio: "Pascal is a front-end engineer and a Angular Developer Expert nominated by Google. He created the angular-translate module, is an Angular contributor and also part of the Angular Docs Authoring team."
+  thumbnailUrl: pascal.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/PascalPrecht"}
+    - {name: "github", link: "https://github.com/PascalPrecht"}
 
 -
   id: 31
@@ -373,16 +386,3 @@
 #     - {name: "twitter", link: "https://twitter.com/noamkfir"}
 #     - {name: "github", link: "https://github.com/"}
 #     - {name: "website", link: "http://noam.kfir.cc/blog/"}
-# -
-#   id: 24
-#   name: "Pascal"
-#   surname: "Precht"
-#   company: "Thoughtram"
-#   title: "Cofounder at Thoughtram"
-#   longTitle: "Cofounder at Thoughtram"
-#   bio: "Pascal is a front-end engineer and a Angular Developer Expert nominated by Google. He created the angular-translate module, is an Angular contributor and also part of the Angular Docs Authoring team."
-#   thumbnailUrl: sani.jpg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/PascalPrecht"}
-#     - {name: "github", link: "https://github.com/PascalPrecht"}
