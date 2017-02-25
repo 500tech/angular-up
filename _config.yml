@@ -20,7 +20,7 @@ exclude:
 - CNAME
 email: info@angular-up.com
 description: Israel's International Angular Conference & Tour
-baseurl:
+baseurl: 
 url: http://angular-up.com
 googleAnalyticsTrackingId: UA-33424960-10
 siteVerification: _bip9-FpfnhCa6taFy05cJCndLdRzKMh5Mm3aoVQAqE
@@ -48,7 +48,7 @@ navigationLinks:
   text: 2016 Website
 - link: https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA/videos
   text: 2016 Videos
-bottomNavigationLinks:
+bottomNavigationLinks: 
 rightNavigationButtons:
 - permalink: "/#subscribe"
   text: Tickets
@@ -79,19 +79,19 @@ statisticBlock:
 - count: 800
   specialCharacter: "+"
   info: developers
-  detail:
+  detail: 
 - count: 18
   specialCharacter: "+"
   info: speakers
-  detail:
+  detail: 
 - count: 1
-  specialCharacter:
+  specialCharacter: 
   info: day
-  detail:
+  detail: 
 - count: 2
-  specialCharacter:
+  specialCharacter: 
   info: parallel tracks
-  detail:
+  detail: 
 latestNewsTitle: Latest news
 rockstarSpeakersImage: rockstar-speakers.jpg
 rockstarSpeakersCount: 4
@@ -269,7 +269,7 @@ ticketsOffers:
   price: 420
   priceCurrency: ILS
   validity: First 50 tickets for individuals only
-  buyButtonLink:
+  buyButtonLink: 
   buyButtonText: Coming Soon
   euroPrice: 105
   soldOut: false
@@ -302,44 +302,39 @@ ticketsOffers:
   soldOut: false
   disabled: true
 packageTicketsOffers:
--
-  name: "Tour Combo"
-  price: "400"
-  priceCurrency: "EUR"
-  validity: "First 50 tickets for individuals only"
-  buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-  buyButtonText: "Coming Soon"
-  details: "Conference + Tour"
+- name: Tour Combo
+  price: '400'
+  priceCurrency: EUR
+  validity: First 50 tickets for individuals only
+  buyButtonLink: https://angularup2017.eventbrite.com
+  buyButtonText: I want this!
+  details: 
   soldOut: false
   disabled: false
--
-  name: "Full Combo"
-  price: "750"
-  priceCurrency: "EUR"
-  validity: "First 50 tickets for individuals only"
-  validity: "Sale ends on TBD"
-  buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-  buyButtonText: "Coming Soon"
-  details: "Conference + Hotel + Tour"
+- name: Full Combo
+  price: '700'
+  priceCurrency: EUR
+  validity: Sale ends on TBD
+  buyButtonLink: https://angularup2017.eventbrite.com
+  buyButtonText: I want this!
+  details: 
   soldOut: false
   disabled: false
--
-  name: "Buddies"
-  price: "1100"
-  priceCurrency: "EUR"
-  validity: "First 50 tickets for individuals only"
-  buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-  buyButtonText: "Coming Soon"
-  details: "Conference + Hotel (twin room) + Tour*2"
+- name: Buddies
+  price: '1300'
+  priceCurrency: EUR
+  validity: First 50 tickets for individuals only
+  buyButtonLink: https://angularup2017.eventbrite.com
+  buyButtonText: We want this!
+  details: 
   soldOut: false
   disabled: false
--
-  name: "Couples"
-  price: "1300"
-  priceCurrency: "EUR"
-  validity: "First 50 tickets for individuals only"
-  buyButtonLink: "" #https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728"
-  buyButtonText: "Coming Soon"
-  details: "Conference*1 + Hotel (double room) + Tour*2"
+- name: Couples
+  price: '1100'
+  priceCurrency: EUR
+  validity: First 50 tickets for individuals only
+  buyButtonLink: https://angularup2017.eventbrite.com
+  buyButtonText: We want this!
+  details: 
   soldOut: false
   disabled: false
