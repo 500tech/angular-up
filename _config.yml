@@ -269,24 +269,24 @@ ticketsOffers:
   price: 420
   priceCurrency: ILS
   validity: First 50 tickets for individuals only
-  buyButtonLink: 
-  buyButtonText: Coming Soon
+  buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
+  buyButtonText: Buy Now
   euroPrice: 105
   soldOut: false
   disabled: false
 - name: Regular
   price: 620
   priceCurrency: ILS
-  validity: Sale ends on TBD
+  validity: For companies and individuals 
   buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
   buyButtonText: Buy Now
   euroPrice: 155
   soldOut: false
-  disabled: true
+  disabled: false
 - name: Late Bird
   price: 750
   priceCurrency: ILS
-  validity: Sale ends on TBD
+  validity: 
   buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
   buyButtonText: Buy Now
   euroPrice: 190
@@ -295,7 +295,7 @@ ticketsOffers:
 - name: Last Minute
   price: 1120
   priceCurrency: ILS
-  validity: Sale is open until we're sold out
+  validity: 
   buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
   buyButtonText: Buy Now
   euroPrice: 280
