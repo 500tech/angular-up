@@ -9,7 +9,7 @@
   group: "Silver"
   class: "silver"
   elements:
-    - {name: "BlueVine", description: "BlueVine", link: "https://www.bluevine.com/", imageUrl: "BlueVinelogo.png"}
+    - {name: "BlueVine", description: "BlueVine", link: "https://www.bluevine.com/", imageUrl: "BlueVineLogo.png"}
 -
   group: "Bronze"
   class: "bronze"
