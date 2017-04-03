@@ -3,15 +3,18 @@
   class: "gold"
   elements:
     # - {name: "", description: "", link: "", imageUrl: ""}
+    - {name: "bigpanda", description: "bigpanda", link: "https://bigpanda.io/", imageUrl: "bigpanda.png"}
 
 -
   group: "Silver"
   class: "silver"
   elements:
+    - {name: "BlueVine", description: "BlueVine", link: "https://www.bluevine.com/", imageUrl: "BlueVinelogo.png"}
 -
   group: "Bronze"
   class: "bronze"
   elements:
+    - {name: "AngularAir", description: "AngularAir", link: "https://angularair.com/", imageUrl: "ng-air-logo-light.png"}
 
 -
   group: "Media partners"
