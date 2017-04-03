@@ -67,8 +67,8 @@ aboutBlock:
     of Angular 2 and its ecosystem, TypeScript, tools and much more
 - title: Venue
   image: about-section/venue.jpg
-  text: Join us at the beautiful convention center of David Intercontinental hotel, located on
-    the beach. Enjoy full lunch and refreshments throughout the event.
+  text: Join us at the beautiful convention center of David Intercontinental hotel,
+    located on the beach. Enjoy full lunch and refreshments throughout the event.
 - title: Tour
   image: tour/deadsea.jpg
   text: Join our Angular tour of Israel, float in the dead sea, walk in the streets
