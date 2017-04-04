@@ -273,7 +273,7 @@ ticketsOffers:
   buyButtonText: Buy Now
   euroPrice: 105
   soldOut: true
-  disabled: true
+  disabled: false
 - name: Regular
   price: 620
   priceCurrency: ILS
