@@ -277,7 +277,7 @@ ticketsOffers:
 - name: Regular
   price: 620
   priceCurrency: ILS
-  validity: For companies and individuals - sale ends on April 30th 
+  validity: For companies and individuals - sale ends on April 30th
   buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
   buyButtonText: Buy Now
   euroPrice: 155
