@@ -272,8 +272,8 @@ ticketsOffers:
   buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
   buyButtonText: Buy Now
   euroPrice: 105
-  soldOut: false
-  disabled: false
+  soldOut: true
+  disabled: true
 - name: Regular
   price: 620
   priceCurrency: ILS
