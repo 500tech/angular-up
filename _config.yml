@@ -64,7 +64,7 @@ aboutBlock:
 - title: Speakers
   image: about-section/conference.jpg
   text: Hear top speakers from around the world. Learn about the present and future
-    of Angular 2 and its ecosystem, TypeScript, tools and much more
+    of Angular and its ecosystem, TypeScript, tools and much more
 - title: Venue
   image: about-section/venue.jpg
   text: Join us at the beautiful convention center of David Intercontinental hotel,
