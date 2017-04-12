@@ -23,6 +23,7 @@
     - {name: "AngularJS-IL", description: "Israel's AngularJS community", link: "https://www.meetup.com/angularjs-il/", imageUrl: "angularjs-il.jpg"}
     - {name: "GDG Rashlatz", description: "Google Developer Group - Rishon Le Zion", link: "http://www.meetup.com/gdg-rashlatz/", imageUrl: "gdg_rishon.png"}
     - {name: "GDG Tel Aviv", description: "Google Developer Group - Tel Aviv", link: "http://www.meetup.com/GDG-Tel-Aviv/", imageUrl: "gdg_telaviv.jpeg"}
+    - {name: "GDG Sacramento", description: "Google Developer Group - Sacramento", link: "https://www.meetup.com/Sacramento-Angular-Meetup/", imageUrl: "GDG sac.jpg"}
     - {name: "GDG Herzliya", scale: "0.7", description: "Google Developer Group - Herzliya", link: "http://www.meetup.com/GDG-HZ/", imageUrl: "gdg_hertz.png"}
     - {name: "Javascript Israel", scale: "1.1", description: "Javascript Israel community", link: "http://www.meetup.com/javascript-israel/", imageUrl: "javascript-israel.png"}
     - {name: "Frontend-IL", scale: "0.65", description: "Front-End development community", link: "http://www.meetup.com/frontend-il/", imageUrl: "frontend-il.png"}
@@ -31,4 +32,6 @@
     - {name: "AngularJS Meetup Berlin", scale: "0.7", description: "", link: "https://www.meetup.com/AngularJS-Meetup-Berlin", imageUrl: "berlin.jpeg"}
     - {name: "AngularJS Meetup Budapest", scale: "1.0", description: "", link: "http://www.meetup.com/Budapest-AngularJS-Meetup/", imageUrl: "budapest.svg"}
     - {name: "ngGirls", scale: "1.0", description: "", link: "http://ng-girls.org/", imageUrl: "nggirls.png"}
-    - {name: "ngStockholm", scale: "1.0", description: "", link: "https://www.meetup.com/ngStockholm/", imageUrl: "ngStockholm.png"}
+    - {name: "ngStockholm", scale: "0.65", description: "", link: "https://www.meetup.com/ngStockholm/", imageUrl: "ngStockholm.png"}
+    - {name: "ngAmsterdam", scale: "0.65", description: "", link: "https://www.meetup.com/ngAmsterdam/", imageUrl: "amsterdam.jpg"}
+    - {name: "ATL AngularJS", scale: "0.65", description: "", link: "https://www.meetup.com/ATL-AngularJS//", imageUrl: "atl angularjs.jpeg"}
