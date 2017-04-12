@@ -54,7 +54,7 @@
     - {name: "twitter", link: "https://twitter.com/PascalPrecht"}
     - {name: "github", link: "https://github.com/PascalPrecht"}
 -
-id: 5
+  id: 5
   name: "Joe"
   surname: "Eames"
   company: "JoeEames.me"
@@ -67,7 +67,7 @@ id: 5
     - {name: "twitter", link: "https://twitter.com/josepheames"}
     - {name: "github", link: "https://github.com/joeeames"}
 -
-id: 31
+  id: 31
   name: "Maybe"
   surname: "You?"
   company: ""
