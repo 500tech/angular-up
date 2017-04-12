@@ -53,8 +53,21 @@
   social:
     - {name: "twitter", link: "https://twitter.com/PascalPrecht"}
     - {name: "github", link: "https://github.com/PascalPrecht"}
-
 -
+id: 30
+  name: "Joe"
+  surname: "Eames"
+  company: "JoeEames.me"
+  title: "Owener of JoeEames.me"
+  longTitle: "Pluralsight author and Software Craftsmanship Evangelist"
+  bio: "Organizer of ng-conf, Front end developer, Pluralsight author and Software Craftsmanship Evangelist."
+  thumbnailUrl: joe.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/josepheames"}
+    - {name: "github", link: "https://github.com/joeeames"}
+-
+id: 31
   name: "Maybe"
   surname: "You?"
   company: ""
