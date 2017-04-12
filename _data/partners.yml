@@ -34,4 +34,5 @@
     - {name: "ngGirls", scale: "1.0", description: "", link: "http://ng-girls.org/", imageUrl: "nggirls.png"}
     - {name: "ngStockholm", scale: "0.65", description: "", link: "https://www.meetup.com/ngStockholm/", imageUrl: "ngStockholm.png"}
     - {name: "ngAmsterdam", scale: "0.65", description: "", link: "https://www.meetup.com/ngAmsterdam/", imageUrl: "amsterdam.jpg"}
-    - {name: "ATL AngularJS", scale: "0.65", description: "", link: "https://www.meetup.com/ATL-AngularJS//", imageUrl: "atl angularjs.jpeg"}
+    - {name: "ATL AngularJS", scale: "0.65", description: "", link: "https://www.meetup.com/ATL-AngularJS/", imageUrl: "atl angularjs.jpeg"}
+    - {name: "AngularNYC", scale: "0.65", description: "", link: "https://www.meetup.com/AngularNYC/", imageUrl: "angularNYCmeetup.svg"}
