@@ -35,4 +35,4 @@
     - {name: "ngStockholm", scale: "0.65", description: "", link: "https://www.meetup.com/ngStockholm/", imageUrl: "ngStockholm.png"}
     - {name: "ngAmsterdam", scale: "0.65", description: "", link: "https://www.meetup.com/ngAmsterdam/", imageUrl: "amsterdam.jpg"}
     - {name: "ATL AngularJS", scale: "0.65", description: "", link: "https://www.meetup.com/ATL-AngularJS/", imageUrl: "atl angularjs.jpeg"}
-    - {name: "AngularNYC", scale: "0.65", description: "", link: "https://www.meetup.com/AngularNYC/", imageUrl: "angularNYCmeetup.svg"}
+    - {name: "AngularNYC", scale: "0.65", description: "", link: "https://www.meetup.com/AngularNYC/", imageUrl: "AngularNYCMeetup.svg"}
