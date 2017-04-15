@@ -1,22 +1,30 @@
 <!-- About Section -->
 <section id="about" class="about">
     <div class="content-wrapper">
-        <div class="col-lg-10 col-lg-offset-1">
-            <h3>{{ site.aboutTitle }}</h3>
-            <div class="row about-details">
-                {% for about in site.aboutBlock %}
-                {% assign colWidth = 12 | divided_by: forloop.length %}
-                <div class="col-md-{{ colWidth }} col-sm-6 col-xs-12">
-                    <h5>{{ about.title }}</h5>
-                    <img class="img-circle" src="{{ site.baseurl }}/img/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
-                    <p>{{ about.text }}</p>
-                    {% if about.moreLink %}
-                        <a href="{{ about.moreLink }}">More details</a>
-                    {% endif %}
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1">
+                <h3>{{ site.aboutTitle }}</h3>
+                <div class="row about-details">
+                    {% for about in site.aboutBlock %}
+                    {% assign colWidth = 12 | divided_by: forloop.length %}
+                    <div class="col-md-{{ colWidth }} col-sm-6 col-xs-12">
+                        <h5>{{ about.title }}</h5>
+                        <img class="img-circle" src="{{ site.baseurl }}/img/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+                        <p>{{ about.text }}</p>
+                        {% if about.moreLink %}
+                            <a href="{{ about.moreLink }}">More details</a>
+                        {% endif %}
+                    </div>
+                    {% assign check = forloop.index | modulo:2 %}
+                    {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                    {% endfor %}
                 </div>
-                {% assign check = forloop.index | modulo:2 %}
-                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
-                {% endfor %}
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-10 col-lg-offset-1">
+                <br>
+                <iframe src="https://www.youtube.com/embed/ZDIm774_uOA?ecver=2" width="640" height="360" frameborder="0" allowfullscreen></iframe>
             </div>
         </div>
     </div>
