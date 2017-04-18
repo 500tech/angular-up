@@ -173,3 +173,6 @@ DEPENDENCIES
   github-pages
   jekyll-admin
   sass-media_query_combiner
+
+BUNDLED WITH
+   1.14.6

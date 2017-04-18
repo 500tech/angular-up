@@ -4,6 +4,7 @@
   elements:
     # - {name: "", description: "", link: "", imageUrl: ""}
     - {name: "bigpanda", description: "bigpanda", link: "https://bigpanda.io/", imageUrl: "bigpanda.png"}
+    - {name: "BlueVine", description: "BlueVine", link: "https://www.bluevine.com/", imageUrl: "BlueVineLogo.png"}
 
 -
   group: "Silver"
