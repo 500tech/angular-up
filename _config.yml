@@ -306,7 +306,7 @@ packageTicketsOffers:
   validity: First 50 tickets for individuals only
   buyButtonLink: https://angularup2017.eventbrite.com
   buyButtonText: I want this!
-  details: Prices go up on May 15th! 
+  details: Prices go up on May 15th!
   soldOut: false
   disabled: false
 - name: Full Combo
