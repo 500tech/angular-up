@@ -67,32 +67,32 @@
     - {name: "twitter", link: "https://twitter.com/josepheames"}
     - {name: "github", link: "https://github.com/joeeames"}
 -
-  id: 31
-  name: "Maybe"
-  surname: "You?"
-  company: ""
-  title: ""
-  longTitle: ""
-  bio: ""
-  thumbnailUrl: faceman.png
-  rockstar: true
-  social:
-    - {name: "github", link: ""}
-    - {name: "twitter", link: ""}
+  #id: 31
+  #name: "Maybe"
+  # surname: "You?"
+  # company: ""
+  #title: ""
+  #longTitle: ""
+  #bio: ""
+  # thumbnailUrl: faceman.png
+  #rockstar: true
+  # social:
+  #  - {name: "github", link: ""}
+  #  - {name: "twitter", link: ""}
 
 -
-  id: 32
-  name: "Maybe"
-  surname: "You?"
-  company: ""
-  title: ""
-  longTitle: ""
-  bio: ""
-  thumbnailUrl: facewoman.png
-  rockstar: true
-  social:
-    - {name: "github", link: ""}
-    - {name: "twitter", link: ""}
+ # id: 32
+  #name: "Maybe"
+  #surname: "You?"
+  #company: ""
+  #title: ""
+  #longTitle: ""
+  #bio: ""
+  #thumbnailUrl: facewoman.png
+  #rockstar: true
+  #social:
+   # - {name: "github", link: ""}
+    #- {name: "twitter", link: ""}
 
 
 # -
