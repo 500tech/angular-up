@@ -2,34 +2,12 @@
 <section id="tickets" class="tickets packages-tickets">
 	<div class="content-wrapper">
 		<div class="col-lg-8 col-md-10 col-lg-offset-2 col-md-offset-1">
-			<h3>Early Bird Conference Packages</h3>
-            {% for ticketsOffer in site.packageTicketsOffers %}
-	            {% assign colWidth = 12 | divided_by: forloop.length %}
-	            {% assign check = forloop.index | modulo:2 %}
-	            <div class="col-md-{{ colWidth }} col-sm-{{ colWidth }} pricing-col {% if ticketsOffer.featured != null %}pricing-col-featured{% endif %} animated hiding" data-animation="{% if forloop.index == 1 %}fadeInLeft{% elsif forloop.index == forloop.length %}fadeInRight{% else %}fadeInDown{% endif %}" data-delay="{% if check == 0 %}0{% else %}500{% endif %}">
-	            	{% if ticketsOffer.ribbon != null %}<div class="pricing-ribbon">{{ ticketsOffer.ribbon }}</div>{% endif %}
-					<div class="pricing-header">
-						<p class="title">{{ ticketsOffer.name }}</p>
-						<p class="price">{{ ticketsOffer.price }} <span class="currency">{{ ticketsOffer.priceCurrency }}</span></p>
-						<span class="ticket-additional-info">{{ ticketsOffer.details }}</span>
-					</div>
-					<div class="pricing-content">
-						<ul>
-							{% for listItem in ticketsOffer.ticketContentList %}
-							<li>{{ listItem }}</li>
-							{% endfor %}
-						</ul>
-						{% if ticketsOffer.soldOut == true %}
-						<span class="button disabled">{{ ticketsOffer.soldOutText }}</span>
-						{% elsif ticketsOffer.disabled != true %}
-						<a class="button" href="{{ ticketsOffer.buyButtonLink }}" target="_blank">{{ ticketsOffer.buyButtonText }}</a>
-						{% else %}
-							<span class="button disabled fallback"></span>
-						{% endif %}
-					</div>
-				</div>
-            {% endfor %}
+			<h3>Mix Business With Pleasure</h3>
+			<h5>Combine a great conference with a magical 2 day tour to explore the rare beauty of Israel!</h5><br/>
+			<h4>Traval packages are avaliable from 425 EUR</h4><br/> 
+       <a href="http://angular-up.com/tour/" class="btn btn-primary waves-effect waves-button waves-light waves-float">Click here for more info</a>         
 		</div>
+		
 	</div>
 </section>
 <!-- End Tickets Section -->
