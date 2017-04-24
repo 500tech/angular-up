@@ -41,10 +41,10 @@
       startTime: "13:00",
       sessionIds: ["lunch"] # lunch
     }
-    # - {
-    #   startTime: "13:50",
-    #   sessionIds: ["coming-soon"] #
-    # }
+    - {
+      startTime: "13:50",
+      sessionIds: ["coming-soon"] #
+    }
     # - {
     #   startTime: "14:35",
     #   sessionIds: ["coming-soon"] #
@@ -57,14 +57,14 @@
     #   startTime: "15:40",
     #   sessionIds: ["break"] # break
     # }
-    # - {
-    #   startTime: "16:00",
-    #   sessionIds: ["coming-soon"] #
-    # }
     - {
-      startTime: "16:35",
+      startTime: "16:00",
       sessionIds: ["coming-soon"] #
     }
+    # - {
+    #   startTime: "16:35",
+    #   sessionIds: ["coming-soon"] #
+    # }
     - {
       startTime: "17:10",
       sessionIds: ["lightning"]
