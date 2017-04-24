@@ -1,5 +1,5 @@
 -
-  date: "2017-06-25"
+  date: "talks"
   dateReadable: "June 25"
   tracks:
     - {title: "Hall A", color: "#90be4e"}
@@ -7,73 +7,88 @@
   timeslots:
     - {
       startTime: "8:30",
-      sessionIds: [100]
+      sessionIds: ["door-open"]
     }
     - {
       startTime: "9:30",
-      sessionIds: [105] # conference opening
+      sessionIds: ["opening-words"]
     }
     - {
       startTime: "09:50",
-      sessionIds: [9] # Pawel
+      sessionIds: ["Ari-CD", "Sebastian-NativeScript"]
     }
     - {
       startTime: "10:30",
-      sessionIds: [1, 7] # Ben, Urish
+      sessionIds: ["Pascal-ServiceWorkers", "Sani-ionic"]
     }
     - {
       startTime: "11:05",
-      sessionIds: [2, 10] # Daniel, Marc
+      sessionIds: ["Minko-Compiler", "Joe-DI"]
     }
     - {
       startTime: "11:35",
-      sessionIds: [101] # coffee break
+      sessionIds: ["break"] # coffee break
     }
     - {
       startTime: "11:55",
-      sessionIds: [5, 8] # Nir, Tracy
+      sessionIds: ["Nir-Reactive Forms", "Gil-Animations"]
     }
     - {
       startTime: "12:30",
-      sessionIds: [11, 3] # Urigo, Sebastian
+      sessionIds: ["Uri", "Noam-Accessibility"]
     }
     - {
       startTime: "13:00",
-      sessionIds: [102] # lunch
+      sessionIds: ["lunch"] # lunch
     }
-    - {
-      startTime: "13:50",
-      sessionIds: [6, 15] # Eyal, Gil
-    }
-    - {
-      startTime: "14:35",
-      sessionIds: [13, 12] # Sani, Adam
-    }
+    # - {
+    #   startTime: "13:50",
+    #   sessionIds: ["coming-soon"] #
+    # }
+    # - {
+    #   startTime: "14:35",
+    #   sessionIds: ["coming-soon"] #
+    # }
     - {
       startTime: "15:10",
-      sessionIds: [4, 16] # Tero, Ori Calvo
+      sessionIds: ["coming-soon"] #
     }
-    - {
-      startTime: "15:40",
-      sessionIds: [101] # break
-    }
-    - {
-      startTime: "16:00",
-      sessionIds: [14, 17] # Elad, Ori
-    }
+    # - {
+    #   startTime: "15:40",
+    #   sessionIds: ["break"] # break
+    # }
+    # - {
+    #   startTime: "16:00",
+    #   sessionIds: ["coming-soon"] #
+    # }
     - {
       startTime: "16:35",
-      sessionIds: [304] # lightning
+      sessionIds: ["coming-soon"] #
     }
     - {
       startTime: "17:10",
-      sessionIds: [104] # Quiz & prizes
+      sessionIds: ["lightning"]
     }
     - {
       startTime: "17:35",
-      sessionIds: [303] # Panel
+      sessionIds: ["quiz"]
     }
     - {
-      startTime: "18:15",
-      sessionIds: [107] # End
+      startTime: "18:00",
+      sessionIds: ["closing-words"] # End
     }
+
+# -
+#   date: "workshops"
+#   dateReadable: "June 25"
+#   tracks:
+#     - {title: "Workshops", color: "#03a9f4"}
+#   timeslots:
+#     - {
+#       startTime: "9:50",
+#       sessionIds: ["Joe-Testing"]
+#     }
+#     - {
+#       startTime: "11:00",
+#       sessionIds: ["Minko-Performance"]
+#     }

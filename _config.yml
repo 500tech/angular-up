@@ -31,7 +31,7 @@ socialImageSrcTwitter: "/img/seo/ad.jpg"
 socialImageSrcFacebook: "/img/seo/ad.jpg"
 c4sponsorsUrl: mailto:sponsors@angular-up.com
 navigationLinks:
-- permalink: "/#speakers"
+- permalink: "/#schedule"
   text: Speakers
 - permalink: "/#organizers"
   text: Team
@@ -270,7 +270,8 @@ ticketsOffers:
   buyButtonText: Buy Now
   euroPrice: 105
   soldOut: true
-  disabled: false
+  disabled: true
+  soldOutText: "Sold Out!"
 - name: Regular
   price: 620
   priceCurrency: ILS
@@ -279,6 +280,7 @@ ticketsOffers:
   buyButtonText: Buy Now
   euroPrice: 155
   soldOut: false
+  soldOutText: "Sold Out!"
   disabled: false
 - name: Late Bird
   price: 750
@@ -288,6 +290,7 @@ ticketsOffers:
   buyButtonText: Buy Now
   euroPrice: 190
   soldOut: false
+  soldOutText: "Sold Out!"
   disabled: true
 - name: Last Minute
   price: 1120
@@ -297,6 +300,7 @@ ticketsOffers:
   buyButtonText: Buy Now
   euroPrice: 280
   soldOut: false
+  soldOutText: "Sold Out!"
   disabled: true
 packageTicketsOffers:
 - name: Tour Combo
@@ -307,6 +311,7 @@ packageTicketsOffers:
   buyButtonText: I want this!
   details: Prices go up on May 15th!
   soldOut: false
+  soldOutText: "Sold Out!"
   disabled: false
 - name: Full Combo
   price: '775'
@@ -316,6 +321,7 @@ packageTicketsOffers:
   buyButtonText: I want this!
   details: Prices go up on May 15th!
   soldOut: false
+  soldOutText: "Sold Out!"
   disabled: false
 - name: Buddies
   price: '1225'
@@ -325,6 +331,7 @@ packageTicketsOffers:
   buyButtonText: We want this!
   details: Prices go up on May 15th!
   soldOut: false
+  soldOutText: "Sold Out!"
   disabled: false
 - name: Couples
   price: '1125'
@@ -334,4 +341,5 @@ packageTicketsOffers:
   buyButtonText: We want this!
   details: Prices go up on May 15th!
   soldOut: false
+  soldOutText: "Sold Out!"
   disabled: false

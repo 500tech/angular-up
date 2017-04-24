@@ -1,43 +1,45 @@
 -
-  id: 100
+  id: "door-open"
   title: "Doors open, registration, swag and light breakfast"
   place: "Main Foyer"
   service: true
   description: ""
 -
-  id: 101
+  id: "break"
   title: "Break"
   place: "Main Foyer"
   service: true
   description: ""
 -
-  id: 102
+  id: "lunch"
   title: "Lunch Break"
   place: "Hotel Restaurant"
   service: true
 -
-  id: 103
-  title: "More talks coming soon"
+  id: "coming-soon"
+  title: "coming soon"
+  description: ""
   place: ""
+  service: true
 -
-  id: 104
+  id: "quiz"
   title: "Angular Quiz + Prizes for the winners"
   place: "Hall A"
   service: true
 -
-  id: 105
+  id: "opening-words"
   title: "Opening Words"
   description: ""
   place: "Hall A"
   service: true
 -
-  id: 107
+  id: "closing-words"
   title: "Closing words"
   description: ""
   place: "Hall A"
   service: true
 -
-  id: 302
+  id: "keynote"
   title: "Keynote"
   place: "Hall A"
   description: ""
@@ -45,195 +47,104 @@
   center: true
   # TODO: speakers: [15]
 -
-  id: 1
-  title: "Managing Async With RxJS 5"
-  description: "<p>Managing asynchrony in web applications is challenging: Ajax, web sockets, user events, animations. It's very easy to make mistakes and waste system resources, especially in single page applications.</p><p> In this talk, we'll identify some of the ways most applications are wasting resources while managing async with common abstractions like promises and callbacks. We'll then talk about what RxJS is, and what Observables are, and how they can help you remedy these problems in your application. We'll go over how RxJS 5 relates to Angular, and show why it's such a powerful tool.</p>"
+  id: "Ari-CD"
+  title: "Change Detection"
+  description: ""
   subtype: presentation
-  speakers: [4]
+  speakers: ["Ari"]
 -
-  id: 2
-  title: "TypeScript 2.1 + Angular 2: Better Together"
-  description: "<p>TypeScript has become the tool of choice in writing both Angular 2 and apps. Does this mean you’ll need to learn a completely new language? No! TypeScript builds upon JavaScript as it exists today and in the future, building on what you know now and bringing you future features today.</p><p>Come see how easy TypeScript is to introduce to a project today and how the team is pushing the language forward.</p>"
+  id: "Pascal-ServiceWorkers"
+  title: "Angular with Service Workers"
+  description: ""
   subtype: presentation
-  speakers: [2]
+  speakers: ["Pascal"]
 -
-  id: 9
-  title: "A toolbox"
-  description: "<p>
-    Our craft requires a large toolbox of utils, gadgets and techniques.
-    As all professionals we spend a lot of time refining which items go into our personal toolbox.
-  </p><p>
-    This is the story of my toolbox evaluation and what I've learned from working as part of the Angular team
-  </p>"
-  subtype: presentation
-  speakers: [9]
--
-  id: 10
-  title: "Optimizing Angular 2 apps for production"
-  description: "<p>
-    When it comes to Angular applications, good resolutions on performances mean faster and lighter.
-    There is a number of technics which can improve speed: bundling, tree shaking, ahead of time compilation, lazy loading.
- </p><p>
-    In this talk, we’ll learn more about each of them, and we’ll see them in action on a sample application
-  </p>"
-  subtype: presentation
-  speakers: [10]
--
-  id: 3
-  title: "Building mobile apps with Angular 2 and NativeScript"
-  description: "<p>NativeScript is a free and open source JavaScript framework for building native iOS, Android, and Windows Phone apps. Add to that Angular 2.0 with TypeScript and you will get a truly amazing combination. But I know what you’re thinking: another way of building apps? What makes NativeScript special? Here are a few cool things:</p>
-    <ul>
-      <li>Direct access to native APIs—no plugins required. Want to create a file on Android? Run new java.io.File()—in JavaScript!</li>
-      <li>Completely native performance through the use of a JavaScript bridge natively available on all three mobile platforms.</li>
-      <li>Cross-platform libraries for common use cases. Need to call a JSON API? Run http.getJSON</li>
-      <li>Style native apps using CSS. Yep, that’s actually a thing.</li>
-    </ul>
-    <p>Curious about how it all works? Come learn! Architectures will be explained; apps will be built; and fun will be had by all</p>"
-  subtype: presentation
-  speakers: [1]
--
-  id: 4
-  title: "Reactive Music Apps in Angular 2 and ngrx/store"
+  id: "Minko-Compiler"
+  title: "Mad Science with the Angular Compiler"
   description: "
-    <p>
-      Angular 2 combined with RxJS, @ngrx/store, and Immutable.js is a fantastic platform for reactive web applications.
-      If we then add hot loading and the Web Audio API to the mix, we have something truly exciting: A platform for reactive music creation.
-    </p>
-    <p>
-      This talk is about creating musical systems on the Angular platform.
-      We’ll see how we can model an asynchronous process that generates music right there in the browser and allows the user to control it on the fly.
-      It’s a really enjoyable way to learn reactive Angular application development.
-    </p>"
+  <p>
+    One of the most unique features of Angular is the way it performs change detection. The template of each individual component in the app gets transpiled to efficient JavaScript which makes the dirty checking algorithm “obviously fast”.
+  </p><p>
+    The fast change detection is not the only benefit we get from the template compiler! In this talk we’ll mix some mad science ideas with the Angular compiler and see where we can go!
+  </p>
+"
   subtype: presentation
-  speakers: [3]
+  speakers: ["Minko"]
 -
-  id: 8
-  title: "Getting Started in Angular 2 with Angular-CLI"
+  id: "Minko-Performance"
+  title: "Angular Performance"
+  description: ""
+  subtype: presentation
+  speakers: ["Minko"]
+-
+  id: "Sebastian-NativeScript"
+  title: "Building a roboarmy with Angular using Web Bluetooth and NativeScript Bluetooth"
   description: "<p>
-    Watch a live code session of an Angular 2 Angular-CLI application and see how easy it is to use this new framework and why it is great for quickly prototyping ideas and why it is being used to scale across large scale organizations.</p>
-    <p>We'll discuss the features of the CLI, the Angular 2 component structure, the newest new router, using directives, and template-driven forms.</p>"
-  subtype: presentation
-  speakers: [8]
--
-  id: 5
-  title: "Across the universe - Server side rendering with Angular Universal"
-  description: "<p>Angular 2 is designed to be agnostic about the runtime environment.
-      This means that the same application can be deployed to different environments like browsers, servers or even native devices.
-    </p>
-    <p>
-      In this talk we will learn how to leverage this power using Angular Universal,
-      and deploy our front-end SPA on the server without modification.<br>
-      We will also learn how to avoid accessing environment specific functions, like direct DOM access, etc.
-    </p>"
-  subtype: presentation
-  speakers: [5]
--
-  id: 6
-  title: "Angular 2 Change Detection and Performance Optimization"
-  description: "<p>In Angular 1 the main reason for performance issues was the digest loop ($apply method). Angular 2.0 brings an entirely new approach called change detection (ChangeDetectorRef class).</p><p>In this session I am going to speak about the change detection mechanism, how it works to update the screen and how to use it to improve the performance for high frequency data changes.</p>"
-  subtype: presentation
-  speakers: [6]
--
-  id: 7
-  title: "AoT and the New Angular Compiler"
-  description: "<p>
-      One of the amazing features offered by Angular 2 is Ahead of Time template compilation.
-      It comes with a lot of benefits, such as static analysis of your application templates, runtime performance benefits, and reduced production payload size.
-    </p><p>
-      In this talk, we are going to learn about ngc - the new Angular Compiler, discuss the internal mechanisms that make it tick, and discover how our apps can benefit from it.
-    </p>"
-  subtype: presentation
-  speakers: [7]
--
-  id: 11
-  title: "Angular 2 and GraphQL - Handling server data with Apollo"
-  description: "<p>
-      Angular 2 has officially been released, and the Angular team has been focusing on making it a great platform for building Progressive Web Apps.
-    </p><p>
-      A critical component of a progressive web app is the smart use of sending data through the network for better application performance and user experience.
-    </p><p>
-      GraphQL and the Apollo-Angular integration help get data in front of users instantly, efficiently and easily
-    </p>"
-  subtype: presentation
-  speakers: [11]
--
-  id: 12
-  title: "Angular, MobX, happiness."
-  description: "<p>
-      Imagine the magic of Angular 1 digest, but extremely performant and smart.
-    </p><p>
-      MobX detects changes in plain objects, allowing you to react automatically to changes you make on observable attributes, and define computed values
-    </p><p>
-      In this talk I will introduce MobX and its benefits, and the ng2-mobx library I wrote to connect it seamlessly to Angular
-    </p>"
-  subtype: presentation
-  speakers: [12]
--
-  id: 13
-  title: "Building Mobile Apps Progressively With Ionic"
-  description: "<p>
-      With multiple competing mobile eco systems to worry about, it is always important to choose an efficient solution for creating your mobile Apps
-    </p><p>
-      With the exciting prospects of Progressive Web Apps taking the web & mobile web world by storm, it can be quite challenging to fit a current mobile setup to work with Progressive Web Apps
-    </p><p>
-      This talk will showcase how you can create a mobile app for Android, IOS, WIndows with 100% the same code & same project and still have it work as a Progressive Web application without any change
+    Taking over the world is not an easy challenge. It requires good strategy and a powerful army. What better soldiers than a mass of obedient robots? You just need a way to issue them instruction via their BLE interface.
+  </p><p>
+    But should you choose to build a web app or a native mobile app? With Angular you can do both; just add Web Bluetooth API to build a web app and NativeScript to build a native mobile app.
+    Join this session to learn how it all works, to see how to get started, and to swear fealty to your new robot overlords.
   </p>"
   subtype: presentation
-  speakers: [13]
+  speakers: ["Sebastian"]
 -
-  id: 14
-  title: "Angular Material 2"
-  description: "<p>Components are a critical part of the Angular Platform.</p>
-  <p>Angular Material aims to give you the components you need to build a quality app in no time at all.</p>
-  <p>In this talk, you will hear the latest status update directly from the team and get a sneak peek at what is coming.</p>
-  "
-  subtype: presentation
-  speakers: [14]
--
-  id: 15
-  title: "Redux Data Flow with Angular 2"
+  id: "Sani-ionic"
+  title: "5 Apps 1 Code With Ionic"
   description: "<p>
-    There are many ways to create data flows in Angular 2. One of those ways is the architectural pattern called Redux.
-    </p><p>
-    Redux is a small library which introduces a unidirectional data flow and a predictable state container that scales.
-    </p><p>
-    In this session we will deep dive into Redux concepts and how to apply them in Angular 2 apps
+    Learn how to use Ionic to create one app that will serve across IOS, Android, Windows for mobile and also work as a Desktop Web app and also support the Progressive Web App standard to work offline.
+  </p><p>
+    This will be a live codes sample where we will use 100% same code with Ionic to achieve 5 apps.
   </p>"
   subtype: presentation
-  speakers: [15]
+  speakers: ["Sani"]
 -
-  id: 16
-  title: "Angular Web Worker - Building Super Responsive UI"
-  description: "<p>
-      HTML5 brings the power of web workers. However, managing a web worker is a tedious and error prone work
-    </p><p>
-      Angular 2 has a built-in support for running application logic inside a secondary web worker. Angular does the magic of marshaling requests between DOM and the application worker and let you focus on building super responsive UI components while enjoying the power of parallel code execution.
-    </p><p>
-      During this session we will cover the architecture and details behind the Angular 2 web worker support
-    </p>"
+  id: "Joe-DI"
+  title: "Deep Dive to Dependency Injection"
+  description: ""
   subtype: presentation
-  speakers: [16]
+  speakers: ["Joe"]
 -
-  id: 17
-  title: "Dynamic content creation in Angular 2"
-  description: "<p>
-      Ahead of Time compilation is what the Angular team recommends these days.
-      </p><p>
-        In this talk we will try to figure out what is that little price we pay when we choose AoT over JiT. In a dynamic compilation context, we will take a brief de-tour reviewing the compiler, understanding the performance penalties of runtime compilation and why AoT is preferred over JiT even if loosing the ability to dynamically create components.
-      </p><p>
-        We will clarify the difference between creating and instantiating components, how ComponentFactory and the Injector align, and go over scenarios where we might want to use it.
-      </p><p>
-        Just before giving up on JiT we will wonder off contemplating on futuristic ideas such as combining AoT, JiT & lazy loading for best of all world or maybe using the server as a compilation service...
-    </p>"
+  id: "Joe-Testing"
+  title: "Testing Angular Applications"
+  description: ""
   subtype: presentation
-  speakers: [17]
+  speakers: ["Joe"]
 -
-  id: 303
-  title: "Q&A Panel"
-  place: "Hall A"
-  service: true
+  id: "Nir-Reactive Forms"
+  title: "Reactive Forms"
+  description: ""
+  subtype: presentation
+  speakers: ["Nir"]
 -
-  id: 304
+  id: "Uri"
+  title: "Coming Soon"
+  description: ""
+  subtype: presentation
+  speakers: ["Uri"]
+-
+  id: "Gil-Animations"
+  title: "Demystifying Angular 2 Animation"
+  description: "<p>
+    Adding animations or transitions to web components can be intimidating like hell. When it comes to Angular, animations are integrated in the Angular component making them less scary and much easier to apply.
+  </p><p>
+    In this session we will get to know how to enable fancy animations and transitions in Angular.
+  </p>"
+  subtype: presentation
+  speakers: ["Gil"]
+-
+  id: "Noam-Accessibility"
+  title: "Reaching Out with Angular - Accessibility & Internationalization"
+  description: "<p>
+  Your app is basically unusable. Whole populations will never even know you exist, and you're probably alienating many who do.
+  </p><p>
+  Putting yourself on the map means reaching out to all your potential customers, regardless of whether they use a keyboard or mouse, where they live, the language they speak or sign, or if they need a screen reader to use your app.
+  </p><p>
+  In this talk, we'll run through a bunch of quick demos and show how to start preparing your Angular app for people that come from all walks of life.
+  </p>"
+  subtype: presentation
+  speakers: ["Noam"]
+-
+  id: "lightning"
   title: "Lightning talks"
   class: "lightning"
   description: "<p>

@@ -39,6 +39,11 @@ p.validity {
             border: 1px $col-border-color solid;
         }
     }
+    &.pricing-col-soldout {
+        .title {
+            text-decoration: line-through;
+        }
+    }
     &.pricing-col-featured {
         top: -27px;
         &:not(:first-child) {
