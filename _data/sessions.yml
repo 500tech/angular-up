@@ -123,7 +123,7 @@
   speakers: ["Uri"]
 -
   id: "Gil-Animations"
-  title: "Demystifying Angular 2 Animation"
+  title: "Demystifying Angular Animation"
   description: "<p>
     Adding animations or transitions to web components can be intimidating like hell. When it comes to Angular, animations are integrated in the Angular component making them less scary and much easier to apply.
   </p><p>
