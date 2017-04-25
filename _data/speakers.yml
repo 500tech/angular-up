@@ -74,7 +74,7 @@
   name: "Joe"
   surname: "Eames"
   company: "JoeEames.me"
-  title: "Owener of JoeEames.me"
+  title: "Owner of JoeEames.me"
   longTitle: "Pluralsight author and Software Craftsmanship Evangelist"
   bio: "Organizer of ng-conf, Front end developer, Pluralsight author and Software Craftsmanship Evangelist."
   thumbnailUrl: joe.jpg
