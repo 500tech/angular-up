@@ -39,5 +39,6 @@
     - {name: "Angular Belgium", scale: "0.65", description: "Angular Belgium", link: "https://www.meetup.com/Angular-Belgium/", imageUrl: "Belgium.svg"}
     - {name: "ATL AngularJS", scale: "0.65", description: "ATL AngularJS", link: "https://www.meetup.com/ATL-AngularJS/", imageUrl: "atl angularjs.jpeg"}
     - {name: "AngularNYC", scale: "1.2", description: "AngularNYC", link: "https://www.meetup.com/AngularNYC/", imageUrl: "AngularNYCMeetup.svg"}
-    - {name: "Angular-SF", scale: "0.7", description: "Angular-SF", link: "https://www.meetup.com/Angular-SF/", imageUrl: "SF.png"}
+    - {name: "Angular-SF", scale: "0.7", desscription: "Angular-SF", link: "https://www.meetup.com/Angular-SF/", imageUrl: "SF.png"}
+    - {name: "JS-Poland", scale: "0.6", description: "JS-Poland", link: "http://www.js-poland.pl/", imageUrl: "poland.png"}
 
