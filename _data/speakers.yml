@@ -74,7 +74,7 @@
   name: "Joe"
   surname: "Eames"
   company: "JoeEames.me"
-  title: "Owener of JoeEames.me"
+  title: "Owner of JoeEames.me"
   longTitle: "Pluralsight author and Software Craftsmanship Evangelist"
   bio: "Organizer of ng-conf, Front end developer, Pluralsight author and Software Craftsmanship Evangelist."
   thumbnailUrl: joe.jpg
@@ -87,10 +87,10 @@
   name: "Nir"
   surname: "Kaufman"
   company: "500Tech"
-  title: "Head of Angular Development at 500Tech"
+  title: "Web Technologies GDE, Head Of Angular Dep at 500Tech"
   longTitle: "Head of Angular Development at 500Tech"
   bio: "Nir is the Head of Angular Development at 500Tech - a leading front-end consultancy in Israel. He is a passionate JavaScript developer and Angular evangelist. Nir running 3 local Angular meetup groups: the AngularJS-IL (with over 3500 members), Angular After Hours and the Frontend Band. He also collaborates with other local Angular communities around the world."
-  thumbnailUrl: nir.jpg
+  thumbnailUrl: nirnew.png
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/nirkaufman"}

@@ -26,8 +26,9 @@
     - {name: "Frontend-IL", scale: "0.65", description: "Front-End development community", link: "http://www.meetup.com/frontend-il/", imageUrl: "frontend-il.png"}
     - {name: "GDG Rashlatz", description: "Google Developer Group - Rishon Le Zion", link: "http://www.meetup.com/gdg-rashlatz/", imageUrl: "gdg_rishon.png"}
     - {name: "GDG Tel Aviv", description: "Google Developer Group - Tel Aviv", link: "http://www.meetup.com/GDG-Tel-Aviv/", imageUrl: "gdg_telaviv.jpeg"}
-    - {name: "GDG Sacramento", description: "Google Developer Group - Sacramento", link: "https://www.meetup.com/Sacramento-Angular-Meetup/", imageUrl: "GDG sac.jpeg"}
     - {name: "GDG Herzliya", scale: "0.7", description: "Google Developer Group - Herzliya", link: "http://www.meetup.com/GDG-HZ/", imageUrl: "gdg_hertz.png"}
+    - {name: "GDG Sacramento",  scale: "1.2" , description: "Google Developer Group - Sacramento", link: "https://www.meetup.com/Sacramento-Angular-Meetup/", imageUrl: "GDG sac.jpeg"}
+    - {name: "HaMakor", scale: "1.2", description: "HaMakor", link: "http://www.hamakor.org.il", imageUrl: "Hamakor_logo.png"}
     - {name: "Modern Web", scale: "1.0", description: "Podcast about frameworks, standards and techniques", link: "http://www.modern-web.org/", imageUrl: "modernweb.png"}
     - {name: "AngularJS Warsaw", scale: "0.65", description: "AngularJS Warsaw", link: "https://www.meetup.com/AngularJS-Warsaw/", imageUrl: "warsaw.jpeg"}
     - {name: "AngularJS Meetup Berlin", scale: "0.7", description: "AngularJS Meetup Berlin", link: "https://www.meetup.com/AngularJS-Meetup-Berlin", imageUrl: "berlin.jpeg"}
@@ -38,5 +39,6 @@
     - {name: "Angular Belgium", scale: "0.65", description: "Angular Belgium", link: "https://www.meetup.com/Angular-Belgium/", imageUrl: "Belgium.svg"}
     - {name: "ATL AngularJS", scale: "0.65", description: "ATL AngularJS", link: "https://www.meetup.com/ATL-AngularJS/", imageUrl: "atl angularjs.jpeg"}
     - {name: "AngularNYC", scale: "1.2", description: "AngularNYC", link: "https://www.meetup.com/AngularNYC/", imageUrl: "AngularNYCMeetup.svg"}
-    - {name: "Angular-SF", scale: "0.7", description: "Angular-SF", link: "https://www.meetup.com/Angular-SF/", imageUrl: "SF.png"}
+    - {name: "Angular-SF", scale: "0.7", desscription: "Angular-SF", link: "https://www.meetup.com/Angular-SF/", imageUrl: "SF.png"}
+    - {name: "JS-Poland", scale: "0.6", description: "JS-Poland", link: "http://www.js-poland.pl/", imageUrl: "poland.png"}
 
