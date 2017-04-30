@@ -54,8 +54,8 @@
   speakers: ["Ari"]
 -
   id: "Pascal-ServiceWorkers"
-  title: "Angular with Service Workers"
-  description: ""
+  title: "Angular and Service Workers"
+  description: "In this talk we'll explore what role Service Workers play in the landscape of Progressive Web Apps, and how they can be used within Angular applications, by taking a look at how they have been used in the latest angular.io website update"
   subtype: presentation
   speakers: ["Pascal"]
 -
@@ -99,18 +99,26 @@
   speakers: ["Sani"]
 -
   id: "Joe-DI"
-  title: "Deep Dive to Dependency Injection"
-  description: ""
+  title: "DI Deep Dive - Things you never thought about with Angular's dependency injection"
+  description: "<p>
+    Dependency Injection is a core part of both versions of Angular, yet often times we take this ubiquitous part of the framework for granted, never considering how it works.
+  </p><p>
+    In this talk, we'll look under the hood of the dependency injection system, and learn how it does its job, and see some advanced ways to use it in our code.
+  </p>"
   subtype: presentation
   speakers: ["Joe"]
 -
   id: "Joe-Testing"
-  title: "Testing Angular Applications"
-  description: ""
+  title: "Testing Angular like a Boss!"
+  description: "
+    In this one hour workshop we'll take a look at the testing utilities provided with Angular in order to test our components along with their templates.
+  </p><p>
+    We will see how to handle interacting with our templates, and how to deal with sub components as well.
+  </p><p>"
   subtype: presentation
   speakers: ["Joe"]
 -
-  id: "Nir-Reactive Forms"
+  id: "Nir-Reactive-Forms"
   title: "Reactive Forms"
   description: ""
   subtype: presentation
