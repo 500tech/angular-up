@@ -11,6 +11,12 @@
   service: true
   description: ""
 -
+  id: "talks-in-main-halls"
+  title: "Speakers Office Hours"
+  place: "Main Foyer"
+  service: true
+  description: ""
+-
   id: "lunch"
   title: "Lunch Break"
   place: "Hotel Restaurant"

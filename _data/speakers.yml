@@ -140,23 +140,55 @@
     - {name: "twitter", link: "https://twitter.com/noamkfir"}
     - {name: "github", link: "https://github.com/"}
     - {name: "website", link: "http://noam.kfir.cc/blog/"}
+-
+  id: "Shmuela"
+  name: "Shmuela"
+  surname: "Jacobs"
+  company: ""
+  title: ""
+  longTitle: ""
+  bio: ""
+  thumbnailUrl: shmuela.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/ShmuelaJ"}
+    - { name: "github", link: "https://github.com/shmool"}
+-
+  id: "Chris"
+  name: "Christoffer"
+  surname: "Noring"
+  company: ""
+  title: ""
+  longTitle: ""
+  bio: ""
+  thumbnailUrl: chris.jpg
+  social:
+    - { name: "twitter", link: ""}
+    - { name: "github", link: ""}
+-
+  id: "Bartosz"
+  name: "Bartosz"
+  surname: "Pietrucha"
+  company: ""
+  title: ""
+  longTitle: ""
+  bio: ""
+  thumbnailUrl: bartosz.jpg
+  social:
+    - { name: "twitter", link: ""}
+    - { name: "github", link: ""}
+-
+  id: "Maxim"
+  name: "Maxim"
+  surname: "Salnikov"
+  company: ""
+  title: ""
+  longTitle: ""
+  bio: ""
+  thumbnailUrl: maxim.jpg
+  social:
+    - { name: "twitter", link: ""}
+    - { name: "github", link: ""}
 
-
-# -
-#  "Shmuela"
-#   name: "Shmuela"
-#   surname: "Jacobs"
-#   company: "500Tech"
-#   title: "Developer/Consultant @ 500Tech"
-#   longTitle: "Developer/Consultant @ 500Tech"
-#   bio: "<p>Making your life better with Augury
-#   </p><p>
-#     You may be a phenomenal Angular 2 developer. You may also be an ambitious total beginner. Maybe you’re not a developer at all - perhaps a QA tester or a product manager. Whatever you may be, if you’re working on an Angular 2 application then Augury will give you immediate insights and useful tools to handle the project. Learn how Augury can make your life not only easier, but also better
-#   </p>"
-#   thumbnailUrl: shmuela.jpg
-#   social:
-#     - { name: "twitter", link: "https://twitter.com/ShmuelaJ"}
-#     - { name: "github", link: "https://github.com/shmool"}
 #-
   #id: 31
   #name: "Maybe"

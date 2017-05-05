@@ -1,5 +1,5 @@
 -
-  date: "talks"
+  title: "Conference Schedule"
   dateReadable: "June 25"
   tracks:
     - {title: "Hall A", color: "#90be4e"}
@@ -78,17 +78,49 @@
       sessionIds: ["closing-words"] # End
     }
 
-# -
-#   date: "workshops"
-#   dateReadable: "June 25"
-#   tracks:
-#     - {title: "Workshops", color: "#03a9f4"}
-#   timeslots:
-#     - {
-#       startTime: "9:50",
-#       sessionIds: ["Joe-Testing"]
-#     }
-#     - {
-#       startTime: "11:00",
-#       sessionIds: ["Minko-Performance"]
-#     }
+-
+  title: "Workshops"
+  dateReadable: "June 25"
+  tracks:
+    - {title: "Workshops", color: "#03a9f4"}
+  timeslots:
+    - {
+      startTime: "9:50",
+      sessionIds: ["Joe-Testing"]
+    }
+    - {
+      startTime: "11:05",
+      sessionIds: ["talks-in-main-halls"]
+    }
+    - {
+      startTime: "11:35",
+      sessionIds: ["break"] # coffee break
+    }
+    - {
+      startTime: "11:55",
+      sessionIds: ["coming-soon"]
+    }
+    - {
+      startTime: "13:00",
+      sessionIds: ["lunch"] # lunch
+    }
+    - {
+      startTime: "13:50",
+      sessionIds: ["coming-soon"] #
+    }
+    - {
+      startTime: "15:10",
+      sessionIds: ["talks-in-main-halls"] #
+    }
+    - {
+      startTime: "15:40",
+      sessionIds: ["break"] # break
+    }
+    - {
+      startTime: "16:00",
+      sessionIds: ["coming-soon"] #
+    }
+    - {
+      startTime: "17:10",
+      sessionIds: ["talks-in-main-halls"]
+    }
