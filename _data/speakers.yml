@@ -174,7 +174,7 @@
   title: "Software engineer"
   longTitle: "Software engineer"
   bio: "Bartosz Pietrucha is a full-stack software engineer, software consultant and founder of angular-academy.com. For the last couple of years he has been working with clients from Great Britain, Switzerland, Poland and Finland. Having started his professional career with Java, he delved into JavaScript programming and found front-end world extremely fascinating. He wants to share my knowledge via trainings and workshops as it gives him great dose of fulfillment. Currently he is focusing on Angular 2 and TypeScript techonologies ecosystem."
-  thumbnailUrl: bartosz.jpg
+  thumbnailUrl: Bartosz.jpg
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/bpietrucha/"}
 -
