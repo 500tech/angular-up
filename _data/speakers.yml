@@ -156,38 +156,39 @@
   id: "Chris"
   name: "Christoffer"
   surname: "Noring"
-  company: ""
-  title: ""
-  longTitle: ""
-  bio: ""
+  company: "OVO Energy"
+  title: "Frontend Developer"
+  longTitle: "Frontend Developer"
+  bio: "Google Developer Expert focusing on AngularJs, Angular 2"
   thumbnailUrl: chris.jpg
   social:
-    - { name: "twitter", link: ""}
-    - { name: "github", link: ""}
+    - { name: "twitter", link: "https://twitter.com/chris_noring"}
+    - { name: "github", link: "https://softchris.github.io"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/christoffer-noring-3257061/"}
+
 -
   id: "Bartosz"
   name: "Bartosz"
   surname: "Pietrucha"
   company: ""
-  title: ""
-  longTitle: ""
-  bio: ""
+  title: "Software engineer"
+  longTitle: "Software engineer"
+  bio: "Bartosz Pietrucha is a full-stack software engineer, software consultant and founder of angular-academy.com. For the last couple of years he has been working with clients from Great Britain, Switzerland, Poland and Finland. Having started his professional career with Java, he delved into JavaScript programming and found front-end world extremely fascinating. He wants to share my knowledge via trainings and workshops as it gives him great dose of fulfillment. Currently he is focusing on Angular 2 and TypeScript techonologies ecosystem."
   thumbnailUrl: bartosz.jpg
   social:
-    - { name: "twitter", link: ""}
-    - { name: "github", link: ""}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/bpietrucha/"}
 -
   id: "Maxim"
   name: "Maxim"
   surname: "Salnikov"
-  company: ""
-  title: ""
-  longTitle: ""
-  bio: ""
-  thumbnailUrl: maxim.jpg
+  company: "ForgeRock"
+  title: "UI Engineer"
+  longTitle: "UI Engineer"
+  bio: "Maxim Salnikov is Oslo-based Web UI Engineer, a Google Developer Expert in Web Technologies and Angular. He develops complex web applications since the end of the last century and has extensive experience with all aspects of web front-end: UX/UI prototyping, HTML/CSS/JS, main frameworks, progressive web apps."
+  thumbnailUrl: Maxim.png
   social:
-    - { name: "twitter", link: ""}
-    - { name: "github", link: ""}
+    - { name: "twitter", link: "https://twitter.com/webmaxru"}
+    - { name: "github", link: "https://github.com/webmaxru"}
 
 #-
   #id: 31

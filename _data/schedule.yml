@@ -43,28 +43,28 @@
     }
     - {
       startTime: "13:50",
+      sessionIds: ["Maxim-Automatic", "Bartosz-progressive"] #
+    }
+    - {
+      startTime: "14:35",
       sessionIds: ["coming-soon"] #
     }
-    # - {
-    #   startTime: "14:35",
-    #   sessionIds: ["coming-soon"] #
-    # }
     - {
       startTime: "15:10",
       sessionIds: ["coming-soon"] #
     }
-    # - {
-    #   startTime: "15:40",
-    #   sessionIds: ["break"] # break
-    # }
+    - {
+      startTime: "15:40",
+      sessionIds: ["break"] # break
+    }
     - {
       startTime: "16:00",
       sessionIds: ["coming-soon"] #
     }
-    # - {
-    #   startTime: "16:35",
-    #   sessionIds: ["coming-soon"] #
-    # }
+    - {
+      startTime: "16:35",
+      sessionIds: ["coming-soon"] #
+    }
     - {
       startTime: "17:10",
       sessionIds: ["lightning"]
@@ -98,7 +98,7 @@
     }
     - {
       startTime: "11:55",
-      sessionIds: ["coming-soon"]
+      sessionIds: ["Chris-workshop"]
     }
     - {
       startTime: "13:00",
