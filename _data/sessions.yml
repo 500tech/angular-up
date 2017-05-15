@@ -181,10 +181,9 @@
   speakers: ["Maxim"]
 -
   id: "Bartosz-router"
-  title: "Angular Router - let's get lazy!"
-  description: <p>"Routing in web applications is an essential concept that enables users to navigate throughout them. Angular Router is simple yet powerful for developers to use in their applications. 
-  </p><p>
-  In this talk we will learn mechanics of Angular Router with lazy loading and pre-loading features." </p>
+  title: "Angular Router - Let's Get Lazy!"
+  description: "<p> Routing in web applications is an essential concept that enables users to navigate throughout them. Angular Router is simple yet powerful for developers to use in their applications. 
+  </p><p> In this talk we will learn mechanics of Angular Router with lazy loading and pre-loading features. </p> "
   subtype: presentation
   speakers: ["Bartosz"]
 -
