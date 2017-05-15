@@ -10,6 +10,7 @@
   group: "Silver"
   class: "silver"
   elements:
+    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "Jetbrains_logo.png"}
     #- {name: "BlueVine", description: "BlueVine", link: "https://www.bluevine.com/", imageUrl: "BlueVineLogo.png"}
 -
   group: "Bronze"
