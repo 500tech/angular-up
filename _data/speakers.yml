@@ -177,6 +177,7 @@
   thumbnailUrl: Bartosz.jpg
   social:
     - { name: "linkedin", link: "https://www.linkedin.com/in/bpietrucha/"}
+    - { name: "twitter", link: "https://twitter.com/pietrucha"}
 -
   id: "Maxim"
   name: "Maxim"
