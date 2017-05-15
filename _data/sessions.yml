@@ -180,9 +180,11 @@
   subtype: presentation
   speakers: ["Maxim"]
 -
-  id: "Bartosz-progressive"
-  title: "Progressive web apps in Angular"
-  description: "Progressive web apps are the next big thing in mobile world. They allow us to deliver almost the same level of user experience as native mobile apps. Using just Angular we can build web apps with offline support, push notifications and many more."
+  id: "Bartosz-router"
+  title: "Angular Router - let's get lazy!"
+  description: <p>"Routing in web applications is an essential concept that enables users to navigate throughout them. Angular Router is simple yet powerful for developers to use in their applications. 
+  </p><p>
+  In this talk we will learn mechanics of Angular Router with lazy loading and pre-loading features." </p>
   subtype: presentation
   speakers: ["Bartosz"]
 -

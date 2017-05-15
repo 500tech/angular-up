@@ -43,7 +43,7 @@
     }
     - {
       startTime: "13:50",
-      sessionIds: ["Maxim-Automatic", "Bartosz-progressive"] #
+      sessionIds: ["Maxim-Automatic", "Bartosz-router"] #
     }
     - {
       startTime: "14:35",
