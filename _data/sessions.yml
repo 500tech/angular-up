@@ -192,4 +192,30 @@
   description: "Rxjs is the new way do async. Let's assume you know the basics of what an Observable is and explore some advanced concepts and Enterprise patterns and practices"
   subtype: presentation
   speakers: ["Chris"]
+-
+  id: "Kenneth- devices"
+  title: "The web in an era of smart devices"
+  description: "<p> The improvements in size, features and price of hardware has ushered new opportunities in creating small, smart devices (aka internet-of-things) which can be integrated in homes and industries. In these places, the devices can help automate common tasks, as well as give information about the state of things, such as temperature of a machine, air quality etc.
+  </p><p>
+  Installing an app for one such devices might seem fine at first, but it doesn’t scale nicely to 100s of devices, or devices you seldom interact with, like in an industrial setting. Devices might even have different security restrictions, like being locked behind a physical key.
+  </p><p>
+  So how do we communicate with these devices? The web has always been known for its low fraction and easy on-boarding. No need to install any software, just type in a URL and off you go. And it has always been very secure with its sandbox system, and companies can even have URLs be restricted to certain WiFi networks (intranet).
+  </p><p>
+  Come join me for a look at how the web can make your smart devices success </p>"
+  subtype: presentation
+  speakers: ["Kenneth"]
+-
+  id: "Erik- Fire"
+  title: "AngularFire2 and you"
+  description: "Discover how Firebase can streamline development processes and how to easily add AngularFire2 to your Angular apps. A comprehensive walk-through of how to effortlessly create a full-stack application using Firebase and Angular. A demo web app (and possibly a mobile app) will be built to illustrate integration points for authentication, realtime database, asset storage, hosting, notifications, analytics, and more."
+  subtype: presentation
+  speakers: ["Erik"]
+-
+-
+  # id: "DnD-workshop"
+  # title: "HowTo GraphQL"
+  # description: "GraphQL allows us to replace adhoc communication with a flexible, yet structured, versionless and self documented API. This workshop will teach you GraphQL fundamentals and will allow you to start using GraphQL within your Angular apps right away."
+  # subtype: presentation
+  # speakers: ["Dotan","David"]
+
 

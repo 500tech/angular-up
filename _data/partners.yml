@@ -16,8 +16,9 @@
   group: "Bronze"
   class: "bronze"
   elements:
+    - {name: "Google",scale: "1.1", description: "Google", link: "https://google.com/", imageUrl: "googlelogo.png"}
     - {name: "AngularAir", description: "AngularAir", link: "https://angularair.com/", imageUrl: "ng-air-logo-light.png"}
-
+    - {name: "firebase", scale: "2", description: "firebase", link: "https://firebase.google.com/", imageUrl: "firebase.png"}
 -
   group: "Media partners"
   class: "media"

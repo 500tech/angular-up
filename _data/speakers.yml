@@ -190,7 +190,58 @@
   social:
     - { name: "twitter", link: "https://twitter.com/webmaxru"}
     - { name: "github", link: "https://github.com/webmaxru"}
-
+-
+  id: "Dotan"
+  name: "Dotan"
+  surname: "Simha"
+  company: "The Guild"
+  title: "GraphQL Expert"
+  longTitle: "GraphQL Expert"
+  bio: "Dotan and David are freelancers, creating products for huge enterprises such as banks, hospitals, universities and military industries.
+  They lead the local GraphQL community and are core contributors to many open source projects such as graphql-js, Apollo, angular-meteor and js-accounts."
+  thumbnailUrl: dotan.jpg
+  social:
+    - { name: "github", link: "https://github.com/dotansimha"}
+-
+  id: "David"
+  name: "David Yahalomi"
+  surname: "Yahalomi"
+  company: "The Guild"
+  title: "GraphQL Expert"
+  longTitle: "GraphQL Expert"
+  bio: "Dotan and David are freelancers, creating products for huge enterprises such as banks, hospitals, universities and military industries.
+  They lead the local GraphQL community and are core contributors to many open source projects such as graphql-js, Apollo, angular-meteor and js-accounts."
+  thumbnailUrl: david.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/DavidYahalomi"}
+    - { name: "github", link: "https://github.com/davidyaha"}
+-
+  id: "Kenneth"
+  name: "Kenneth Rohde"
+  surname: " Christiansen"
+  company: "Intel"
+  title: "Web Platform Architect"
+  longTitle: "Web Platform Architect"
+  bio: "Kenneth Rohde Christiansen is a Danish software engineer and architect, specialized in mobile and web technology. Working at Intel out of Copenhagen, Kenneth helps define Intel’s strategy and plans regarding the Web Platform, as well as puts it into action. Before joining Intel, Kenneth was employed by Nokia (Denmark and Brazil) where he worked on the Nokia N9 web browser, Qt, WebKit, as well as many other mobile projects. Currently working on Progressive Web Apps and emerging web standards like Web App Manifest, Generic Sensors, Web NFC etc."
+  thumbnailUrl: Kenneth.jpg
+  social:
+    - { name: "github", link: "https://github.com/kenchris"}
+    - { name: "twitter", link: "https://twitter.com/kennethrohde"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/kenneth-rohde-christiansen-a3495521/"}
+-
+  id: "Erik"
+  name: "Erik"
+  surname: "Haddad"
+  company: "Google"
+  title: "UX Engineer"
+  longTitle: "UX Engineer"
+  bio: "Erik Haddad is a UX Engineer at Google on the Firebase team. Prior to joining Google, Erik was an advanced development engineer at ESPN and Disney."
+  thumbnailUrl: Erik.jpg
+  social:
+    - { name: "github", link: "https://github.com/erikhaddad"}
+    - { name: "twitter", link: "https://twitter.com/erikhaddad"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/erikhaddad/"}
+-
 #-
   #id: 31
   #name: "Maybe"
