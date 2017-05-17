@@ -212,10 +212,11 @@
   speakers: ["Erik"]
 -
 -
-  # id: "DnD-workshop"
-  # title: "HowTo GraphQL"
-  # description: "GraphQL allows us to replace adhoc communication with a flexible, yet structured, versionless and self documented API. This workshop will teach you GraphQL fundamentals and will allow you to start using GraphQL within your Angular apps right away."
-  # subtype: presentation
-  # speakers: ["Dotan","David"]
+  id: "DnD-workshop"
+  title: "HowTo GraphQL (Dotan Simha & David Yahalomi)"
+  description: "GraphQL allows us to replace adhoc communication with a flexible, yet structured, versionless and self documented API. This workshop will teach you GraphQL fundamentals and will allow you to start using GraphQL within your Angular apps right away."
+  subtype: presentation
+  class: "lightning"
+  speakers: ["Dotan", "David"]
 
 
