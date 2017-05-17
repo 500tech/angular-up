@@ -193,7 +193,7 @@
   subtype: presentation
   speakers: ["Chris"]
 -
-  id: "Kenneth- devices"
+  id: "Kenneth-devices"
   title: "The web in an era of smart devices"
   description: "<p> The improvements in size, features and price of hardware has ushered new opportunities in creating small, smart devices (aka internet-of-things) which can be integrated in homes and industries. In these places, the devices can help automate common tasks, as well as give information about the state of things, such as temperature of a machine, air quality etc.
   </p><p>
@@ -205,7 +205,7 @@
   subtype: presentation
   speakers: ["Kenneth"]
 -
-  id: "Erik- Fire"
+  id: "Erik-Fire"
   title: "AngularFire2 and you"
   description: "Discover how Firebase can streamline development processes and how to easily add AngularFire2 to your Angular apps. A comprehensive walk-through of how to effortlessly create a full-stack application using Firebase and Angular. A demo web app (and possibly a mobile app) will be built to illustrate integration points for authentication, realtime database, asset storage, hosting, notifications, analytics, and more."
   subtype: presentation
