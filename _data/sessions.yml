@@ -169,13 +169,8 @@
   speakers: [18, 19, 20, 21, 22]
 -
   id: "Maxim-Automatic"
-  title: "Automatic Progressive Web Apps using the Angular Mobile Toolkit"
-  description: "<p>
-  Progressive Web Apps are the next big thing for the web. They combine the advantages of two platforms: <p> searchability and shareability of the web with capabilities and performance of native mobile. As a result, web developers can use their favorite tools to build installable, re-engageable, connectivity independent apps, that can bring native-like performance and user experience.
-  </p><p>
-  The Angular Mobile Toolkit makes it easy to get started building PWA. It’s developed to automate main routines and provide us with some nice tools to control the progressive app behavior. During this practical session, we'll have a look at Mobile Toolkit’s main components, and how they take our web app to the next level. With just some simple updates we’ll get installable, offline-capable, mobile-network-friendly Angular app re-engaging users by push-notifications.
-  </p><p>
-  This topic could be presented in a form of training/workshop (preferable)
+  title: "Reactive state management for your Angular app"
+  description: "<p>TBA
   </p>"
   subtype: presentation
   speakers: ["Maxim"]
