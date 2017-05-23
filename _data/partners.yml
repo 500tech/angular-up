@@ -33,14 +33,16 @@
     - {name: "HaMakor", scale: "1.2", description: "HaMakor", link: "http://www.hamakor.org.il", imageUrl: "Hamakor_logo.png"}
     - {name: "Modern Web", scale: "1.0", description: "Podcast about frameworks, standards and techniques", link: "http://www.modern-web.org/", imageUrl: "modernweb.png"}
     - {name: "AngularJS Warsaw", scale: "0.65", description: "AngularJS Warsaw", link: "https://www.meetup.com/AngularJS-Warsaw/", imageUrl: "warsaw.jpeg"}
+    - {name: "AngularNYC", scale: "1.2", description: "AngularNYC", link: "https://www.meetup.com/AngularNYC/", imageUrl: "AngularNYCMeetup.svg"}
+    - {name: "ngGirls", scale: "1.0", description: "ngGirls", link: "http://ng-girls.org/", imageUrl: "nggirls.png"}
     - {name: "AngularJS Meetup Berlin", scale: "0.7", description: "AngularJS Meetup Berlin", link: "https://www.meetup.com/AngularJS-Meetup-Berlin", imageUrl: "berlin.jpeg"}
     - {name: "AngularJS Meetup Budapest", scale: "1.0", description: "AngularJS Meetup Budapest", link: "http://www.meetup.com/Budapest-AngularJS-Meetup/", imageUrl: "budapest.svg"}
-    - {name: "ngGirls", scale: "1.0", description: "ngGirls", link: "http://ng-girls.org/", imageUrl: "nggirls.png"}
     - {name: "ngStockholm", scale: "0.65", description: "ngStockholm", link: "https://www.meetup.com/ngStockholm/", imageUrl: "ngStockholm.png"}
+    - {name: "Angular Bolivia", scale: "0.8", description: "Angular Bolivia", link: "https://www.meetup.com/Angular-Bolivia/", imageUrl: "boliv.png"}
     - {name: "ngAmsterdam", scale: "0.8", description: "ngAmsterdam", link: "https://www.meetup.com/ngAmsterdam/", imageUrl: "amsterdam.jpg"}
     - {name: "Angular Belgium", scale: "0.65", description: "Angular Belgium", link: "https://www.meetup.com/Angular-Belgium/", imageUrl: "Belgium.svg"}
     - {name: "ATL AngularJS", scale: "0.65", description: "ATL AngularJS", link: "https://www.meetup.com/ATL-AngularJS/", imageUrl: "atl angularjs.jpeg"}
-    - {name: "AngularNYC", scale: "1.2", description: "AngularNYC", link: "https://www.meetup.com/AngularNYC/", imageUrl: "AngularNYCMeetup.svg"}
     - {name: "Angular-SF", scale: "0.7", desscription: "Angular-SF", link: "https://www.meetup.com/Angular-SF/", imageUrl: "SF.png"}
     - {name: "JS-Poland", scale: "0.6", description: "JS-Poland", link: "http://www.js-poland.pl/", imageUrl: "poland.png"}
+
 

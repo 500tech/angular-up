@@ -169,7 +169,7 @@
   speakers: [18, 19, 20, 21, 22]
 -
   id: "Maxim-Automatic"
-  title: "Reactive state management for your Angular app"
+  title: "Reactive State Management For Your Angular App"
   description: "<p>TBA
   </p>"
   subtype: presentation
