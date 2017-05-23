@@ -213,5 +213,11 @@
   subtype: presentation
   class: "lightning"
   speakers: ["Dotan", "David"]
+-
+  id: "Shmuela-talk"
+  title: "Talk to Your App"
+  description: "<p> Technology has given us means to communicate with computers - interfaces such as keyboard, mouse, and touch screen. But when we look to the future, we expect a more natural, intuitive, agile way to use applications: speech. As you can see, the future is already here and voice driven interactions are becoming mainstream. Not only can voice driven interface upgrade our users' experience, but it opens a world of opportunities for unique use cases. Shmuela will show you how you can leverage Google Cloud Speech API with Angular and Firebase to enable your application to listen and respond to its users.</p> "
+  subtype: presentation
+  speakers: ["Shmuela"]
 
 
