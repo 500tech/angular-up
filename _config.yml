@@ -279,9 +279,9 @@ ticketsOffers:
   buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
   buyButtonText: Buy Now
   euroPrice: 155
-  soldOut: false
+  soldOut: true
   soldOutText: Sold Out!
-  disabled: false
+  disabled: true
 - name: Late Bird
   price: 750
   priceCurrency: ILS
@@ -291,7 +291,7 @@ ticketsOffers:
   euroPrice: 190
   soldOut: false
   soldOutText: Sold Out!
-  disabled: true
+  disabled: false
 - name: Last Minute
   price: 1120
   priceCurrency: ILS
