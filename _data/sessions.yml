@@ -206,6 +206,21 @@
   subtype: presentation
   speakers: ["Erik"]
 -
+  id: "Tzook-tricks"
+  title: "DevTools: Useful Tricks"
+  description: "<p> 
+  <ul> 
+  <li> Did you ever try to modify data from the console but needed an Angular Digest Cycle and you couldn't invoke it? </li>
+  <li> Have you ever debugged a function and accidentally stepped in Angular's code and you couldn't get out? </li>
+  <li> Do you sometimes try to find the original event listener of an element but can't because Angular proxies it? </li>
+  </ul>
+  </p><p>
+  Then this talk is for you!
+  </p><p>
+  Join a quick talk about how to better utilize the Chrome Developer Tools.
+  Learn advanced features that will make your life much easier as a web developer.</p> "
+  subtype: presentation
+  speakers: ["Tzook"]
 -
   id: "DnD-workshop"
   title: "HowTo GraphQL (Dotan Simha & David Yahalomi)"

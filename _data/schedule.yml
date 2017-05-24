@@ -51,7 +51,7 @@
     }
     - {
       startTime: "15:10",
-      sessionIds: ["Shmuela-talk"]
+      sessionIds: ["Shmuela-talk" , "Tzook-tricks"]
     }
     - {
       startTime: "15:40",

@@ -243,20 +243,19 @@
     - { name: "github", link: "https://github.com/erikhaddad"}
     - { name: "twitter", link: "https://twitter.com/erikhaddad"}
     - { name: "linkedin", link: "https://www.linkedin.com/in/erikhaddad/"}
-
-# -
-#   id: "Erik"
-#   name: "Erik"
-#   surname: "Haddad"
-#   company: "Google"
-#   title: "UX Engineer"
-#   longTitle: "UX Engineer"
-#   bio: "Erik Haddad is a UX Engineer at Google on the Firebase team. Prior to joining Google, Erik was an advanced development engineer at ESPN and Disney."
-#   thumbnailUrl: Erik.jpg
-#   social:
-#     - { name: "github", link: "https://github.com/erikhaddad"}
-#     - { name: "twitter", link: "https://twitter.com/erikhaddad"}
-#     - { name: "linkedin", link: "https://www.linkedin.com/in/erikhaddad/"}
+-
+  id: "Tzook"
+  name: "Tzook"
+  surname: "Shaked"
+  company: "MyHeritage"
+  title: "Web Tech Lead"
+  longTitle: "Web Tech Lead"
+  bio: "A JavaScript developer with a passion for \"Pixel Perfect\". Things I love: Smooth css animations, short functions, box shadows and quinoa."
+  thumbnailUrl: tzook.jpg
+  social:
+    - { name: "github", link: "https://github.com/Tzook"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/tzook/"}
+-
 # -
 #-
   #id: 31
