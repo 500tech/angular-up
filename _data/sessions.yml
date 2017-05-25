@@ -170,7 +170,7 @@
 -
   id: "Maxim-Automatic"
   title: "Reactive State Management For Your Angular App"
-  description: "<p>TBA
+  description: "<p>Your Angular application is a reactive system. It reacts to different events and updates the model, then propagates the changes through the component tree. It works like a charm for the simple and non UI-intensive apps. But when you, following this architecture, meet some more complex usecases (like concurrent data modification, complex component intercommunications, the need to keep temporary UI state, etc), it's time to think about different way to manage the app state. Redux pattern to the rescue! But Redux in Angular way. We have reactive forms, reactive router, observables-based http-client, so let's have a look at reactive Redux called ngrx/store. In this session: intro to the state management (famous Facebook bug), base principles and components of Redux, converting our regular app to the one using centralized store using ngrx/store, tooling, pros and cons of having centralized store for the state management.
   </p>"
   subtype: presentation
   speakers: ["Maxim"]
