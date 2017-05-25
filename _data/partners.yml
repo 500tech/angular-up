@@ -25,6 +25,7 @@
     - {name: "AngularAir", description: "AngularAir", link: "https://angularair.com/", imageUrl: "ng-air-logo-light.png"}
     - {name: "firebase", scale: "2", description: "firebase", link: "https://firebase.google.com/", imageUrl: "firebase.png"}
     - {name: "malam", scale: "1.2", description: "firebase", link: "https://malamteam.com/", imageUrl: "malam.jpg"}
+    - {name: "Progress", scale: "1.4", description: "progress", link: "https://progress.com/", imageUrl: "progress.png"}
 
 - 
 
