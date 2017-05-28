@@ -125,14 +125,14 @@
   speakers: ["Joe"]
 -
   id: "Nir-Reactive-Forms"
-  title: "Reactive Forms"
-  description: ""
+  title: "Unleash the Power of Angular Reactive Form"
+  description: "The reactive forms module is powerful. During this session we will live code a form from scratch, going through all the main features such as: validation, reactive state tracking, dynamic form creation and much more…"
   subtype: presentation
   speakers: ["Nir"]
 -
   id: "Uri"
-  title: "Coming Soon"
-  description: ""
+  title: "Building High Performance Static Web Site with Angular"
+  description: "Traditionally, AngularJS has been used for building rich single-page applications. Nowadays, Angular has become a universal framework, running inside the browser, in the backend and powering your mobile apps. The new Angular version unlocks some interesting use-cases that were not previously possible. In this talk, we are going to see how to set up angular-universal together with fuse-box for building scalable, high-performance static web sites, such as a blog or a landing page that can be easily deployed to gh-pages or Firebase Hosting."
   subtype: presentation
   speakers: ["Uri"]
 -
@@ -201,8 +201,8 @@
   speakers: ["Kenneth"]
 -
   id: "Erik-Fire"
-  title: "AngularFire2 and you"
-  description: "Discover how Firebase can streamline development processes and how to easily add AngularFire2 to your Angular apps. A comprehensive walk-through of how to effortlessly create a full-stack application using Firebase and Angular. A demo web app (and possibly a mobile app) will be built to illustrate integration points for authentication, realtime database, asset storage, hosting, notifications, analytics, and more."
+  title: "Progressive Web Apps with Angular and Firebase"
+  description: "Angular is a cross-platform solution for building powerful apps and supports Progressive Web Apps out of the box. Firebase gives you the tools and infrastructure you need to build better apps and grow successful businesses. Learn how Angular and Firebase tools enable you to increase app engagement with faster loads, offline access, authentication, data/media storage, serverless operations, push notifications, and more, through the progressive enhancement of your mobile web apps."
   subtype: presentation
   speakers: ["Erik"]
 -

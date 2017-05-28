@@ -8,13 +8,14 @@
     - {name: "BlueVine", description: "BlueVine", link: "https://www.bluevine.com/", imageUrl: "BlueVineLogo.png"}
     - {name: "Kaltura", description: "Kaltura", link: "https://corp.kaltura.com/", imageUrl: "kaltura.png"}
     - {name: "IronSource", description: "IronSource", link: "https://www.ironsrc.com/", imageUrl: "irns.png"}
+    - {name: "at&t", description: "at&t", link: "", scale: "0.6",  imageUrl: "AT&T.png"}
+
 -
   group: "Silver"
   class: "silver"
   elements:
     - {name: "Webcollage", scale: "2", description: "Webcollage", link: "https://www.webcollage.com", imageUrl: "webc.png"}
     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "Jetbrains_logo.png"}
-    #- {name: "BlueVine", description: "BlueVine", link: "https://www.bluevine.com/", imageUrl: "BlueVineLogo.png"}
     - {name: "Gigya", description: "Gigya", link: "https:/www.gigya.com", imageUrl: "gig.png"}
 
 -
