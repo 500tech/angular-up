@@ -255,7 +255,47 @@
   social:
     - { name: "github", link: "https://github.com/Tzook"}
     - { name: "linkedin", link: "https://www.linkedin.com/in/tzook/"}
+
 -
+  id: "Pini"
+  name: "Pini"
+  surname: "Cohen"
+  company: "Malam"
+  title: ""
+  longTitle: ""
+  bio: ""
+  thumbnailUrl: 
+  social:
+    - { name: "twitter", link: ""}
+    - { name: "github", link: ""}
+
+-
+  id: "Asim"
+  name: "Asim"
+  surname: ""
+  company: ""
+  title: ""
+  longTitle: ""
+  bio: ""
+  thumbnailUrl: 
+  social:
+    - { name: "twitter", link: ""}
+    - { name: "github", link: ""}
+
+-
+  id: "Michael"
+  name: "Michael"
+  surname: "Haberman"
+  company: "Freelancer"
+  title: "Consultant"
+  longTitle: ""
+  bio: "Michael Haberman (MCT, MCPD, AWS solution architect, GDG organizer) is a senior consultant and Lecturer. He is a fullstack expert, which specializes in rich client technologies such as Javascript, HTML & CSS, Loves Node JS and AWS. Micro services is my new specialty.  
+Michael is the co–author of Microsoft's official courses for Essentials of Developing Windows Store Apps Using C# (20484C) and Advanced Windows Store App Development Using C# (20485C).
+In addition to consulting Michael train, lecture and speak at conferences both in Israel and abroad."
+  thumbnailUrl: Mheb.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/hab_mic"}
+    - { name: "linkedin", link: "https://www.linkedin.com/in/michael-haberman-65184b14/"}
 # -
 #-
   #id: 31
