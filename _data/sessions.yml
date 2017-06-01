@@ -12,7 +12,7 @@
   description: ""
 -
   id: "talks-in-main-halls"
-  title: "Speakers Office Hours"
+  title: "Talks in main halls"
   place: "Main Foyer"
   service: true
   description: ""
@@ -158,6 +158,7 @@
   subtype: presentation
   speakers: ["Noam"]
 -
+<<<<<<< HEAD
   id: "lightning"
   title: "Lightning talks"
   class: "lightning"
@@ -169,6 +170,9 @@
   speakers: ["Pini", "Elad", "Ziv", 21, 22]
 -
   id: "Maxim-Automatic" #maxim needs to speak early - he has a flight back Sunday at 16:30"
+=======
+  id: "Maxim-State"
+>>>>>>> master
   title: "Reactive State Management For Your Angular App"
   description: "<p>Your Angular application is a reactive system. It reacts to different events and updates the model, then propagates the changes through the component tree. It works like a charm for the simple and non UI-intensive apps. But when you, following this architecture, meet some more complex usecases (like concurrent data modification, complex component intercommunications, the need to keep temporary UI state, etc), it's time to think about different way to manage the app state. Redux pattern to the rescue! But Redux in Angular way. We have reactive forms, reactive router, observables-based http-client, so let's have a look at reactive Redux called ngrx/store. In this session: intro to the state management (famous Facebook bug), base principles and components of Redux, converting our regular app to the one using centralized store using ngrx/store, tooling, pros and cons of having centralized store for the state management.
   </p>"
@@ -182,7 +186,7 @@
   subtype: presentation
   speakers: ["Bartosz"]
 -
-  id: "Chris-workshop"
+  id: "Chris-rx"
   title: "Rxjs beyond the basics"
   description: "Rxjs is the new way do async. Let's assume you know the basics of what an Observable is and explore some advanced concepts and Enterprise patterns and practices"
   subtype: presentation
@@ -222,7 +226,7 @@
   subtype: presentation
   speakers: ["Tzook"]
 -
-  id: "DnD-workshop"
+  id: "DnD-graphql"
   title: "HowTo GraphQL (Dotan Simha & David Yahalomi)"
   description: "GraphQL allows us to replace adhoc communication with a flexible, yet structured, versionless and self documented API. This workshop will teach you GraphQL fundamentals and will allow you to start using GraphQL within your Angular apps right away."
   subtype: presentation
@@ -236,24 +240,30 @@
   speakers: ["Shmuela"]
 
 -
-  id: "Ziv-talk"
-  title: " What is “Web Wssembly”? "
+  id: "Ziv-WASM"
+  title: "What is “Web Wssembly”?"
   description: "short introduction to “web assembly” and will it kill JavaScript?"
   subtype: presentation
   speakers: ["Ziv"]
 -
-  id: "Pini-talk"
-  title: "TBA"
+  id: "Pini-IOT"
+  title: "IoT"
   description: "TBA"
   subtype: presentation
   speakers: ["Pini"]
 -
+<<<<<<< HEAD
   id: "Asim-talk"
   title: ""  # cut down/tangental talk on AngularJS Migration#
+=======
+  id: "Asim-migration"
+  title: "Migration"
+>>>>>>> master
   description: "TBA"
   subtype: presentation
   speakers: ["Asim"]
 -
+<<<<<<< HEAD
   id: "Michael-talk"
   title: "Multiplayer Game with Angular"
   description: "Angular is an awesome framework that allows you to create almost any web application. 
@@ -262,4 +272,24 @@
   subtype: presentation
   speakers: ["Michael"]
 
+=======
+  id: "Michael-gaming"
+  title: "Gaming"
+  description: "TBA"
+  subtype: presentation
+  speakers: ["Michael"]
+-
+  id: "Ilya-Maayan-Mimic"
+  title: "Mimic (Ilya Birman & Maayan Glickser)"
+  description: "TBA"
+  class: "lightning"
+  subtype: presentation
+  speakers: ["Ilya", "Maayan"]
+>>>>>>> master
 
+-
+  id: "Elad-Material"
+  title: "Material"
+  description: "TBA"
+  subtype: presentation
+  speakers: ["Elad"]

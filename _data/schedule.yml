@@ -10,11 +10,11 @@
       sessionIds: ["door-open"]
     }
     - {
-      startTime: "9:30",
+      startTime: "9:30", # 9:50 split to halls
       sessionIds: ["opening-words"]
     }
     - {
-      startTime: "09:50",
+      startTime: "09:55",
       sessionIds: ["Ari-CD", "Sebastian-NativeScript"]
     }
     - {
@@ -42,40 +42,40 @@
       sessionIds: ["lunch"] # lunch
     }
     - {
-      startTime: "13:50",
-      sessionIds: ["Maxim-Automatic", "Bartosz-router"] #
+      startTime: "13:50", # really starts at 14:00....
+      sessionIds: ["Tzook-tricks", "coming-soon"] #"Ilya-Maayan-Mimic"]
     }
     - {
-      startTime: "14:35",
-      sessionIds: ["Kenneth-devices", "Erik-Fire"] #
+      startTime: "14:20",
+      sessionIds: ["Maxim-State", "Bartosz-router"]
     }
     - {
-      startTime: "15:10",
-      sessionIds: ["Shmuela-talk" , "Tzook-tricks"]
+      startTime: "14:55",
+      sessionIds: ["Kenneth-devices", "Erik-Fire"]
     }
     - {
-      startTime: "15:40",
+      startTime: "15:25",
       sessionIds: ["break"] # break
     }
     - {
-      startTime: "16:00",
-      sessionIds: ["coming-soon"] #
+      startTime: "15:45",
+      sessionIds: ["coming-soon", "coming-soon"] #["Ziv-WASM", "Pini-IOT"]
+    }    
+    - {
+      startTime: "15:50",
+      sessionIds: ["Shmuela-talk" , "coming-soon"] #[Asim-migration"]
     }
     - {
-      startTime: "16:35",
-      sessionIds: ["coming-soon"] #
+      startTime: "16:25",
+      sessionIds: ["coming-soon", "coming-soon"] #["Michael-gaming", "Elad-Material"]
     }
     - {
-      startTime: "17:10",
-      sessionIds: ["lightning"]
+      startTime: "17:15",
+      sessionIds: ["closing-words"]
     }
     - {
-      startTime: "17:35",
-      sessionIds: ["quiz"]
-    }
-    - {
-      startTime: "18:00",
-      sessionIds: ["closing-words"] # End
+      startTime: "17:30",
+      sessionIds: ["quiz"] # End
     }
 
 -
@@ -85,7 +85,7 @@
     - {title: "Workshops", color: "#03a9f4"}
   timeslots:
     - {
-      startTime: "9:50",
+      startTime: "9:55",
       sessionIds: ["Joe-Testing"]
     }
     - {
@@ -98,29 +98,22 @@
     }
     - {
       startTime: "11:55",
-      sessionIds: ["Chris-workshop"]
+      sessionIds: ["Chris-rx"]
     }
     - {
       startTime: "13:00",
       sessionIds: ["lunch"] # lunch
     }
     - {
-      startTime: "13:50",
-      sessionIds: ["DnD-workshop"] #
+      startTime: "14:20",
+      sessionIds: ["DnD-graphql"]
     }
     - {
-      startTime: "15:10",
-      sessionIds: ["talks-in-main-halls"] #
+      startTime: "15:25",
+      sessionIds: ["break"]
     }
     - {
-      startTime: "15:40",
-      sessionIds: ["break"] # break
-    }
-    - {
-      startTime: "16:00",
-      sessionIds: ["coming-soon"] #
-    }
-    - {
-      startTime: "17:10",
+      startTime: "15:45",
       sessionIds: ["talks-in-main-halls"]
     }
+
