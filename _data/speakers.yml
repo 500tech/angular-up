@@ -296,6 +296,16 @@ In addition to consulting Michael train, lecture and speak at conferences both i
   social:
     - { name: "twitter", link: "https://twitter.com/hab_mic"}
     - { name: "linkedin", link: "https://www.linkedin.com/in/michael-haberman-65184b14/"}
+
+-
+  id: "Ilya"
+  name: "Ilya"
+  surname: "Birman"
+
+-
+  id: "Maayan"
+  name: "Maayan"
+  surname: "Glickser"
 # -
 #-
   #id: 31
