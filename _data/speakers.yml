@@ -260,27 +260,25 @@
   id: "Pini"
   name: "Pini"
   surname: "Cohen"
-  company: "Malam"
-  title: ""
-  longTitle: ""
-  bio: ""
+  company: "Malam Team"
+  title: "Technologies division CTO at Malam Team"
+  longTitle: "Technologies division CTO at Malam Team"
+  bio: "Pini Cohen is a Java expert with over 20 year experience in open source technologies such as Java, Open Stack, Angular and DEVOPS"
   thumbnailUrl: 
   social:
-    - { name: "twitter", link: ""}
-    - { name: "github", link: ""}
+    - { name: "linkedin", link: " https://www.linkedin.com/in/pini-cohen-1967822/"}
 
 -
   id: "Asim"
   name: "Asim"
-  surname: ""
-  company: ""
-  title: ""
-  longTitle: ""
-  bio: ""
-  thumbnailUrl: 
+  surname: "Hussain"
+  company: "Microsoft"
+  title: "Cloud Developer Advocate at Microsoft"
+  longTitle: "Cloud Developer Advocate at Microsoft"
+  bio: "Asim is a developer, trainer and speaker with over 16 years experience working for organisations such as the European Space Agency, Google and now a Developer Advocate for Microsoft. He is also author of the book \"Angular: From Theory to Practice\" and he has taught over 50,000 students Angular, JavaScript and Ionic through his site codecraft.tv."
+  thumbnailUrl: asim.png
   social:
-    - { name: "twitter", link: ""}
-    - { name: "github", link: ""}
+    - { name: "twitter", link: "https://twitter.com/jawache"}
 
 -
   id: "Michael"

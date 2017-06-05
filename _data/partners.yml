@@ -8,7 +8,7 @@
     - {name: "BlueVine", description: "BlueVine", link: "https://www.bluevine.com/", imageUrl: "BlueVineLogo.png"}
     - {name: "Kaltura", description: "Kaltura", link: "https://corp.kaltura.com/", imageUrl: "kaltura.png"}
     - {name: "IronSource", description: "IronSource", link: "http://www.ironsrc.com/", imageUrl: "irns.png"}
-    - {name: "at&t", description: "at&t", link: "http://nina.uclabs.com/att/att-open-jobs.pdf", scale: "0.6",  imageUrl: "att.pdf"}
+    - {name: "at&t", description: "at&t", link: "http://nina.uclabs.com/att/att-open-jobs.pdf", scale: "0.6",  imageUrl: "ATT.png"}
 
 -
   group: "Silver"

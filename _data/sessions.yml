@@ -54,8 +54,8 @@
   # TODO: speakers: [15]
 -
   id: "Ari-CD"
-  title: "Change Detection"
-  description: ""
+  title: "Angular, the blockchain, and you"
+  description: "Perhaps you've heard of Bitcoin? If so, you've likely heard of the blockchain. Guess what, you can use the blockchain directly in your angular apps. In this talk, we're exploring the future of trade, trust, and how _you_ can use the blockchain to directly build value into your apps. "
   subtype: presentation
   speakers: ["Ari"]
 -
@@ -158,21 +158,7 @@
   subtype: presentation
   speakers: ["Noam"]
 -
-<<<<<<< HEAD
-  id: "lightning"
-  title: "Lightning talks"
-  class: "lightning"
-  description: "<p>
-    Lightning talks about various topics from community speakers.
-  </p><p>
-  </p>"
-  subtype: presentation
-  speakers: ["Pini", "Elad", "Ziv", 21, 22]
--
-  id: "Maxim-Automatic" #maxim needs to speak early - he has a flight back Sunday at 16:30"
-=======
-  id: "Maxim-State"
->>>>>>> master
+  id: "Maxim-State" #maxim needs to speak early - he has a flight back Sunday at 16:30"
   title: "Reactive State Management For Your Angular App"
   description: "<p>Your Angular application is a reactive system. It reacts to different events and updates the model, then propagates the changes through the component tree. It works like a charm for the simple and non UI-intensive apps. But when you, following this architecture, meet some more complex usecases (like concurrent data modification, complex component intercommunications, the need to keep temporary UI state, etc), it's time to think about different way to manage the app state. Redux pattern to the rescue! But Redux in Angular way. We have reactive forms, reactive router, observables-based http-client, so let's have a look at reactive Redux called ngrx/store. In this session: intro to the state management (famous Facebook bug), base principles and components of Redux, converting our regular app to the one using centralized store using ngrx/store, tooling, pros and cons of having centralized store for the state management.
   </p>"
@@ -247,35 +233,24 @@
   speakers: ["Ziv"]
 -
   id: "Pini-IOT"
-  title: "IoT"
-  description: "TBA"
+  title: "JS in IOT World"
+  description: "Overview scan of some new development and frameworks in Javascript, in regards to IOT"
   subtype: presentation
   speakers: ["Pini"]
 -
-<<<<<<< HEAD
-  id: "Asim-talk"
-  title: ""  # cut down/tangental talk on AngularJS Migration#
-=======
   id: "Asim-migration"
-  title: "Migration"
->>>>>>> master
-  description: "TBA"
+  title: "The AngularJS Migration F.A.Q."
+  description: "If you have ever started blankly at your old AngularJS controller code, with it's precariously balanced set of $scope.$watches, copious use of third party modules and wondered how the hell to migrate that into your new shiny new Angular app, then this is the talk for you.
+  This won't be deep dive into the theory of migration, but instead a fast paced practical migration F.A.Q. 
+  Answers to the most common questions I get asked about AngularJS migration by real developers migrating real apps."
   subtype: presentation
   speakers: ["Asim"]
 -
-<<<<<<< HEAD
-  id: "Michael-talk"
+  id: "Michael-gaming"
   title: "Multiplayer Game with Angular"
   description: "Angular is an awesome framework that allows you to create almost any web application. 
    In this talk we will focus on the gaming field. We will live code a multiplayer game using Angular, see a brief overview how to sync data between users using Firebase. 
    During this session, participants will play the game and we will learn from live debugging."
-  subtype: presentation
-  speakers: ["Michael"]
-
-=======
-  id: "Michael-gaming"
-  title: "Gaming"
-  description: "TBA"
   subtype: presentation
   speakers: ["Michael"]
 -
@@ -285,8 +260,6 @@
   class: "lightning"
   subtype: presentation
   speakers: ["Ilya", "Maayan"]
->>>>>>> master
-
 -
   id: "Elad-Material"
   title: "Material"
