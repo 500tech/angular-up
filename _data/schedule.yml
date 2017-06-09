@@ -19,7 +19,7 @@
     }
     - {
       startTime: "10:30",
-      sessionIds: ["Pascal-ServiceWorkers", "Sani-ionic"]
+      sessionIds: ["Pascal-ServiceWorkers", "Maxim-State"]
     }
     - {
       startTime: "11:05",
@@ -35,7 +35,7 @@
     }
     - {
       startTime: "12:30",
-      sessionIds: ["Nir-Reactive-Forms", "Maxim-State"]
+      sessionIds: ["Nir-Reactive-Forms", "Asim-migration"]
     }
     - {
       startTime: "13:00",
@@ -55,7 +55,7 @@
     }
     - {
       startTime: "14:55",
-      sessionIds: ["Asim-migration", "Noam-Accessibility"]
+      sessionIds: ["Bartosz-router", "Noam-Accessibility"]
     }
     - {
       startTime: "15:25",
@@ -67,7 +67,7 @@
     }    
     - {
       startTime: "15:55",
-      sessionIds: ["Bartosz-router", "Michael-gaming"]
+      sessionIds: ["Sani-ionic", "Michael-gaming"]
     }
     - {
       startTime: "16:30",
@@ -89,12 +89,12 @@
     - {title: "Workshops", color: "#03a9f4"}
   timeslots:
     - {
-      startTime: "9:55",
-      sessionIds: ["Joe-Testing"]
+      startTime: "10:30",
+      sessionIds: ["DnD-graphql"]
     }
     - {
-      startTime: "11:00",
-      sessionIds: ["talks-in-main-halls"]
+      startTime: "11:35",
+      sessionIds: ["break"]
     }
     - {
       startTime: "11:55",
@@ -106,7 +106,7 @@
     }
     - {
       startTime: "14:20",
-      sessionIds: ["DnD-graphql"]
+      sessionIds: ["Joe-Testing"]
     }
     - {
       startTime: "15:25",
