@@ -15,7 +15,7 @@
     }
     - {
       startTime: "09:55",
-      sessionIds: ["Ari-CD", "Sebastian-NativeScript"]
+      sessionIds: ["Ari-Blockchain", "Sebastian-NativeScript"]
     }
     - {
       startTime: "10:30",
@@ -23,7 +23,7 @@
     }
     - {
       startTime: "11:05",
-      sessionIds: ["Minko-Compiler", "Joe-DI"]
+      sessionIds: ["Minko-Compiler", "Erik-Fire"]
     }
     - {
       startTime: "11:35",
@@ -31,27 +31,31 @@
     }
     - {
       startTime: "11:55",
-      sessionIds: ["Nir-Reactive-Forms", "Gil-Animations"]
+      sessionIds: ["Joe-DI", "Uri-Static"]
     }
     - {
       startTime: "12:30",
-      sessionIds: ["Uri", "Noam-Accessibility"]
+      sessionIds: ["Nir-Reactive-Forms", "Maxim-State"]
     }
     - {
       startTime: "13:00",
-      sessionIds: ["lunch"] # lunch
+      sessionIds: ["lunch", "Ilya-UX"] # lunch
+    }
+    - {
+      startTime: "13:15",
+      sessionIds: ["lunch", "lunch"] # lunch
     }
     - {
       startTime: "13:50", # really starts at 14:00....
-      sessionIds: ["Tzook-tricks", "coming-soon"] #"Ilya-Maayan-Mimic"]
+      sessionIds: ["Tzook-tricks", "lunch"]
     }
     - {
       startTime: "14:20",
-      sessionIds: ["Maxim-State", "Bartosz-router"]
+      sessionIds: ["Gil-Animations", "Kenneth-devices"]
     }
     - {
       startTime: "14:55",
-      sessionIds: ["Kenneth-devices", "Erik-Fire"]
+      sessionIds: ["Asim-migration", "Noam-Accessibility"]
     }
     - {
       startTime: "15:25",
@@ -59,22 +63,22 @@
     }
     - {
       startTime: "15:45",
-      sessionIds: ["coming-soon", "coming-soon"] #["Ziv-WASM", "Pini-IOT"]
+      sessionIds: ["Ziv-WASM", "Pini-IOT"]
     }    
     - {
-      startTime: "15:50",
-      sessionIds: ["Shmuela-talk" , "coming-soon"] #[Asim-migration"]
+      startTime: "15:55",
+      sessionIds: ["Bartosz-router", "Michael-gaming"]
     }
     - {
-      startTime: "16:25",
-      sessionIds: ["coming-soon", "coming-soon"] #["Michael-gaming", "Elad-Material"]
+      startTime: "16:30",
+      sessionIds: ["Elad-Material", "Shmuela-talk"]
     }
     - {
-      startTime: "17:15",
+      startTime: "17:05",
       sessionIds: ["closing-words"]
     }
     - {
-      startTime: "17:30",
+      startTime: "17:15",
       sessionIds: ["quiz"] # End
     }
 
@@ -89,12 +93,8 @@
       sessionIds: ["Joe-Testing"]
     }
     - {
-      startTime: "11:05",
+      startTime: "11:00",
       sessionIds: ["talks-in-main-halls"]
-    }
-    - {
-      startTime: "11:35",
-      sessionIds: ["break"] # coffee break
     }
     - {
       startTime: "11:55",

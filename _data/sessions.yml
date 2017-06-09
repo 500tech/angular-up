@@ -12,7 +12,7 @@
   description: ""
 -
   id: "talks-in-main-halls"
-  title: "Talks in main halls"
+  title: "Talks in Track A & B"
   place: "Main Foyer"
   service: true
   description: ""
@@ -53,7 +53,7 @@
   center: true
   # TODO: speakers: [15]
 -
-  id: "Ari-CD"
+  id: "Ari-Blockchain"
   title: "Angular, the blockchain, and you"
   description: "Perhaps you've heard of Bitcoin? If so, you've likely heard of the blockchain. Guess what, you can use the blockchain directly in your angular apps. In this talk, we're exploring the future of trade, trust, and how _you_ can use the blockchain to directly build value into your apps. "
   subtype: presentation
@@ -130,7 +130,7 @@
   subtype: presentation
   speakers: ["Nir"]
 -
-  id: "Uri"
+  id: "Uri-Static"
   title: "Building High Performance Static Web Site with Angular"
   description: "Traditionally, AngularJS has been used for building rich single-page applications. Nowadays, Angular has become a universal framework, running inside the browser, in the backend and powering your mobile apps. The new Angular version unlocks some interesting use-cases that were not previously possible. In this talk, we are going to see how to set up angular-universal together with fuse-box for building scalable, high-performance static web sites, such as a blog or a landing page that can be easily deployed to gh-pages or Firebase Hosting."
   subtype: presentation
@@ -254,15 +254,14 @@
   subtype: presentation
   speakers: ["Michael"]
 -
-  id: "Ilya-Maayan-Mimic"
-  title: "Mimic (Ilya Birman & Maayan Glickser)"
-  description: "TBA"
-  class: "lightning"
+  id: "Ilya-UX"
+  title: "Why UX Matters, Feedback first design"
+  description: ""
   subtype: presentation
-  speakers: ["Ilya", "Maayan"]
+  speakers: ["Ilya"]
 -
   id: "Elad-Material"
-  title: "Material"
-  description: "TBA"
+  title: "Material Design"
+  description: ""
   subtype: presentation
   speakers: ["Elad"]

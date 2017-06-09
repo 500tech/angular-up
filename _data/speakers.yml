@@ -264,7 +264,7 @@
   title: "Technologies division CTO at Malam Team"
   longTitle: "Technologies division CTO at Malam Team"
   bio: "Pini Cohen is a Java expert with over 20 year experience in open source technologies such as Java, Open Stack, Angular and DEVOPS"
-  thumbnailUrl: 
+  thumbnailUrl: pini.jpg
   social:
     - { name: "linkedin", link: " https://www.linkedin.com/in/pini-cohen-1967822/"}
 
@@ -286,7 +286,7 @@
   surname: "Haberman"
   company: "Freelancer"
   title: "Consultant"
-  longTitle: ""
+  longTitle: "Consultant"
   bio: "Michael Haberman (MCT, MCPD, AWS solution architect, GDG organizer) is a senior consultant and Lecturer. He is a fullstack expert, which specializes in rich client technologies such as Javascript, HTML & CSS, Loves Node JS and AWS. Micro services is my new specialty.  
 Michael is the co–author of Microsoft's official courses for Essentials of Developing Windows Store Apps Using C# (20484C) and Advanced Windows Store App Development Using C# (20485C).
 In addition to consulting Michael train, lecture and speak at conferences both in Israel and abroad."
@@ -296,15 +296,59 @@ In addition to consulting Michael train, lecture and speak at conferences both i
     - { name: "linkedin", link: "https://www.linkedin.com/in/michael-haberman-65184b14/"}
 
 -
+  id: "Elad"
+  name: "Elad"
+  surname: "Bezalel"
+  company: "Angular Material"
+  title: "Angular Material Core Team Member"
+  longTitle: "Angular Material Core Team Member"
+  bio: "Elad is a fullstack developer with a very strong love for design.
+    Since 8 years old, he's been designing in Photoshop and later on fell in love with programing.
+    This strong bond between design and computer programming gave birth to a new kind of love,
+    and he is currently doing the combination of both, as a core member of the ngMaterial project"
+  thumbnailUrl: elad.png
+  social:
+    - {name: "twitter", link: "https://twitter.com/elad_bezalel"}
+    - {name: "github", link: "https://github.com/EladBezalel"}
+-
   id: "Ilya"
   name: "Ilya"
   surname: "Birman"
+  company: "Artem Gorbunov Design Bureau"
+  title: "Art director @ Artem Gorbunov Design Bureau"
+  longTitle: "Art director @ Artem Gorbunov Design Bureau"
+  thumbnailUrl: ilya.jpg
+  bio: ""
+  social:
+    - {name: "twitter", link: "https://twitter.com/ilyabirman"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ilya-birman-b653924b/"}
 
 -
   id: "Maayan"
   name: "Maayan"
-  surname: "Glickser"
-# -
+  surname: "Glikser"
+  company: "500Tech"
+  title: "Developer/Consultant @ 500Tech"
+  longTitle: "Developer/Consultant @ 500Tech"
+  thumbnailUrl: maayan.png
+  bio: ""
+  social:
+    - {name: "twitter", link: "https://twitter.com/MaayanGlikser"}
+    - {name: "github", link: "https://github.com/morsdyce"}# -
+-
+  id: "Ziv"
+  name: "Ziv"
+  surname: "Birer"
+  company: "HPE"
+  title: "Technical Lead"
+  longTitle: "Technical Lead"
+  thumbnailUrl: ziv.jpg
+  bio: "1992 Finish Technion with Honor on Computer Science, 20+ years experience of handso-n on server/client/embedded programming / software engineering"
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/zivbirer/"}
+    - {name: "blog", link: "http://software-engineer-tips-and-tricks.blogspot.co.il/"}
+
+
 #-
   #id: 31
   #name: "Maybe"

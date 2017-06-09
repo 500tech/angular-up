@@ -32,7 +32,7 @@ socialImageSrcFacebook: "/img/seo/ad.jpg"
 c4sponsorsUrl: mailto:sponsors@angular-up.com
 navigationLinks:
 - permalink: "/#schedule"
-  text: Speakers
+  text: Schedule
 - permalink: "/#organizers"
   text: Team
 - permalink: "/#sponsors"
