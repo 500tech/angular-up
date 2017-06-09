@@ -19,11 +19,11 @@
     }
     - {
       startTime: "10:30",
-      sessionIds: ["Pascal-ServiceWorkers", "Maxim-State"]
+      sessionIds: ["Minko-Compiler", "Maxim-State"]
     }
     - {
       startTime: "11:05",
-      sessionIds: ["Minko-Compiler", "Erik-Fire"]
+      sessionIds: ["Pascal-ServiceWorkers", "Erik-Fire"]
     }
     - {
       startTime: "11:35",
@@ -55,7 +55,7 @@
     }
     - {
       startTime: "14:55",
-      sessionIds: ["Elad-Material", "Noam-Accessibility"]
+      sessionIds: ["Sebastian-NativeScript", "Elad-Material"]
     }
     - {
       startTime: "15:25",
@@ -67,7 +67,7 @@
     }    
     - {
       startTime: "15:55",
-      sessionIds: ["Sebastian-NativeScript", "Michael-gaming"]
+      sessionIds: ["Noam-Accessibility", "Michael-gaming"]
     }
     - {
       startTime: "16:30",
