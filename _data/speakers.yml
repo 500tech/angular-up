@@ -315,10 +315,10 @@ In addition to consulting Michael train, lecture and speak at conferences both i
   name: "Ilya"
   surname: "Birman"
   company: "Artem Gorbunov Design Bureau"
-  title: "Art director @ Artem Gorbunov Design Bureau"
-  longTitle: "Art director @ Artem Gorbunov Design Bureau"
+  title: "Art director @ Bureau Gorbunov"
+  longTitle: "Art director @ Bureau Gorbunov"
   thumbnailUrl: ilya.jpg
-  bio: ""
+  bio: "Ilya is a product and information designer. He makes websites and apps, transports diagrams and signage, directs designers and developers, teaches design, composes, plays and listens to music, travels and takes photos."
   social:
     - {name: "twitter", link: "https://twitter.com/ilyabirman"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/ilya-birman-b653924b/"}
