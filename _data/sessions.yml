@@ -255,8 +255,8 @@
   speakers: ["Michael"]
 -
   id: "Ilya-UX"
-  title: "Why UX Matters, Feedback first design"
-  description: ""
+  title: "Feedback first"
+  description: "<p>Good feedback is one of the most important things in interaction design. As unlike the visual design (typography, icons, colours), it’s not something you can just take from a designer’s mockup — it’s what you implement yourself.</p><p> In this talk I’ll cover the most important qualities of good feedback that you should implement in your applications for them to feel alive and snappy</p>"
   subtype: presentation
   speakers: ["Ilya"]
 -
