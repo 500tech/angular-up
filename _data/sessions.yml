@@ -261,7 +261,13 @@
   speakers: ["Ilya"]
 -
   id: "Elad-Material"
+<<<<<<< Updated upstream
   title: "Material Design"
   description: ""
+=======
+  title: "Angular Material CDK, Datatables and more!"
+  description: "Angular Material aims to give you the components you need to build a quality app in no time at all.
+In this talk, you will hear the latest status update directly from the team and get a sneak peek at what is coming"
+>>>>>>> Stashed changes
   subtype: presentation
   speakers: ["Elad"]
