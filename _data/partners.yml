@@ -44,7 +44,6 @@
     - {name: "Modern Web", scale: "1.0", description: "Podcast about frameworks, standards and techniques", link: "http://www.modern-web.org/", imageUrl: "modernweb.png"}
     - {name: "AngularNYC", scale: "1.2", description: "AngularNYC", link: "https://www.meetup.com/AngularNYC/", imageUrl: "AngularNYCMeetup.svg"}
     - {name: "let's boot", scale: "1", description: "let's boot", link: "http://www.letsboot.com/angular-2-in-house-training-support/", imageUrl: "bot.png"}
-    - {name: "ngGirls", scale: "1.0", description: "ngGirls", link: "http://ng-girls.org/", imageUrl: "nggirls.png"}
     - {name: "AngularJS Meetup Berlin", scale: "0.7", description: "AngularJS Meetup Berlin", link: "https://www.meetup.com/AngularJS-Meetup-Berlin", imageUrl: "berlin.jpeg"}
     - {name: "AngularJS Meetup Budapest", scale: "1.0", description: "AngularJS Meetup Budapest", link: "http://www.meetup.com/Budapest-AngularJS-Meetup/", imageUrl: "budapest.svg"}
     - {name: "AngularJS Warsaw", scale: "0.65", description: "AngularJS Warsaw", link: "https://www.meetup.com/AngularJS-Warsaw/", imageUrl: "warsaw.jpeg"}
