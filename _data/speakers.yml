@@ -257,16 +257,21 @@
     - { name: "linkedin", link: "https://www.linkedin.com/in/tzook/"}
 
 -
-  id: "Pini"
-  name: "Pini"
-  surname: "Cohen"
-  company: "Malam Team"
-  title: "Technologies division CTO at Malam Team"
-  longTitle: "Technologies division CTO at Malam Team"
-  bio: "Pini Cohen is a Java expert with over 20 year experience in open source technologies such as Java, Open Stack, Angular and DEVOPS"
-  thumbnailUrl: pini.jpg
+  id: "Adam"
+  name: "Adam"
+  surname: "Klein"
+  company: "500Tech"
+  title: "Web developer & CTO @ 500Tech"
+  longTitle: "Web developer & CTO @ 500Tech"
+  bio: "<p>Adam is a frontend developer by day, open sourcerer by night (angular-tree-component, mobx-angular), and the CTO of 500Tech
+He used to be an international  salsa dancer and choreographer, but still finds speaking about code more exciting than dancing in front of an audience.</p><p>
+Adam is very involved in the community, and is part of the organizers of the Angular & React meetups and conferences in Israel.</p>
+"
+  thumbnailUrl: adam.jpeg
   social:
-    - { name: "linkedin", link: " https://www.linkedin.com/in/pini-cohen-1967822/"}
+    - { name: "twitter", link: "https://twitter.com/adamklein500/"}
+    - { name: "slideshare", link: "https://slideshare.net/500tech/"}
+    - { name: "github", link: "https://github.com/adamkleingit/"}
 
 -
   id: "Asim"

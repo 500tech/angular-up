@@ -59,7 +59,7 @@
     }
     - {
       startTime: "15:45",
-      sessionIds: ["Ziv-WASM", "Pini-IOT"]
+      sessionIds: ["Ziv-WASM", "Adam-Mobx"]
     }    
     - {
       startTime: "15:55",

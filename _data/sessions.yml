@@ -232,11 +232,13 @@
   subtype: presentation
   speakers: ["Ziv"]
 -
-  id: "Pini-IOT"
-  title: "JS in IOT World"
-  description: "Overview scan of some new development and frameworks in Javascript, in regards to IOT"
+  id: "Adam-Mobx"
+  title: "MobX - Performance and Sanity"
+  description: "<p>Tired of the endless boilerplate code of Redux? Afraid to ditch everything you know about Javascript programming in favour of new paradigms?</p><p>
+  MobX introduces an amazing way to manage your state using plain objects. It is the 'Object.observe' that we always fantasized about.</p><p>
+  In this short talk I will introduce the idea and concept behind MobX, and how it can completely turn your web development process around."
   subtype: presentation
-  speakers: ["Pini"]
+  speakers: ["Adam"]
 -
   id: "Asim-migration"
   title: "The AngularJS Migration F.A.Q."
