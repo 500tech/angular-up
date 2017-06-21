@@ -54,7 +54,7 @@
   # TODO: speakers: [15]
 -
   id: "Ari-Blockchain"
-  title: "Angular, the blockchain, and you"
+  title: "Angular, the Blockchain, and You"
   description: "Perhaps you've heard of Bitcoin? If so, you've likely heard of the blockchain. Guess what, you can use the blockchain directly in your angular apps. In this talk, we're exploring the future of trade, trust, and how _you_ can use the blockchain to directly build value into your apps. "
   subtype: presentation
   speakers: ["Ari"]
@@ -227,7 +227,7 @@
 
 -
   id: "Ziv-WASM"
-  title: "What is “Web Wssembly”?"
+  title: "What is “Web Assembly”?"
   description: "short introduction to “web assembly” and will it kill JavaScript?"
   subtype: presentation
   speakers: ["Ziv"]
