@@ -63,11 +63,11 @@
     }    
     - {
       startTime: "15:55",
-      sessionIds: ["Noam-Accessibility", "Michael-gaming"]
+      sessionIds: ["Shmuela-talk", "Michael-gaming"]
     }
     - {
       startTime: "16:30",
-      sessionIds: ["Sani-ionic", "Shmuela-talk"]
+      sessionIds: ["Sani-ionic","Noam-Accessibility"]
     }
     - {
       startTime: "17:05",
