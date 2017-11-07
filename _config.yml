@@ -73,7 +73,7 @@ aboutBlock:
   moreLink: "/tour"
 statisticBlockImage: statistic.jpg
 statisticBlock:
-- count: 800
+- count: 550
   specialCharacter: "+"
   info: developers
   detail: 
@@ -95,8 +95,8 @@ rockstarSpeakersCount: 4
 rockstarSpeakersTitle: Rock star speakers
 rockstarSpeakersButtonText: See the schedule
 locationBlockTitle: Location
-eventLocationName: David Intercontinental Convention Center
-eventStreetAddress: 12 Prof. Yehezkel Kaufmann Street
+eventLocationName: Dan Panorama Hotel 
+eventStreetAddress: 10 Prof. Yehezkel Kaufmann Street
 eventAddressLocality: Tel Aviv-Yafo
 eventAddressCountry: Israel
 eventStartTime: 2017-09-10 08:30:00.000000000 Z
@@ -108,16 +108,16 @@ mapMobileCenterCoordinates: 32.0653958,34.7640649
 tweetsFeedImage: twitter-feed.jpg
 tweetsFeedTitle: Want updates?
 twitterHashTag: angularup
-facebookEventUrl: https://www.facebook.com/events/1191590164219326/
+#facebookEventUrl: https://www.facebook.com/events/1191590164219326/
 facebookEventTitle: angularup
 partnersTitle: Sponsors
 partnersC4sponsorsButton: Become a sponsor
 subscribeImage: subscribe.jpg
 subscribeTitle: Discounted packages & tour
-subscribeInfo: We offer discounted packages including 3 nights at the hotel, the Conference,
+#subscribeInfo: We offer discounted packages including 3 nights at the hotel, the Conference,
   and the Angular Tour of Israel
 subscribeInfo2: <a href="/tour">More details</a>
-ticketsTitle: Conference Tickets
+#ticketsTitle: Conference Tickets
 socialLinks:
 - link: https://twitter.com/intent/user?screen_name=angularup
   icon: twitter
