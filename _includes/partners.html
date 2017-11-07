@@ -21,7 +21,6 @@
                 </div>
                 {% endfor %}
             </div>
-            <a href="{{ site.c4sponsorsUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
 
             <div id="sponsors" class="partners-sponsors">
                 <h3>{{ site.partnersTitle }}</h3>
@@ -39,6 +38,9 @@
                         {% if check == 0 %}{% if forloop.length > 4 %} <div></div> {% endif %}{% endif %}
                         {% endfor %}
                     </ul>
+                    {% if partner.class == 'bronze' %}
+                        <a href="{{ site.c4sponsorsUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float">{{ site.partnersC4sponsorsButton }}</a>
+                    {% endif %}
                 </div>
                 {% endfor %}
             </div>
