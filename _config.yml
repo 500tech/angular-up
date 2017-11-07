@@ -54,7 +54,7 @@ rightNavigationButtons:
 heroImage: hero.jpg
 heroTitle: AngularUP
 heroSubtitle: Israel's International Angular Conference & Tour
-eventDate: Tel Aviv, 28 June 2018
+eventDate: Tel Aviv, June 28th 2018
 heroButtons:
 - permalink: "/#subscribe"
   text: Tickets
