@@ -30,6 +30,7 @@ socialImageSrcGooglePlus: "/img/seo/ad.jpg"
 socialImageSrcTwitter: "/img/seo/ad.jpg"
 socialImageSrcFacebook: "/img/seo/ad.jpg"
 c4sponsorsUrl: mailto:sponsors@angular-up.com
+c4pUrl: https://goo.gl/forms/dai8HuPp47oI65IY2
 navigationLinks:
 # - permalink: "/#schedule"
 #   text: Schedule
