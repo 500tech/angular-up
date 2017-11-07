@@ -1,383 +1,356 @@
+# #-
+#   id: "Ari"
+#   name: "Ari"
+#   surname: "Lerner"
+#   company: "Fullstack.io"
+#   title: "Cofounder at Fullstack.io, Author of ng-book"
+#   longTitle: "Cofounder at Fullstack.io, Author of ng-book"
+#   bio: "Ari Lerner is an author and developer with more than 20 years of experience, as well as co-founder of Fullstack.io. He has been using AngularJS for a long time and is a recognized expert in the field. He co-runs the ng-newsletter, speaks at conferences, constantly produces content all about AngularJS, has recently released Riding Rails with AngularJS, and teaches in-person classes at Hack Reactor. He constantly speaks about AngularJS and more, including talks and workshops such as Angular on Mobile, Powering physical interfaces with Angular at ngConf, and Workshop: AngularJS for beginners."
+#   thumbnailUrl: ari.jpeg
+#   rockstar: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/auser"}
+#     - {name: "github", link: "https://github.com/auser"}
+# #-
+#   id: "Pascal"
+#   name: "Pascal"
+#   surname: "Precht"
+#   company: "Thoughtram"
+#   title: "Cofounder at Thoughtram"
+#   longTitle: "Cofounder at Thoughtram"
+#   bio: "Pascal is a front-end engineer and a Angular Developer Expert nominated by Google. He created the angular-translate module, is an Angular contributor and also part of the Angular Docs Authoring team."
+#   thumbnailUrl: pascal.jpeg
+#   rockstar: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/PascalPrecht"}
+#     - {name: "github", link: "https://github.com/PascalPrecht"}
+# #-
+#   id: "Minko"
+#   name: "Minko"
+#   surname: "Gechev"
+#   company: "500Tech"
+#   title: "Creator of Codelyzer"
+#   longTitle: "Creator of Codelyzer"
+#   bio: "<p>
+#     Minko is a functional time-traveler and software engineer with a passion for open source. He loves to experiment with theoretical concepts and apply them in practice.
+#     </p><p>
+#     Minko teaches, speaks and writes about JavaScript and Angular. Some of the projects he works on are the official Angular style guide, codelyzer, ngrev, angular-seed and many others. Minko is author of the books “Switching to Angular 2\" and \"Getting Started with Angular\". Currently changing education with Learn Capital.
+#   </p>"
+#   thumbnailUrl: minko.jpg
+#   social:
+#     - { name: "twitter", link: "https://twitter.com/mgechev"}
+#     - { name: "github", link: "https://github.com/mgechev"}
+# -
+#   id: "Sebastian"
+#   name: "Sebastian"
+#   surname: "Witalec"
+#   company: "Telerik"
+#   title: "Technical Evangelist at Telerik"
+#   longTitle: "Technical Evangelist at Telerik"
+#   bio: "Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture.
+#   Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript (a member of the team).
+#   He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
+#   "
+#   thumbnailUrl: sebastian.png
+#   rockstar: true
+#   social:
+#     - {name: "github", link: "https://github.com/sebawita"}
+#     - {name: "twitter", link: "https://twitter.com/sebawita"}
+# #-
+#   id: "Sani"
+#   name: "Sani"
+#   surname: "Yusuf"
+#   company: "Haibrid"
+#   title: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
+#   longTitle: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
+#   bio: "Sani is a Co-Organiser of the Ionic UK community and writes and creates content around Ionic. He is a Developer, Writer & Trainer and runs a startup called Haibrid that uses cross-platform mobile development techniques to create mobile solutions. When he is not coding, Sani likes to spend time contributing to the tech community and recently travelled the world for 8 months across 12 cities in 3 continents evangelising on mobile"
+#   thumbnailUrl: sani.jpg
+#   rockstar: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/saniyusuf"}
+#     - {name: "github", link: "https://github.com/saniyusuf"}
+# #-
+#   id: "Joe"
+#   name: "Joe"
+#   surname: "Eames"
+#   company: "JoeEames.me"
+#   title: "Owner of JoeEames.me"
+#   longTitle: "Pluralsight author and Software Craftsmanship Evangelist"
+#   bio: "Organizer of ng-conf, Front end developer, Pluralsight author and Software Craftsmanship Evangelist."
+#   thumbnailUrl: joe.jpg
+#   rockstar: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/josepheames"}
+#     - {name: "github", link: "https://github.com/joeeames"}
+# -
+#   id: "Nir"
+#   name: "Nir"
+#   surname: "Kaufman"
+#   company: "500Tech"
+#   title: "Web Technologies GDE, Head Of Angular Dep at 500Tech"
+#   longTitle: "Head of Angular Development at 500Tech"
+#   bio: "Nir is the Head of Angular Development at 500Tech - a leading front-end consultancy in Israel. He is a passionate JavaScript developer and Angular evangelist. Nir running 3 local Angular meetup groups: the AngularJS-IL (with over 3500 members), Angular After Hours and the Frontend Band. He also collaborates with other local Angular communities around the world."
+#   thumbnailUrl: nirnew.png
+#   rockstar: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/nirkaufman"}
+#     - {name: "github", link: "https://github.com/nirkaufman"}
+#     - {name: "website", link: "http://500tech.com"}
+# #-
+#   id: "Uri"
+#   name: "Uri"
+#   surname: "Shaked"
+#   company: "Blackberry"
+#   title: "Web Technologies GDE, Senior Software Engineer at Blackberry"
+#   longTitle: "Web Technologies Google Developer Expert, Senior Software Engineer at Blackberry"
+#   bio: "Uri Shaked is a Google Developer Expert for Web Technologies. He created the popular angular-moment open source module and regularly speaks about Web and IoT-related technologies in conferences and meetups. Among his interests are reverse engineering, hardware hacking, building 3d-printed robots and games, playing music and Salsa dancing"
+#   thumbnailUrl: uri.jpg
+#   rockstar: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/UriShaked"}
+#     - {name: "github", link: "https://github.com/urish"}
+#     - {name: "website", link: "http://urish.org/"}
+# #-
+# #  id: "Gil"
+#  # name: "Gil"
+# #  surname: "Fink"
+#  # company: "Sparxys"
+#  # title: "CEO and Senior Consultant"
+#   longTitle: "CEO and Senior Consultant"
+#   bio: "Gil is a web development expert, Microsoft MVP and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web and RIA-based solutions. He conducts lectures and workshops for individuals and enterprises who want to specialize in infrastructure and web development. He is also co-author of several Microsoft Official Courses (MOCs) and training kits, co-author of Pro Single Page Application Development book (Apress), co-organiser of GDG Rashlatz Meetup and Angular UP conference."
+#   thumbnailUrl: gil.jpg
+#   rockstar: true
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/gilfink"}
+#     - {name: "github", link: "https://github.com/gilf"}
+#     - {name: "website", link: "http://gilfink.azurewebsites.net/"}
+# #-
+#   id: "Noam"
+#   name: "Noam"
+#   surname: "Kfir"
+#   title: "Independent Consultant & Trainer"
+#   longTitle: "Independent Consultant & Trainer"
+#   bio: "<p>Reaching Out with Angular 2 - Accessibility & Internationalization</p>
+#     <p>Your app is basically unusable. Whole populations will never even know you exist, and you're probably alienating many who do.<br>
+#       Putting yourself on the map means reaching out to all your potential customers, regardless of whether they use a keyboard or mouse, where they live, the language they speak or sign, or if they need a screen reader to use your app.<br>
+#       In this lightning talk, we'll run through a bunch of quick demos and show how to start preparing your Angular 2 app for people that come from all walks of life.<br>"
+#   thumbnailUrl: noam.jpg
+#   company: ""
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/noamkfir"}
+#     - {name: "github", link: "https://github.com/"}
+#     - {name: "website", link: "http://noam.kfir.cc/blog/"}
+# #-
+#   id: "Chris"
+#   name: "Christoffer"
+#   surname: "Noring"
+#   company: "OVO Energy"
+#   title: "Frontend Developer"
+#   longTitle: "Frontend Developer"
+#   bio: "Google Developer Expert focusing on AngularJs, Angular 2"
+#   thumbnailUrl: chris.jpg
+#   social:
+#     - { name: "twitter", link: "https://twitter.com/chris_noring"}
+#     - { name: "github", link: "https://softchris.github.io"}
+#     - { name: "linkedin", link: "https://www.linkedin.com/in/christoffer-noring-3257061/"}
+# #-
+#   id: "Maxim"
+#   name: "Maxim"
+#   surname: "Salnikov"
+#   company: "ForgeRock"
+#   title: "UI Engineer"
+#   longTitle: "UI Engineer"
+#   bio: "Maxim Salnikov is Oslo-based Web UI Engineer, a Google Developer Expert in Web Technologies and Angular. He develops complex web applications since the end of the last century and has extensive experience with all aspects of web front-end: UX/UI prototyping, HTML/CSS/JS, main frameworks, progressive web apps."
+#   thumbnailUrl: Maxim.png
+#   social:
+#     - { name: "twitter", link: "https://twitter.com/webmaxru"}
+#     - { name: "github", link: "https://github.com/webmaxru"}
+# #-
+#   id: "Dotan"
+#   name: "Dotan"
+#   surname: "Simha"
+#   company: "The Guild"
+#   title: "GraphQL Expert"
+#   longTitle: "GraphQL Expert"
+#   bio: "Dotan and David are freelancers, creating products for huge enterprises such as banks, hospitals, universities and military industries.
+#   They lead the local GraphQL community and are core contributors to many open source projects such as graphql-js, Apollo, angular-meteor and js-accounts."
+#   thumbnailUrl: dotan.jpg
+#   social:
+#     - { name: "github", link: "https://github.com/dotansimha"}
+# #-
+#   id: "David"
+#   name: "David Yahalomi"
+#   surname: "Yahalomi"
+#   company: "The Guild"
+#   title: "GraphQL Expert"
+#   longTitle: "GraphQL Expert"
+#   bio: "Dotan and David are freelancers, creating products for huge enterprises such as banks, hospitals, universities and military industries.
+#   They lead the local GraphQL community and are core contributors to many open source projects such as graphql-js, Apollo, angular-meteor and js-accounts."
+#   thumbnailUrl: david.jpg
+#   social:
+#     - { name: "twitter", link: "https://twitter.com/DavidYahalomi"}
+#     - { name: "github", link: "https://github.com/davidyaha"}
+# -
+#   id: "Kenneth"
+#   name: "Kenneth Rohde"
+#   surname: " Christiansen"
+#   company: "Intel"
+#   title: "Web Platform Architect"
+#   longTitle: "Web Platform Architect"
+#   bio: "Kenneth Rohde Christiansen is a Danish software engineer and architect, specialized in mobile and web technology. Working at Intel out of Copenhagen, Kenneth helps define Intel’s strategy and plans regarding the Web Platform, as well as puts it into action. Before joining Intel, Kenneth was employed by Nokia (Denmark and Brazil) where he worked on the Nokia N9 web browser, Qt, WebKit, as well as many other mobile projects. Currently working on Progressive Web Apps and emerging web standards like Web App Manifest, Generic Sensors, Web NFC etc."
+#   thumbnailUrl: Kenneth.jpg
+#   social:
+#     - { name: "github", link: "https://github.com/kenchris"}
+#     - { name: "twitter", link: "https://twitter.com/kennethrohde"}
+#     - { name: "linkedin", link: "https://www.linkedin.com/in/kenneth-rohde-christiansen-a3495521/"}
+# -
+#   id: "Erik"
+#   name: "Erik"
+#   surname: "Haddad"
+#   company: "Google"
+#   title: "UX Engineer"
+#   longTitle: "UX Engineer"
+#   bio: "Erik Haddad is a UX Engineer at Google on the Firebase team. Prior to joining Google, Erik was an advanced development engineer at ESPN and Disney."
+#   thumbnailUrl: Erik.jpg
+#   social:
+#     - { name: "github", link: "https://github.com/erikhaddad"}
+#     - { name: "twitter", link: "https://twitter.com/erikhaddad"}
+#     - { name: "linkedin", link: "https://www.linkedin.com/in/erikhaddad/"}
+# -
+#   id: "Tzook"
+#   name: "Tzook"
+#   surname: "Shaked"
+#   company: "MyHeritage"
+#   title: "Web Tech Lead at MyHeritage"
+#   longTitle: "Web Tech Lead at MyHeritage"
+#   bio: "A JavaScript developer with a passion for \"Pixel Perfect\". Things I love: Smooth css animations, short functions, box shadows and quinoa."
+#   thumbnailUrl: tzook.jpg
+#   social:
+#     - { name: "github", link: "https://github.com/Tzook"}
+#     - { name: "linkedin", link: "https://www.linkedin.com/in/tzook/"}
+
+# -
+#   id: "Adam"
+#   name: "Adam"
+#   surname: "Klein"
+#   company: "500Tech"
+#   title: "Web developer & CTO @ 500Tech"
+#   longTitle: "Web developer & CTO @ 500Tech"
+#   bio: "<p>Adam is a frontend developer by day, open sourcerer by night (angular-tree-component, mobx-angular), and the CTO of 500Tech
+# He used to be an international  salsa dancer and choreographer, but still finds speaking about code more exciting than dancing in front of an audience.</p><p>
+# Adam is very involved in the community, and is part of the organizers of the Angular & React meetups and conferences in Israel.</p>
+# "
+#   thumbnailUrl: adam.jpeg
+#   social:
+#     - { name: "twitter", link: "https://twitter.com/adamklein500/"}
+#     - { name: "slideshare", link: "https://slideshare.net/500tech/"}
+#     - { name: "github", link: "https://github.com/adamkleingit/"}
+
+# -
+#   id: "Asim"
+#   name: "Asim"
+#   surname: "Hussain"
+#   company: "Microsoft"
+#   title: "Cloud Developer Advocate at Microsoft"
+#   longTitle: "Cloud Developer Advocate at Microsoft"
+#   bio: "Asim is a developer, trainer and speaker with over 16 years experience working for organisations such as the European Space Agency, Google and now a Developer Advocate for Microsoft. He is also author of the book \"Angular: From Theory to Practice\" and he has taught over 50,000 students Angular, JavaScript and Ionic through his site codecraft.tv."
+#   thumbnailUrl: asim.png
+#   social:
+#     - { name: "twitter", link: "https://twitter.com/jawache"}
+
+# -
+#   id: "Michael"
+#   name: "Michael"
+#   surname: "Haberman"
+#   company: "Freelancer"
+#   title: "Consultant"
+#   longTitle: "Consultant"
+#   bio: "Michael Haberman (MCT, MCPD, AWS solution architect, GDG organizer) is a senior consultant and Lecturer. He is a fullstack expert, which specializes in rich client technologies such as Javascript, HTML & CSS, Loves Node JS and AWS. Micro services is my new specialty.  
+# Michael is the co–author of Microsoft's official courses for Essentials of Developing Windows Store Apps Using C# (20484C) and Advanced Windows Store App Development Using C# (20485C).
+# In addition to consulting Michael train, lecture and speak at conferences both in Israel and abroad."
+#   thumbnailUrl: Mheb.jpg
+#   social:
+#     - { name: "twitter", link: "https://twitter.com/hab_mic"}
+#     - { name: "linkedin", link: "https://www.linkedin.com/in/michael-haberman-65184b14/"}
+
+# -
+#   id: "Elad"
+#   name: "Elad"
+#   surname: "Bezalel"
+#   company: "Angular Material"
+#   title: "Angular Material Core Team Member"
+#   longTitle: "Angular Material Core Team Member"
+#   bio: "Elad is a fullstack developer with a very strong love for design.
+#     Since 8 years old, he's been designing in Photoshop and later on fell in love with programing.
+#     This strong bond between design and computer programming gave birth to a new kind of love,
+#     and he is currently doing the combination of both, as a core member of the ngMaterial project"
+#   thumbnailUrl: elad.png
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/elad_bezalel"}
+#     - {name: "github", link: "https://github.com/EladBezalel"}
+# -
+#   id: "Ilya"
+#   name: "Ilya"
+#   surname: "Birman"
+#   company: "Artem Gorbunov Design Bureau"
+#   title: "Art director @ Bureau Gorbunov"
+#   longTitle: "Art director @ Bureau Gorbunov"
+#   thumbnailUrl: ilya.jpg
+#   bio: "Ilya is a product and information designer. He makes websites and apps, transports diagrams and signage, directs designers and developers, teaches design, composes, plays and listens to music, travels and takes photos."
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/ilyabirman"}
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/ilya-birman-b653924b/"}
+
+# -
+#   id: "Maayan"
+#   name: "Maayan"
+#   surname: "Glikser"
+#   company: "500Tech"
+#   title: "Developer/Consultant @ 500Tech"
+#   longTitle: "Developer/Consultant @ 500Tech"
+#   thumbnailUrl: maayan.png
+#   bio: ""
+#   social:
+#     - {name: "twitter", link: "https://twitter.com/MaayanGlikser"}
+#     - {name: "github", link: "https://github.com/morsdyce"}# -
+# -
+#   id: "Ziv"
+#   name: "Ziv"
+#   surname: "Birer"
+#   company: "HPE"
+#   title: "Technical Lead"
+#   longTitle: "Technical Lead"
+#   thumbnailUrl: ziv.jpg
+#   bio: "1992 Finish Technion with Honor on Computer Science, 20+ years experience of handso-n on server/client/embedded programming / software engineering"
+#   social:
+#     - {name: "linkedin", link: "https://www.linkedin.com/in/zivbirer/"}
+#     - {name: "blog", link: "http://software-engineer-tips-and-tricks.blogspot.co.il/"}
+
+
 -
-  id: "Ari"
-  name: "Ari"
-  surname: "Lerner"
-  company: "Fullstack.io"
-  title: "Cofounder at Fullstack.io, Author of ng-book"
-  longTitle: "Cofounder at Fullstack.io, Author of ng-book"
-  bio: "Ari Lerner is an author and developer with more than 20 years of experience, as well as co-founder of Fullstack.io. He has been using AngularJS for a long time and is a recognized expert in the field. He co-runs the ng-newsletter, speaks at conferences, constantly produces content all about AngularJS, has recently released Riding Rails with AngularJS, and teaches in-person classes at Hack Reactor. He constantly speaks about AngularJS and more, including talks and workshops such as Angular on Mobile, Powering physical interfaces with Angular at ngConf, and Workshop: AngularJS for beginners."
-  thumbnailUrl: ari.jpeg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/auser"}
-    - {name: "github", link: "https://github.com/auser"}
--
-  id: "Pascal"
-  name: "Pascal"
-  surname: "Precht"
-  company: "Thoughtram"
-  title: "Cofounder at Thoughtram"
-  longTitle: "Cofounder at Thoughtram"
-  bio: "Pascal is a front-end engineer and a Angular Developer Expert nominated by Google. He created the angular-translate module, is an Angular contributor and also part of the Angular Docs Authoring team."
-  thumbnailUrl: pascal.jpeg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/PascalPrecht"}
-    - {name: "github", link: "https://github.com/PascalPrecht"}
--
-  id: "Minko"
-  name: "Minko"
-  surname: "Gechev"
-  company: "500Tech"
-  title: "Creator of Codelyzer"
-  longTitle: "Creator of Codelyzer"
-  bio: "<p>
-    Minko is a functional time-traveler and software engineer with a passion for open source. He loves to experiment with theoretical concepts and apply them in practice.
-    </p><p>
-    Minko teaches, speaks and writes about JavaScript and Angular. Some of the projects he works on are the official Angular style guide, codelyzer, ngrev, angular-seed and many others. Minko is author of the books “Switching to Angular 2\" and \"Getting Started with Angular\". Currently changing education with Learn Capital.
-  </p>"
-  thumbnailUrl: minko.jpg
-  social:
-    - { name: "twitter", link: "https://twitter.com/mgechev"}
-    - { name: "github", link: "https://github.com/mgechev"}
--
-  id: "Sebastian"
-  name: "Sebastian"
-  surname: "Witalec"
-  company: "Telerik"
-  title: "Technical Evangelist at Telerik"
-  longTitle: "Technical Evangelist at Telerik"
-  bio: "Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture.
-  Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript (a member of the team).
-  He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
-  "
-  thumbnailUrl: sebastian.png
-  rockstar: true
-  social:
-    - {name: "github", link: "https://github.com/sebawita"}
-    - {name: "twitter", link: "https://twitter.com/sebawita"}
--
-  id: "Sani"
-  name: "Sani"
-  surname: "Yusuf"
-  company: "Haibrid"
-  title: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
-  longTitle: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
-  bio: "Sani is a Co-Organiser of the Ionic UK community and writes and creates content around Ionic. He is a Developer, Writer & Trainer and runs a startup called Haibrid that uses cross-platform mobile development techniques to create mobile solutions. When he is not coding, Sani likes to spend time contributing to the tech community and recently travelled the world for 8 months across 12 cities in 3 continents evangelising on mobile"
-  thumbnailUrl: sani.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/saniyusuf"}
-    - {name: "github", link: "https://github.com/saniyusuf"}
--
-  id: "Joe"
-  name: "Joe"
-  surname: "Eames"
-  company: "JoeEames.me"
-  title: "Owner of JoeEames.me"
-  longTitle: "Pluralsight author and Software Craftsmanship Evangelist"
-  bio: "Organizer of ng-conf, Front end developer, Pluralsight author and Software Craftsmanship Evangelist."
-  thumbnailUrl: joe.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/josepheames"}
-    - {name: "github", link: "https://github.com/joeeames"}
--
-  id: "Nir"
-  name: "Nir"
-  surname: "Kaufman"
-  company: "500Tech"
-  title: "Web Technologies GDE, Head Of Angular Dep at 500Tech"
-  longTitle: "Head of Angular Development at 500Tech"
-  bio: "Nir is the Head of Angular Development at 500Tech - a leading front-end consultancy in Israel. He is a passionate JavaScript developer and Angular evangelist. Nir running 3 local Angular meetup groups: the AngularJS-IL (with over 3500 members), Angular After Hours and the Frontend Band. He also collaborates with other local Angular communities around the world."
-  thumbnailUrl: nirnew.png
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/nirkaufman"}
-    - {name: "github", link: "https://github.com/nirkaufman"}
-    - {name: "website", link: "http://500tech.com"}
--
-  id: "Uri"
-  name: "Uri"
-  surname: "Shaked"
-  company: "Blackberry"
-  title: "Web Technologies GDE, Senior Software Engineer at Blackberry"
-  longTitle: "Web Technologies Google Developer Expert, Senior Software Engineer at Blackberry"
-  bio: "Uri Shaked is a Google Developer Expert for Web Technologies. He created the popular angular-moment open source module and regularly speaks about Web and IoT-related technologies in conferences and meetups. Among his interests are reverse engineering, hardware hacking, building 3d-printed robots and games, playing music and Salsa dancing"
-  thumbnailUrl: uri.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/UriShaked"}
-    - {name: "github", link: "https://github.com/urish"}
-    - {name: "website", link: "http://urish.org/"}
--
-  id: "Gil"
-  name: "Gil"
-  surname: "Fink"
-  company: "Sparxys"
-  title: "CEO and Senior Consultant"
-  longTitle: "CEO and Senior Consultant"
-  bio: "Gil is a web development expert, Microsoft MVP and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web and RIA-based solutions. He conducts lectures and workshops for individuals and enterprises who want to specialize in infrastructure and web development. He is also co-author of several Microsoft Official Courses (MOCs) and training kits, co-author of Pro Single Page Application Development book (Apress), co-organiser of GDG Rashlatz Meetup and Angular UP conference."
-  thumbnailUrl: gil.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/gilfink"}
-    - {name: "github", link: "https://github.com/gilf"}
-    - {name: "website", link: "http://gilfink.azurewebsites.net/"}
--
-  id: "Noam"
-  name: "Noam"
-  surname: "Kfir"
-  title: "Independent Consultant & Trainer"
-  longTitle: "Independent Consultant & Trainer"
-  bio: "<p>Reaching Out with Angular 2 - Accessibility & Internationalization</p>
-    <p>Your app is basically unusable. Whole populations will never even know you exist, and you're probably alienating many who do.<br>
-      Putting yourself on the map means reaching out to all your potential customers, regardless of whether they use a keyboard or mouse, where they live, the language they speak or sign, or if they need a screen reader to use your app.<br>
-      In this lightning talk, we'll run through a bunch of quick demos and show how to start preparing your Angular 2 app for people that come from all walks of life.<br>"
-  thumbnailUrl: noam.jpg
+  id: 31
+  name: "Maybe"
+  surname: "You?"
   company: ""
-  social:
-    - {name: "twitter", link: "https://twitter.com/noamkfir"}
-    - {name: "github", link: "https://github.com/"}
-    - {name: "website", link: "http://noam.kfir.cc/blog/"}
--
-  id: "Shmuela"
-  name: "Shmuela"
-  surname: "Jacobs"
-  company: "ngGirls"
-  title: "Front-end Developer & Consultant"
-  longTitle: "Front-end Developer & Consultant"
-  bio: "Shmuela Jacobs is a front-end developer, consultant, speaker, and community activist. She is the founder of ngGirls organization and Angular Nights meetup group.
-  During her academic studies (M.Sc. in Information Management Engineering and B.Sc. in Physics) Shmuela had combined her passions of coding and teaching as a software developer, teaching assistant, science museum guide, and researcher. Today she continues to enjoy these activities developing with Angular and sharing her knowledge and experience in meetups and conferences.
-  Shmuela lives in Tel Aviv with her husband Haggai, their deaf dog Ziggi, and one-eyed cat Franco."
-  thumbnailUrl: shmuela.jpg
-  social:
-    - { name: "twitter", link: "https://twitter.com/ShmuelaJ"}
-    - { name: "github", link: "https://github.com/shmool"}
--
-  id: "Chris"
-  name: "Christoffer"
-  surname: "Noring"
-  company: "OVO Energy"
-  title: "Frontend Developer"
-  longTitle: "Frontend Developer"
-  bio: "Google Developer Expert focusing on AngularJs, Angular 2"
-  thumbnailUrl: chris.jpg
-  social:
-    - { name: "twitter", link: "https://twitter.com/chris_noring"}
-    - { name: "github", link: "https://softchris.github.io"}
-    - { name: "linkedin", link: "https://www.linkedin.com/in/christoffer-noring-3257061/"}
-
--
-  id: "Bartosz"
-  name: "Bartosz"
-  surname: "Pietrucha"
-  company: ""
-  title: "Software engineer"
-  longTitle: "Software engineer"
-  bio: "Bartosz Pietrucha is a full-stack software engineer, software consultant and founder of angular-academy.com. For the last couple of years he has been working with clients from Great Britain, Switzerland, Poland and Finland. Having started his professional career with Java, he delved into JavaScript programming and found front-end world extremely fascinating. He wants to share my knowledge via trainings and workshops as it gives him great dose of fulfillment. Currently he is focusing on Angular 2 and TypeScript techonologies ecosystem."
-  thumbnailUrl: Bartosz.jpg
-  social:
-    - { name: "linkedin", link: "https://www.linkedin.com/in/bpietrucha/"}
-    - { name: "twitter", link: "https://twitter.com/pietrucha"}
--
-  id: "Maxim"
-  name: "Maxim"
-  surname: "Salnikov"
-  company: "ForgeRock"
-  title: "UI Engineer"
-  longTitle: "UI Engineer"
-  bio: "Maxim Salnikov is Oslo-based Web UI Engineer, a Google Developer Expert in Web Technologies and Angular. He develops complex web applications since the end of the last century and has extensive experience with all aspects of web front-end: UX/UI prototyping, HTML/CSS/JS, main frameworks, progressive web apps."
-  thumbnailUrl: Maxim.png
-  social:
-    - { name: "twitter", link: "https://twitter.com/webmaxru"}
-    - { name: "github", link: "https://github.com/webmaxru"}
--
-  id: "Dotan"
-  name: "Dotan"
-  surname: "Simha"
-  company: "The Guild"
-  title: "GraphQL Expert"
-  longTitle: "GraphQL Expert"
-  bio: "Dotan and David are freelancers, creating products for huge enterprises such as banks, hospitals, universities and military industries.
-  They lead the local GraphQL community and are core contributors to many open source projects such as graphql-js, Apollo, angular-meteor and js-accounts."
-  thumbnailUrl: dotan.jpg
-  social:
-    - { name: "github", link: "https://github.com/dotansimha"}
--
-  id: "David"
-  name: "David Yahalomi"
-  surname: "Yahalomi"
-  company: "The Guild"
-  title: "GraphQL Expert"
-  longTitle: "GraphQL Expert"
-  bio: "Dotan and David are freelancers, creating products for huge enterprises such as banks, hospitals, universities and military industries.
-  They lead the local GraphQL community and are core contributors to many open source projects such as graphql-js, Apollo, angular-meteor and js-accounts."
-  thumbnailUrl: david.jpg
-  social:
-    - { name: "twitter", link: "https://twitter.com/DavidYahalomi"}
-    - { name: "github", link: "https://github.com/davidyaha"}
--
-  id: "Kenneth"
-  name: "Kenneth Rohde"
-  surname: " Christiansen"
-  company: "Intel"
-  title: "Web Platform Architect"
-  longTitle: "Web Platform Architect"
-  bio: "Kenneth Rohde Christiansen is a Danish software engineer and architect, specialized in mobile and web technology. Working at Intel out of Copenhagen, Kenneth helps define Intel’s strategy and plans regarding the Web Platform, as well as puts it into action. Before joining Intel, Kenneth was employed by Nokia (Denmark and Brazil) where he worked on the Nokia N9 web browser, Qt, WebKit, as well as many other mobile projects. Currently working on Progressive Web Apps and emerging web standards like Web App Manifest, Generic Sensors, Web NFC etc."
-  thumbnailUrl: Kenneth.jpg
-  social:
-    - { name: "github", link: "https://github.com/kenchris"}
-    - { name: "twitter", link: "https://twitter.com/kennethrohde"}
-    - { name: "linkedin", link: "https://www.linkedin.com/in/kenneth-rohde-christiansen-a3495521/"}
--
-  id: "Erik"
-  name: "Erik"
-  surname: "Haddad"
-  company: "Google"
-  title: "UX Engineer"
-  longTitle: "UX Engineer"
-  bio: "Erik Haddad is a UX Engineer at Google on the Firebase team. Prior to joining Google, Erik was an advanced development engineer at ESPN and Disney."
-  thumbnailUrl: Erik.jpg
-  social:
-    - { name: "github", link: "https://github.com/erikhaddad"}
-    - { name: "twitter", link: "https://twitter.com/erikhaddad"}
-    - { name: "linkedin", link: "https://www.linkedin.com/in/erikhaddad/"}
--
-  id: "Tzook"
-  name: "Tzook"
-  surname: "Shaked"
-  company: "MyHeritage"
-  title: "Web Tech Lead at MyHeritage"
-  longTitle: "Web Tech Lead at MyHeritage"
-  bio: "A JavaScript developer with a passion for \"Pixel Perfect\". Things I love: Smooth css animations, short functions, box shadows and quinoa."
-  thumbnailUrl: tzook.jpg
-  social:
-    - { name: "github", link: "https://github.com/Tzook"}
-    - { name: "linkedin", link: "https://www.linkedin.com/in/tzook/"}
-
--
-  id: "Adam"
-  name: "Adam"
-  surname: "Klein"
-  company: "500Tech"
-  title: "Web developer & CTO @ 500Tech"
-  longTitle: "Web developer & CTO @ 500Tech"
-  bio: "<p>Adam is a frontend developer by day, open sourcerer by night (angular-tree-component, mobx-angular), and the CTO of 500Tech
-He used to be an international  salsa dancer and choreographer, but still finds speaking about code more exciting than dancing in front of an audience.</p><p>
-Adam is very involved in the community, and is part of the organizers of the Angular & React meetups and conferences in Israel.</p>
-"
-  thumbnailUrl: adam.jpeg
-  social:
-    - { name: "twitter", link: "https://twitter.com/adamklein500/"}
-    - { name: "slideshare", link: "https://slideshare.net/500tech/"}
-    - { name: "github", link: "https://github.com/adamkleingit/"}
-
--
-  id: "Asim"
-  name: "Asim"
-  surname: "Hussain"
-  company: "Microsoft"
-  title: "Cloud Developer Advocate at Microsoft"
-  longTitle: "Cloud Developer Advocate at Microsoft"
-  bio: "Asim is a developer, trainer and speaker with over 16 years experience working for organisations such as the European Space Agency, Google and now a Developer Advocate for Microsoft. He is also author of the book \"Angular: From Theory to Practice\" and he has taught over 50,000 students Angular, JavaScript and Ionic through his site codecraft.tv."
-  thumbnailUrl: asim.png
-  social:
-    - { name: "twitter", link: "https://twitter.com/jawache"}
-
--
-  id: "Michael"
-  name: "Michael"
-  surname: "Haberman"
-  company: "Freelancer"
-  title: "Consultant"
-  longTitle: "Consultant"
-  bio: "Michael Haberman (MCT, MCPD, AWS solution architect, GDG organizer) is a senior consultant and Lecturer. He is a fullstack expert, which specializes in rich client technologies such as Javascript, HTML & CSS, Loves Node JS and AWS. Micro services is my new specialty.  
-Michael is the co–author of Microsoft's official courses for Essentials of Developing Windows Store Apps Using C# (20484C) and Advanced Windows Store App Development Using C# (20485C).
-In addition to consulting Michael train, lecture and speak at conferences both in Israel and abroad."
-  thumbnailUrl: Mheb.jpg
-  social:
-    - { name: "twitter", link: "https://twitter.com/hab_mic"}
-    - { name: "linkedin", link: "https://www.linkedin.com/in/michael-haberman-65184b14/"}
-
--
-  id: "Elad"
-  name: "Elad"
-  surname: "Bezalel"
-  company: "Angular Material"
-  title: "Angular Material Core Team Member"
-  longTitle: "Angular Material Core Team Member"
-  bio: "Elad is a fullstack developer with a very strong love for design.
-    Since 8 years old, he's been designing in Photoshop and later on fell in love with programing.
-    This strong bond between design and computer programming gave birth to a new kind of love,
-    and he is currently doing the combination of both, as a core member of the ngMaterial project"
-  thumbnailUrl: elad.png
-  social:
-    - {name: "twitter", link: "https://twitter.com/elad_bezalel"}
-    - {name: "github", link: "https://github.com/EladBezalel"}
--
-  id: "Ilya"
-  name: "Ilya"
-  surname: "Birman"
-  company: "Artem Gorbunov Design Bureau"
-  title: "Art director @ Bureau Gorbunov"
-  longTitle: "Art director @ Bureau Gorbunov"
-  thumbnailUrl: ilya.jpg
-  bio: "Ilya is a product and information designer. He makes websites and apps, transports diagrams and signage, directs designers and developers, teaches design, composes, plays and listens to music, travels and takes photos."
-  social:
-    - {name: "twitter", link: "https://twitter.com/ilyabirman"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ilya-birman-b653924b/"}
-
--
-  id: "Maayan"
-  name: "Maayan"
-  surname: "Glikser"
-  company: "500Tech"
-  title: "Developer/Consultant @ 500Tech"
-  longTitle: "Developer/Consultant @ 500Tech"
-  thumbnailUrl: maayan.png
+  title: ""
+  longTitle: ""
   bio: ""
+  thumbnailUrl: faceman.png
+  rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/MaayanGlikser"}
-    - {name: "github", link: "https://github.com/morsdyce"}# -
+   - {name: "github", link: ""}
+   - {name: "twitter", link: ""}
+
 -
-  id: "Ziv"
-  name: "Ziv"
-  surname: "Birer"
-  company: "HPE"
-  title: "Technical Lead"
-  longTitle: "Technical Lead"
-  thumbnailUrl: ziv.jpg
-  bio: "1992 Finish Technion with Honor on Computer Science, 20+ years experience of handso-n on server/client/embedded programming / software engineering"
+ id: 32
+  name: "Maybe"
+  surname: "You?"
+  company: ""
+  title: ""
+  longTitle: ""
+  bio: ""
+  thumbnailUrl: facewoman.png
+  rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/zivbirer/"}
-    - {name: "blog", link: "http://software-engineer-tips-and-tricks.blogspot.co.il/"}
-
-
-#-
-  #id: 31
-  #name: "Maybe"
-  # surname: "You?"
-  # company: ""
-  #title: ""
-  #longTitle: ""
-  #bio: ""
-  # thumbnailUrl: faceman.png
-  #rockstar: true
-  # social:
-  #  - {name: "github", link: ""}
-  #  - {name: "twitter", link: ""}
-
-#-
- # id: 32
-  #name: "Maybe"
-  #surname: "You?"
-  #company: ""
-  #title: ""
-  #longTitle: ""
-  #bio: ""
-  #thumbnailUrl: facewoman.png
-  #rockstar: true
-  #social:
-   # - {name: "github", link: ""}
-    #- {name: "twitter", link: ""}
+   - {name: "github", link: ""}
+    - {name: "twitter", link: ""}
