@@ -31,8 +31,10 @@ socialImageSrcTwitter: "/img/seo/ad.jpg"
 socialImageSrcFacebook: "/img/seo/ad.jpg"
 c4sponsorsUrl: mailto:sponsors@angular-up.com
 navigationLinks:
-- permalink: "/#schedule"
-  text: Schedule
+# - permalink: "/#schedule"
+#   text: Schedule
+- permalink: "/#speakers"
+  text: Speakers
 - permalink: "/#organizers"
   text: Team
 - permalink: "/#sponsors"
@@ -41,9 +43,9 @@ navigationLinks:
   text: Venue
 - permalink: "/tour"
   text: ng-tour
-- link: http://2016.angular-up.com
-  text: 2016
-- link: https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA/videos
+- link: http://2017.angular-up.com
+  text: 2017
+- link: https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA/playlists
   text: Videos
 bottomNavigationLinks: 
 rightNavigationButtons:
@@ -52,7 +54,7 @@ rightNavigationButtons:
 heroImage: hero.jpg
 heroTitle: AngularUP
 heroSubtitle: Israel's International Angular Conference & Tour
-eventDate: Tel Aviv, 25 June 2017
+eventDate: Tel Aviv, 28 June 2018
 heroButtons:
 - permalink: "/#subscribe"
   text: Tickets
@@ -113,10 +115,10 @@ facebookEventTitle: angularup
 partnersTitle: Sponsors
 partnersC4sponsorsButton: Become a sponsor
 subscribeImage: subscribe.jpg
-subscribeTitle: Discounted packages & tour
+subscribeTitle: Last year we were sold out
 #subscribeInfo: We offer discounted packages including 3 nights at the hotel, the Conference,
-  and the Angular Tour of Israel
-subscribeInfo2: <a href="/tour">More details</a>
+  # and the Angular Tour of Israel
+subscribeInfo2: Don't say we didn't warn you
 #ticketsTitle: Conference Tickets
 socialLinks:
 - link: https://twitter.com/intent/user?screen_name=angularup
@@ -263,83 +265,33 @@ hackathonMapCenterCoordinates: 49.840696, 24.028754
 hackathonMapMobileCenterCoordinates: 49.841639, 24.031182
 ticketsOffers:
 - name: Early Bird
-  price: 420
+  price: 350
   priceCurrency: ILS
-  validity: First 50 tickets for individuals only
-  buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
+  validity: 
+  buyButtonLink: https://angularup2018.eventbrite.com/#tickets
   buyButtonText: Buy Now
-  euroPrice: 105
+  euroPrice: 85
   soldOut: true
   disabled: true
   soldOutText: Sold Out!
 - name: Regular
-  price: 620
-  priceCurrency: ILS
-  validity: For companies and individuals - sale ends on May 15th
-  buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
-  buyButtonText: Buy Now
-  euroPrice: 155
-  soldOut: true
-  soldOutText: Sold Out!
-  disabled: true
-- name: Late Bird
-  price: 750
+  price: 650
   priceCurrency: ILS
   validity: 
-  buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
+  buyButtonLink: https://angularup2018.eventbrite.com/#tickets
   buyButtonText: Buy Now
-  euroPrice: 190
+  euroPrice: 160
   soldOut: false
   soldOutText: Sold Out!
   disabled: false
 - name: Last Minute
-  price: 1120
+  price: 1000
   priceCurrency: ILS
-  validity: 
-  buyButtonLink: https://www.eventbrite.com/e/angular-up-2017-tickets-29956175728
+  validity: We told you to hurry up, didn't we?
+  buyButtonLink: https://angularup2018.eventbrite.com/#tickets
   buyButtonText: Buy Now
-  euroPrice: 280
+  euroPrice: 250
   soldOut: false
   soldOutText: Sold Out!
   disabled: true
-packageTicketsOffers:
-- name: Tour Combo
-  price: '425'
-  priceCurrency: EUR
-  validity: First 50 tickets for individuals only
-  buyButtonLink: https://angularup2017.eventbrite.com
-  buyButtonText: I want this!
-  details: Prices go up on May 15th!
-  soldOut: false
-  soldOutText: Sold Out!
-  disabled: false
-- name: Full Combo
-  price: '775'
-  priceCurrency: EUR
-  validity: Sale ends on TBD
-  buyButtonLink: https://angularup2017.eventbrite.com
-  buyButtonText: I want this!
-  details: Prices go up on May 15th!
-  soldOut: false
-  soldOutText: Sold Out!
-  disabled: false
-- name: Buddies
-  price: '1225'
-  priceCurrency: EUR
-  validity: First 50 tickets for individuals only
-  buyButtonLink: https://angularup2017.eventbrite.com
-  buyButtonText: We want this!
-  details: Prices go up on May 15th!
-  soldOut: false
-  soldOutText: Sold Out!
-  disabled: false
-- name: Couples
-  price: '1125'
-  priceCurrency: EUR
-  validity: First 50 tickets for individuals only
-  buyButtonLink: https://angularup2017.eventbrite.com
-  buyButtonText: We want this!
-  details: Prices go up on May 15th!
-  soldOut: false
-  soldOutText: Sold Out!
-  disabled: false
+

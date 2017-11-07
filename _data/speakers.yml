@@ -342,7 +342,7 @@
    - {name: "twitter", link: ""}
 
 -
- id: 32
+  id: 32
   name: "Maybe"
   surname: "You?"
   company: ""
@@ -353,4 +353,4 @@
   rockstar: true
   social:
    - {name: "github", link: ""}
-    - {name: "twitter", link: ""}
+   - {name: "twitter", link: ""}

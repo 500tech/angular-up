@@ -3,30 +3,16 @@
   class: "gold"
   elements:
     # - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "bigpanda", scale: "1.2", description: "bigpanda", link: "https://bigpanda.io/", imageUrl: "bigpanda.png"}
-    - {name: "MyHeritage", description: "MyHeritage", link: "http://careers.myheritage.com/", imageUrl: "myher.png"}
-    - {name: "BlueVine", description: "BlueVine", link: "https://www.bluevine.com/", imageUrl: "BlueVineLogo.png"}
-    - {name: "Kaltura", description: "Kaltura", link: "https://corp.kaltura.com/", imageUrl: "kaltura.png"}
-    - {name: "IronSource", description: "IronSource", link: "http://www.ironsrc.com/", imageUrl: "irns.png"}
-    - {name: "at&t", description: "at&t", link: "http://nina.uclabs.com/att/att-open-jobs.pdf", scale: "0.6",  imageUrl: "ATT.png"}
 
 -
   group: "Silver"
   class: "silver"
   elements:
-    - {name: "Webcollage", scale: "2", description: "Webcollage", link: "https://www.webcollage.com", imageUrl: "webc.png"}
-    - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "Jetbrains_logo.png"}
-    - {name: "Gigya", description: "Gigya", link: "https:/www.gigya.com", imageUrl: "gig.png"}
 
 -
   group: "Bronze"
   class: "bronze"
   elements:
-    - {name: "Google",scale: "1.1", description: "Google", link: "https://google.com/", imageUrl: "googlelogo.png"}
-    - {name: "AngularAir", description: "AngularAir", link: "https://angularair.com/", imageUrl: "ng-air-logo-light.png"}
-    - {name: "firebase", scale: "2", description: "firebase", link: "https://firebase.google.com/", imageUrl: "firebase.png"}
-    - {name: "malam", scale: "1.2", description: "firebase", link: "https://malamteam.com/", imageUrl: "malam.jpg"}
-    - {name: "Progress", scale: "1.4", description: "progress", link: "https://progress.com/", imageUrl: "progress.png"}
 
 - 
 
