@@ -1,5 +1,5 @@
 ---
-title: AngularUP 2017
+title: AngularUP 2018
 timezone: UTC
 collections:
   posts:
@@ -55,7 +55,7 @@ rightNavigationButtons:
 heroImage: hero.jpg
 heroTitle: AngularUP
 heroSubtitle: Israel's International Angular Conference & Tour
-eventDate: Tel Aviv, June 28th 2018
+eventDate: Tel Aviv, June 21st 2018
 heroButtons:
 - permalink: "/#subscribe"
   text: Tickets
@@ -66,7 +66,7 @@ aboutBlock:
   text: Hear top speakers from around the world. Learn about the present and future
     of Angular and its ecosystem, TypeScript, tools and much more
 - title: Venue
-  image: about-section/venue.jpg
+  image: about-section/danp.jpg
   text: Join us at the beautiful convention center of Dan Panorama hotel,
     located on the beach. Enjoy full lunch and refreshments throughout the event.
 - title: Tour
