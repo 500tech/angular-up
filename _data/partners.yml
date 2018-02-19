@@ -1,19 +1,5 @@
 -
-  group: "Gold"
-  class: "gold"
-  elements:
-    # - {name: "", description: "", link: "", imageUrl: ""}
-
--
-  group: "Silver"
-  class: "silver"
-  elements:
-
--
-  group: "Bronze"
-  class: "bronze"
-  elements:
-
+ 
 - 
 
   group: "Media partners"
