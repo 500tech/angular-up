@@ -87,9 +87,9 @@
   name: "Shai"
   surname: "Reznik"
   company: "HiRez.io"
-  title: "Founter of HiRez.io"
-  longTitle: "Technical Evangelist at Telerik"
-  bio: "Founter and teacher at HiRez.io – entertaining in depth Angular video courses that help people become experts and certified Angular rock stars (you get a guitar and all). An experienced client side developer, an Angular Google developer expert, a spy, a mock, a blogger, a flower arranger, a panelist on the Adventures in Angular podcast and a worldwide speaker also known for his unusual ng-conf talks – “ng-wat” and “The ng-show”, “ng-rap” and others. Shai is also the founder of the JavaScript Israel Meetup and Facebook group, a professional Improv performer and a crazy person. "
+  title: "Founder of HiRez.io"
+  longTitle: "Founder of HiRez.io"
+  bio: "Founder and teacher at HiRez.io – entertaining in depth Angular video courses that help people become experts and certified Angular rock stars (you get a guitar and all). An experienced client side developer, an Angular Google developer expert, a spy, a mock, a blogger, a flower arranger, a panelist on the Adventures in Angular podcast and a worldwide speaker also known for his unusual ng-conf talks – “ng-wat” and “The ng-show”, “ng-rap” and others. Shai is also the founder of the JavaScript Israel Meetup and Facebook group, a professional Improv performer and a crazy person. "
   thumbnailUrl: shai1.jpg
   rockstar: true
   social:
