@@ -3,7 +3,7 @@
   name: "Rob"
   surname: "Wormald"
   company: "Google"
-  title: "Developer Advocate, Angular Team"
+  title: "Angular Core Team"
   longTitle: "Developer Advocate, Angular Team"
   bio: "Rob is a Developer Advocate on the Angular team at Google. He’s the Angular team’s resident reactive programming geek and founded the Reactive Extensions for Angular project, ngrx."
   thumbnailUrl: rob.jpg
@@ -15,9 +15,9 @@
   id: "Sean"
   name: "Sean"
   surname: "Larkin"
-  company: Microsoft "
-  title: "Technical Program Manager"
-  longTitle: "Webpack maintainer, UX Developer @ MutualofOmaha"
+  company: Microsoft"
+  title: "Webpack Maintainer"
+  longTitle: "Webpack Maintainer, UX Developer @ MutualofOmaha"
   bio: "Sean Larkin is a User Experience Developer at Mutual of Omaha. He is a former technical support representative turned renegade software engineer and web developer, driven by the need to help people through the code he writes. Sean is a member of the Webpack core team, Angular team and Angular-CLI core team. Sean has given talks on Ruby, DAMP programming, AngularJS, and Webpack. He lives to teach others about the world of Web Development."
   thumbnailUrl: sean.jpg
   rockstar: true
@@ -46,7 +46,7 @@
   name: "Sani"
   surname: "Yusuf"
   company: "Haibrid"
-  title: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
+  title: "Founder Of Haibrid"
   longTitle: "Co-Organiser Of Ionic UK, Founder Of Haibrid"
   bio: "Sani is a Co-Organiser of the Ionic UK community and writes and creates content around Ionic. He is a Developer, Writer & Trainer and runs a startup called Haibrid that uses cross-platform mobile development techniques to create mobile solutions. When he is not coding, Sani likes to spend time contributing to the tech community and recently travelled the world for 8 months across 12 cities in 3 continents evangelising on mobile"
   thumbnailUrl: sani.jpg
@@ -59,7 +59,7 @@
   name: "Nir"
   surname: "Kaufman"
   company: "500Tech"
-  title: "Web Technologies GDE, Head Of Angular Dep at 500Tech"
+  title: "Head Of Angular @ 500Tech"
   longTitle: "Head of Angular Development at 500Tech"
   bio: "Nir is the Head of Angular Development at 500Tech - a leading front-end consultancy in Israel. He is a passionate JavaScript developer and Angular evangelist. Nir running 3 local Angular meetup groups: the AngularJS-IL (with over 3500 members), Angular After Hours and the Frontend Band. He also collaborates with other local Angular communities around the world."
   thumbnailUrl: nirnew.png
@@ -73,8 +73,8 @@
   name: "Uri"
   surname: "Shaked"
   company: "Blackberry"
-  title: "Web Technologies GDE, Senior Software Engineer at Blackberry"
-  longTitle: "Web Technologies Google Developer Expert, Senior Software Engineer at Blackberry"
+  title: "Web Technologies GDE"
+  longTitle: "Web Technologies Google Developer Expert"
   bio: "Uri Shaked is a Google Developer Expert for Web Technologies. He created the popular angular-moment open source module and regularly speaks about Web and IoT-related technologies in conferences and meetups. Among his interests are reverse engineering, hardware hacking, building 3d-printed robots and games, playing music and Salsa dancing"
   thumbnailUrl: uri.jpg
   rockstar: true
@@ -87,9 +87,9 @@
   name: "Shai"
   surname: "Reznik"
   company: "HiRez.io"
-  title: "Founter of HiRez.io"
-  longTitle: "Technical Evangelist at Telerik"
-  bio: "Founter and teacher at HiRez.io – entertaining in depth Angular video courses that help people become experts and certified Angular rock stars (you get a guitar and all). An experienced client side developer, an Angular Google developer expert, a spy, a mock, a blogger, a flower arranger, a panelist on the Adventures in Angular podcast and a worldwide speaker also known for his unusual ng-conf talks – “ng-wat” and “The ng-show”, “ng-rap” and others. Shai is also the founder of the JavaScript Israel Meetup and Facebook group, a professional Improv performer and a crazy person. "
+  title: "Founder of HiRez.io"
+  longTitle: "Founder of HiRez.io, an Online Angular Academy"
+  bio: "Founder and teacher at HiRez.io – entertaining in depth Angular video courses that help people become experts and certified Angular rock stars (you get a guitar and all). An experienced client side developer, an Angular Google developer expert, a spy, a mock, a blogger, a flower arranger, a panelist on the Adventures in Angular podcast and a worldwide speaker also known for his unusual ng-conf talks – “ng-wat” and “The ng-show”, “ng-rap” and others. Shai is also the founder of the JavaScript Israel Meetup and Facebook group, a professional Improv performer and a crazy person. "
   thumbnailUrl: shai1.jpg
   rockstar: true
   social:
