@@ -59,9 +59,9 @@
   name: "Nir"
   surname: "Kaufman"
   company: "500Tech"
-  title: "Head Of Angular @ 500Tech"
-  longTitle: "Head of Angular Development at 500Tech"
-  bio: "Nir is the Head of Angular Development at 500Tech - a leading front-end consultancy in Israel. He is a passionate JavaScript developer and Angular evangelist. Nir running 3 local Angular meetup groups: the AngularJS-IL (with over 3500 members), Angular After Hours and the Frontend Band. He also collaborates with other local Angular communities around the world."
+  title: "Principal Frontend Consultant at 500Tech"
+  longTitle: "Principal Frontend Developer & Consultant at 500Tech"
+  bio: "Nir is Google Developer Expert in web technologies and Angular, worldwide conference speaker, workshop mentor and tech community leader. Co-organize AngularNYC - The biggest angular meetup in the world Author of 2 books about Angular, the founder of the ‘’Frontend Band” - The first open-source rock n roll band! Principal Frontend Consultant at 500Tech, a top front-end consultancy in NYC."
   thumbnailUrl: nirnew.png
   rockstar: true
   social:
@@ -88,7 +88,7 @@
   surname: "Reznik"
   company: "HiRez.io"
   title: "Founder of HiRez.io"
-  longTitle: "Founder of HiRez.io, an Online Angular Academy"
+  longTitle: "Founder and teacher of HiRez.io"
   bio: "Founder and teacher at HiRez.io – entertaining in depth Angular video courses that help people become experts and certified Angular rock stars (you get a guitar and all). An experienced client side developer, an Angular Google developer expert, a spy, a mock, a blogger, a flower arranger, a panelist on the Adventures in Angular podcast and a worldwide speaker also known for his unusual ng-conf talks – “ng-wat” and “The ng-show”, “ng-rap” and others. Shai is also the founder of the JavaScript Israel Meetup and Facebook group, a professional Improv performer and a crazy person. "
   thumbnailUrl: shai1.jpg
   rockstar: true

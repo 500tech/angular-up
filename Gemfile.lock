@@ -174,3 +174,6 @@ DEPENDENCIES
   jekyll-admin
   sass
   sass-media_query_combiner
+
+BUNDLED WITH
+   1.14.6
