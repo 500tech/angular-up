@@ -96,80 +96,59 @@
     - {name: "github", link: "https://github.com/shairez"}
     - {name: "twitter", link: "https://twitter.com/shai_reznik"}
 -
-#-
-# #  id: "Gil"
-#  # name: "Gil"
-# #  surname: "Fink"
-#  # company: "Sparxys"
-#  # title: "CEO and Senior Consultant"
-#   longTitle: "CEO and Senior Consultant"
-#   bio: "Gil is a web development expert, Microsoft MVP and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web and RIA-based solutions. He conducts lectures and workshops for individuals and enterprises who want to specialize in infrastructure and web development. He is also co-author of several Microsoft Official Courses (MOCs) and training kits, co-author of Pro Single Page Application Development book (Apress), co-organiser of GDG Rashlatz Meetup and Angular UP conference."
-#   thumbnailUrl: gil.jpg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/gilfink"}
-#     - {name: "github", link: "https://github.com/gilf"}
-#     - {name: "website", link: "http://gilfink.azurewebsites.net/"}
-# 
-#   id: "Pascal"
-#   name: "Pascal"
-#   surname: "Precht"
-#   company: "Thoughtram"
-#   title: "Cofounder at Thoughtram"
-#   longTitle: "Cofounder at Thoughtram"
-#   bio: "Pascal is a front-end engineer and a Angular Developer Expert nominated by Google. He created the angular-translate module, is an Angular contributor and also part of the Angular Docs Authoring team."
-#   thumbnailUrl: pascal.jpeg
-#   rockstar: true
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/PascalPrecht"}
-#     - {name: "github", link: "https://github.com/PascalPrecht"}
-# link: "https://www.linkedin.com/in/erikhaddad/"}
-# -
-#   id: "Tzook"
-#   name: "Tzook"
-#   surname: "Shaked"
-#   company: "MyHeritage"
-#   title: "Web Tech Lead at MyHeritage"
-#   longTitle: "Web Tech Lead at MyHeritage"
-#   bio: "A JavaScript developer with a passion for \"Pixel Perfect\". Things I love: Smooth css animations, short functions, box shadows and quinoa."
-#   thumbnailUrl: tzook.jpg
-#   social:
-#     - { name: "github", link: "https://github.com/Tzook"}
-#     - { name: "linkedin", link: "https://www.linkedin.com/in/tzook/"}
-
-# -
-#   id: "Adam"
-#   name: "Adam"
-#   surname: "Klein"
-#   company: "500Tech"
-#   title: "Web developer & CTO @ 500Tech"
-#   longTitle: "Web developer & CTO @ 500Tech"
-#   bio: "<p>Adam is a frontend developer by day, open sourcerer by night (angular-tree-component, mobx-angular), and the CTO of 500Tech
-# He used to be an international  salsa dancer and choreographer, but still finds speaking about code more exciting than dancing in front of an audience.</p><p>
-# Adam is very involved in the community, and is part of the organizers of the Angular & React meetups and conferences in Israel.</p>
-# "
-#   thumbnailUrl: adam.jpeg
-#   social:
-#     - { name: "twitter", link: "https://twitter.com/adamklein500/"}
-#     - { name: "slideshare", link: "https://slideshare.net/500tech/"}
-#     - { name: "github", link: "https://github.com/adamkleingit/"}
-
-# -
-#   id: "Elad"
-#   name: "Elad"
-#   surname: "Bezalel"
-#   company: "Angular Material"
-#   title: "Angular Material Core Team Member"
-#   longTitle: "Angular Material Core Team Member"
-#   bio: "Elad is a fullstack developer with a very strong love for design.
-#     Since 8 years old, he's been designing in Photoshop and later on fell in love with programing.
-#     This strong bond between design and computer programming gave birth to a new kind of love,
-#     and he is currently doing the combination of both, as a core member of the ngMaterial project"
-#   thumbnailUrl: elad.png
-#   social:
-#     - {name: "twitter", link: "https://twitter.com/elad_bezalel"}
-#     - {name: "github", link: "https://github.com/EladBezalel"}
-# 
+  id: "Gil"
+  name: "Gil"
+  surname: "Fink"
+  company: "sparXys"
+  title: "CEO and Senior Consultant"
+  longTitle: "CEO and Senior Consultant"
+  bio: "Gil is a web development expert, Microsoft MVP and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web and RIA-based solutions. He conducts lectures and workshops for individuals and enterprises who want to specialize in infrastructure and web development. He is also co-author of several Microsoft Official Courses (MOCs) and training kits, co-author of Pro Single Page Application Development book (Apress), co-organiser of GDG Rashlatz Meetup and Angular UP conference."
+  thumbnailUrl: gil.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/gilfink"}
+    - {name: "github", link: "https://github.com/gilf"}
+    - {name: "website", link: "http://gilfink.azurewebsites.net/"}
+-
+  id: "Opher"
+  name: "Opher"
+  surname: "Vishnia"
+  company: "Eko"
+  title: "Creative Developer"
+  longTitle: "Creative Developer @ Eko"
+  bio: "<p> Opher is a multidisciplinary creator whose work spans the fields of web development, design, music and game development. For the past five years Opher has been working at Eko as lead creative developer, specializing in web technologies. His day-to-day involves working with both creative teams (design, art, film) as well as development teams to push the envelope of interactive video, a new and exciting creative medium. His latest work involved the VR film “Broken Night” and was featured at Cannes film festival and the Tribeca Film Festival in NYC.</p>"
+  thumbnailUrl: opherv.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/opherv/"}
+    - { name: "website", link: "http://opherv.com"}
+    - { name: "github", link: "https://github.com/opherv/"}
+-
+  id: "Adam"
+  name: "Adam"
+  surname: "Klein"
+  company: "500Tech"
+  title: "Web developer & CTO @ 500Tech"
+  longTitle: "Web developer & CTO @ 500Tech"
+  bio: "<p>Adam is a frontend developer by day, open sourcerer by night (angular-tree-component, mobx-angular), and the CTO of 500Tech. He used to be an international  salsa dancer and choreographer, but still finds speaking about code more exciting than dancing in front of an audience.</p><p> Adam is very involved in the community, and is part of the organizers of the Angular & React meetups and conferences in Israel.</p>"
+  thumbnailUrl: adam.jpeg
+  social:
+     - { name: "twitter", link: "https://twitter.com/adamklein500/"}
+     - { name: "slideshare", link: "https://slideshare.net/500tech/"}
+     - { name: "github", link: "https://github.com/adamkleingit/"}
+-
+  id: "Kim"
+  name: "Kim"
+  surname: "Maida"
+  company: "Auth0"
+  title: "Technical Content Lead"
+  longTitle: "Technical Content Lead @ Auth0"
+  bio: "<p>Kim is a seasoned Angular developer and consultant, now working as the Technical Content Lead for Auth0, writing in-depth technical tutorials on Angular and a variety of other technologies while leading the team of technical writer engineers producing content for Auth0's technical blog and website. She's passionate about the Angular community and loves learning and sharing with other developers.</p>"
+  thumbnailUrl: kim.jpg
+  social:
+      - { name: "twitter", link: "https://twitter.com/KimMaida/"}
+      - { name: "blog", link: "https://auth0.com/blog"}
+      - { name: "github", link: "https://github.com/kmaida/"}
+- 
   id: 31
   name: "Maybe"
   surname: "You?"
@@ -182,7 +161,6 @@
   social:
    - {name: "github", link: ""}
    - {name: "twitter", link: ""}
-
 -
   id: 32
   name: "Maybe"
