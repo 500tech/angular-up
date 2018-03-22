@@ -53,218 +53,93 @@
   center: true
   # TODO: speakers: [15]
 -
-  id: "Ari-Blockchain"
-  title: "Angular, the Blockchain, and You"
-  description: "Perhaps you've heard of Bitcoin? If so, you've likely heard of the blockchain. Guess what, you can use the blockchain directly in your angular apps. In this talk, we're exploring the future of trade, trust, and how _you_ can use the blockchain to directly build value into your apps. "
-  subtype: presentation
-  speakers: ["Ari"]
--
-  id: "Pascal-ServiceWorkers"
-  title: "Angular and Service Workers"
-  description: "In this talk we'll explore what role Service Workers play in the landscape of Progressive Web Apps, and how they can be used within Angular applications, by taking a look at how they have been used in the latest angular.io website update"
-  subtype: presentation
-  speakers: ["Pascal"]
--
-  id: "Minko-Compiler"
-  title: "Mad Science with the Angular Compiler"
-  description: "
-  <p>
-    One of the most unique features of Angular is the way it performs change detection. The template of each individual component in the app gets transpiled to efficient JavaScript which makes the dirty checking algorithm “obviously fast”.
-  </p><p>
-    The fast change detection is not the only benefit we get from the template compiler! In this talk we’ll mix some mad science ideas with the Angular compiler and see where we can go!
-  </p>
-"
-  subtype: presentation
-  speakers: ["Minko"]
--
-  id: "Minko-Performance"
-  title: "Angular Performance"
-  description: ""
-  subtype: presentation
-  speakers: ["Minko"]
--
-  id: "Sebastian-NativeScript"
-  title: "Building a roboarmy with Angular using Web Bluetooth and NativeScript Bluetooth"
-  description: "<p>
-    Taking over the world is not an easy challenge. It requires good strategy and a powerful army. What better soldiers than a mass of obedient robots? You just need a way to issue them instruction via their BLE interface.
-  </p><p>
-    But should you choose to build a web app or a native mobile app? With Angular you can do both; just add Web Bluetooth API to build a web app and NativeScript to build a native mobile app.
-    Join this session to learn how it all works, to see how to get started, and to swear fealty to your new robot overlords.
-  </p>"
-  subtype: presentation
-  speakers: ["Sebastian"]
+ # id: "Minko-Performance"
+  #title: "Angular Performance"
+  #description: ""
+  #subtype: presentation
+  #speakers: ["Minko"]
 -
   id: "Sani-ionic"
-  title: "5 Apps 1 Code With Ionic"
-  description: "<p>
-    Learn how to use Ionic to create one app that will serve across IOS, Android, Windows for mobile and also work as a Desktop Web app and also support the Progressive Web App standard to work offline.
-  </p><p>
-    This will be a live codes sample where we will use 100% same code with Ionic to achieve 5 apps.
-  </p>"
+  title: "TBA"
+  description:
   subtype: presentation
   speakers: ["Sani"]
 -
-  id: "Joe-DI"
-  title: "DI Deep Dive - Things you never thought about with Angular's dependency injection"
-  description: "<p>
-    Dependency Injection is a core part of both versions of Angular, yet often times we take this ubiquitous part of the framework for granted, never considering how it works.
-  </p><p>
-    In this talk, we'll look under the hood of the dependency injection system, and learn how it does its job, and see some advanced ways to use it in our code.
-  </p>"
-  subtype: presentation
-  speakers: ["Joe"]
--
-  id: "Joe-Testing"
-  title: "Testing Angular like a Boss!"
-  description: "
-    In this one hour workshop we'll take a look at the testing utilities provided with Angular in order to test our components along with their templates.
-  </p><p>
-    We will see how to handle interacting with our templates, and how to deal with sub components as well.
-  </p><p>"
-  subtype: presentation
-  speakers: ["Joe"]
--
-  id: "Nir-Reactive-Forms"
-  title: "Unleash the Power of Angular Reactive Form"
-  description: "The reactive forms module is powerful. During this session we will live code a form from scratch, going through all the main features such as: validation, reactive state tracking, dynamic form creation and much more…"
+  id: "Nir-nrgx"
+  title: "TBD"
+  description: 
   subtype: presentation
   speakers: ["Nir"]
 -
-  id: "Uri-Static"
-  title: "Building High Performance Static Web Site with Angular"
-  description: "Traditionally, AngularJS has been used for building rich single-page applications. Nowadays, Angular has become a universal framework, running inside the browser, in the backend and powering your mobile apps. The new Angular version unlocks some interesting use-cases that were not previously possible. In this talk, we are going to see how to set up angular-universal together with fuse-box for building scalable, high-performance static web sites, such as a blog or a landing page that can be easily deployed to gh-pages or Firebase Hosting."
+  id: "Uri-TBA"
+  title: "TBA"
+  description: 
   subtype: presentation
   speakers: ["Uri"]
 -
-  id: "Gil-Animations"
-  title: "Demystifying Angular Animation"
+  id: "Gil-Opher"
+  title: "Web animations & state: The secrets for a successful relationship"
   description: "<p>
-    Adding animations or transitions to web components can be intimidating like hell. When it comes to Angular, animations are integrated in the Angular component making them less scary and much easier to apply.
-  </p><p>
-    In this session we will get to know how to enable fancy animations and transitions in Angular.
-  </p>"
+   As you’re developing your app and adding animation you soon begin to realize that even a small set of simple animations can get complex really fast. By now we’ve become really good at abstracting logic, breaking our apps into components and managing the flow of app state. How do animations fit in all of this though?
+   Unlike state changes which can be instantaneous, animations inherently take time to complete. They may be stopped, queued or interrupted but they must always, always maintain coherency for the user. In this talk we’ll discuss the theory of managing state-based animation, orchestrating animations across different components and animation UX using JS and CSS.</p>"
   subtype: presentation
-  speakers: ["Gil"]
+  speakers: ["Gil" , "opher"]
 -
-  id: "Noam-Accessibility"
-  title: "Reaching Out with Angular - Accessibility & Internationalization"
-  description: "<p>
-  Your app is basically unusable. Whole populations will never even know you exist, and you're probably alienating many who do.
-  </p><p>
-  Putting yourself on the map means reaching out to all your potential customers, regardless of whether they use a keyboard or mouse, where they live, the language they speak or sign, or if they need a screen reader to use your app.
-  </p><p>
-  In this talk, we'll run through a bunch of quick demos and show how to start preparing your Angular app for people that come from all walks of life.
-  </p>"
-  subtype: presentation
-  speakers: ["Noam"]
--
-  id: "Maxim-State" #maxim needs to speak early - he has a flight back Sunday at 16:30"
-  title: "Reactive State Management For Your Angular App"
-  description: "<p>Your Angular application is a reactive system. It reacts to different events and updates the model, then propagates the changes through the component tree. It works like a charm for the simple and non UI-intensive apps. But when you, following this architecture, meet some more complex usecases (like concurrent data modification, complex component intercommunications, the need to keep temporary UI state, etc), it's time to think about different way to manage the app state. Redux pattern to the rescue! But Redux in Angular way. We have reactive forms, reactive router, observables-based http-client, so let's have a look at reactive Redux called ngrx/store. In this session: intro to the state management (famous Facebook bug), base principles and components of Redux, converting our regular app to the one using centralized store using ngrx/store, tooling, pros and cons of having centralized store for the state management.
+  id: "Maxim-cant" 
+  title: "Can’t touch this! The right way to work with DOM in Angular and things to avoid"
+  description: "<p>Do you know why you should prefer using Renderer and ViewContainerRef over directly manipulating the DOM? Loads of developers ask this question themselves every day when implementing complex UI manipulation logic. Alas, due to the scarcity of information on the topic many developers don’t have a clear understanding of the tools introduced on top of the pure DOM. This talk brings you on an exciting journey into the architecture of the Angular’s view layer. Using a few common cases we’ll learn how to apply familiar concepts via tools that Angular provides to work with the DOM. We’ll see some surprising consequences of not using these tools. The topics covered in this talk will help you build a coherent mental model and turn you into an Angular DOM manipulation ninja.
   </p>"
   subtype: presentation
   speakers: ["Maxim"]
 -
-  id: "Bartosz-router"
-  title: "Angular Router - Let's Get Lazy!"
-  description: "<p> Routing in web applications is an essential concept that enables users to navigate throughout them. Angular Router is simple yet powerful for developers to use in their applications. 
-  </p><p> In this talk we will learn mechanics of Angular Router with lazy loading and pre-loading features. </p> "
+  id: "Maxim-Modules " 
+  title: "Modules are not what you think they are"
+  description: "<p>Some developers believe that Angular has different types of modules like shared, feature or routing module. They’d be surprised to learn that Angular has none. Using a simple application, this talk will demonstrate how Angular uses a compiler to merge all modules into a single injector. We’ll learn where lazy loaded modules fit into this picture and why modules hierarchy and encapsulation simply don’t exist at runtime. By the end of the talk, you’ll have enough knowledge to avoid unexpected results and will be able to link, load or compile modules like a pro. </p>"
   subtype: presentation
-  speakers: ["Bartosz"]
+  speakers: ["Maxim"]
 -
-  id: "Chris-rx"
-  title: "Rxjs beyond the basics"
-  description: "Rxjs is the new way do async. Let's assume you know the basics of what an Observable is and explore some advanced concepts and Enterprise patterns and practices"
-  subtype: presentation
-  speakers: ["Chris"]
--
-  id: "Kenneth-devices"
-  title: "The web in an era of smart devices"
-  description: "<p> The improvements in size, features and price of hardware has ushered new opportunities in creating small, smart devices (aka internet-of-things) which can be integrated in homes and industries. In these places, the devices can help automate common tasks, as well as give information about the state of things, such as temperature of a machine, air quality etc.
-  </p><p>
-  Installing an app for one such devices might seem fine at first, but it doesn’t scale nicely to 100s of devices, or devices you seldom interact with, like in an industrial setting. Devices might even have different security restrictions, like being locked behind a physical key.
-  </p><p>
-  So how do we communicate with these devices? The web has always been known for its low fraction and easy on-boarding. No need to install any software, just type in a URL and off you go. And it has always been very secure with its sandbox system, and companies can even have URLs be restricted to certain WiFi networks (intranet).
-  </p><p>
-  Come join me for a look at how the web can make your smart devices success </p>"
-  subtype: presentation
-  speakers: ["Kenneth"]
--
-  id: "Erik-Fire"
-  title: "Progressive Web Apps with Angular and Firebase"
-  description: "Angular is a cross-platform solution for building powerful apps and supports Progressive Web Apps out of the box. Firebase gives you the tools and infrastructure you need to build better apps and grow successful businesses. Learn how Angular and Firebase tools enable you to increase app engagement with faster loads, offline access, authentication, data/media storage, serverless operations, push notifications, and more, through the progressive enhancement of your mobile web apps."
-  subtype: presentation
-  speakers: ["Erik"]
--
-  id: "Tzook-tricks" #I promised his HR as a part of the sponsership agreement to put him before the lnch break. around 11 will be great
-  title: "DevTools: Useful Tricks"
-  description: "<p> 
-  <ul> 
-  <li> Did you ever try to modify data from the console but needed an Angular Digest Cycle and you couldn't invoke it? </li>
-  <li> Have you ever debugged a function and accidentally stepped in Angular's code and you couldn't get out? </li>
-  <li> Do you sometimes try to find the original event listener of an element but can't because Angular proxies it? </li>
-  </ul>
-  </p><p>
-  Then this talk is for you!
-  </p><p>
-  Join a quick talk about how to better utilize the Chrome Developer Tools.
-  Learn advanced features that will make your life much easier as a web developer.</p> "
-  subtype: presentation
-  speakers: ["Tzook"]
--
-  id: "DnD-graphql"
-  title: "HowTo GraphQL (Dotan Simha & David Yahalomi)"
-  description: "GraphQL allows us to replace adhoc communication with a flexible, yet structured, versionless and self documented API. This workshop will teach you GraphQL fundamentals and will allow you to start using GraphQL within your Angular apps right away."
-  subtype: presentation
-  class: "lightning"
-  speakers: ["Dotan", "David"]
--
-  id: "Shmuela-talk"
-  title: "Talk to Your App"
-  description: "<p> Technology has given us means to communicate with computers - interfaces such as keyboard, mouse, and touch screen. But when we look to the future, we expect a more natural, intuitive, agile way to use applications: speech. As you can see, the future is already here and voice driven interactions are becoming mainstream. Not only can voice driven interface upgrade our users' experience, but it opens a world of opportunities for unique use cases. Shmuela will show you how you can leverage Google Cloud Speech API with Angular and Firebase to enable your application to listen and respond to its users.</p> "
-  subtype: presentation
-  speakers: ["Shmuela"]
-
--
-  id: "Ziv-WASM"
-  title: "What is “Web Assembly”?"
-  description: "short introduction to “web assembly” and will it kill JavaScript?"
-  subtype: presentation
-  speakers: ["Ziv"]
--
-  id: "Adam-Mobx"
-  title: "MobX - Performance and Sanity"
-  description: "<p>Tired of the endless boilerplate code of Redux? Afraid to ditch everything you know about Javascript programming in favour of new paradigms?</p><p>
-  MobX introduces an amazing way to manage your state using plain objects. It is the 'Object.observe' that we always fantasized about.</p><p>
-  In this short talk I will introduce the idea and concept behind MobX, and how it can completely turn your web development process around."
+  id: "Adam-open"
+  title: "Tales of an open source library"
+  description: "Tales of an open source library"
   subtype: presentation
   speakers: ["Adam"]
 -
-  id: "Asim-migration"
-  title: "The AngularJS Migration F.A.Q."
-  description: "If you have ever started blankly at your old AngularJS controller code, with it's precariously balanced set of $scope.$watches, copious use of third party modules and wondered how the hell to migrate that into your new shiny new Angular app, then this is the talk for you.
-  This won't be deep dive into the theory of migration, but instead a fast paced practical migration F.A.Q. 
-  Answers to the most common questions I get asked about AngularJS migration by real developers migrating real apps."
+  id: "Sean-"
+  title: ""
+  description: ""
   subtype: presentation
-  speakers: ["Asim"]
+  speakers: ["Sean"]
 -
-  id: "Michael-gaming"
-  title: "Multiplayer Game with Angular"
-  description: "Angular is an awesome framework that allows you to create almost any web application. 
-   In this talk we will focus on the gaming field. We will live code a multiplayer game using Angular, see a brief overview how to sync data between users using Firebase. 
-   During this session, participants will play the game and we will learn from live debugging."
+  id: "Rob-Elements "
+  title: ""
+  description: ""
   subtype: presentation
-  speakers: ["Michael"]
+  speakers: ["Rob"]
 -
-  id: "Ilya-UX"
-  title: "Feedback first"
-  description: "<p>Good feedback is one of the most important things in interaction design. And unlike the visual design (typography, icons, colours), it’s not something you can just take from a designer’s mockup — it’s what you implement yourself.</p><p>In this talk I’ll cover the most important qualities of good feedback that you should implement in your applications for them to feel alive and snappy</p>"
+  id: "Sebastian-"
+  title: ""
+  description: ""
   subtype: presentation
-  speakers: ["Ilya"]
+  speakers: ["Sebastian"]
 -
-  id: "Elad-Material"
-  title: "Angular Material CDK, Datatables and more!"
-  description: "Angular Material aims to give you the components you need to build a quality app in no time at all.
-In this talk, you will hear the latest status update directly from the team and get a sneak peek at what is coming"
+  id: "Shai-"
+  title: ""
+  description: ""
   subtype: presentation
-  speakers: ["Elad"]
+  speakers: ["Shai"]
+-
+  id: "kim-components"
+  title: "Components: Life Beyond Init and Destroy"
+  description: "In this talk, I will share tips and tricks for building powerful components with lifecycle hooks, templating techniques, and practical use cases. We’ll go beyond the most well-known and commonly-used strategies: what lies beyond ngOnInit, ngOnDestroy, inputs, and outputs? We’ll learn how and when to use other lifecycle hooks to monitor and manipulate component templates. I’ll dig into template reference variables, NgIfElse, declarative templating with the async pipe, view children, and more. Go deeper with components in this talk and come out knowing how to leverage more advanced techniques in your Angular applications!"
+  subtype: presentation
+  speakers: ["kim"]
+-
+  id: "katerina-maps"
+  title: "Angular - Maps - Users of Apps"
+  description: Maps, today, are an essential of the internet. Think of any app, and you will realize that it uses a map either to just display a location, or visualize data. Most of these apps, however, also use that map as a user interface, where the user can enter their location and receive corresponding, location based services or suggestions. Take for example car services apps (Uber, Beat), dating apps (Tinder), search-and-discovery apps (Foursquare), or any social app (Facebook, Twitter).
+  In this presentation we will see how to create an Angular app that uses the Google Maps JS API and Firebase to match users together according to their chosen location! We will learn about Angular integration with Google Maps, user input on Google Maps and Angular and data display on Google Maps (the user generated data). The presentation will be interactive and engaging, since participants will be prompted to input their location and see the results live on the big screen. We will see code and examples and discuss implementation techniques. 
+  subtype: presentation
+  speakers: ["katerina"]
+-
+
+
