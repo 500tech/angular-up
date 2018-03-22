@@ -162,6 +162,18 @@
       - { name: "linkedin", link: "https://www.linkedin.com/in/katerinaskroumpelou"}
       - { name: "github", link: "https://github.com/mandarini/"}
 -
+  id: "maxim"
+  name: "Maxim"
+  surname: "Koretskyi"
+  company: 
+  title: "Application Architect"
+  longTitle: "Application Architect"
+  bio: "Reverse-engineer front-end libraries and frameworks. Write and talk about the findings. EdTech enthusiast. Founder of the AngularInDepth.com medium publication."
+  thumbnailUrl: maxim.jpg
+  social:
+      - { name: "twitter", link: "https://twitter.com/maxim_koretskyi/"}
+      - { name: "blog", link: "https://medium.com/@maximus.koretskyi"}
+-
   id: 31
   name: "Maybe"
   surname: "You?"
