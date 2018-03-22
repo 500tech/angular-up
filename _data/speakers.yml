@@ -149,7 +149,7 @@
       - { name: "blog", link: "https://auth0.com/blog"}
       - { name: "github", link: "https://github.com/kmaida/"}
 -
-  id: "katerina"
+  id: "Katerina"
   name: "Katerina"
   surname: "Skroumpelou"
   company: "Upstream"
@@ -162,7 +162,7 @@
       - { name: "linkedin", link: "https://www.linkedin.com/in/katerinaskroumpelou"}
       - { name: "github", link: "https://github.com/mandarini/"}
 -
-  id: "maxim"
+  id: "Maxim"
   name: "Maxim"
   surname: "Koretskyi"
   company: 

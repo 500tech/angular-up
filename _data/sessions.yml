@@ -83,7 +83,7 @@
    As you’re developing your app and adding animation you soon begin to realize that even a small set of simple animations can get complex really fast. By now we’ve become really good at abstracting logic, breaking our apps into components and managing the flow of app state. How do animations fit in all of this though?
    Unlike state changes which can be instantaneous, animations inherently take time to complete. They may be stopped, queued or interrupted but they must always, always maintain coherency for the user. In this talk we’ll discuss the theory of managing state-based animation, orchestrating animations across different components and animation UX using JS and CSS.</p>"
   subtype: presentation
-  speakers: ["Gil" , "opher"]
+  speakers: ["Gil" , "Opher"]
 -
   id: "Maxim-cant" 
   title: "Can’t touch this! The right way to work with DOM in Angular and things to avoid"
@@ -132,14 +132,14 @@
   title: "Components: Life Beyond Init and Destroy"
   description: "In this talk, I will share tips and tricks for building powerful components with lifecycle hooks, templating techniques, and practical use cases. We’ll go beyond the most well-known and commonly-used strategies: what lies beyond ngOnInit, ngOnDestroy, inputs, and outputs? We’ll learn how and when to use other lifecycle hooks to monitor and manipulate component templates. I’ll dig into template reference variables, NgIfElse, declarative templating with the async pipe, view children, and more. Go deeper with components in this talk and come out knowing how to leverage more advanced techniques in your Angular applications!"
   subtype: presentation
-  speakers: ["kim"]
+  speakers: ["Kim"]
 -
   id: "katerina-maps"
   title: "Angular - Maps - Users of Apps"
   description: Maps, today, are an essential of the internet. Think of any app, and you will realize that it uses a map either to just display a location, or visualize data. Most of these apps, however, also use that map as a user interface, where the user can enter their location and receive corresponding, location based services or suggestions. Take for example car services apps (Uber, Beat), dating apps (Tinder), search-and-discovery apps (Foursquare), or any social app (Facebook, Twitter).
   In this presentation we will see how to create an Angular app that uses the Google Maps JS API and Firebase to match users together according to their chosen location! We will learn about Angular integration with Google Maps, user input on Google Maps and Angular and data display on Google Maps (the user generated data). The presentation will be interactive and engaging, since participants will be prompted to input their location and see the results live on the big screen. We will see code and examples and discuss implementation techniques. 
   subtype: presentation
-  speakers: ["katerina"]
+  speakers: ["Katerina"]
 -
 
 
