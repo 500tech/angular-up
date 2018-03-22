@@ -117,7 +117,7 @@
   title: "Creative Developer"
   longTitle: "Creative Developer @ Eko"
   bio: "<p> Opher is a multidisciplinary creator whose work spans the fields of web development, design, music and game development. For the past five years Opher has been working at Eko as lead creative developer, specializing in web technologies. His day-to-day involves working with both creative teams (design, art, film) as well as development teams to push the envelope of interactive video, a new and exciting creative medium. His latest work involved the VR film “Broken Night” and was featured at Cannes film festival and the Tribeca Film Festival in NYC.</p>"
-  thumbnailUrl: opherv.jpg
+  thumbnailUrl: ophir.jpg
   social:
     - { name: "twitter", link: "https://twitter.com/opherv/"}
     - { name: "website", link: "http://opherv.com"}
@@ -148,7 +148,7 @@
       - { name: "twitter", link: "https://twitter.com/KimMaida/"}
       - { name: "blog", link: "https://auth0.com/blog"}
       - { name: "github", link: "https://github.com/kmaida/"}
-- 
+-
   id: 31
   name: "Maybe"
   surname: "You?"
