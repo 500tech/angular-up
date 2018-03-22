@@ -11,8 +11,8 @@
      - {name: "GDG Rashlatz", description: "Google Developer Group - Rishon Le Zion", link: "http://www.meetup.com/gdg-rashlatz/", imageUrl: "gdg_rishon.png"}
     # - {name: "GDG Tel Aviv", description: "Google Developer Group - Tel Aviv", link: "http://www.meetup.com/GDG-Tel-Aviv/", imageUrl: "gdg_telaviv.jpeg"}
     # - {name: "GDG Herzliya", scale: "0.7", description: "Google Developer Group - Herzliya", link: "http://www.meetup.com/GDG-HZ/", imageUrl: "gdg_hertz.png"}
-    # - {name: "GDG Sacramento",  scale: "1.2" , description: "Google Developer Group - Sacramento", link: "https://www.meetup.com/Sacramento-Angular-Meetup/", imageUrl: "GDG sac.jpeg"}
-    # - {name: "HaMakor", scale: "1.2", description: "HaMakor", link: "http://www.hamakor.org.il", imageUrl: "Hamakor_logo.png"}
+     - {name: "GDG Sacramento",  scale: "1.2" , description: "Google Developer Group - Sacramento", link: "https://www.meetup.com/Sacramento-Angular-Meetup/", imageUrl: "GDG sac.jpeg"}
+     - {name: "HaMakor", scale: "1.2", description: "HaMakor", link: "http://www.hamakor.org.il", imageUrl: "Hamakor_logo.png"}
     # - {name: "Modern Web", scale: "1.0", description: "Podcast about frameworks, standards and techniques", link: "http://www.modern-web.org/", imageUrl: "modernweb.png"}
      - {name: "AngularNYC", scale: "1.2", description: "AngularNYC", link: "https://www.meetup.com/AngularNYC/", imageUrl: "AngularNYCMeetup.svg"}
     # - {name: "let's boot", scale: "1", description: "let's boot", link: "http://www.letsboot.com/angular-2-in-house-training-support/", imageUrl: "bot.png"}
