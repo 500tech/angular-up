@@ -149,6 +149,19 @@
       - { name: "blog", link: "https://auth0.com/blog"}
       - { name: "github", link: "https://github.com/kmaida/"}
 -
+  id: "katerina"
+  name: "Katerina"
+  surname: "Skroumpelou"
+  company: "Upstream"
+  title: "Software Engineer - Frontend"
+  longTitle: "Software Engineer @ Upstream"
+  bio:
+  thumbnailUrl: katerina.jpg
+  social:
+      - { name: "twitter", link: "https://twitter.com/psybercity/"}
+      - { name: "linkedin", link: "https://www.linkedin.com/in/katerinaskroumpelou"}
+      - { name: "github", link: "https://github.com/mandarini/"}
+-
   id: 31
   name: "Maybe"
   surname: "You?"
