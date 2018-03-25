@@ -134,12 +134,17 @@
   subtype: presentation
   speakers: ["Kim"]
 -
+  id: "jesse-redux"
+  title: "Modelling Redux State"
+  description: "One of the challenges of using the Redux (ngrx) architecture for a large, complex application is deciding how to model the state object. We will dive into what types of data should be kept in the state (hint: there's no \"right\" answer), why it should be normalized, and how to organize state to reduce duplicate and nested data and keep reducer logic simple."
+  subtype: presentation
+  speakers: ["Jesse"]
+-
   id: "katerina-maps"
   title: "Angular - Maps - Users of Apps"
   description: "Maps, today, are an essential of the internet. Think of any app, and you will realize that it uses a map either to just display a location, or visualize data. Most of these apps, however, also use that map as a user interface, where the user can enter their location and receive corresponding, location based services or suggestions. Take for example car services apps (Uber, Beat), dating apps (Tinder), search-and-discovery apps (Foursquare), or any social app (Facebook, Twitter).
   In this presentation we will see how to create an Angular app that uses the Google Maps JS API and Firebase to match users together according to their chosen location! We will learn about Angular integration with Google Maps, user input on Google Maps and Angular and data display on Google Maps (the user generated data). The presentation will be interactive and engaging, since participants will be prompted to input their location and see the results live on the big screen. We will see code and examples and discuss implementation techniques. "
   subtype: presentation
   speakers: ["Katerina"]
--
 
 
