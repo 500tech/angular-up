@@ -174,6 +174,19 @@
       - { name: "twitter", link: "https://twitter.com/maxim_koretskyi/"}
       - { name: "blog", link: "https://medium.com/@maximus.koretskyi"}
 -
+  id: "Jesse"
+  name: "Jesse"
+  surname: "Sanders"
+  company: "BrieBug Software, Inc"
+  title: "CEO, Founder"
+  longTitle: "CEO, Founder @ BrieBug Software, Inc"
+  bio: "Jesse Sanders is the founder and CEO of BrieBug, a premier broker of technology solutions. He learned to code BASIC at 13 years old on his TRS80 Color Computer and started as a developer over 20 years ago on the Microsoft stack using VB4. He founded BrieBug in 2009 and has since built a team of talented developers dedicated to delivering cutting edge enterprise solutions. He is an expert in JavaScript languages, including Angular and React. When Jesse isn’t busy running a software business, he enjoys skiing and cycling in his home state of Colorado. His other hobbies include spending time with his three kids and their dog, Sparkle."
+  thumbnailUrl: Jesse.jpg
+  social:
+      - { name: "twitter", link: "https://twitter.com/@JesseS_BrieBug"}
+      - { name: "linkedin", link: "https://www.linkedin.com/in/jessesandersbriebug/"}
+      - { name: "github", link: "https://github.com/briebug/"}
+-
   id: 31
   name: "Maybe"
   surname: "You?"
