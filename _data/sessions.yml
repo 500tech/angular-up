@@ -60,14 +60,14 @@
   #speakers: ["Minko"]
 -
   id: "Sani-ionic"
-  title: "TBA"
-  description:
+  title: "Web Is The New Native"
+  description: "2018 is the year we start to really bet fully on the web. There is a new web API every other month and browser vendors now see implementing browser API features not just as a way of keeping up to date, but also as a competitive space for getting more users to adopt their browsers. It seems every native feature out there is getting a corresponding Web feature being implemented. This talk focuses on the very simple yet somewhat challenging things that when it comes to implementing specific features on the web. Some of the features include taking pictures with camera devices, accessing video streams Instagram style, accessing user geolocation Uber-Style, offline support for PWA applications and loads of other features. The question this talk aims to answer is can you build apps with really native features with just web technologies today?"
   subtype: presentation
   speakers: ["Sani"]
 -
   id: "Nir-nrgx"
-  title: "TBD"
-  description: 
+  title: "Messaging design patterns with NGRX"
+  description: "NGRX is more than just a state management library for Angular. Instead, it is a set of tools that helps us implement a lean version of a full-blown messaging system. During this session we will learn how to program with messages, the design patterns that we can use and a language that we can use for designing and implementing our next system. "
   subtype: presentation
   speakers: ["Nir"]
 -
@@ -116,15 +116,34 @@
   subtype: presentation
   speakers: ["Rob"]
 -
-  id: "Sebastian-"
-  title: ""
-  description: ""
+  id: "Sebastian-nativescript"
+  title: "Sharing Code Between Web and Mobile Native Apps"
+  description: "NativeScript has opened up a whole new world to Angular developers: the ability to share code directly between your web and native iOS/Android applications. Which is awesome! But, there are various things that we need to take care of in order for that to be possible. We will look into the structure of a code sharing project. Then into techniques of splitting code between web and mobile. And finally, we will look into migration of existing web or NativeScript projects to a code sharing structure. Come for practical tips & tricks on sharing code across multiple development environments and to see how we’ve extended Angular CLI with Schematics to make it all a breeze."
   subtype: presentation
   speakers: ["Sebastian"]
 -
-  id: "Shai-"
-  title: ""
-  description: ""
+  id: "Shai-TDD"
+  title: "Angular TDD - 10 tips on how to win friends, design better code, and get rich quick!"
+  description: "\"Yeah, we do want to write tests, just not now, right after this next release... we promise...\"
+  Hi, My name is Shai Reznik and I've got an interesting business opportunity to discuss with you.
+  In the end of the day we all want to feel confident in our code stability and design and make changes without the fear of breaking something.
+  But getting started with testing is hard, and testing Angular apps can be confusing and overwhelming. 
+  In this talk I'll share with you a few secrets that will jump start you on your way to testing success, a great love life, worldwide fame and a multi billion company with lots of profits and money! 
+  But mostly testing success...
+  and money.
+  and a hug
+  no? 
+  why not?
+  common... 
+  There you go!
+  That was a good hug!
+  now you can go... 
+  go I tell you, go have fun!
+  Don't worry about me, I'll be fine.
+  Just come and watch my talk and convince 10 other people to watch it too. 
+  In the meantime, as a preparation, watch the free TDD theory course on HiRez.io
+  OK, Bye!
+  Mom."
   subtype: presentation
   speakers: ["Shai"]
 -
