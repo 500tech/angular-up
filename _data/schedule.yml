@@ -14,102 +14,70 @@
       sessionIds: ["opening-words"]
     }
     - {
-      startTime: "09:55",
-      sessionIds: ["Ari-Blockchain", "Bartosz-router"]
+      startTime: "09:50",
+      sessionIds: ["Rob-Elements"]
     }
     - {
-      startTime: "10:30",
-      sessionIds: ["Minko-Compiler", "Maxim-State"]
+      startTime: "10:25",
+      sessionIds: ["Uri-TBA", "Gil-Opher"]
     }
     - {
-      startTime: "11:05",
-      sessionIds: ["Pascal-ServiceWorkers", "Erik-Fire"]
+      startTime: "11:00",
+      sessionIds: ["Maxim-Modules", "katerina-maps"]
     }
     - {
-      startTime: "11:35",
+      startTime: "11:30",
       sessionIds: ["break"] # coffee break
     }
     - {
-      startTime: "11:55",
-      sessionIds: ["Uri-Static", "Joe-DI"]
+      startTime: "11:50",
+      sessionIds: ["Sean-TBA", "Sebastian-nativescript"]
     }
     - {
-      startTime: "12:30",
-      sessionIds: ["Nir-Reactive-Forms", "Kenneth-devices"]
+      startTime: "12:25",
+      sessionIds: ["jesse-redux", "Sani-ionic"]
     }
     - {
       startTime: "13:00",
       sessionIds: ["lunch"] # lunch
+ #   }
+  #  - {
+   #   startTime: "13:10",
+    #  sessionIds: ["Lightning"] # lighting talk1
+ #   }
+  #  - {
+   #   startTime: "13:50",
+    #  sessionIds: ["Lightning"] # lighting talk2
     }
     - {
-      startTime: "13:50", # really starts at 14:00....
-      sessionIds: ["Tzook-tricks", "Ilya-UX"]
+      startTime: "14:00", # really starts at 14:05....
+      sessionIds: ["Nir-nrgx", "Adam-open"]
     }
     - {
-      startTime: "14:20",
-      sessionIds: ["Gil-Animations", "Asim-migration"]
+      startTime: "14:40",
+      sessionIds: ["kim-components", "TBA"]
     }
     - {
-      startTime: "14:55",
-      sessionIds: ["Sebastian-NativeScript", "Elad-Material"]
-    }
-    - {
-      startTime: "15:25",
+      startTime: "15:10",
       sessionIds: ["break"] # break
     }
     - {
-      startTime: "15:45",
-      sessionIds: ["Ziv-WASM", "Adam-Mobx"]
-    }    
-    - {
-      startTime: "15:55",
-      sessionIds: ["Shmuela-talk", "Michael-gaming"]
-    }
-    - {
-      startTime: "16:30",
-      sessionIds: ["Sani-ionic","Noam-Accessibility"]
-    }
-    - {
-      startTime: "17:05",
-      sessionIds: ["closing-words"]
+      startTime: "15:30",
+      sessionIds: ["Shai-TDD", "TBA-"]
+  #  }
+   # - {
+    #  startTime: "16:05",
+     # sessionIds: ["TBA", "TBA"]
+   # }    
+   # - {
+    #  startTime: "16:40",
+    #  sessionIds: ["TBA"]
     }
     - {
       startTime: "17:15",
-      sessionIds: ["quiz"] # End
+      sessionIds: ["closing-words"]
+   # }
+    #- {
+     # startTime: "17:25",
+      #sessionIds: ["quiz"] # End
     }
-
--
-  title: "Workshops"
-  dateReadable: "June 25"
-  tracks:
-    - {title: "Workshops", color: "#03a9f4"}
-  timeslots:
-    - {
-      startTime: "10:30",
-      sessionIds: ["DnD-graphql"]
-    }
-    - {
-      startTime: "11:35",
-      sessionIds: ["break"]
-    }
-    - {
-      startTime: "11:55",
-      sessionIds: ["Chris-rx"]
-    }
-    - {
-      startTime: "13:00",
-      sessionIds: ["lunch"] # lunch
-    }
-    - {
-      startTime: "14:20",
-      sessionIds: ["Joe-Testing"]
-    }
-    - {
-      startTime: "15:25",
-      sessionIds: ["break"]
-    }
-    - {
-      startTime: "15:45",
-      sessionIds: ["talks-in-main-halls"]
-    }
-

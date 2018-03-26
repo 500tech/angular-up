@@ -32,10 +32,7 @@
   company: "Telerik"
   title: "Technical Evangelist at Telerik"
   longTitle: "Technical Evangelist at Telerik"
-  bio: "Sebastian Witalec is a Technical Evangelist for Telerik with over 8 years of experience in software engineering and architecture.
-  Sebastian has passion for all types of technologies. However in the last few years his focus shifted towards cross platform Mobile development where he gained experience with Apache Cordova and NativeScript (a member of the team).
-  He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London, UK actively working with various Dev communities in the area. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
-  "
+  bio: "Sebastian Witalec is a Developer Advocate for Progress who specialises in Angular and NativeScript. He loves working on both serious and fun projects and one day he will use his roboarmy to conquer the world."
   thumbnailUrl: sebastian.png
   rockstar: true
   social:

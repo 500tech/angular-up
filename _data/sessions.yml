@@ -53,12 +53,6 @@
   center: true
   # TODO: speakers: [15]
 -
- # id: "Minko-Performance"
-  #title: "Angular Performance"
-  #description: ""
-  #subtype: presentation
-  #speakers: ["Minko"]
--
   id: "Sani-ionic"
   title: "Web Is The New Native"
   description: "2018 is the year we start to really bet fully on the web. There is a new web API every other month and browser vendors now see implementing browser API features not just as a way of keeping up to date, but also as a competitive space for getting more users to adopt their browsers. It seems every native feature out there is getting a corresponding Web feature being implemented. This talk focuses on the very simple yet somewhat challenging things that when it comes to implementing specific features on the web. Some of the features include taking pictures with camera devices, accessing video streams Instagram style, accessing user geolocation Uber-Style, offline support for PWA applications and loads of other features. The question this talk aims to answer is can you build apps with really native features with just web technologies today?"
@@ -104,15 +98,15 @@
   subtype: presentation
   speakers: ["Adam"]
 -
-  id: "Sean-"
-  title: ""
+  id: "Sean-TBA"
+  title: "TBA"
   description: ""
   subtype: presentation
   speakers: ["Sean"]
 -
-  id: "Rob-Elements "
-  title: ""
-  description: ""
+  id: "Rob-Elements"
+  title: "TBA"
+  description: "TBA"
   subtype: presentation
   speakers: ["Rob"]
 -
