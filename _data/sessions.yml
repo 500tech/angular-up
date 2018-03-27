@@ -65,9 +65,9 @@
   subtype: presentation
   speakers: ["Nir"]
 -
-  id: "Uri-TBA"
-  title: "TBA"
-  description: 
+  id: "Uri-write"
+  title: "Let your Angular Code Write Itself"
+  description: "TBA"
   subtype: presentation
   speakers: ["Uri"]
 -
@@ -119,25 +119,25 @@
 -
   id: "Shai-TDD"
   title: "Angular TDD - 10 tips on how to win friends, design better code, and get rich quick!"
-  description: "\"Yeah, we do want to write tests, just not now, right after this next release... we promise...\"
-  Hi, My name is Shai Reznik and I've got an interesting business opportunity to discuss with you.
+  description: "\"Yeah, we do want to write tests, just not now, right after this next release... we promise...\" <br>
+  Hi, My name is Shai Reznik and I've got an interesting business opportunity to discuss with you. <br>
   In the end of the day we all want to feel confident in our code stability and design and make changes without the fear of breaking something.
-  But getting started with testing is hard, and testing Angular apps can be confusing and overwhelming. 
+  But getting started with testing is hard, and testing Angular apps can be confusing and overwhelming. <br> 
   In this talk I'll share with you a few secrets that will jump start you on your way to testing success, a great love life, worldwide fame and a multi billion company with lots of profits and money! 
-  But mostly testing success...
-  and money.
-  and a hug
-  no? 
-  why not?
-  common... 
-  There you go!
-  That was a good hug!
-  now you can go... 
-  go I tell you, go have fun!
-  Don't worry about me, I'll be fine.
-  Just come and watch my talk and convince 10 other people to watch it too. 
-  In the meantime, as a preparation, watch the free TDD theory course on HiRez.io
-  OK, Bye!
+  But mostly testing success...<br>
+  And money.<br>
+  And a hug<br>
+  No? <br>
+  Why not?<br>
+  Common... <br>
+  There you go!<br>
+  That was a good hug!<br>
+  Now you can go... <br>
+  Go I tell you, go have fun!<br>
+  Don't worry about me, I'll be fine.<br>
+  Just come and watch my talk and convince 10 other people to watch it too.  <br>
+  In the meantime, as a preparation, watch the free TDD theory course on HiRez.io <br>
+  OK, Bye!<br>
   Mom."
   subtype: presentation
   speakers: ["Shai"]
