@@ -15,7 +15,7 @@
     }
     - {
       startTime: "09:50",
-      sessionIds: ["Rob-Elements"]
+      sessionIds: ["Rob-Keynote"]
     }
     - {
       startTime: "10:25",
@@ -51,7 +51,7 @@
     }
     - {
       startTime: "14:00", # really starts at 14:05....
-      sessionIds: ["Nir-nrgx", "Adam-open"]
+      sessionIds: ["Nir-ngrx", "Adam-open"]
     }
     - {
       startTime: "14:40",
