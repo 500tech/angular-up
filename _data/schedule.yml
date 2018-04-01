@@ -63,15 +63,15 @@
     }
     - {
       startTime: "15:30",
-      sessionIds: ["Shai-TDD", "TBA-"]
-  #  }
-   # - {
-    #  startTime: "16:05",
-     # sessionIds: ["TBA", "TBA"]
-   # }    
-   # - {
-    #  startTime: "16:40",
-    #  sessionIds: ["TBA"]
+      sessionIds: ["Shai-TDD"]
+    }
+    - {
+      startTime: "16:05",
+      sessionIds: ["TBA"]
+    }    
+    - {
+      startTime: "16:40",
+      sessionIds: ["TBA"]
     }
     - {
       startTime: "17:15",
