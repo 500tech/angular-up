@@ -152,7 +152,7 @@
   company: "Upstream"
   title: "Software Engineer - Frontend"
   longTitle: "Software Engineer @ Upstream"
-  bio:
+  bio: "Katerina is a front-end developer at Upstream. In the past she worked with web maps at the National Centre for Scientific Research \"Demokritos\". In her free time she is all web, speaking at conferences (AngularConnect, ngVikings, iJS), experimenting with web maps and trying to co-organize the AngularAthens meetup. She likes to mix and match web technologies. Before diving into web development, she studied Architectural Engineering and Spatial Analysis at UCL. She is indigenous to the internet, and she loves web development. So much that she does not understand the distinction between work and life sometimes. Or so her friends say. She lives with her Maine Coon in Athens, Greece."
   thumbnailUrl: katerina.jpg
   social:
       - { name: "twitter", link: "https://twitter.com/psybercity/"}

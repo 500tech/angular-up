@@ -67,7 +67,7 @@
 -
   id: "Uri-write"
   title: "Let your Angular Code Write Itself"
-  description: "TBA"
+  description: "TypeScript is Angular's language of choice. The big power of TypeScript comes from its ability to spot many kinds of errors, typos and improve your code quality and readability. Unfortunately, this does not come for free - even with TypeScript's impressive ability to infer types, you still have to write type annotations yourself in many places. In this talk, I am going to show you a set of tricks that I am using to improve my productivity with TypeScript, by making it add the types for me! You will learn how to use the AST to create your own powerful source code manipulations"
   subtype: presentation
   speakers: ["Uri"]
 -
