@@ -172,3 +172,6 @@ DEPENDENCIES
   nokogiri (~> 1.8.2)
   sass
   sass-media_query_combiner
+
+BUNDLED WITH
+   1.14.6

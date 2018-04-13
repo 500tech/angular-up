@@ -28,3 +28,4 @@
     # - {name: "JS-Poland", scale: "0.6", description: "JS-Poland", link: "http://www.js-poland.pl/", imageUrl: "poland.png"}
      - {name: "Angular Hamburg", scale: "0.8", description: "Angular Hamburg", link: "https://www.meetup.com/Hamburg-AngularJS-Meetup/", imageUrl: "hamburg.svg"} 
      - {name: "AngularJS-Boston",  scale: "0.7" , description: "AngularJS-Boston", link: "https://www.meetup.com/AngularJS-Boston/", imageUrl: "ngBoston.jpeg"}
+     - {name: "AngularJS-Lviv",  scale: "0.7" , description: "AngularJS-Lviv", link: "https://www.meetup.com/Angular-Lviv/", imageUrl: "ALM.png"}
