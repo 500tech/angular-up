@@ -184,28 +184,96 @@
       - { name: "linkedin", link: "https://www.linkedin.com/in/jessesandersbriebug/"}
       - { name: "github", link: "https://github.com/briebug/"}
 -
-  id: 31
-  name: "Maybe"
-  surname: "You?"
-  company: ""
-  title: ""
-  longTitle: ""
-  bio: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
-  thumbnailUrl: faceman.png
-  rockstar: true
-  social:
-   - {name: "github", link: ""}
-   - {name: "twitter", link: ""}
+#  id: 31
+ # name: "Maybe"
+  #surname: "You?"
+  #company: ""
+  #title: ""
+  #longTitle: ""
+  #bio: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
+  #thumbnailUrl: faceman.png
+  #rockstar: true
+  #social:
+  # - {name: "github", link: ""}
+  # - {name: "twitter", link: ""}
+#-
+ # id: 32
+  #name: "Maybe"
+  #surname: "You?"
+  #company: ""
+  #title: ""
+  #longTitle: ""
+  #bio: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
+  #thumbnailUrl: facewoman.png
+  #rockstar: true
+  #social:
+  # - {name: "github", link: ""}
+  # - {name: "twitter", link: ""}
 -
-  id: 32
-  name: "Maybe"
-  surname: "You?"
-  company: ""
-  title: ""
-  longTitle: ""
-  bio: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
-  thumbnailUrl: facewoman.png
+  id: "Martin"
+  name: "Martin"
+  surname: "Hochel"
+  company: 
+  title: "Principal Software Engineer"
+  longTitle: "Principal Software Engineer, GDE"
+  bio: "Martin is a Principal Software Engineer with strong passion for JavaScript/TypeScript and clean code. He loves contributing to open source (ngMetadata, SkateJS, Angular, React, Preact), enjoys writing technical articles on Medium.com and also runs the biggest JavaScript meetup in Prague/CZ - ngParty. Martin loves to travel the world and meeting new people at conferences. When he’s not busy preparing the next meetup or talk, you can find him outside on one of his skate/snow/wakeboards (depends on weather conditions yo!)"
+  thumbnailUrl: martin.jpg
   rockstar: true
   social:
-   - {name: "github", link: ""}
-   - {name: "twitter", link: ""}
+    - {name: "twitter", link: "https://twitter.com/martin_hotell"}
+    - {name: "github", link: "http://github.com/Hotell"}
+    - {name: "linkedin", link: "https://cz.linkedin.com/in/hochelmartin/"}
+    - {name: "blog", link: "https://medium.com/@martin_hotell"}
+-
+  id: "Filip"
+  name: "Filip"
+  surname: "Bech-Larsen"
+  company: "IMPACT"
+  title: "Software Development Mananger"
+  longTitle: "Software Development Mananger @ IMPACT, GDE"
+  bio: "Danish, Google Developer Expert (Angular and Web Technologies), Software Development Manager at IMPACT, married and father of two (soon three) sons."
+  thumbnailUrl: Filip.jpeg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/filipbech"}
+    - {name: "github", link: "http://github.com/filipbech"}
+-
+  id: "Yosi"
+  name: "Yosi"
+  surname: "Golan"
+  company: "SeeVoov"
+  title: "CTO"
+  longTitle: "CTO @ SeeVoov"
+  bio: "Leads the development efforts at SeeVoov. Has 15 years of software development and management experience, and passion for urban travel."
+  thumbnailUrl: yosi.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yosi-golan-13795724/"}
+    - {name: "twitter", link: "https://twitter.com/seevoov"}
+    - {name: "Facebook", link: "https://twitter.com/seevoov"} 
+-
+  id: "Ran"
+  name: "Ran"
+  surname: "Wahle"
+  company: "Tikal"
+  title: "Front end developer & consltant "
+  longTitle: "Front end developer & consltant @ Tikal"
+  bio: "Front end developer & Consultant that is passionate about going into legacy code and (carefully) change it, until it dies."
+  thumbnailUrl: ran.jpg
+  rockstar: true
+  social:
+    - {name: "github", link: "https://github.com/ranwahle"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ranwahle/"}
+-
+  id: "Yoni"
+  name: "Yoni"
+  surname: "Goyhman"
+  company: "WalkMe"
+  title: "SW Architect and Team Lead"
+  longTitle: "SW Architect and Team Lead @ WalkMe"
+  bio: "In the past 6 Years I have been developing software as a freelancer, software house owner, and startup employee (architect and team lead). I have a B.Sc in electrical Engineering form the Technion, and an MBA from TAU.  I an mostly familiar with JS development for both client and server  (front end with all versions of angular and many other client libraries, server with Node.js). Prior to that, I served as a EE engineer for the IAF."
+  thumbnailUrl: yoni.jpg 
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yonigo/"}
+-

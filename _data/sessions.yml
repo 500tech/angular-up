@@ -167,5 +167,33 @@
   description: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
   subtype: presentation
   speakers: [-1]
+-
+  id: "martin-tools"
+  title: "Use React Tools for Better Angular Apps"
+  description: "Angular, React, Vue… they all have their own ecosystem, specific patterns and best practices… For us, the developers, this might become indeed very frustrating as we have to switch between various projects with various libraries… Have no fear, universal solution is here! In this session I will show you how to learn libraries/patterns/tooling only once and apply it everywhere"
+  subtype: presentation
+  speakers: ["Martin"]
+-
+  id: "Filip-tools"
+  title: "Angular ❤️ CMS"
+  description: "I want to use Angular for CMS-websites, but it turns out to be harder than expected. In this talk I will go through my journey from thinking it was easy, to banging my head against the wall, to coming out on the other side with a pretty awesome working solution..."
+  subtype: presentation
+  speakers: ["Filip"]
+-
+  id: "Yosi-Challenge"
+  title: "Cracking the Challenge – How to create single Angular 2 Webapp for multiple views and screen sizes? "
+  description: "Angular is probably the best platform to create a great webapp. but how can we create a web app that will look and feel amazing in any resolution? in the workshop we will learn how to use tradition software architecture and design patterns in order to harness the power of angular platform to create a state of the art webapp that can be viewed in any device, at any resolution. join us to crack one of the biggest challenges of modern webapps."
+  subtype: lightning
+  speakers: ["Yosi"]
+-
+  id: "Ran-leverage"
+  title: "Leverage your existing code with micro frontend"
+  description: "Have a legacy code that you don't want to maintain? Want to write \"from scratch\" without completely leaving your legacy behind? Let's do it with micro frontend architecture. In this session we will go over the micro frontend architecture and use it to leverage a legacy code with only little addition, along with adding new features with completely different design. We won't migrate completely, but we will have ourselves a shiny new app, delivered with old one, leaving side by side happily ever after (because losing legacy is not that possible)  "
+  subtype: presentation
+  speakers: ["Ran"]
+-
+
+
+
 
 

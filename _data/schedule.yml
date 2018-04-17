@@ -55,7 +55,7 @@
     }
     - {
       startTime: "14:40",
-      sessionIds: ["kim-components", "TBA"]
+      sessionIds: ["kim-components", "martin-tools"]
     }
     - {
       startTime: "15:10",
@@ -63,15 +63,15 @@
     }
     - {
       startTime: "15:30",
-      sessionIds: ["Shai-TDD"]
+      sessionIds: ["Shai-TDD", "Filip-tools"]
     }
     - {
       startTime: "16:05",
-      sessionIds: ["TBA"]
+      sessionIds: ["Ran-leverage", "Yoni-CI"]
     }    
     - {
       startTime: "16:40",
-      sessionIds: ["TBA"]
+      sessionIds: ["Yosi-Challenge"]
     }
     - {
       startTime: "17:15",
