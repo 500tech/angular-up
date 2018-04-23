@@ -200,7 +200,7 @@
 -
   id: "Yuval-Geo"
   title: "Geo Gaming? A Geo-Referenced Shooting Game Built With Angular"
-  description: "The Gaming industry and the Geo (GIS) domain usually don't intersect. Gaming is for gamers, Geo is for, hmm... Map Makers? However, the area of intersection between the two treasures some interesting potentials waiting to be unleashed. In this talk I will present GeoStrike - an experimental project designed to explore the feasibility of “geo-gaming” - an online geo-referenced 3D shooting game.  I will describe the goals, requirements and potentials of such a game.  We will discuss the technical challenges we faced while implementing the game. And of course shoot some bullets...Our current architecture and implementation will be presented - GeoStrike Alpha, a shooting that is built on top of Angular, Apollo GraphQL, NodeJS, CesiumJS & 3D Tiles."
+  description: "The Gaming industry and the Geo (GIS) domain usually don't intersect. Gaming is for gamers, Geo is for, hmm... Map Makers? However, the area of intersection between the two treasures some interesting potentials waiting to be unleashed. In this talk I will present GeoStrike - an experimental project designed to explore the feasibility of “geo-gaming” - an online geo-referenced 3D shooting game.  I will describe the goals, requirements and potentials of such a game.  We will discuss the technical challenges we faced while implementing the game. And of course shoot some bullets...Our current architecture and implementation will be presented - GeoStrike Alpha, a shooting game that is built on top of Angular, Apollo GraphQL, NodeJS, CesiumJS & 3D Tiles."
   subtype: presentation
   speakers: ["Yuval"]
 -
