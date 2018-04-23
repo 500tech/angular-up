@@ -87,7 +87,7 @@
   subtype: presentation
   speakers: ["Maxim"]
 -
-  id: "Maxim-Modules " 
+  id: "Maxim-Modules" 
   title: "Modules are not what you think they are"
   description: "<p>Some developers believe that Angular has different types of modules like shared, feature or routing module. They’d be surprised to learn that Angular has none. Using a simple application, this talk will demonstrate how Angular uses a compiler to merge all modules into a single injector. We’ll learn where lazy loaded modules fit into this picture and why modules hierarchy and encapsulation simply don’t exist at runtime. By the end of the talk, you’ll have enough knowledge to avoid unexpected results and will be able to link, load or compile modules like a pro. </p>"
   subtype: presentation
@@ -191,6 +191,18 @@
   description: "Have a legacy code that you don't want to maintain? Want to write \"from scratch\" without completely leaving your legacy behind? Let's do it with micro frontend architecture. In this session we will go over the micro frontend architecture and use it to leverage a legacy code with only little addition, along with adding new features with completely different design. We won't migrate completely, but we will have ourselves a shiny new app, delivered with old one, leaving side by side happily ever after (because losing legacy is not that possible)  "
   subtype: presentation
   speakers: ["Ran"]
+-
+  id: "Yoni-CI"
+  title: "CI with Angular, Node and Teamcity"
+  description: "We’ve done it! Continuous integration and deployment (CI/CD) with angular-cli. Here’s the full story showing our process, step by step, so you can do it too! Angular.io is a framework for developing enterprise-grade mobile and web applications. While it has some learning curve, when compared to competitors like React and Vue, once mastered, it brings greater development (dev) and production advantages (e.g., better out-of-the-box-features, scalability, performance, etc.). Angular-cli facilitates easy setup and dev with a basic app template, pre-configured web-pack, built-in unit and integration tests, and a set of scripts simplifying dev and build processes. The only thing lacking is a CI/CD environment, wherein we could easily integrate and deploy our application. In this blog post, I will describe WalkMe’s CI /CD architecture, along with the steps required for building it, some of the issues we encountered, and how to overcome them. (Taken from my blog post)"
+  subtype: presentation
+  speakers: ["Yoni"]
+-
+  id: "Yuval-Geo"
+  title: "Geo Gaming? A Geo-Referenced Shooting Game Built With Angular"
+  description: "The Gaming industry and the Geo (GIS) domain usually don't intersect. Gaming is for gamers, Geo is for, hmm... Map Makers? However, the area of intersection between the two treasures some interesting potentials waiting to be unleashed. In this talk I will present GeoStrike - an experimental project designed to explore the feasibility of “geo-gaming” - an online geo-referenced 3D shooting game.  I will describe the goals, requirements and potentials of such a game.  We will discuss the technical challenges we faced while implementing the game. And of course shoot some bullets...Our current architecture and implementation will be presented - GeoStrike Alpha, a shooting that is built on top of Angular, Apollo GraphQL, NodeJS, CesiumJS & 3D Tiles."
+  subtype: presentation
+  speakers: ["Yuval"]
 -
 
 

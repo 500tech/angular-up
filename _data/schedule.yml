@@ -1,4 +1,4 @@
--
+- 
   title: "Conference Schedule"
   dateReadable: "June 25"
   tracks:
@@ -40,7 +40,7 @@
     - {
       startTime: "13:00",
       sessionIds: ["lunch"] # lunch
- #   }
+    }
   #  - {
    #   startTime: "13:10",
     #  sessionIds: ["Lightning"] # lighting talk1
@@ -48,7 +48,7 @@
   #  - {
    #   startTime: "13:50",
     #  sessionIds: ["Lightning"] # lighting talk2
-    }
+ #   }
     - {
       startTime: "14:00", # really starts at 14:05....
       sessionIds: ["Nir-ngrx", "Adam-open"]
@@ -68,16 +68,16 @@
     - {
       startTime: "16:05",
       sessionIds: ["Ran-leverage", "Yoni-CI"]
-    }    
+    }   
     - {
       startTime: "16:40",
-      sessionIds: ["Yosi-Challenge"]
+      sessionIds: ["Yosi-Challenge", "Yuval-Geo", "Maxim-Modules"]
     }
     - {
       startTime: "17:15",
       sessionIds: ["closing-words"]
-   # }
+    }
     #- {
      # startTime: "17:25",
       #sessionIds: ["quiz"] # End
-    }
+    #}

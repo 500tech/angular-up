@@ -242,7 +242,7 @@
   name: "Yosi"
   surname: "Golan"
   company: "SeeVoov"
-  title: "CTO"
+  title: "CTO @ SeeVoov"
   longTitle: "CTO @ SeeVoov"
   bio: "Leads the development efforts at SeeVoov. Has 15 years of software development and management experience, and passion for urban travel."
   thumbnailUrl: yosi.jpg
@@ -276,4 +276,16 @@
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/yonigo/"}
+-
+  id: "Yuval"
+  name: "Yuval"
+  surname: "Bar Levi"
+  company: "Webiks"
+  title: "Web Developer & Trainer @ Webiks"
+  longTitle: "Web Developer & Trainer @ Webiks"
+  bio: "A web superhero wannabe, Specialized in Angular-based Geo Applications Development. Run WEBbeast program – an intensive course turning junior developers into dreadful, amazing and professional full-stack web beasts. Love Hiking and Philosophy. Happily married to JavaScript, No kids yet."
+  thumbnailUrl: yuval.png
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/yuval-bar-levi-70677748/"}
 -
