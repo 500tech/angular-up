@@ -1,24 +1,23 @@
 -
-  group: "Gold"
-  class: "gold"
+  #group: "Gold"
+  #class: "gold"
   elements:
     # - {name: "", description: "", link: "", imageUrl: ""}
-
+    - {name: "extreme", scale: "2" , description: "extreme.co.il", link: "http://bit.ly/2FsveZv", imageUrl: "extreme.png"}
 -
-  group: "Silver"
-  class: "silver"
+  #group: "Silver"
+  #class: "silver"
   elements:
 
 -
-  group: "Bronze"
-  class: "bronze"
+  #group: "Bronze"
+  #class: "bronze"
   elements:
  
 -
   group: "Media partners"
   class: "media"
   elements:
-     - {name: "extreme", scale: "0.7" , description: "extreme.co.il", link: "http://bit.ly/2FsveZv", imageUrl: "extreme.png"}
      - {name: "Packd", scale: "0.7" , description: "Packt Publishing", link: "https://www.packtpub.com", imageUrl: "Packt.png"}
     # - {name: "Javascript Israel", scale: "1.1", description: "Javascript Israel community", link: "http://www.meetup.com/javascript-israel/", imageUrl: "javascript-israel.png"}
      - {name: "AngularJS-IL", scale: "1.3" , description: "Israel's AngularJS community", link: "https://www.meetup.com/angularjs-il/", imageUrl: "angularjs-il.jpg"}
