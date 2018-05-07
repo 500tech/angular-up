@@ -1,9 +1,11 @@
 -
-  #group: "Gold"
-  #class: "gold"
+  # group: "Gold"
+  # class: "gold"
   elements:
     # - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "extreme", scale: "2" , description: "extreme.co.il", link: "http://bit.ly/2FsveZv", imageUrl: "extreme.png"}
+    - {name: "extreme", scale: "1" , description: "extreme.co.il", link: "http://bit.ly/2FsveZv", imageUrl: "extreme.png"}
+    - {name: "google", scale: "1" , description: "google", link: "http://google.com", imageUrl: "googlelogo.png"}
+    - {name: "Micro Focuse", scale: "1" , description: "MicroFocus", link: "http://google.com", imageUrl: "Micro.png"}
 -
   #group: "Silver"
   #class: "silver"

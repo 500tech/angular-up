@@ -19,11 +19,11 @@
     }
     - {
       startTime: "10:25",
-      sessionIds: ["Uri-write", "Gil-Opher"]
+      sessionIds: ["kim-components","Sebastian-nativescript"]
     }
     - {
       startTime: "11:00",
-      sessionIds: ["Maxim-Modules", "katerina-maps"]
+      sessionIds: ["Maxim-Modules","Sani-ionic"]
     }
     - {
       startTime: "11:30",
@@ -31,11 +31,11 @@
     }
     - {
       startTime: "11:50",
-      sessionIds: ["Sean-TBA", "Sebastian-nativescript"]
+      sessionIds: ["jesse-redux","Sean-TBA"] 
     }
     - {
       startTime: "12:25",
-      sessionIds: ["jesse-redux", "Sani-ionic"]
+      sessionIds: ["Nir-ngrx","Uri-write"]
     }
     - {
       startTime: "13:00",
@@ -51,30 +51,30 @@
  #   }
     - {
       startTime: "14:00", # really starts at 14:05....
-      sessionIds: ["Nir-ngrx", "Adam-open"]
+      sessionIds: ["martin-tools", "Filip-tools" ]
     }
     - {
       startTime: "14:40",
-      sessionIds: ["kim-components", "martin-tools"]
+      sessionIds: [ "Gil-Opher", "Adam-open"]
     }
     - {
-      startTime: "15:10",
+      startTime: "15:15",
+      sessionIds: ["Shai-TDD","Yoni-CI"]
+    }
+    - {
+      startTime: "15:45",
       sessionIds: ["break"] # break
     }
     - {
-      startTime: "15:30",
-      sessionIds: ["Shai-TDD", "Filip-tools"]
-    }
-    - {
-      startTime: "16:05",
-      sessionIds: ["Ran-leverage", "Yoni-CI"]
+      startTime: "16:00",
+      sessionIds: ["katerina-maps","Ran-leverage"]
     }   
     - {
-      startTime: "16:40",
-      sessionIds: ["Yosi-Challenge", "Yuval-Geo"]
+      startTime: "16:25",
+      sessionIds: ["Yosi-Challenge", "Yuval-Geo"] #add martin
     }
     - {
-      startTime: "17:15",
+      startTime: "17:00",
       sessionIds: ["closing-words"]
     }
     #- {

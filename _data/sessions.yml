@@ -162,11 +162,11 @@
   speakers: ["Katerina"]
 
 -
-  id: "TBA"
-  title: "TBA"
-  description: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
-  subtype: presentation
-  speakers: [-1]
+ # id: "TBA"
+  #title: "TBA"
+  #description: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
+  #subtype: presentation
+  #speakers: [-1]
 -
   id: "martin-tools"
   title: "Use React Tools for Better Angular Apps"
