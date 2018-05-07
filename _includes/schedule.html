@@ -49,6 +49,9 @@
                                   <li itemprop="performer"><div class="speaker-img flow-img img-circle" style="background-image: url({{ site.baseurl | append: '/img/people/' | append: speaker.thumbnailUrl }})"></div>
                                 <p class="speaker-name">{{ speaker.name }} {{ speaker.surname }}
                                 <span class="speaker-title">{{ speaker.title }}</span>
+                                {% if session.hebrew %}
+                                    <span class="language">Hebrew</span>
+                                {% endif %}
                                 </p>
                                   </li>
                                   {% endif %}
@@ -81,9 +84,6 @@
         </div>
         {% endfor %}
         <div class="clearfix"></div>
-        <p>We are still looking for great speakers<br>
-            The CFP is open until April 10th</p>
-        <a href="{{ site.c4pUrl }}" class="bottom-section-link btn btn-primary waves-effect waves-button waves-light waves-float">Submit a Talk</a>
     </div>
 </section>
 <!-- End Schedule Section
