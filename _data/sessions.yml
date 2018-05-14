@@ -99,15 +99,15 @@
   subtype: presentation
   speakers: ["Adam"]
 -
-  id: "Sean-TBA"
-  title: "TBA"
+  id: "Sean-Webpack"
+  title: "whats new in webpack 4"
   description: ""
   subtype: presentation
   speakers: ["Sean"]
 -
   id: "Rob-Keynote"
   title: "Keynote"
-  description: "TBA"
+  description: "Rob Wormald, one of Angular's most prominent developers and creator of ngrx, will speak about the latest and greatest in Angular, and what the Angular team is planning for us down the road"
   subtype: presentation
   speakers: ["Rob"]
 -
@@ -174,7 +174,7 @@
   subtype: presentation
   speakers: ["Martin"]
 -
-  id: "Filip-tools"
+  id: "Filip-CMS"
   title: "Angular ❤️ CMS"
   description: "I want to use Angular for CMS-websites, but it turns out to be harder than expected. In this talk I will go through my journey from thinking it was easy, to banging my head against the wall, to coming out on the other side with a pretty awesome working solution..."
   subtype: presentation
@@ -208,8 +208,14 @@
   subtype: presentation
   speakers: ["Yuval"]
 -
-
-
-
-
-
+  id: "Martin-SSR"
+  title: "Semantic, Searchable Webapps with Angular"
+  description: "TBD"
+  subtype: presentation
+  speakers: ["Martin-Splitt"]
+-
+  id: "empty"
+  title: ""
+  description: ""
+  subtype: presentation
+  speakers: [""]

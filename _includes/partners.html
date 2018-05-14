@@ -30,7 +30,7 @@
                     <ul class="list-inline">
                         {% for element in partner.elements %}
                         <li {% if element.scale != null %}style="transform: scale({{ element.scale }});"{% endif %}>
-                            <a href="{{ element.link }}" target="_blank">
+                            <a href="{{ element.link }}" target="_blank" {% if element.margin != null %}style="margin: {{ element.margin }}px;"{% endif %}>
                                 <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
                             </a>
                         </li>
