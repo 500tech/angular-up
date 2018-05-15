@@ -1,9 +1,10 @@
 -
-  #group: "Gold"
-  #class: "gold"
+  group: ""
+  class: "everyone"
   elements:
     # - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "extreme", scale: "2" , description: "extreme.co.il", link: "http://bit.ly/2FsveZv", imageUrl: "extreme.png"}
+    - {name: "extreme", scale: "2", description: "extreme.co.il", link: "http://bit.ly/2FsveZv", imageUrl: "extreme.png"}
+    - {name: "bigpanda", scale: "2.8", description: "bigpanda", link: "https://bigpanda.io/", imageUrl: "bigpanda.svg"}
 -
   #group: "Silver"
   #class: "silver"

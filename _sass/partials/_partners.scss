@@ -56,6 +56,13 @@
         }
       }
     }
+    .partners-everyone {
+      .list-inline {
+        li {
+          margin: 20px 110px !important;
+        }
+      }            
+    }
     #organizers {
         @media (min-width: 900px) {
             .list-inline {
