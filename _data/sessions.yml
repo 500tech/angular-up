@@ -100,7 +100,7 @@
   speakers: ["Adam"]
 -
   id: "Sean-Webpack"
-  title: "whats new in webpack 4"
+  title: "What's new in webpack 4"
   description: ""
   subtype: presentation
   speakers: ["Sean"]

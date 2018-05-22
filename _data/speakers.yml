@@ -296,10 +296,10 @@
   company: "Google"
   title: "Software Engineer @ Google"
   longTitle: "Software Engineer @ Google"
-  bio: "<p>Martin is open source contributor and web evangelist by heart from Zurich,
-    with a decade experience from the trenches of software engineering in multiple
+  bio: "<p>Martin is a Developer Advocate for Search & Web Ecosystem at Google.</p>
+  <p>He's an open source contributor and web evangelist by heart from Zurich, with a decade experience from the trenches of software engineering in multiple
     fields.</p>
-    <p>He works as a software engineer at Google. He devotes his time to moving the web forward, fixing problems, building applications and systems and breaking things for fun & profit.</p>
+    <p>He devotes his time to moving the web forward, fixing problems, building applications and systems and breaking things for fun & profit.</p>
     <p>Martin believes in the web platform and is working with bleeding edge technologies that will allow the web to prosper.</p>"
   thumbnailUrl: martinsplitt.jpg
   rockstar: true
