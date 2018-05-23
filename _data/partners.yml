@@ -5,20 +5,17 @@
     # - {name: "", description: "", link: "", imageUrl: ""}
     - {name: "extreme", scale: "2", description: "extreme.co.il", link: "http://bit.ly/2FsveZv", imageUrl: "extreme.png"}
     - {name: "bigpanda", scale: "2.8", description: "bigpanda", link: "https://bigpanda.io/", imageUrl: "bigpanda.svg"}
-     - {name: "google", scale: "1" , description: "google", link: "http://google.com", imageUrl: "googlelogo.png"}
-    - {name: "Micro Focuse", scale: "1" , description: "MicroFocus", link: "http://google.com", imageUrl: "Micro.png"}
-    - {name: "Dialog", scale: "1" , description: "Dialog", link: "http://dialog.co.il", imageUrl: "dialog.png"}
-
+    - {name: "Google", scale: "1", description: "google", link: "https://google.com/", imageUrl: "googlelogo.png."}
+    - {name: "MicroFocus", scale: "1", description: "MicroFocus", link: "https://www.microfocus.com//", imageUrl: "micro.png"}
+    - {name: "Dialog", scale: "1", description: "Dialog", link: "https://dialog.co.il/", imageUrl: "dialog.png"}
 -
   #group: "Silver"
   #class: "silver"
   elements:
-
 -
   #group: "Bronze"
   #class: "bronze"
   elements:
- 
 -
   group: "Media partners"
   class: "media"
@@ -48,3 +45,4 @@
      - {name: "Angular Hamburg", scale: "0.8", description: "Angular Hamburg", link: "https://www.meetup.com/Hamburg-AngularJS-Meetup/", imageUrl: "hamburg.svg"} 
      - {name: "AngularJS-Boston",  scale: "0.7" , description: "AngularJS-Boston", link: "https://www.meetup.com/AngularJS-Boston/", imageUrl: "ngBoston.jpeg"}
      - {name: "AngularJS-Lviv",  scale: "0.7" , description: "AngularJS-Lviv", link: "https://www.meetup.com/Angular-Lviv/", imageUrl: "ALM.png"}
+-
