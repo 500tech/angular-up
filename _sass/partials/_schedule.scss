@@ -243,3 +243,9 @@ $small-label-width: 80px;
     font-size: 16px;
     color: #a51515e0;
 }
+.timeslot-emptyYosi-Challenge {
+    border-top: 0;
+}
+#session-empty {
+    pointer-events: none;
+}
