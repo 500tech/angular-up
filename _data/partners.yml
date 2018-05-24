@@ -5,7 +5,7 @@
     # - {name: "", description: "", link: "", imageUrl: ""}
     - {name: "extreme", scale: "2", description: "extreme.co.il", link: "http://bit.ly/2FsveZv", imageUrl: "extreme.png"}
     - {name: "bigpanda", scale: "2.8", description: "bigpanda", link: "https://bigpanda.io/", imageUrl: "bigpanda.svg"}
-    - {name: "Google", scale: "1", description: "google", link: "https://google.com/", imageUrl: "googlelogo.png."}
+    - {name: "Google", scale: "1", description: "google", link: "https://google.com/", imageUrl: "googlelogo.png"}
     - {name: "MicroFocus", scale: "1", description: "MicroFocus", link: "https://www.microfocus.com//", imageUrl: "micro.png"}
     - {name: "Dialog", scale: "1", description: "Dialog", link: "https://dialog.co.il/", imageUrl: "dialog.png"}
 -
