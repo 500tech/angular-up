@@ -1,6 +1,6 @@
 - 
   title: "Conference Schedule"
-  dateReadable: "June 25"
+  dateReadable: "June 21"
   tracks:
     - {title: "Hall A", color: "#90be4e"}
     - {title: "Hall B", color: "#03a9f4"}
@@ -81,4 +81,3 @@
      # startTime: "17:25",
       #sessionIds: ["quiz"] # End
     #}
--
