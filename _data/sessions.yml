@@ -63,6 +63,7 @@
   title: "Messaging design patterns with NGRX"
   description: "NGRX is more than just a state management library for Angular. Instead, it is a set of tools that helps us implement a lean version of a full-blown messaging system. During this session we will learn how to program with messages, the design patterns that we can use and a language that we can use for designing and implementing our next system. "
   subtype: presentation
+  advanced: true
   speakers: ["Nir"]
 -
   id: "Uri-write"
@@ -77,6 +78,7 @@
    As you’re developing your app and adding animation you soon begin to realize that even a small set of simple animations can get complex really fast. By now we’ve become really good at abstracting logic, breaking our apps into components and managing the flow of app state. How do animations fit in all of this though?
    Unlike state changes which can be instantaneous, animations inherently take time to complete. They may be stopped, queued or interrupted but they must always, always maintain coherency for the user. In this talk we’ll discuss the theory of managing state-based animation, orchestrating animations across different components and animation UX using JS and CSS.</p>"
   subtype: presentation
+  advanced: true
   class: lightning
   speakers: ["Gil" , "Opher"]
 -
@@ -85,12 +87,14 @@
   description: "<p>Do you know why you should prefer using Renderer and ViewContainerRef over directly manipulating the DOM? Loads of developers ask this question themselves every day when implementing complex UI manipulation logic. Alas, due to the scarcity of information on the topic many developers don’t have a clear understanding of the tools introduced on top of the pure DOM. This talk brings you on an exciting journey into the architecture of the Angular’s view layer. Using a few common cases we’ll learn how to apply familiar concepts via tools that Angular provides to work with the DOM. We’ll see some surprising consequences of not using these tools. The topics covered in this talk will help you build a coherent mental model and turn you into an Angular DOM manipulation ninja.
   </p>"
   subtype: presentation
+  advanced: true
   speakers: ["Maxim"]
 -
   id: "Maxim-Modules" 
   title: "Modules are not what you think they are"
   description: "<p>Some developers believe that Angular has different types of modules like shared, feature or routing module. They’d be surprised to learn that Angular has none. Using a simple application, this talk will demonstrate how Angular uses a compiler to merge all modules into a single injector. We’ll learn where lazy loaded modules fit into this picture and why modules hierarchy and encapsulation simply don’t exist at runtime. By the end of the talk, you’ll have enough knowledge to avoid unexpected results and will be able to link, load or compile modules like a pro. </p>"
   subtype: presentation
+  advanced: true
   speakers: ["Maxim"]
 -
   id: "Adam-open"
@@ -139,6 +143,7 @@
   In the meantime, as a preparation, watch the free TDD theory course on HiRez.io <br>
   OK, Bye!<br>
   Mom."
+  advanced: true
   subtype: presentation
   speakers: ["Shai"]
 -
@@ -146,12 +151,14 @@
   title: "Components: Life Beyond Init and Destroy"
   description: "In this talk, I will share tips and tricks for building powerful components with lifecycle hooks, templating techniques, and practical use cases. We’ll go beyond the most well-known and commonly-used strategies: what lies beyond ngOnInit, ngOnDestroy, inputs, and outputs? We’ll learn how and when to use other lifecycle hooks to monitor and manipulate component templates. I’ll dig into template reference variables, NgIfElse, declarative templating with the async pipe, view children, and more. Go deeper with components in this talk and come out knowing how to leverage more advanced techniques in your Angular applications!"
   subtype: presentation
+  advanced: true
   speakers: ["Kim"]
 -
   id: "jesse-redux"
   title: "Modelling Redux State"
   description: "One of the challenges of using the Redux (ngrx) architecture for a large, complex application is deciding how to model the state object. We will dive into what types of data should be kept in the state (hint: there's no \"right\" answer), why it should be normalized, and how to organize state to reduce duplicate and nested data and keep reducer logic simple."
   subtype: presentation
+  advanced: true
   speakers: ["Jesse"]
 -
   id: "katerina-maps"
@@ -178,6 +185,7 @@
   title: "Angular ❤️ CMS"
   description: "I want to use Angular for CMS-websites, but it turns out to be harder than expected. In this talk I will go through my journey from thinking it was easy, to banging my head against the wall, to coming out on the other side with a pretty awesome working solution..."
   subtype: presentation
+  advanced: true
   speakers: ["Filip"]
 -
   id: "Yosi-Challenge"
