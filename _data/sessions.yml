@@ -122,7 +122,7 @@
   speakers: ["Sebastian"]
 -
   id: "Shai-TDD"
-  title: "Angular TDD - 10 tips on how to win friends, design better code, and get rich quick!"
+  title: "Angular Testing - 10 tips on how to win friends, design better code, and get rich quick!"
   description: "\"Yeah, we do want to write tests, just not now, right after this next release... we promise...\" <br>
   Hi, My name is Shai Reznik and I've got an interesting business opportunity to discuss with you. <br>
   In the end of the day we all want to feel confident in our code stability and design and make changes without the fear of breaking something.
