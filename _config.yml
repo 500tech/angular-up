@@ -292,7 +292,7 @@ ticketsOffers:
   buyButtonLink: https://angularup2018.eventbrite.com/#tickets
   buyButtonText: Buy Now
   euroPrice: 250
-  soldOut: false
+  soldOut: true
   soldOutText: Sold Out! 
   disabled: false
 
