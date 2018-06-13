@@ -282,17 +282,17 @@ ticketsOffers:
   buyButtonLink: https://angularup2018.eventbrite.com/#tickets
   buyButtonText: Buy Now
   euroPrice: 160
-  soldOut: false
+  soldOut: true
   soldOutText: Sold Out!
   disabled: false
 - name: Last Minute
-  price: 1000
+  price: 850
   priceCurrency: ILS
   validity: We told you to hurry up, didn't we?
   buyButtonLink: https://angularup2018.eventbrite.com/#tickets
   buyButtonText: Buy Now
   euroPrice: 250
-  soldOut: false
-  soldOutText: Sold Out!
-  disabled: true
+  soldOut: true
+  soldOutText: Sold Out! 
+  disabled: false
 
