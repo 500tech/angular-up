@@ -1,4 +1,16 @@
 .subscribe {
+    .hbspt-form {
+        display: inline-block;
+        margin-top: 40px;
+        iframe {
+            width: 410px !important;
+            height: 230px !important;
+            background: rgba(255,255,255,0.8);
+            padding: 20px;
+            border-radius: 3px;
+            max-width: 100%;
+        }
+    }
     .email {
         width: 100%;
         height: 53px;

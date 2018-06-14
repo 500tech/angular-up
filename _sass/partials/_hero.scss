@@ -3,6 +3,20 @@
     height: 100%;
     padding-top: 0;
     .jumbotron {
+        .soldout-img {
+            position: absolute;
+            right: -160px;
+            top: 109px;
+            height: 200px;
+            transform: rotateZ(33deg);
+            filter: drop-shadow(1px 4px 1px black);
+
+            @media (max-width: 767px) {
+                right: -90px;
+                top: 199px;
+                height: 150px;
+            }
+        }
         .logo {
             margin: 20px auto 0;
             background-size: 100% auto;

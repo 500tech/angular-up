@@ -116,10 +116,10 @@ facebookEventTitle: angularup
 partnersTitle: Sponsors
 partnersC4sponsorsButton: Become a sponsor
 subscribeImage: subscribe.jpg
-subscribeTitle: We are sold out
+subscribeTitle: Missed the registration?
 #subscribeInfo: We offer discounted packages including 3 nights at the hotel, the Conference,
   # and the Angular Tour of Israel
-subscribeInfo2: See you at the conference
+subscribeInfo2: Register to our newsletter and be first to know next year
 #ticketsTitle: Conference Tickets
 socialLinks:
 - link: https://twitter.com/intent/user?screen_name=angularup
