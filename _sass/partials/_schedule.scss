@@ -49,6 +49,7 @@ $small-label-width: 80px;
         font-size: 22px;
         @media (max-width: 767px) {
             margin-left: 0;
+            margin-top: 70px;
         }
     }
     .speaker-position {
@@ -99,7 +100,7 @@ $small-label-width: 80px;
     line-height: 1;
     @media (max-width: 767px) {
         font-size: 18px;
-        width: $small-label-width;
+        width: 72px;
     }
     span {
         font-size: 20px;
@@ -130,7 +131,9 @@ $small-label-width: 80px;
     transition: $base-transition;
     @media (max-width: 767px) {
         display: block;
-        margin-left: 68px;
+        margin-left: 72px;
+
+     margin-left: 80px;
     }
 }
 
@@ -142,7 +145,7 @@ $small-label-width: 80px;
     padding-left: 139px;
     padding-top: 10px;
     @media (max-width: 767px) {
-        font-size: 18px;
+        font-size: 16px;
     }
 }
 .speakers-slot {
