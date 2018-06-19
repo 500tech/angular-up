@@ -23,7 +23,7 @@
     }
     - {
       startTime: "11:00",
-      sessionIds: ["Maxim-Modules", "Sani-ionic"]
+      sessionIds: ["Adam-open", "Sani-ionic"]
     }
     - {
       startTime: "11:30",
@@ -35,19 +35,19 @@
     }
     - {
       startTime: "12:25",
-      sessionIds: ["Nir-ngrx", "Uri-write"]
-    }
-    - {
-      startTime: "13:05",
-      sessionIds: ["lunch"] # lunch
-    }
-    - {
-      startTime: "14:05",
       sessionIds: ["Filip-CMS", "martin-tools"]
     }
     - {
+      startTime: "13:00",
+      sessionIds: ["Nir-ngrx", "Uri-write"]
+    }
+    - {
+      startTime: "13:30",
+      sessionIds: ["lunch"] # lunch
+    }
+    - {
       startTime: "14:40",
-      sessionIds: ["Gil-Opher", "Adam-open"]
+      sessionIds: ["Gil-Opher", "Eliran-forms"]
     }
     - {
       startTime: "15:15",

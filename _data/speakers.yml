@@ -17,8 +17,8 @@
   surname: "Larkin"
   company: Microsoft"
   title: "Webpack Maintainer"
-  longTitle: "Webpack Maintainer, UX Developer @ MutualofOmaha"
-  bio: "Sean Larkin is a User Experience Developer at Mutual of Omaha. He is a former technical support representative turned renegade software engineer and web developer, driven by the need to help people through the code he writes. Sean is a member of the Webpack core team, Angular team and Angular-CLI core team. Sean has given talks on Ruby, DAMP programming, AngularJS, and Webpack. He lives to teach others about the world of Web Development."
+  longTitle: "Webpack Maintainer, Technical Program Manager @ Microsoft"
+  bio: "Sean Larkin is a Technical Program Manager at Microsoft. He is a former technical support representative turned renegade software engineer and web developer, driven by the need to help people through the code he writes. Sean is a member of the Webpack core team, Angular team and Angular-CLI core team. Sean has given talks on Ruby, DAMP programming, AngularJS, and Webpack. He lives to teach others about the world of Web Development."
   thumbnailUrl: sean.jpg
   rockstar: true
   social:
@@ -307,3 +307,16 @@
     - {name: "blog", link: "http://www.50linesofco.de/"}
     - {name: "github", link: "https://github.com/avgp"}
     - {name: "twitter", link: "https://twitter.com/g33konaut"}
+-
+  id: "Eliran"
+  name: "Eliran"
+  surname: "Eliassy"
+  company: "StuccoMedia"
+  title: "Front End Team Lead @ StuccoMedia"
+  longTitle: "Front End Team Lead @ StuccoMedia"
+  bio: "<p>Experienced Front End developer, specialized in B2C applications.</p>
+    <p>Front End Team Lead @ Market.co.uk Weekends FE developer @ fashbash.co</p>"
+  thumbnailUrl: eliran.jpeg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://www.linkedin.com/in/eliran-els/"}
