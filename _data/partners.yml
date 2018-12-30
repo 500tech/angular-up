@@ -3,15 +3,15 @@
   class: "everyone"
   elements:
     # - {name: "", description: "", link: "", imageUrl: ""}
-    - {name: "extreme", scale: "2", description: "extreme.co.il", link: "http://bit.ly/2FsveZv", imageUrl: "extreme.png"}
-    - {name: "Google", scale: "1.8", description: "google", link: "https://google.com/", imageUrl: "googlelogo.png"}
-    - {name: "MicroFocus", scale: "1.9", description: "MicroFocus", link: "https://www.microfocus.com//", imageUrl: "micro.png"}
-    - {name: "Dialog", scale: "2.6", description: "Dialog", link: "https://dialog.co.il/", imageUrl: "dialog.png"}
-    - {name: "Cyberark", scale: "1.5", description: "Cyberark", link: "https://www.cyberark.com/he/careers/", imageUrl: "cyberark.jpg"}
-    - {name: "Progress", scale: "2", description: "Progress", link: "https://www.progress.com/", imageUrl: "progress.png"}
-    - {name: "RealCommerce", scale: "3", description: "RealCommerce", link: "http://www.realcommerce.co.il/jobs/", imageUrl: "RC.jpg"}
-    - {name: "Here", scale: "2.5", description: "Here.com", link: "https://mobility.here.com/about", imageUrl: "here.png"}
-    - {name: "Social Stream", scale: "2.5", description: "Social Stream", link: "https://www.socialstream.io", imageUrl: "social.png"}
+    #- {name: "extreme", scale: "2", description: "extreme.co.il", link: "http://bit.ly/2FsveZv", imageUrl: "extreme.png"}
+    #- {name: "Google", scale: "1.8", description: "google", link: "https://google.com/", imageUrl: "googlelogo.png"}
+    #- {name: "MicroFocus", scale: "1.9", description: "MicroFocus", link: "https://www.microfocus.com//", imageUrl: "micro.png"}
+    #- {name: "Dialog", scale: "2.6", description: "Dialog", link: "https://dialog.co.il/", imageUrl: "dialog.png"}
+    #- {name: "Cyberark", scale: "1.5", description: "Cyberark", link: "https://www.cyberark.com/he/careers/", imageUrl: "cyberark.jpg"}
+    #- {name: "Progress", scale: "2", description: "Progress", link: "https://www.progress.com/", imageUrl: "progress.png"}
+    #- {name: "RealCommerce", scale: "3", description: "RealCommerce", link: "http://www.realcommerce.co.il/jobs/", imageUrl: "RC.jpg"}
+    #- {name: "Here", scale: "2.5", description: "Here.com", link: "https://mobility.here.com/about", imageUrl: "here.png"}
+    #- {name: "Social Stream", scale: "2.5", description: "Social Stream", link: "https://www.socialstream.io", imageUrl: "social.png"}
 
 # -
   #group: "Silver"
@@ -25,29 +25,29 @@
   group: "Media partners"
   class: "media"
   elements:
-     - {name: "Packd", scale: "0.7" , description: "Packt Publishing", link: "https://www.packtpub.com", imageUrl: "Packt.png"}
-     - {name: "Javascript Israel", scale: "1.1", description: "Javascript Israel community", link: "http://www.meetup.com/javascript-israel/", imageUrl: "javascript-israel.png"}
+     #- {name: "Packd", scale: "0.7" , description: "Packt Publishing", link: "https://www.packtpub.com", imageUrl: "Packt.png"}
+     #- {name: "Javascript Israel", scale: "1.1", description: "Javascript Israel community", link: "http://www.meetup.com/javascript-israel/", imageUrl: "javascript-israel.png"}
      - {name: "AngularJS-IL", scale: "1.3" , description: "Israel's AngularJS community", link: "https://www.meetup.com/angularjs-il/", imageUrl: "angularjs-il.jpg"}
-     - {name: "Frontend-IL", scale: "0.65", description: "Front-End development community", link: "http://www.meetup.com/frontend-il/", imageUrl: "frontend-il.png"}
-     - {name: "GDG Rashlatz", description: "Google Developer Group - Rishon Le Zion", link: "http://www.meetup.com/gdg-rashlatz/", imageUrl: "gdg_rishon.png"}
+     #- {name: "Frontend-IL", scale: "0.65", description: "Front-End development community", link: "http://www.meetup.com/frontend-il/", imageUrl: "frontend-il.png"}
+     #- {name: "GDG Rashlatz", description: "Google Developer Group - Rishon Le Zion", link: "http://www.meetup.com/gdg-rashlatz/", imageUrl: "gdg_rishon.png"}
     # - {name: "GDG Tel Aviv", description: "Google Developer Group - Tel Aviv", link: "http://www.meetup.com/GDG-Tel-Aviv/", imageUrl: "gdg_telaviv.jpeg"}
     # - {name: "GDG Herzliya", scale: "0.7", description: "Google Developer Group - Herzliya", link: "http://www.meetup.com/GDG-HZ/", imageUrl: "gdg_hertz.png"}
-     - {name: "GDG Sacramento",  scale: "1.2" , description: "Google Developer Group - Sacramento", link: "https://www.meetup.com/Sacramento-Angular-Meetup/", imageUrl: "GDG sac.jpeg"}
-     - {name: "HaMakor", scale: "1.2", description: "HaMakor", link: "http://www.hamakor.org.il", imageUrl: "Hamakor_logo.png"}
+    # - {name: "GDG Sacramento",  scale: "1.2" , description: "Google Developer Group - Sacramento", link: "https://www.meetup.com/Sacramento-Angular-Meetup/", imageUrl: "GDG sac.jpeg"}
+    # - {name: "HaMakor", scale: "1.2", description: "HaMakor", link: "http://www.hamakor.org.il", imageUrl: "Hamakor_logo.png"}
     # - {name: "Modern Web", scale: "1.0", description: "Podcast about frameworks, standards and techniques", link: "http://www.modern-web.org/", imageUrl: "modernweb.png"}
-     - {name: "AngularNYC", scale: "1.2", description: "AngularNYC", link: "https://www.meetup.com/AngularNYC/", imageUrl: "AngularNYCMeetup.svg"}
+    # - {name: "AngularNYC", scale: "1.2", description: "AngularNYC", link: "https://www.meetup.com/AngularNYC/", imageUrl: "AngularNYCMeetup.svg"}
     # - {name: "let's boot", scale: "1", description: "let's boot", link: "http://www.letsboot.com/angular-2-in-house-training-support/", imageUrl: "bot.png"}
     # - {name: "AngularJS Meetup Berlin", scale: "0.7", description: "AngularJS Meetup Berlin", link: "https://www.meetup.com/AngularJS-Meetup-Berlin", imageUrl: "berlin.jpeg"}
     # - {name: "AngularJS Meetup Budapest", scale: "1.0", description: "AngularJS Meetup Budapest", link: "http://www.meetup.com/Budapest-AngularJS-Meetup/", imageUrl: "budapest.svg"}
     # - {name: "AngularJS Warsaw", scale: "0.65", description: "AngularJS Warsaw", link: "https://www.meetup.com/AngularJS-Warsaw/", imageUrl: "warsaw.jpeg"}
     # - {name: "ngStockholm", scale: "0.65", description: "ngStockholm", link: "https://www.meetup.com/ngStockholm/", imageUrl: "ngStockholm.png"}
-     - {name: "Angular Bolivia", scale: "0.8", description: "Angular Bolivia", link: "https://www.meetup.com/Angular-Bolivia/", imageUrl: "Boliv.png"}
+    # - {name: "Angular Bolivia", scale: "0.8", description: "Angular Bolivia", link: "https://www.meetup.com/Angular-Bolivia/", imageUrl: "Boliv.png"}
     # - {name: "ngAmsterdam", scale: "0.8", description: "ngAmsterdam", link: "https://www.meetup.com/ngAmsterdam/", imageUrl: "amsterdam.jpg"}
-     - {name: "Angular Belgium", scale: "0.65", description: "Angular Belgium", link: "https://www.meetup.com/Angular-Belgium/", imageUrl: "Belgium.svg"}
-     - {name: "ATL AngularJS", scale: "0.65", description: "ATL AngularJS", link: "https://www.meetup.com/ATL-AngularJS/", imageUrl: "atl angularjs.jpeg"}
+    # - {name: "Angular Belgium", scale: "0.65", description: "Angular Belgium", link: "https://www.meetup.com/Angular-Belgium/", imageUrl: "Belgium.svg"}
+    # - {name: "ATL AngularJS", scale: "0.65", description: "ATL AngularJS", link: "https://www.meetup.com/ATL-AngularJS/", imageUrl: "atl angularjs.jpeg"}
     # - {name: "Angular-SF", scale: "0.7", desscription: "Angular-SF", link: "https://www.meetup.com/Angular-SF/", imageUrl: "SF.png"}
     # - {name: "JS-Poland", scale: "0.6", description: "JS-Poland", link: "http://www.js-poland.pl/", imageUrl: "poland.png"}
-     - {name: "Angular Hamburg", scale: "0.8", description: "Angular Hamburg", link: "https://www.meetup.com/Hamburg-AngularJS-Meetup/", imageUrl: "hamburg.svg"} 
-     - {name: "AngularJS-Boston",  scale: "0.7" , description: "AngularJS-Boston", link: "https://www.meetup.com/AngularJS-Boston/", imageUrl: "ngBoston.jpeg"}
-     - {name: "AngularJS-Lviv",  scale: "0.7" , description: "AngularJS-Lviv", link: "https://www.meetup.com/Angular-Lviv/", imageUrl: "ALM.png"}
+    # - {name: "Angular Hamburg", scale: "0.8", description: "Angular Hamburg", link: "https://www.meetup.com/Hamburg-AngularJS-Meetup/", imageUrl: "hamburg.svg"} 
+    # - {name: "AngularJS-Boston",  scale: "0.7" , description: "AngularJS-Boston", link: "https://www.meetup.com/AngularJS-Boston/", imageUrl: "ngBoston.jpeg"}
+    # - {name: "AngularJS-Lviv",  scale: "0.7" , description: "AngularJS-Lviv", link: "https://www.meetup.com/Angular-Lviv/", imageUrl: "ALM.png"}
 # -

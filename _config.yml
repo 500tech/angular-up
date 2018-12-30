@@ -1,5 +1,5 @@
 ---
-title: AngularUP 2018
+title: AngularUP 2019
 timezone: UTC
 collections:
   posts:
@@ -32,20 +32,20 @@ socialImageSrcFacebook: "/img/seo/ad.jpg"
 c4sponsorsUrl: mailto:sponsors@angular-up.com
 c4pUrl: https://goo.gl/forms/dai8HuPp47oI65IY2
 navigationLinks:
-- permalink: "/#schedule"
-  text: Schedule
-# - permalink: "/#speakers"
-#   text: Speakers
+- permalink: "/#speakers"
+  text: Speakers
 - permalink: "/#organizers"
   text: Team
-- permalink: "/#sponsors"
-  text: Sponsors
+#- permalink: "/#sponsors"
+#  text: Sponsors
+#- permalink: "/#schedule"
+ # text: Schedule
 - permalink: "/#location-map"
   text: Venue
 - permalink: "/tour"
   text: ng-tour
-- link: http://2017.angular-up.com
-  text: 2017
+- link: http://2018.angular-up.com
+  text: 2018
 - link: https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA/playlists
   text: Videos
 bottomNavigationLinks: 
@@ -55,7 +55,7 @@ rightNavigationButtons:
 heroImage: hero.jpg
 heroTitle: AngularUP
 heroSubtitle: Israel's International Angular Conference & Tour
-eventDate: Tel Aviv, June 21st 2018
+eventDate: Tel Aviv, June 12th 2019
 heroButtons:
 - permalink: "/#subscribe"
   text: Tickets
@@ -76,7 +76,7 @@ aboutBlock:
   moreLink: "/tour"
 statisticBlockImage: statistic.jpg
 statisticBlock:
-- count: 550
+- count: 600
   specialCharacter: "+"
   info: developers
   detail: 
@@ -116,10 +116,10 @@ facebookEventTitle: angularup
 partnersTitle: Sponsors
 partnersC4sponsorsButton: Become a sponsor
 subscribeImage: subscribe.jpg
-subscribeTitle: Missed the registration?
-#subscribeInfo: We offer discounted packages including 3 nights at the hotel, the Conference,
+subscribeTitle: Sign up for our newsletter!
+subscribeInfo: Be one of the first to know about our incredible events!
   # and the Angular Tour of Israel
-subscribeInfo2: Register to our newsletter and be first to know next year
+#subscribeInfo2: Register to our newsletter and be first to know next year
 #ticketsTitle: Conference Tickets
 socialLinks:
 - link: https://twitter.com/intent/user?screen_name=angularup
@@ -269,30 +269,30 @@ ticketsOffers:
   price: 350
   priceCurrency: ILS
   validity: 
-  buyButtonLink: https://angularup2018.eventbrite.com/#tickets
+  buyButtonLink: https://angularup2019.eventbrite.com/#tickets
   buyButtonText: Buy Now
   euroPrice: 85
-  soldOut: true
+  soldOut: true 
   disabled: true
-  soldOutText: Sold Out!
+  #soldOutText: Sold Out!
 - name: Regular
   price: 650
   priceCurrency: ILS
   validity: 
-  buyButtonLink: https://angularup2018.eventbrite.com/#tickets
+  buyButtonLink: https://angularup2019.eventbrite.com/#tickets
   buyButtonText: Buy Now
   euroPrice: 160
-  soldOut: true
-  soldOutText: Sold Out!
+  soldOut: false
+  #soldOutText: Sold Out!
   disabled: false
 - name: Last Minute
   price: 850
   priceCurrency: ILS
   validity: We told you to hurry up, didn't we?
-  buyButtonLink: https://angularup2018.eventbrite.com/#tickets
+  buyButtonLink: https://angularup2019.eventbrite.com/#tickets
   buyButtonText: Buy Now
   euroPrice: 250
-  soldOut: true
-  soldOutText: Sold Out! 
+  soldOut: false
+  #soldOutText: Sold Out! 
   disabled: false
 
