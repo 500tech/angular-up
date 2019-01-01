@@ -29,15 +29,15 @@ twitterAccount: "@angularup"
 socialImageSrcGooglePlus: "/img/seo/ad.jpg"
 socialImageSrcTwitter: "/img/seo/ad.jpg"
 socialImageSrcFacebook: "/img/seo/ad.jpg"
-c4sponsorsUrl: mailto:sponsors@angular-up.com
-c4pUrl: https://goo.gl/forms/dai8HuPp47oI65IY2
+c4sponsorsUrl: https://docs.google.com/forms/d/e/1FAIpQLSfzbke-GgklGguCjmTyixRu21VuBA-MD3XlgGlcwulCfbHxKw/viewform
+c4pUrl: https://docs.google.com/forms/d/e/1FAIpQLSeeTA11De9DcH5VfzOtSsldDs02sXHFban_MJYhnp9TSjxaCA/viewform
 navigationLinks:
 - permalink: "/#speakers"
   text: Speakers
 - permalink: "/#organizers"
   text: Team
-#- permalink: "/#sponsors"
-#  text: Sponsors
+- permalink: "/#sponsors"
+  text: Sponsors
 #- permalink: "/#schedule"
  # text: Schedule
 - permalink: "/#location-map"
@@ -50,14 +50,14 @@ navigationLinks:
   text: Videos
 bottomNavigationLinks: 
 rightNavigationButtons:
-- permalink: "/#subscribe"
+- permalink: "/#tickets"
   text: Tickets
 heroImage: hero.jpg
 heroTitle: AngularUP
 heroSubtitle: Israel's International Angular Conference & Tour
 eventDate: Tel Aviv, June 12th 2019
 heroButtons:
-- permalink: "/#subscribe"
+- permalink: "/#tickets"
   text: Tickets
 aboutTitle: About AngularUP
 aboutBlock:
@@ -266,12 +266,12 @@ hackathonMapCenterCoordinates: 49.840696, 24.028754
 hackathonMapMobileCenterCoordinates: 49.841639, 24.031182
 ticketsOffers:
 - name: Early Bird
-  price: 350
+  price: 400
   priceCurrency: ILS
   validity: 
   buyButtonLink: https://angularup2019.eventbrite.com/#tickets
   buyButtonText: Buy Now
-  euroPrice: 85
+  euroPrice: 93
   soldOut: true 
   disabled: true
   #soldOutText: Sold Out!
@@ -281,17 +281,27 @@ ticketsOffers:
   validity: 
   buyButtonLink: https://angularup2019.eventbrite.com/#tickets
   buyButtonText: Buy Now
-  euroPrice: 160
+  euroPrice: 150
   soldOut: false
   #soldOutText: Sold Out!
   disabled: false
-- name: Last Minute
+- name: Late Bird
   price: 850
   priceCurrency: ILS
-  validity: We told you to hurry up, didn't we?
+  validity: #We told you to hurry up, didn't we?
   buyButtonLink: https://angularup2019.eventbrite.com/#tickets
   buyButtonText: Buy Now
-  euroPrice: 250
+  euroPrice: 200
+  soldOut: false
+  #soldOutText: Sold Out! 
+  disabled: false
+- name: Last Minute
+  price: 1000
+  priceCurrency: ILS
+  validity:
+  buyButtonLink: https://angularup2019.eventbrite.com/#tickets
+  buyButtonText: Buy Now
+  euroPrice: 230
   soldOut: false
   #soldOutText: Sold Out! 
   disabled: false
