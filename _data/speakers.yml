@@ -1,17 +1,17 @@
 -
-#  id: "Rob"
-#  name: "Rob"
-#  surname: "Wormald"
-#  company: "Google"
-#  title: "@angular core team and @ngrx founder"
-#  longTitle: "@angular core team and @ngrx founder"
-#  bio: "Rob is a Developer Advocate on the Angular team at Google. He’s the Angular team’s resident reactive programming geek and founded the Reactive Extensions for Angular project, ngrx."
-#  thumbnailUrl: rob.jpg
-#  rockstar: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/robwormald"}
-#    - {name: "github", link: "http://github.com/robwormald"}
--
+  id: "Rob"
+  name: "Rob"
+  surname: "Wormald"
+  company: "Google"
+  title: "@angular core team, @ngrx founder"
+  longTitle: "@angular core team, @ngrx founder"
+  bio: "Rob is a Developer Advocate on the Angular team at Google. He’s the Angular team’s resident reactive programming geek and founded the Reactive Extensions for Angular project, ngrx."
+  thumbnailUrl: rob.jpg
+  rockstar: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/robwormald"}
+    - {name: "github", link: "http://github.com/robwormald"}
+
 #  id: "Sean"
 #  name: "Sean"
 #  surname: "Larkin"
@@ -25,7 +25,7 @@
 #    - {name: "twitter", link: "https://twitter.com/thelarkinn"}
 #    - {name: "github", link: "http://github.com/thelarkinn"}
 #    - {name: "linkedin", link: "https://www.linkedin.com/in/seanthomaslarkin/"}
--
+
 #  id: "Nir"
 #  name: "Nir"
 #  surname: "Kaufman"
@@ -39,7 +39,7 @@
 #    - {name: "twitter", link: "https://twitter.com/nirkaufman"}
 #    - {name: "github", link: "https://github.com/nirkaufman"}
 #    - {name: "website", link: "http://500tech.com"}
--
+
 #  id: "Uri"
 #  name: "Uri"
 #  surname: "Shaked"
@@ -53,7 +53,7 @@
 #    - {name: "twitter", link: "https://twitter.com/UriShaked"}
 #    - {name: "github", link: "https://github.com/urish"}
 #    - {name: "website", link: "http://urish.org/"}
--
+
 #  id: "Gil"
 #  name: "Gil"
 #  surname: "Fink"
@@ -68,6 +68,45 @@
 #    - {name: "github", link: "https://github.com/gilf"}
 #    - {name: "website", link: "http://gilfink.azurewebsites.net/"}
 -
+ id: "Mike"
+ name: "Mike"
+ surname: "Hartington"
+ company: "Ionic"
+ title: "Developer Advocate"
+ longTitle: "Developer Advocate @ Ionic"
+ bio: "Mike a developer, Angular GDE, and Ionic Developer Advocate who's been working in the mobile landscape for most of his professional career. When he's not working Ionic itself, Mike works with community members and helps them succeed at mobile. In his spare time, he’s an aspiring woodworker, occasional musician, and enjoys a good scotch."
+ thumbnailUrl: mike.jpg
+ social:
+     - { name: "twitter", link: "https://twitter.com/mhartington"}
+     - { name: "github", link: "https://github.com/mhartington"}
+     - { name: "website", link: "https://mhartington.io/"}
+-
+ id: "frosti"
+ name: "Aaron"
+ surname: "Frost"
+ company: "HeroDevs"
+ title: "CEO and Architect"
+ longTitle: "CEO and Architect @ HeroDevs"
+ bio: "Frosty is the CEO and co-founder of HeroDevs. He's also one of the lead organizers for ng-conf, the galaxy's largest Angular conference. For the last five years, he's been a Google Developer Expert (GDE) for his work in the JavaScript community and for his deep knowledge around the Angular-of-things. He's as passionate about coding as he is about tacos. Where some people see a new sunrise, Frosty sees a chance to write more code and to meet new food."
+ thumbnailUrl: aaron.jpg
+ social:
+     - { name: "twitter", link: "https://twitter.com/aaronfrost"}
+     - { name: "website", link: "https://geekonaut.de/"}
+-
+ id: "Martin"
+ name: "Martin"
+ surname: "Splitt"
+ company: "Google"
+ title: "Developer Advocate"
+ longTitle: "Developer Advocate @ Google"
+ bio: "Martin is pretty decent at humaning and pretty good at computering,
+so he decided to use his computering to improve his and other's humaning.
+
+He loves the open web and open source and helps to make things better with, but not limited to, code."
+ thumbnailUrl: martin.jpeg
+ social:
+     - { name: "twitter", link: "https://twitter.com/g33konaut"}
+
 #  id: "Adam"
 #  name: "Adam"
 #  surname: "Klein"
@@ -80,7 +119,7 @@
 #     - { name: "twitter", link: "https://twitter.com/adamklein500/"}
 #     - { name: "slideshare", link: "https://slideshare.net/500tech/"}
 #     - { name: "github", link: "https://github.com/adamkleingit/"}
--
+
 #  id: "Jesse"
 #  name: "Jesse"
 #  surname: "Sanders"

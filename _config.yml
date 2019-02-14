@@ -36,8 +36,8 @@ navigationLinks:
   text: Speakers
 - permalink: "/#organizers"
   text: Team
-#- permalink: "/#sponsors"
-#  text: Sponsors
+- permalink: "/#sponsors"
+  text: Sponsors
 #- permalink: "/#schedule"
  # text: Schedule
 - permalink: "/#location-map"
