@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -
   id: "Rob"
   name: "Rob"
@@ -12,6 +13,22 @@
     - {name: "twitter", link: "https://twitter.com/robwormald"}
     - {name: "github", link: "http://github.com/robwormald"}
 
+=======
+#-
+#  id: "Rob"
+#  name: "Rob"
+#  surname: "Wormald"
+#  company: "Google"
+#  title: "@angular core team and @ngrx founder"
+#  longTitle: "@angular core team and @ngrx founder"
+#  bio: "Rob is a Developer Advocate on the Angular team at Google. He’s the Angular team’s resident reactive programming geek and founded the Reactive Extensions for Angular project, ngrx."
+#  thumbnailUrl: rob.jpg
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/robwormald"}
+#    - {name: "github", link: "http://github.com/robwormald"}
+#-
+>>>>>>> c74462d2dd92cd57e2f4baeb796bebe1adb22ed6
 #  id: "Sean"
 #  name: "Sean"
 #  surname: "Larkin"
@@ -25,7 +42,11 @@
 #    - {name: "twitter", link: "https://twitter.com/thelarkinn"}
 #    - {name: "github", link: "http://github.com/thelarkinn"}
 #    - {name: "linkedin", link: "https://www.linkedin.com/in/seanthomaslarkin/"}
+<<<<<<< HEAD
 
+=======
+#-
+>>>>>>> c74462d2dd92cd57e2f4baeb796bebe1adb22ed6
 #  id: "Nir"
 #  name: "Nir"
 #  surname: "Kaufman"
@@ -39,7 +60,11 @@
 #    - {name: "twitter", link: "https://twitter.com/nirkaufman"}
 #    - {name: "github", link: "https://github.com/nirkaufman"}
 #    - {name: "website", link: "http://500tech.com"}
+<<<<<<< HEAD
 
+=======
+#-
+>>>>>>> c74462d2dd92cd57e2f4baeb796bebe1adb22ed6
 #  id: "Uri"
 #  name: "Uri"
 #  surname: "Shaked"
@@ -53,7 +78,11 @@
 #    - {name: "twitter", link: "https://twitter.com/UriShaked"}
 #    - {name: "github", link: "https://github.com/urish"}
 #    - {name: "website", link: "http://urish.org/"}
+<<<<<<< HEAD
 
+=======
+#-
+>>>>>>> c74462d2dd92cd57e2f4baeb796bebe1adb22ed6
 #  id: "Gil"
 #  name: "Gil"
 #  surname: "Fink"
@@ -67,6 +96,7 @@
 #    - {name: "twitter", link: "https://twitter.com/gilfink"}
 #    - {name: "github", link: "https://github.com/gilf"}
 #    - {name: "website", link: "http://gilfink.azurewebsites.net/"}
+<<<<<<< HEAD
 -
  id: "Mike"
  name: "Mike"
@@ -107,6 +137,9 @@ He loves the open web and open source and helps to make things better with, but 
  social:
      - { name: "twitter", link: "https://twitter.com/g33konaut"}
 
+=======
+#-
+>>>>>>> c74462d2dd92cd57e2f4baeb796bebe1adb22ed6
 #  id: "Adam"
 #  name: "Adam"
 #  surname: "Klein"
@@ -119,7 +152,11 @@ He loves the open web and open source and helps to make things better with, but 
 #     - { name: "twitter", link: "https://twitter.com/adamklein500/"}
 #     - { name: "slideshare", link: "https://slideshare.net/500tech/"}
 #     - { name: "github", link: "https://github.com/adamkleingit/"}
+<<<<<<< HEAD
 
+=======
+#-
+>>>>>>> c74462d2dd92cd57e2f4baeb796bebe1adb22ed6
 #  id: "Jesse"
 #  name: "Jesse"
 #  surname: "Sanders"
