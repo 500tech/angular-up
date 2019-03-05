@@ -103,6 +103,19 @@ He loves the open web and open source and helps to make things better with, but 
  thumbnailUrl: martin.jpeg
  social:
      - { name: "twitter", link: "https://twitter.com/g33konaut"}
+-
+ id: "katerina"
+ name: "katerina"
+ surname: "Skroumpelou"
+ company: "ThisDot"
+ title: "GDE @ ThisDot"
+ longTitle: "software engineer @ ThisDot"
+ bio: "Katerina Skroumpelou is a Google Developer Expert for Angular and a software engineer focused on the web frontend. Her projects focus on interactivity, web maps and new technologies. She also likes to mix and match web APIs, experimenting with device sensors, and she open sources her code for the general good. "
+ thumbnailUrl: katerina.jpg
+ rockstar: true
+ social:
+    - {name: "twitter", link: "https://twitter.com/psybercity"}
+    - {name: "github", link: "https://mandarini.github.io"}
 
 #  id: "Adam"
 #  name: "Adam"
