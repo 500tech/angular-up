@@ -104,6 +104,19 @@ He loves the open web and open source and helps to make things better with, but 
  social:
      - { name: "twitter", link: "https://twitter.com/g33konaut"}
 -
+ id: "Michael"
+ name: "Michael"
+ surname: "Hladky"
+ company: "Freelance"
+ title: "GDE"
+ longTitle: "GDE"
+ bio: "Angular by heart and code. Michael is a full-stack developer located in Vienna, Austria.
+He is a Google Developer Expert and an active part of the community. As co-founder of the Angular-Austria association, organizer of Angular-Vienna and NestJS-Vienna Meetup he grows the Austrian community. He is a developer, trainer and consultant with the focus on Angular as well as ionic and surrounding technologies, and gives workshops on Angular, RxJs and Typescript.
+He regularly speaks at conferences and meetups and enjoys participating in the dev community and OSS."
+ thumbnailUrl: michaelh.jpg
+ social:
+     - { name: "twitter", link: "https://twitter.com/g33konaut"}
+
 #  id: "katerina"
 #  name: "Katerina"
 #  surname: "Skroumpelou"
@@ -141,30 +154,30 @@ He loves the open web and open source and helps to make things better with, but 
 #      - { name: "twitter", link: "https://twitter.com/@JesseS_BrieBug"}
 #      - { name: "linkedin", link: "https://www.linkedin.com/in/jessesandersbriebug/"}
 #      - { name: "github", link: "https://github.com/briebug/"}
--
-  id: 31
-  name: "Maybe"
-  surname: "You?"
-  company: ""
-  title: ""
-  longTitle: ""
-  bio: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
-  thumbnailUrl: faceman.png
-  rockstar: true
-  social:
-   - {name: "github", link: ""}
-   - {name: "twitter", link: ""}
--
-  id: 32
-  name: "Maybe"
-  surname: "You?"
-  company: ""
-  title: ""
-  longTitle: ""
-  bio: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
-  thumbnailUrl: facewoman.png
-  rockstar: true
-  social:
-   - {name: "github", link: ""}
-   - {name: "twitter", link: ""}
+# -
+#   id: 31
+#   name: "Maybe"
+#   surname: "You?"
+#   company: ""
+#   title: ""
+#   longTitle: ""
+#   bio: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
+#   thumbnailUrl: faceman.png
+#   rockstar: true
+#   social:
+#    - {name: "github", link: ""}
+#    - {name: "twitter", link: ""}
+# -
+#   id: 32
+#   name: "Maybe"
+#   surname: "You?"
+#   company: ""
+#   title: ""
+#   longTitle: ""
+#   bio: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
+#   thumbnailUrl: facewoman.png
+#   rockstar: true
+#   social:
+#    - {name: "github", link: ""}
+#    - {name: "twitter", link: ""}
 
