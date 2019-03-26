@@ -7,7 +7,7 @@
   group: "Team"
   class: "individuals"
   elements:
-    - {title: "Adam Klein", name: "Adam Klein", description: "", link: "https://www.linkedin.com/in/adamklein500", imageUrl: "adam.jpg"}
+  #  - {title: "Adam Klein", name: "Adam Klein", description: "", link: "https://www.linkedin.com/in/adamklein500", imageUrl: "adam.jpg"}
     - {title: "Nur Lee Harel", name: "Nur Lee Harel", description: "", link: "https://www.linkedin.com/in/nur-lee-harel-49903918/", imageUrl: "nur.jpg"}
     - {title: "Uri Shaked", name: "Uri Shaked", description: "", link: "https://www.linkedin.com/in/urishaked", imageUrl: "uri.jpg"}
     - {title: "Gil Fink", name: "Gil Fink", description: "", link: "https://www.linkedin.com/in/gilfink", imageUrl: "gil.jpg"}
