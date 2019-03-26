@@ -116,7 +116,17 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  thumbnailUrl: michaelh.jpg
  social:
      - { name: "twitter", link: "https://twitter.com/g33konaut"}
-
+-
+ id: "Revital"
+ name: "Revital"
+ surname: "Friedman"
+ company: "hibob"
+ title: "Frontend Developer"
+ longTitle: "Frontend Developer @ hibob"
+ bio: "Revital Friedman is a passionate Full-stack developer. In the army she has served in the special intelligence technology unit, called Unit 8200. Revital has been a software developer for the last seven years, currently working at Hibob as a front end developer, using Angular as the main platform. In her spare time, she likes to go wall climbing, play volleyball, snowboard and take care of her two cats."
+ thumbnailUrl: revital.jpg
+ social:
+     - 
 #  id: "katerina"
 #  name: "Katerina"
 #  surname: "Skroumpelou"
