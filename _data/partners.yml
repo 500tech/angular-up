@@ -7,7 +7,7 @@
     - {name: "Google", scale: "1.8", description: "google", link: "https://google.com/", imageUrl: "googlelogo.png"}
     #- {name: "MicroFocus", scale: "1.9", description: "MicroFocus", link: "https://www.microfocus.com//", imageUrl: "micro.png"}
     #- {name: "Dialog", scale: "2.6", description: "Dialog", link: "https://dialog.co.il/", imageUrl: "dialog.png"}
-    #- {name: "Cyberark", scale: "1.5", description: "Cyberark", link: "https://www.cyberark.com/he/careers/", imageUrl: "cyberark.jpg"}
+    - {name: "Algotec", scale: "1.5", description: "Algotec", link: " https://www.facebook.com/AlgotecSystems/", imageUrl: "algotec.png"}
     #- {name: "Progress", scale: "2", description: "Progress", link: "https://www.progress.com/", imageUrl: "progress.png"}
     #- {name: "RealCommerce", scale: "3", description: "RealCommerce", link: "http://www.realcommerce.co.il/jobs/", imageUrl: "RC.jpg"}
     #- {name: "Here", scale: "2.5", description: "Here.com", link: "https://mobility.here.com/about", imageUrl: "here.png"}
