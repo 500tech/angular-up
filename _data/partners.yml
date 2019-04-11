@@ -7,12 +7,12 @@
     - {name: "Google", scale: "1.8", description: "google", link: "https://google.com/", imageUrl: "googlelogo.png"}
     #- {name: "MicroFocus", scale: "1.9", description: "MicroFocus", link: "https://www.microfocus.com//", imageUrl: "micro.png"}
     #- {name: "Dialog", scale: "2.6", description: "Dialog", link: "https://dialog.co.il/", imageUrl: "dialog.png"}
+    - {name: "Appsflyer", scale: "2", description: "Appsflyer", link: "https://medium.com/appsflyer/", imageUrl: "af.png"}
     - {name: "Algotec", scale: "1.5", description: "Algotec", link: " https://www.facebook.com/AlgotecSystems/", imageUrl: "Algotec.png"}
-    #- {name: "Progress", scale: "2", description: "Progress", link: "https://www.progress.com/", imageUrl: "progress.png"}
+    - {name: "HiBob", scale: "1", description: "HiBob", link: "https://www.hibob.com/", imageUrl: "bob_logo.png"}
     #- {name: "RealCommerce", scale: "3", description: "RealCommerce", link: "http://www.realcommerce.co.il/jobs/", imageUrl: "RC.jpg"}
     #- {name: "Here", scale: "2.5", description: "Here.com", link: "https://mobility.here.com/about", imageUrl: "here.png"}
     - {name: "ionic", scale: "1", description: "ionic", link: "https://ionicframework.com/", imageUrl: "ionic.svg"}
-    - {name: "Appsflyer", scale: "2", description: "Appsflyer", link: "https://medium.com/appsflyer/", imageUrl: "af.png"}
     - {name: "Jetbrains", scale: "1", description: "Jetbrains", link: "https://www.jetbrains.com/", imageUrl: "Jetbrains.png"}
 
 # -
