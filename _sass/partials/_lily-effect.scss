@@ -1,6 +1,7 @@
 .lily-effect {
     margin-bottom: 26px;
     cursor: pointer;
+    padding-bottom: 12px;
     transition: $base-transition;
     box-shadow: 0 1px 7px rgba(0, 0, 0, .06), 0 1px 3px rgba(0, 0, 0, .15);
     &:hover {
