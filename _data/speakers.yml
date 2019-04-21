@@ -124,17 +124,17 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
    - { name: "blog", link: "https://medium.com/@phenomnominal"}
    - { name: "twitter", link: "https://twitter.com/phenomnominal"}
 -
- id: "John"
- name: "John"
- surname: "Crowson"
- company: "Capital One"
- title: "Senior Software Engineer"
- longTitle: "Senior Software Engineer @ Capital One"
- bio: "I'm a fullstack developer at Capital One.I speak at events, write blogs, and contribute to open source software."
- thumbnailUrl: john.png
+ id: "stanimera"
+ name: "Stanimira"
+ surname: "Vlaeva"
+ company: "Progress"
+ title: "Software Engineer"
+ longTitle: "Software Engineer @ Progress, NativeScript Core Team"
+ bio: "Stanimira Vlaeva is a software engineer on the NativeScript team at Progress and a Google Developer Expert for Angular and Web Technologies. She's working on NativeScript Angular, NativeScript schematics, and the integration of webpack within the {N} build system. She's also co-organizing the Angular meetup in Sofia, Bulgaria."
+ thumbnailUrl: stani.jpg
  social:
-   - { name: "blog", link: "https://t.co/VoujaZfLdy"}
-   - { name: "twitter", link: "https://twitter.com/john_crowson"}
+   - { name: "blog", link: "https://www.nativescript.org/blog/author/stanimira-vlaeva"}
+   - { name: "twitter", link: "https://twitter.com/stanimiravlaeva"}
 #  id: "Sean"
 #  name: "Sean"
 #  surname: "Larkin"
@@ -166,7 +166,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
   name: "Gil"
   surname: "Fink"
   company: "sparXys"
-  title: "CEO and Senior Consultant"
+  title: "CEO and Senior Consultant @ sparXys"
   longTitle: "CEO and Senior Consultant"
   bio: "Gil is a web development expert, Microsoft MVP and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web and RIA-based solutions. He conducts lectures and workshops for individuals and enterprises who want to specialize in infrastructure and web development. He is also co-author of several Microsoft Official Courses (MOCs) and training kits, co-author of Pro Single Page Application Development book (Apress), co-organiser of GDG Rashlatz Meetup and Angular UP conference."
   thumbnailUrl: gil.jpg
