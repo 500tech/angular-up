@@ -282,7 +282,7 @@ ticketsOffers:
   buyButtonLink: https://angularup2019.eventbrite.com/#tickets
   buyButtonText: Buy Now
   euroPrice: 150
-  soldOut: false
+  soldOut: true
   #soldOutText: Sold Out!
   disabled: false
 - name: Late Bird
