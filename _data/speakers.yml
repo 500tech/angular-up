@@ -100,18 +100,6 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  thumbnailUrl: revital.jpg
  social:
 -
- id: "Maxim"
- name: "Maxim"
- surname: "Koretskyi"
- company: "ag-Grid"
- title: "Developer Advocate"
- longTitle: "Developer Advocate @ ag-Grid"
- bio: "I find patterns in frameworks and explain them. Angular & React contributor. Dev Evangelist at @ag_grid. Chief Inspiration Officer at @AngularInDepth. GDE, MVP."
- thumbnailUrl: maxim2.jpg
- social:
-   - { name: "blog", link: "https://medium.com/@maxim.koretskyi"}
-   - { name: "twitter", link: "https://twitter.com/maxkoretskyi"}
--
  id: "Craig"
  name: "Craig"
  surname: "Spence"
