@@ -54,10 +54,9 @@
  surname: "Kaufman"
  company: "500Tech"
  title: "Principal Frontend Consultant at 500Tech"
- longTitle: "Principal Frontend Developer & Consultant at 500Tech"
- bio: "Google Developer Expert in web technologies, public speaker and trainer, tech community activist ( ReactNYC )
-Author of books about Front-end development, and the founder of the ‘’Frontend Band” - The first open-source rock n’ roll band!
-Principal Frontend consultant at 500Tech, a front-end consultancy in NYC."
+ longTitle: "Google Developer Expert in web technologies, public speaker and trainer, tech community activist ( ReactNYC ).
+Author of books about Front-end development, and the founder of the 'Frontend Band' - The first open-source rock n’ roll label in the world!
+Principal consultant at 500Tech, a front-end consultancy in NYC."
  thumbnailUrl: nirnew.png
  rockstar: true
  social:
