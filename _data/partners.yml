@@ -40,6 +40,8 @@
      - {name: "ATL AngularJS", scale: "0.65", description: "ATL AngularJS", link: "https://www.meetup.com/ATL-AngularJS/", imageUrl: "atl angularjs.jpeg"}
      - {name: "Angular-SF", scale: "0.7", desscription: "Angular-SF", link: "https://www.meetup.com/Angular-SF/", imageUrl: "SF.png"}
      - {name: "startach", scale: "0.7", desscription: "startach", link: "https://www.startach.org.il/", imageUrl: "SA.png"}
+     - {name: "she codes;", scale: "1", description: "she codes;", link: "https://she-codes.org/", imageUrl: "shec.png"}
+
 
     # - {name: "JS-Poland", scale: "0.6", description: "JS-Poland", link: "http://www.js-poland.pl/", imageUrl: "poland.png"}
     # - {name: "Angular Hamburg", scale: "0.8", description: "Angular Hamburg", link: "https://www.meetup.com/Hamburg-AngularJS-Meetup/", imageUrl: "hamburg.svg"} 
