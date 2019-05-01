@@ -47,7 +47,7 @@
  thumbnailUrl: aaron.jpg
  social:
      - { name: "twitter", link: "https://twitter.com/aaronfrost"}
-     - { name: "website", link: "https://geekonaut.de/"}
+     
 -
  id: "Nir"
  name: "Nir"
@@ -163,6 +163,29 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
    - {name: "twitter", link: "https://twitter.com/gilfink"}
    - {name: "github", link: "https://github.com/gilf"}
    - {name: "website", link: "http://gilfink.azurewebsites.net/"}
+-
+  id: "Younes"
+  name: "Younes"
+  surname: "Jaaidi"
+  company: 
+  title: "Web Developer & eXtreme Programming Coach"
+  longTitle: "Web Developer & eXtreme Programming Coach"
+  bio: "ounes is a pythonic full-stack web developer with a focus on Angular.
+
+He is a trainer, consultant & eXtreme Programming coach who loves the challenge of boosting teams efficiency and helping everyone enjoy every part of their job.
+His experience convinced him that the key to making quality products is collective ownership, kindness and knowledge sharing.
+
+On his spare time, you will find him contributing to open-source software, writing articles or speaking at meetups or conferences… and sometimes sailing.
+
+His favorite trick? Adding features by removing code.
+"
+  thumbnailUrl: younes-portrait.jpg
+  rockstar: true
+  social:
+   - {name: "twitter", link: "https://twitter.com/yjaaidi"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/yjaaidi/"}
+   - {name: "website", link: "https://wishtack.io"}
+   - {name: "blog", link: "https://medium.com/@yjaaidi"}
 #  id: "katerina"
 #  name: "Katerina"
 #  surname: "Skroumpelou"
