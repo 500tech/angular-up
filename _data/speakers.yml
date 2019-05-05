@@ -53,8 +53,9 @@
  name: "Nir"
  surname: "Kaufman"
  company: "500Tech"
- title: "Principal Frontend Consultant at 500Tech"
- longTitle: "Google Developer Expert in web technologies, public speaker and trainer, tech community activist ( ReactNYC ).
+ title: "Principal Frontend Consultant"
+ longTitle: "Principal Frontend Consultant at 500Tech"
+ bio: "Google Developer Expert in web technologies, public speaker and trainer, tech community activist ( ReactNYC ).
 Author of books about Front-end development, and the founder of the 'Frontend Band' - The first open-source rock n’ roll label in the world!
 Principal consultant at 500Tech, a front-end consultancy in NYC."
  thumbnailUrl: nirnew.png
@@ -236,6 +237,21 @@ His favorite trick? Adding features by removing code.
  thumbnailUrl: eliassi.jpg
  social:
      - { name: "twitter", link: "https://twitter.com/EliranEliassy"}
+-
+ id: "Sebastian"
+ name: "Sebastian"
+ surname: "Witalec"
+ company: "Progress"
+ title: " Senior Developer Advocate"
+ longTitle: "Senior Developer Advocate for Progress"
+ bio: "Sebastian Witalec is a Senior Developer Advocate for Progress who specialises in Angular and NativeScript. He loves working on both serious and fun projects and one day he will use his robot army to conquer the world.
+
+He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London actively working with various Dev communities in Europe. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
+
+"
+ thumbnailUrl: seb.png
+ social:
+     - { name: "twitter", link: "https://twitter.com/sebawita"}
 # -
 #   id: 31
 #   name: "Maybe"
