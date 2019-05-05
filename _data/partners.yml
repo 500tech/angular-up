@@ -15,6 +15,7 @@
     - {name: "ionic", scale: "1", description: "ionic", link: "https://ionicframework.com/", imageUrl: "ionic.svg"}
     - {name: "Jetbrains", scale: "1", description: "Jetbrains", link: "https://www.jetbrains.com/", imageUrl: "Jetbrains.png"}
     - {name: "BrieBug", scale: "2", description: "BrieBug", link: "https://www.briebug.com/", imageUrl: "Brie.svg"}
+    - {name: "Progress", scale: "2.2", description: "Progress", link: "https://www.progress.com/", imageUrl: "Prog.png"}
 
 # -
   #group: "Silver"
