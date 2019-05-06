@@ -22,6 +22,7 @@
  thumbnailUrl: kim.jpg
  social:
      - { name: "twitter", link: "https://twitter.com/KimMaida"}
+     - { name: "github", link: "https://github.com/kmaida"}
      - { name: "blog", link: "https://auth0.com/blog/authors/kim-maida/"}
 -
  id: "Mike"
@@ -47,6 +48,7 @@
  thumbnailUrl: aaron.jpg
  social:
      - { name: "twitter", link: "https://twitter.com/aaronfrost"}
+     - { name: "github", link: "https://github.com/aaronfrost"}
      
 -
  id: "Nir"
@@ -78,6 +80,8 @@ He loves the open web and open source and helps to make things better with, but 
  thumbnailUrl: martin.jpeg
  social:
      - { name: "twitter", link: "https://twitter.com/g33konaut"}
+     - { name: "github", link: "https://github.com/AVGP"}
+
 -
  id: "Michael"
  name: "Michael"
@@ -90,7 +94,9 @@ He is a Google Developer Expert and an active part of the community. As co-found
 He regularly speaks at conferences and meetups and enjoys participating in the dev community and OSS."
  thumbnailUrl: michaelh.jpg
  social:
-     - { name: "twitter", link: "https://twitter.com/g33konaut"}
+     - { name: "twitter", link: "https://twitter.com/michael_hladky"}
+     - { name: "github", link: "https://github.com/BioPhoton"}
+
 -
  id: "Revital"
  name: "Revital"
@@ -113,6 +119,8 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  social:
    - { name: "blog", link: "https://medium.com/@phenomnominal"}
    - { name: "twitter", link: "https://twitter.com/phenomnominal"}
+   - { name: "github", link: "https://github.com/phenomnomnominal"}
+
 -
  id: "Stanimira"
  name: "Stanimira"
@@ -125,6 +133,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  social:
    - { name: "blog", link: "https://www.nativescript.org/blog/author/stanimira-vlaeva"}
    - { name: "twitter", link: "https://twitter.com/stanimiravlaeva"}
+   - { name: "github", link: "https://github.com/sis0k0"}
 -
  id: "Uri"
  name: "Uri"
@@ -177,6 +186,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
    - {name: "linkedin", link: "https://www.linkedin.com/in/yjaaidi/"}
    - {name: "website", link: "https://wishtack.io"}
    - {name: "blog", link: "https://medium.com/@yjaaidi"}
+   - {name: "github", link: "https://github.com/wishtack"}
 
 -
   id: "Jesse"
@@ -202,6 +212,8 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  thumbnailUrl: eliassi.jpg
  social:
      - { name: "twitter", link: "https://twitter.com/EliranEliassy"}
+     - { name: "github", link: "https://github.com/eliraneliassy"}
+
 -
  id: "Sebastian"
  name: "Sebastian"
@@ -217,6 +229,8 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  thumbnailUrl: seb.png
  social:
      - { name: "twitter", link: "https://twitter.com/sebawita"}
+     - { name: "github", link: "https://github.com/sebawita"}
+
 # -
 #   id: 31
 #   name: "Maybe"
