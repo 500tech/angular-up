@@ -14,6 +14,10 @@
     #- {name: "Here", scale: "2.5", description: "Here.com", link: "https://mobility.here.com/about", imageUrl: "here.png"}
     - {name: "ionic", scale: "1", description: "ionic", link: "https://ionicframework.com/", imageUrl: "ionic.svg"}
     - {name: "Jetbrains", scale: "1", description: "Jetbrains", link: "https://www.jetbrains.com/", imageUrl: "Jetbrains.png"}
+    - {name: "BrieBug", scale: "2", description: "BrieBug", link: "https://www.briebug.com/", imageUrl: "Brie.svg"}
+    - {name: "Progress", scale: "2.2", description: "Progress", link: "https://www.progress.com/", imageUrl: "Prog.png"}
+    - {name: "HeroDevs", scale: "1", description: "HeroDevs", link: "https://herodevs.com", imageUrl: "hero.png"}
+    - {name: "auth0", scale: "1.5", description: "auth0", link: "https://auth0.com/", imageUrl: "auth.png"}
 
 # -
   #group: "Silver"
@@ -39,6 +43,8 @@
      - {name: "ATL AngularJS", scale: "0.65", description: "ATL AngularJS", link: "https://www.meetup.com/ATL-AngularJS/", imageUrl: "atl angularjs.jpeg"}
      - {name: "Angular-SF", scale: "0.7", desscription: "Angular-SF", link: "https://www.meetup.com/Angular-SF/", imageUrl: "SF.png"}
      - {name: "startach", scale: "0.7", desscription: "startach", link: "https://www.startach.org.il/", imageUrl: "SA.png"}
+     - {name: "she codes;", scale: "1", description: "she codes;", link: "https://she-codes.org/", imageUrl: "shec.png"}
+
 
     # - {name: "JS-Poland", scale: "0.6", description: "JS-Poland", link: "http://www.js-poland.pl/", imageUrl: "poland.png"}
     # - {name: "Angular Hamburg", scale: "0.8", description: "Angular Hamburg", link: "https://www.meetup.com/Hamburg-AngularJS-Meetup/", imageUrl: "hamburg.svg"} 

@@ -47,15 +47,17 @@
  thumbnailUrl: aaron.jpg
  social:
      - { name: "twitter", link: "https://twitter.com/aaronfrost"}
-     - { name: "website", link: "https://geekonaut.de/"}
+     
 -
  id: "Nir"
  name: "Nir"
  surname: "Kaufman"
  company: "500Tech"
- title: "Principal Frontend Consultant at 500Tech"
- longTitle: "Principal Frontend Developer & Consultant at 500Tech"
- bio: "Nir is Google Developer Expert in web technologies and Angular, worldwide conference speaker, workshop mentor and tech community leader. Co-organize AngularNYC - The biggest angular meetup in the world Author of 2 books about Angular, the founder of the ‘’Frontend Band” - The first open-source rock n roll band! Principal Frontend Consultant at 500Tech, a top front-end consultancy in NYC."
+ title: "Principal Frontend Consultant"
+ longTitle: "Principal Frontend Consultant at 500Tech"
+ bio: "Google Developer Expert in web technologies, public speaker and trainer, tech community activist ( ReactNYC ).
+  Author of books about Front-end development, and the founder of the 'Frontend Band' - The first open-source rock n’ roll label in the world!
+  Principal consultant at 500Tech, a front-end consultancy in NYC."
  thumbnailUrl: nirnew.png
  rockstar: true
  social:
@@ -112,17 +114,17 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
    - { name: "blog", link: "https://medium.com/@phenomnominal"}
    - { name: "twitter", link: "https://twitter.com/phenomnominal"}
 -
- id: "John"
- name: "John"
- surname: "Crowson"
- company: "Capital One"
- title: "Senior Software Engineer"
- longTitle: "Senior Software Engineer @ Capital One"
- bio: "I'm a fullstack developer at Capital One.I speak at events, write blogs, and contribute to open source software."
- thumbnailUrl: john.png
+ id: "Stanimira"
+ name: "Stanimira"
+ surname: "Vlaeva"
+ company: "Progress"
+ title: "Software Engineer"
+ longTitle: "Software Engineer @ Progress, NativeScript Core Team"
+ bio: "Stanimira Vlaeva is a software engineer on the NativeScript team at Progress and a Google Developer Expert for Angular and Web Technologies. She's working on NativeScript Angular, NativeScript schematics, and the integration of webpack within the {N} build system. She's also co-organizing the Angular meetup in Sofia, Bulgaria."
+ thumbnailUrl: stani.jpg
  social:
-   - { name: "blog", link: "https://t.co/VoujaZfLdy"}
-   - { name: "twitter", link: "https://twitter.com/john_crowson"}
+   - { name: "blog", link: "https://www.nativescript.org/blog/author/stanimira-vlaeva"}
+   - { name: "twitter", link: "https://twitter.com/stanimiravlaeva"}
 -
  id: "Uri"
  name: "Uri"
@@ -141,7 +143,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
   name: "Gil"
   surname: "Fink"
   company: "sparXys"
-  title: "CEO and Senior Consultant"
+  title: "CEO and Senior Consultant @ sparXys"
   longTitle: "CEO and Senior Consultant"
   bio: "Gil is a web development expert, Microsoft MVP and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web and RIA-based solutions. He conducts lectures and workshops for individuals and enterprises who want to specialize in infrastructure and web development. He is also co-author of several Microsoft Official Courses (MOCs) and training kits, co-author of Pro Single Page Application Development book (Apress), co-organiser of GDG Rashlatz Meetup and Angular UP conference."
   thumbnailUrl: gil.jpg
@@ -150,6 +152,32 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
    - {name: "twitter", link: "https://twitter.com/gilfink"}
    - {name: "github", link: "https://github.com/gilf"}
    - {name: "website", link: "http://gilfink.azurewebsites.net/"}
+-
+  id: "Younes"
+  name: "Younes"
+  surname: "Jaaidi"
+  company: 
+  title: "Web Developer & eXtreme Programming Coach"
+  longTitle: "Web Developer & eXtreme Programming Coach"
+  bio: "<p>
+    Younes is a pythonic full-stack web developer with a focus on Angular.
+    </p><p>
+    He is a trainer, consultant & eXtreme Programming coach who loves the challenge of boosting teams efficiency and helping everyone enjoy every part of their job.
+    </p><p>
+    His experience convinced him that the key to making quality products is collective ownership, kindness and knowledge sharing.
+    </p><p>
+    On his spare time, you will find him contributing to open-source software, writing articles or speaking at meetups or conferences… and sometimes sailing.
+    </p><p>
+    His favorite trick? Adding features by removing code.
+  "
+  thumbnailUrl: younes-portrait.jpg
+  rockstar: true
+  social:
+   - {name: "twitter", link: "https://twitter.com/yjaaidi"}
+   - {name: "linkedin", link: "https://www.linkedin.com/in/yjaaidi/"}
+   - {name: "website", link: "https://wishtack.io"}
+   - {name: "blog", link: "https://medium.com/@yjaaidi"}
+
 -
   id: "Jesse"
   name: "Jesse"
@@ -164,32 +192,31 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
       - { name: "linkedin", link: "https://www.linkedin.com/in/jessesandersbriebug/"}
       - { name: "github", link: "https://github.com/briebug/"}
 -
-  id: "Eliran"
-  name: "Eliran"
-  surname: "Eliassy"
-  company: "500Tech"
-  title: "Web Developer & Trainer"
-  longTitle: "Web Developer & Trainer @ 500Tech"
-  bio: "Eliran is an experienced Front End developer, specialised in B2C applications. Angular IL meetup co-organizer."
-  thumbnailUrl: eliassi.jpg
-  social:
-    - { name: "twitter", link: "https://twitter.com/EliranEliassy"}
-
+ id: "Eliran"
+ name: "Eliran"
+ surname: "Eliassy"
+ company: "500Tech"
+ title: "Web Developer & Trainer"
+ longTitle: "Web Developer & Trainer @ 500Tech"
+ bio: "Eliran is an experienced Front End developer, specialised in B2C applications. Angular IL meetup co-organizer."
+ thumbnailUrl: eliassi.jpg
+ social:
+     - { name: "twitter", link: "https://twitter.com/EliranEliassy"}
 -
-  id: "Stanimira"
-  name: "Stanimira"
-  surname: "Vlaeva"
-  company: "Progress"
-  title: "@NativeScript core team & Angular GDE"
-  longTitle: "@NativeScript core team & Angular GDE"
-  bio: "Stanimira is a software engineer on the NativeScript core team focused on the the integration with Angular and performance optimizations. Lately, she's been working on providing an official way for sharing code between web and mobile Angular via NativeScript schematics and webpack."
-  thumbnailUrl: stanimira.jpg
-  social: 
-    - { name: "github", link: "https://twitter.com/sis0k0"}
-    - { name: "twitter", link: "https://twitter.com/stanimiravlaeva"}
-
-
-
+ id: "Sebastian"
+ name: "Sebastian"
+ surname: "Witalec"
+ company: "Progress"
+ title: " Senior Developer Advocate"
+ longTitle: "Senior Developer Advocate for Progress"
+ bio: "<p>Sebastian Witalec is a Senior Developer Advocate for Progress who specialises in Angular and NativeScript. He loves working on both serious and fun projects and one day he will use his robot army to conquer the world.
+      </p><p>
+      He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London actively working with various Dev communities in Europe. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
+      </p>
+ "
+ thumbnailUrl: seb.png
+ social:
+     - { name: "twitter", link: "https://twitter.com/sebawita"}
 # -
 #   id: 31
 #   name: "Maybe"
