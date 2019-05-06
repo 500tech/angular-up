@@ -37,7 +37,7 @@
      - { name: "github", link: "https://github.com/mhartington"}
      - { name: "website", link: "https://mhartington.io/"}
 -
- id: "frosti"
+ id: "Frosty"
  name: "Aaron"
  surname: "Frost"
  company: "HeroDevs"
@@ -100,18 +100,6 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  thumbnailUrl: revital.jpg
  social:
 -
- id: "Maxim"
- name: "Maxim"
- surname: "Koretskyi"
- company: "ag-Grid"
- title: "Developer Advocate"
- longTitle: "Developer Advocate @ ag-Grid"
- bio: "I find patterns in frameworks and explain them. Angular & React contributor. Dev Evangelist at @ag_grid. Chief Inspiration Officer at @AngularInDepth. GDE, MVP."
- thumbnailUrl: maxim2.jpg
- social:
-   - { name: "blog", link: "https://medium.com/@maxim.koretskyi"}
-   - { name: "twitter", link: "https://twitter.com/maxkoretskyi"}
--
  id: "Craig"
  name: "Craig"
  surname: "Spence"
@@ -135,19 +123,6 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  social:
    - { name: "blog", link: "https://t.co/VoujaZfLdy"}
    - { name: "twitter", link: "https://twitter.com/john_crowson"}
-#  id: "Sean"
-#  name: "Sean"
-#  surname: "Larkin"
-#  company: Microsoft"
-#  title: "Webpack Maintainer"
-#  longTitle: "Webpack Maintainer, Technical Program Manager @ Microsoft"
-#  bio: "Sean Larkin is a Technical Program Manager at Microsoft. He is a former technical support representative turned renegade software engineer and web developer, driven by the need to help people through the code he writes. Sean is a member of the Webpack core team, Angular team and Angular-CLI core team. Sean has given talks on Ruby, DAMP programming, AngularJS, and Webpack. He lives to teach others about the world of Web Development."
-#  thumbnailUrl: sean.jpg
-#  rockstar: true
-#  social:
-#    - {name: "twitter", link: "https://twitter.com/thelarkinn"}
-#    - {name: "github", link: "http://github.com/thelarkinn"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/seanthomaslarkin/"}
 -
  id: "Uri"
  name: "Uri"
@@ -175,31 +150,6 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
    - {name: "twitter", link: "https://twitter.com/gilfink"}
    - {name: "github", link: "https://github.com/gilf"}
    - {name: "website", link: "http://gilfink.azurewebsites.net/"}
-#  id: "katerina"
-#  name: "Katerina"
-#  surname: "Skroumpelou"
-#  company: "ThisDot"
-#  title: "GDE @ ThisDot"
-#  longTitle: "software engineer @ ThisDot"
-#  bio: "Katerina Skroumpelou is a Google Developer Expert for Angular and a software engineer focused on the web frontend. Her projects focus on interactivity, web maps and new technologies. She also likes to mix and match web APIs, experimenting with device sensors, and she open sources her code for the general good. "
-#  thumbnailUrl: katerina.jpg
-#  rockstar: true
-#  social:
-#     - {name: "twitter", link: "https://twitter.com/psybercity"}
-#     - {name: "github", link: "https://mandarini.github.io"}
-
-#  id: "Adam"
-#  name: "Adam"
-#  surname: "Klein"
-#  company: "500Tech"
-#  title: "Web developer & CTO @ 500Tech"
-#  longTitle: "Web developer & CTO @ 500Tech"
-#  bio: "<p>Adam is a frontend developer by day, open sourcerer by night (angular-tree-component, mobx-angular), and the CTO of 500Tech. He used to be an international  salsa dancer and choreographer, but still finds speaking about code more exciting than dancing in front of an audience.</p><p> Adam is very involved in the community, and is part of the organizers of the Angular & React meetups and conferences in Israel.</p>"
-#  thumbnailUrl: adam.jpeg
-#  social:
-#     - { name: "twitter", link: "https://twitter.com/adamklein500/"}
-#     - { name: "slideshare", link: "https://slideshare.net/500tech/"}
-#     - { name: "github", link: "https://github.com/adamkleingit/"}
 -
   id: "Jesse"
   name: "Jesse"
@@ -214,16 +164,32 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
       - { name: "linkedin", link: "https://www.linkedin.com/in/jessesandersbriebug/"}
       - { name: "github", link: "https://github.com/briebug/"}
 -
- id: "Eliran"
- name: "Eliran"
- surname: "Eliassy"
- company: "500Tech"
- title: "Web Developer & Trainer"
- longTitle: "Web Developer & Trainer @ 500Tech"
- bio: "Eliran is an experienced Front End developer, specialised in B2C applications. Angular IL meetup co-organizer."
- thumbnailUrl: eliassi.jpg
- social:
-     - { name: "twitter", link: "https://twitter.com/EliranEliassy"}
+  id: "Eliran"
+  name: "Eliran"
+  surname: "Eliassy"
+  company: "500Tech"
+  title: "Web Developer & Trainer"
+  longTitle: "Web Developer & Trainer @ 500Tech"
+  bio: "Eliran is an experienced Front End developer, specialised in B2C applications. Angular IL meetup co-organizer."
+  thumbnailUrl: eliassi.jpg
+  social:
+    - { name: "twitter", link: "https://twitter.com/EliranEliassy"}
+
+-
+  id: "Stanimira"
+  name: "Stanimira"
+  surname: "Vlaeva"
+  company: "Progress"
+  title: "@NativeScript core team & Angular GDE"
+  longTitle: "@NativeScript core team & Angular GDE"
+  bio: "Stanimira is a software engineer on the NativeScript core team focused on the the integration with Angular and performance optimizations. Lately, she's been working on providing an official way for sharing code between web and mobile Angular via NativeScript schematics and webpack."
+  thumbnailUrl: stanimira.jpg
+  social: 
+    - { name: "github", link: "https://twitter.com/sis0k0"}
+    - { name: "twitter", link: "https://twitter.com/stanimiravlaeva"}
+
+
+
 # -
 #   id: 31
 #   name: "Maybe"

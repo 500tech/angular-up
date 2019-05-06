@@ -30,7 +30,7 @@ socialImageSrcGooglePlus: "/img/seo/ad.jpg"
 socialImageSrcTwitter: "/img/seo/ad.jpg"
 socialImageSrcFacebook: "/img/seo/ad.jpg"
 c4sponsorsUrl: https://docs.google.com/forms/d/e/1FAIpQLSfzbke-GgklGguCjmTyixRu21VuBA-MD3XlgGlcwulCfbHxKw/viewform
-c4pUrl: https://docs.google.com/forms/d/e/1FAIpQLSeeTA11De9DcH5VfzOtSsldDs02sXHFban_MJYhnp9TSjxaCA/viewform
+# c4pUrl: https://docs.google.com/forms/d/e/1FAIpQLSeeTA11De9DcH5VfzOtSsldDs02sXHFban_MJYhnp9TSjxaCA/viewform
 navigationLinks:
 - permalink: "/#speakers"
   text: Speakers
@@ -146,7 +146,7 @@ footerBlocks:
 blogTitle: Latest news
 blogCommentsEnabled: true
 discusShortName: devfestua
-showSessions: false
+showSessions: true
 teamBlockTitle: About us
 aboutUs: Google's services have become synonymous with simple things online. Number
   of technological innovations and IT industries in which Google is creating new products
