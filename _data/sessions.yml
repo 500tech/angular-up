@@ -103,8 +103,14 @@
   speakers: ["Craig"]
 -
   id: "Eliran-Ivy"
-  title: "IVY is coming!"
-  description: ""
+  title: "Ivy is coming!"
+  description: "<p>
+    After eight great seasons (well, maybe the first one wasn’t that good, at least they killed it in the end), it’s finally coming for real - Ivy is HERE!
+  </p><p>
+    But, now what? What are the benefits? Will my bundle shrink in size? Are my builds going to be faster? 
+  </p><p>
+    In this talk, I will demonstrate why Angular Ivy is truly a game changer. We will understand how we can leverage the Ivy renderer to create higher order components (HOC), how to import non-routable components dynamically, how it reduces our bundle size, how it helps us with much easier debugging tools and how our build process becomes much faster.
+  </p>"
   subtype: presentation
   advanced: true
   speakers: ["Eliran"]
@@ -197,7 +203,15 @@
 -
   id: "Michael-RxJS"
   title: "Operate heavily dynamic UI’s with RxJS"
-  description: "More details soon"
+  description: "<p>
+    The web changed a lot in the past years, more and more applications provide UI’s that are heavily interactive and often also include some background tasks.
+  </p><p>
+    In comparison to the past years, frontend developers have to deal with new architectural
+    problems and challenges. Not only things like a service layer and MVC found it’s way into the frontend but also database-like structures have to be managed, updated and read from. Especially managing data structures is one of the harder problems.
+  </p><p>
+    Learn the theory and praxis of Event-Sourcing and CQRS and, as crazy as it sounds, apply it in the front end. Leverage the power of reactive programming and implement the above architectures in a real live example
+  </p>
+  "
   subtype: presentation
   advanced: true
   speakers: ["Michael"]
