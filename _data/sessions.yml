@@ -89,8 +89,13 @@
   speakers: ["Uri"]
 -
   id: "Frosty-Lazy"
-  title: "Lazy AF"
-  description: "More details soon"
+  title: "Adv Lazy Loading w/ Angular"
+  description: "<p>
+  If you need to lazy load components when the route changes, Angular has got you covered. But what if you want to lazy load code when something else happens besides a route change? Maybe we can load a different set of admin services if a certain user logs in. Perhaps when we open a modal that's not tied to a route, we want to load a large library and do some Angular things with it.
+  </p>
+  <p></p>
+  No matter your scenario, this session will show you how you can use Angular and the Angular CLI to accomplish what you need to
+  </p>"
   subtype: presentation
   advanced: true
   speakers: ["Frosty"]
@@ -163,8 +168,12 @@
   speakers: ["Gil"]
 -
   id: "John-Mockstore"
-  title: "Advanced Testing in NgRx 8"
-  description: "Learn about the new NgRx MockStore. We'll compare it to the existing StoreModule approach with examples of how it can make our store-dependent tests simpler."
+  title: "Using MockStore in NgRx 8"
+  description: "<p>
+    What's new in NgRx testing?  Actually, a lot!  The two most recent releases of NgRx have quietly introduced and iterated the @ngrx/store/testing module, giving developers easier ways to test store-dependent components and services.  
+  </p><p>
+    In this session, I will demonstrate testing store-dependent components and services using the NgRx MockStore, which provides the ability to mock the entire state or individual selectors.  Say goodbye to the StoreModule!
+  </p>"
   subtype: presentation
   advanced: true
   speakers: ["John"]
