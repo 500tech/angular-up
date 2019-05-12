@@ -93,7 +93,7 @@
   description: "<p>
   If you need to lazy load components when the route changes, Angular has got you covered. But what if you want to lazy load code when something else happens besides a route change? Maybe we can load a different set of admin services if a certain user logs in. Perhaps when we open a modal that's not tied to a route, we want to load a large library and do some Angular things with it.
   </p>
-  <p></p>
+  <p>
   No matter your scenario, this session will show you how you can use Angular and the Angular CLI to accomplish what you need to
   </p>"
   subtype: presentation
