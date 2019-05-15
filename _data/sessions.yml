@@ -102,7 +102,14 @@
 -
   id: "Craig-Universal"
   title: "Angular Universal in the Real World"
-  description: "More details soon"
+  description: "<p>
+    WHHHHOOOOOSSSSSSHHHHHHHHHH!!!!!! 🚀🚀🚀
+  </p><p>
+    Did you hear that!? It’s the sound of a blazing-fast Angular Universal application, rocketing it’s way straight to a users' device! Angular Universal offers a solution to some really hard problems - first render performance, search crawler support, and server-client state-transfer… but what does it really look like in the real world?
+  </p><p>
+    There’s a tonne of information out there on how to get started with Angular Universal - but what about the next steps? Let's go over some patterns and principles that can take our Angular Universal applications to Infinity and Beyond!
+  </p>
+  "
   subtype: presentation
   advanced: true
   speakers: ["Craig"]
@@ -197,15 +204,34 @@
   speakers: ["Revital"]
 -
   id: "Sebastian-Chatbot"
-  title: "Build an AI-driven chatbot"
-  description: "More details soon"
+  title: "Building a chatbot for an Angular Application"
+  description: "<p>
+    Chatbots introduce a whole new way for users to interact with your websites. A good chatbot can save your users from long and complicated forms, cut down on support requests, and make your services more approachable.
+  </p><p>
+    If you've ever wondered how do build a chatbot, then this session is for you. You will:
+  </p><p>
+  <ul>
+    <li>Dive into the core concepts of what makes a chatbot.</li>
+    <li>Learn how to employ Machine Learning and Natural Language Processing to create a conversation flow that feels 100% natural.</li>
+    <li>Look at a variety of possible conversations and challenges that go with them. </li>
+  </ul>
+  <p>
+    But more importantly, you will learn how to build a fully functioning chatbot and add it to your Angular app in less than 15 minutes—all without a single IF statement.
+  </p>
+  "
   subtype: presentation
   advanced: false
   speakers: ["Sebastian"]
 -
   id: "Jesse-Ngrx"
-  title: "Advanced NgRx techniques"
-  description: "More details soon"
+  title: "Advanced NgRx Techniques"
+  description: "<p>
+    NgRx enables Angular developers to build reactive solutions for managing state, events and data using principles inspired by redux and fueled by RxJs.
+    We will quickly review the best practices of NgRx and then dive into NgRx patterns, libraries, testing, and complex actions/effects.
+  </p><p>
+    The talk will wrap up with advanced error handling techniques that make debugging NgRx a cinche.
+    This talk is perfect for those developer learning about NgRx as well as seasoned veterans that want to expand their understanding.
+  </p>"
   subtype: presentation
   advanced: true
   speakers: ["Jesse"]
