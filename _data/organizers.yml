@@ -2,7 +2,7 @@
   group: "Main organizer & supporter"
   class: "main"
   elements:
-    - {name: "500Tech", title: "", description: "500Tech - leading frontend consultancy in Israel", link: "http://500tech.com", imageUrl: "500tech.png"}
+    - {name: "500Tech", description: "500Tech - leading frontend consultancy in Israel", link: "http://500tech.com", imageUrl: "500tech.png"}
 -
   group: "Team"
   class: "individuals"

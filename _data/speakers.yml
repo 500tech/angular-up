@@ -23,7 +23,7 @@
  social:
      - { name: "twitter", link: "https://twitter.com/KimMaida"}
      - { name: "github", link: "https://github.com/kmaida"}
-     - { name: "blog", link: "https://auth0.com/blog/authors/kim-maida/"}
+     - { name: "site", link: "https://auth0.com/blog/authors/kim-maida/"}
 -
  id: "Mike"
  name: "Mike"
@@ -36,7 +36,7 @@
  social:
      - { name: "twitter", link: "https://twitter.com/mhartington"}
      - { name: "github", link: "https://github.com/mhartington"}
-     - { name: "website", link: "https://mhartington.io/"}
+     - { name: "site", link: "https://mhartington.io/"}
 -
  id: "Frosty"
  name: "Aaron"
@@ -65,7 +65,7 @@
  social:
    - {name: "twitter", link: "https://twitter.com/nirkaufman"}
    - {name: "github", link: "https://github.com/nirkaufman"}
-   - {name: "website", link: "http://500tech.com"}
+   - {name: "site", link: "http://500tech.com"}
 -
  id: "Martin"
  name: "Martin"
@@ -117,7 +117,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  bio: "Craig is a Software Engineer from New Zealand, currently based in Stockholm. He loves building cool things that help teams build cool things! He also loves punk rock, Disney's Frozen, and his cat Cosy."
  thumbnailUrl: craig.jpg
  social:
-   - { name: "blog", link: "https://medium.com/@phenomnominal"}
+   - { name: "site", link: "https://medium.com/@phenomnominal"}
    - { name: "twitter", link: "https://twitter.com/phenomnominal"}
    - { name: "github", link: "https://github.com/phenomnomnominal"}
 
@@ -131,7 +131,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  bio: "Stanimira Vlaeva is a software engineer on the NativeScript team at Progress and a Google Developer Expert for Angular and Web Technologies. She's working on NativeScript Angular, NativeScript schematics, and the integration of webpack within the {N} build system. She's also co-organizing the Angular meetup in Sofia, Bulgaria."
  thumbnailUrl: stani.jpg
  social:
-   - { name: "blog", link: "https://www.nativescript.org/blog/author/stanimira-vlaeva"}
+   - { name: "site", link: "https://www.nativescript.org/blog/author/stanimira-vlaeva"}
    - { name: "twitter", link: "https://twitter.com/stanimiravlaeva"}
    - { name: "github", link: "https://github.com/sis0k0"}
 -
@@ -146,7 +146,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  social:
   - {name: "twitter", link: "https://twitter.com/UriShaked"}
   - {name: "github", link: "https://github.com/urish"}
-  - {name: "website", link: "http://urish.org/"}
+  - {name: "site", link: "http://urish.org/"}
 -
   id: "Gil"
   name: "Gil"
@@ -160,7 +160,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
   social:
    - {name: "twitter", link: "https://twitter.com/gilfink"}
    - {name: "github", link: "https://github.com/gilf"}
-   - {name: "website", link: "http://gilfink.azurewebsites.net/"}
+   - {name: "site", link: "http://gilfink.azurewebsites.net/"}
 -
   id: "Younes"
   name: "Younes"
@@ -184,8 +184,8 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
   social:
    - {name: "twitter", link: "https://twitter.com/yjaaidi"}
    - {name: "linkedin", link: "https://www.linkedin.com/in/yjaaidi/"}
-   - {name: "website", link: "https://wishtack.io"}
-   - {name: "blog", link: "https://medium.com/@yjaaidi"}
+   - {name: "site", link: "https://wishtack.io"}
+   - {name: "site", link: "https://medium.com/@yjaaidi"}
    - {name: "github", link: "https://github.com/wishtack"}
 
 -
@@ -230,6 +230,37 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  social:
      - { name: "twitter", link: "https://twitter.com/sebawita"}
      - { name: "github", link: "https://github.com/sebawita"}
+
+-
+  id: "Elad"
+  name: "Elad"
+  surname: "Bezalel"
+  company: ""
+  title: "Open-Source Developer Angular GDE"
+  longTitle: "Open-Source Developer Angular GDE"
+  bio: "Open-Source Developer Angular GDE"
+  thumbnailUrl: elad.png
+  social:
+   - {name: "github", link: "https://github.com/EladBezalel"}
+   - {name: "twitter", link: "https://twitter.com/elad_bezalel"}
+
+-
+  id: "John"
+  name: "John"
+  surname: "Crowson"
+  company: "Capital One"
+  title: "Fullstack developer at Capital One"
+  longTitle: "Fullstack developer at Capital One"
+  bio: "<p>
+    I'm a fullstack developer at Capital One.
+  </p><p>
+    I speak at events, write blogs, and contribute to open source software.
+  </p>"
+  thumbnailUrl: john.jpeg
+  social:
+   - {name: "github", link: "https://github.com/jtcrowson"}
+   - {name: "site", link: "https://johncrowson.com/"}
+   - {name: "twitter", link: "https://twitter.com/john_crowson"}
 
 # -
 #   id: 31

@@ -32,14 +32,14 @@ socialImageSrcFacebook: "/img/seo/ad.jpg"
 c4sponsorsUrl: https://docs.google.com/forms/d/e/1FAIpQLSfzbke-GgklGguCjmTyixRu21VuBA-MD3XlgGlcwulCfbHxKw/viewform
 # c4pUrl: https://docs.google.com/forms/d/e/1FAIpQLSeeTA11De9DcH5VfzOtSsldDs02sXHFban_MJYhnp9TSjxaCA/viewform
 navigationLinks:
-- permalink: "/#speakers"
-  text: Speakers
+- permalink: "/#schedule"
+  text: Schedule
+# - permalink: "/#speakers"
+#   text: Speakers
 - permalink: "/#organizers"
   text: Team
 - permalink: "/#sponsors"
   text: Sponsors
-#- permalink: "/#schedule"
- # text: Schedule
 - permalink: "/#location-map"
   text: Venue
 - permalink: "/tour"
