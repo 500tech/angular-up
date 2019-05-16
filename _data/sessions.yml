@@ -29,7 +29,7 @@
   service: true
 -
   id: "quiz"
-  title: "Angular Quiz"
+  title: "<b>Angular Quiz</b> - Hosted by <b>Shay Reznik</b>"
   place: "Hall A"
   service: true
 -
