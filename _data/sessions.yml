@@ -198,7 +198,12 @@
 -
   id: "Revital"
   title: "Migrations"
-  description: "More details soon"
+  description: "<p>
+    Many startups are embarking on the journey of bringing AngularJS applications up to modern-day web development standards with Angular, and there are a lot of approaches.
+    It can be challenging for startups to balance business requirements, scarce resources, and aggressive deadlines.
+  </p><p>
+    In this talk we will take you through the journey we had and the solution for incremental upgrade that we adopted
+  </p>"
   subtype: presentation
   # advanced: false
   speakers: ["Revital"]
