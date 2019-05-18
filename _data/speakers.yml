@@ -16,7 +16,7 @@
  name: "Kim"
  surname: "Maida"
  company: "Auth0 "
- title: " Manager of Community & Technical Content"
+ title: " Manager of Community & Technical Content @ Auth0"
  longTitle: "Manager of Community & Technical Content @ Auth0 "
  bio: "I am the Manager of Community & Technical Content for Auth0 and a Google Developer Expert in Angular. I'm passionate about identity, authentication, and the developer community. I love teaching and learning from and sharing with other developers. I'm an international speaker and enjoy running workshops at tech conferences around the world."
  thumbnailUrl: kim.jpg
@@ -29,7 +29,7 @@
  name: "Mike"
  surname: "Hartington"
  company: "Ionic"
- title: "Developer Advocate"
+ title: "Developer Advocate @ Ionic"
  longTitle: "Developer Advocate @ Ionic"
  bio: "Mike a developer, Angular GDE, and Ionic Developer Advocate who's been working in the mobile landscape for most of his professional career. When he's not working Ionic itself, Mike works with community members and helps them succeed at mobile. In his spare time, he’s an aspiring woodworker, occasional musician, and enjoys a good scotch."
  thumbnailUrl: mike.jpg
@@ -42,7 +42,7 @@
  name: "Aaron"
  surname: "Frost"
  company: "HeroDevs"
- title: "CEO and Architect"
+ title: "CEO and Architect @ HeroDevs"
  longTitle: "CEO and Architect @ HeroDevs"
  bio: "Frosty is the CEO and co-founder of HeroDevs. He's also one of the lead organizers for ng-conf, the galaxy's largest Angular conference. For the last five years, he's been a Google Developer Expert (GDE) for his work in the JavaScript community and for his deep knowledge around the Angular-of-things. He's as passionate about coding as he is about tacos. Where some people see a new sunrise, Frosty sees a chance to write more code and to meet new food."
  thumbnailUrl: aaron.jpg
@@ -55,8 +55,8 @@
  name: "Nir"
  surname: "Kaufman"
  company: "500Tech"
- title: "Principal Frontend Consultant"
- longTitle: "Principal Frontend Consultant at 500Tech"
+ title: "Principal Frontend Consultant @ 500Tech"
+ longTitle: "Principal Frontend Consultant @ 500Tech"
  bio: "Google Developer Expert in web technologies, public speaker and trainer, tech community activist ( ReactNYC ).
   Author of books about Front-end development, and the founder of the 'Frontend Band' - The first open-source rock n’ roll label in the world!
   Principal consultant at 500Tech, a front-end consultancy in NYC."
@@ -71,7 +71,7 @@
  name: "Martin"
  surname: "Splitt"
  company: "Google"
- title: "Developer Advocate"
+ title: "Developer Advocate @ Google"
  longTitle: "Developer Advocate @ Google"
  bio: "Martin is pretty decent at humaning and pretty good at computering,
 so he decided to use his computering to improve his and other's humaning.
@@ -102,7 +102,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  name: "Revital"
  surname: "Friedman"
  company: "hibob"
- title: "Frontend Developer"
+ title: "Frontend Developer @ hibob"
  longTitle: "Frontend Developer @ hibob"
  bio: "Revital Friedman is a passionate Full-stack developer. In the army she has served in the special intelligence technology unit, called Unit 8200. Revital has been a software developer for the last seven years, currently working at Hibob as a front end developer, using Angular as the main platform. In her spare time, she likes to go wall climbing, play volleyball, snowboard and take care of her two cats."
  thumbnailUrl: revital.jpg
@@ -112,7 +112,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  name: "Craig"
  surname: "Spence"
  company: "Trade Me"
- title: "Development Technical Lead"
+ title: "Development Technical Lead @ Trade Me"
  longTitle: "Development Technical Lead @ Trade Me"
  bio: "Craig is a Software Engineer from New Zealand, currently based in Stockholm. He loves building cool things that help teams build cool things! He also loves punk rock, Disney's Frozen, and his cat Cosy."
  thumbnailUrl: craig.jpg
@@ -126,7 +126,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  name: "Stanimira"
  surname: "Vlaeva"
  company: "Progress"
- title: "Software Engineer"
+ title: "Software Engineer @ Progress, NativeScript Core Team"
  longTitle: "Software Engineer @ Progress, NativeScript Core Team"
  bio: "Stanimira Vlaeva is a software engineer on the NativeScript team at Progress and a Google Developer Expert for Angular and Web Technologies. She's working on NativeScript Angular, NativeScript schematics, and the integration of webpack within the {N} build system. She's also co-organizing the Angular meetup in Sofia, Bulgaria."
  thumbnailUrl: stani.jpg
@@ -153,7 +153,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
   surname: "Fink"
   company: "sparXys"
   title: "CEO and Senior Consultant @ sparXys"
-  longTitle: "CEO and Senior Consultant"
+  longTitle: "CEO and Senior Consultant @ sparXys"
   bio: "Gil is a web development expert, Microsoft MVP and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web and RIA-based solutions. He conducts lectures and workshops for individuals and enterprises who want to specialize in infrastructure and web development. He is also co-author of several Microsoft Official Courses (MOCs) and training kits, co-author of Pro Single Page Application Development book (Apress), co-organiser of GDG Rashlatz Meetup and Angular UP conference."
   thumbnailUrl: gil.jpg
   rockstar: true
@@ -193,7 +193,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
   name: "Jesse"
   surname: "Sanders"
   company: "BrieBug Software, Inc"
-  title: "CEO, Founder"
+  title: "CEO, Founder @ BrieBug Software, Inc"
   longTitle: "CEO, Founder @ BrieBug Software, Inc"
   bio: "Jesse Sanders is the founder and CEO of BrieBug, a premier broker of technology solutions. He learned to code BASIC at 13 years old on his TRS80 Color Computer and started as a developer over 20 years ago on the Microsoft stack using VB4. He founded BrieBug in 2009 and has since built a team of talented developers dedicated to delivering cutting edge enterprise solutions. He is an expert in JavaScript languages, including Angular and React. When Jesse isn’t busy running a software business, he enjoys skiing and cycling in his home state of Colorado. His other hobbies include spending time with his three kids and their dog, Sparkle."
   thumbnailUrl: Jesse.jpg
@@ -206,7 +206,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  name: "Eliran"
  surname: "Eliassy"
  company: "500Tech"
- title: "Web Developer & Trainer"
+ title: "eb Developer & Trainer @ 500Tech"
  longTitle: "Web Developer & Trainer @ 500Tech"
  bio: "Eliran is an experienced Front End developer, specialised in B2C applications. Angular IL meetup co-organizer."
  thumbnailUrl: eliassi.jpg
@@ -219,8 +219,8 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  name: "Sebastian"
  surname: "Witalec"
  company: "Progress"
- title: " Senior Developer Advocate"
- longTitle: "Senior Developer Advocate for Progress"
+ title: "Senior Developer Advocate @ Progress"
+ longTitle: "Senior Developer Advocate @ Progress"
  bio: "<p>Sebastian Witalec is a Senior Developer Advocate for Progress who specialises in Angular and NativeScript. He loves working on both serious and fun projects and one day he will use his robot army to conquer the world.
       </p><p>
       He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London and is actively working with various Dev communities in Europe. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
@@ -236,9 +236,9 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
   name: "Elad"
   surname: "Bezalel"
   company: ""
-  title: "Open-Source Developer Angular GDE"
-  longTitle: "Open-Source Developer Angular GDE"
-  bio: "Open-Source Developer Angular GDE"
+  title: "Core Angular Animations team member"
+  longTitle: "Core Angular Animations team member"
+  bio: "Elad is a fullstack developer with a very strong love for design. Since 8 years old, he's been designing in Photoshop and later on fell in love with programming. This strong bond between design and computer programming gave birth to a new kind of love. And he is currently doing the combination of both focused on implementing immersive UI and UX."
   thumbnailUrl: elad.png
   social:
    - {name: "github", link: "https://github.com/EladBezalel"}
@@ -249,8 +249,8 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
   name: "John"
   surname: "Crowson"
   company: "Capital One"
-  title: "Fullstack developer at Capital One"
-  longTitle: "Fullstack developer at Capital One"
+  title: "Fullstack developer @ Capital One"
+  longTitle: "Fullstack developer @ Capital One"
   bio: "<p>
     I'm a fullstack developer at Capital One.
   </p><p>

@@ -18,6 +18,8 @@
     - {name: "Progress", scale: "2.2", description: "Progress", link: "https://www.progress.com/", imageUrl: "Prog.png"}
     - {name: "HeroDevs", scale: "1", description: "HeroDevs", link: "https://herodevs.com", imageUrl: "hero.png"}
     - {name: "auth0", scale: "1.5", description: "auth0", link: "https://auth0.com/", imageUrl: "auth.png"}
+    - {name: "CapitalOne", scale: "1.5", description: "CapitalOne", link: "https://www.capitalone.com/social-media/", imageUrl: "capsvg.png"}
+
 
 # -
   #group: "Silver"
