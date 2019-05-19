@@ -249,19 +249,26 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
   name: "John"
   surname: "Crowson"
   company: "Capital One"
-  title: "Fullstack developer @ Capital One"
-  longTitle: "Fullstack developer @ Capital One"
-  bio: "<p>
-    I'm a fullstack developer at Capital One.
-  </p><p>
-    I speak at events, write blogs, and contribute to open source software.
-  </p>"
+  title: "Software Engineer @ Capital One"
+  longTitle: "Software Engineer @ Capital One"
+  bio: "John Crowson is a software developer at Capital One, building performant Angular applications that scale to millions of users. He started his career as an iOS developer, but traded in RxSwift and ReSwift for RxJs and NgRx. He enjoys writing for the NG-Conf blog on Medium and contributing to open source software including NgRx and Angular Material.
+When he’s not coding, John organizes the Coders Only Meetup, iOSDevCampDC conference, and scuba dives."
   thumbnailUrl: john.jpeg
   social:
    - {name: "github", link: "https://github.com/jtcrowson"}
    - {name: "site", link: "https://johncrowson.com/"}
    - {name: "twitter", link: "https://twitter.com/john_crowson"}
 
+-
+  id: "Doron"
+  name: "Doron"
+  surname: "Cyngiser"
+  company: "Hibob"
+  title: "UI Architect @ Hibob"
+  longTitle: "UI Architect @ Hibob"
+  bio: "Doron is an experienced software engineer, who began developing frontend technologies during a time when JQuery still seemed like science fiction. Currently working at Hibob as a UI Architect, Doron is focused on the development of bob’s core infrastructure, developer tooling, and development culture."
+  thumbnailUrl: Doron.png
+  
 # -
 #   id: 31
 #   name: "Maybe"
