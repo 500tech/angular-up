@@ -206,7 +206,8 @@
   </p>"
   subtype: presentation
   # advanced: false
-  speakers: ["Revital"]
+  class: lightning
+  speakers: ["Revital", "Doron"]
 -
   id: "Sebastian"
   title: "Building a chatbot for an Angular Application"
