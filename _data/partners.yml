@@ -46,6 +46,7 @@
      - {name: "Angular-SF", scale: "0.7", desscription: "Angular-SF", link: "https://www.meetup.com/Angular-SF/", imageUrl: "SF.png"}
      - {name: "startach", scale: "0.7", desscription: "startach", link: "https://www.startach.org.il/", imageUrl: "SA.png"}
      - {name: "she codes;", scale: "1", description: "she codes;", link: "https://she-codes.org/", imageUrl: "shec.png"}
+     - {name: "Angular in Depth", scale: "1", description: "Angular in Depth", link: "https://angular-in-depth.org", imageUrl: "dept.png"}
 
 
     # - {name: "JS-Poland", scale: "0.6", description: "JS-Poland", link: "http://www.js-poland.pl/", imageUrl: "poland.png"}
