@@ -32,6 +32,8 @@
   title: "<b>Angular Quiz</b> - Hosted by <b>Shay Reznik</b>"
   place: "Hall A"
   service: true
+  speakers: ["Reznik"]
+
 -
   id: "opening-words"
   title: "Opening Words"
@@ -272,8 +274,14 @@
   speakers: ["Stanimira"]
 -
   id: "Elad"
-  title: "Advanced Angular Animations"
-  description: "Learn how to use Angular Animations like a pro, a complete walk through from basic usages to advanced everyday usages with a look into the future."
+  title: "Web delivery experience for React Native and even better!"
+  description: "Ever had to publish your app just to fix a margin issue that broke the ui?
+
+Ever had to publish your app asap but had to wait days for review just to be rejected for an unrelated issue?
+
+Introducing a new open source project - Dynamico which allows remote code push work-flow for a fast continuous delivery of specific features and components.
+
+With dynamico you don’t have to publish your entire app but work on the component level - meaning you can replace just a single component while leaving your app as it is."
   subtype: presentation
   # advanced: true
   speakers: ["Elad"]
