@@ -45,6 +45,8 @@
 
     <link href="{{ "/css/main.css" | prepend: site.baseurl }}" rel="stylesheet">
 
+    {% include analytics.html %}
+
     <!-- Facebook Pixel Code -->
     <script>
       !function(f,b,e,v,n,t,s)
@@ -55,16 +57,14 @@
       t.src=v;s=b.getElementsByTagName(e)[0];
       s.parentNode.insertBefore(t,s)}(window,document,'script',
       'https://connect.facebook.net/en_US/fbevents.js');
-      fbq('init', '1731248863796003'); 
+      fbq('init', '1731248863796003');
       fbq('track', 'PageView');
     </script>
     <noscript>
-      <img height="1" width="1" 
-      src="https://www.facebook.com/tr?id=1731248863796003&ev=PageView
-      &noscript=1"/>
+      <img height="1" width="1" src="https://www.facebook.com/tr?id=1731248863796003&ev=PageView&noscript=1"/>
     </noscript>
   <!-- End Facebook Pixel Code -->
-  
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
