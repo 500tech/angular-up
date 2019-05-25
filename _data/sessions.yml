@@ -245,15 +245,10 @@
   speakers: ["Jesse"]
 -
   id: "Michael"
-  title: "Operate heavily dynamic UI’s with RxJS"
-  description: "<p>
-    The web changed a lot in the past years, more and more applications provide UI’s that are heavily interactive and often also include some background tasks.
-  </p><p>
-    In comparison to the past years, frontend developers have to deal with new architectural
-    problems and challenges. Not only things like a service layer and MVC found it’s way into the frontend but also database-like structures have to be managed, updated and read from. Especially managing data structures is one of the harder problems.
-  </p><p>
-    Learn the theory and praxis of Event-Sourcing and CQRS and, as crazy as it sounds, apply it in the front end. Leverage the power of reactive programming and implement the above architectures in a real live example
-  </p>
+  title: "Advanced patterns in Angular & RxJS - Operateing heavily dynamic UI’s with RxJS"
+  description: "<p>The web changed a lot in the past years, more and more applications provide UI’s that are heavily interactive and often also include some background tasks.
+RxJS serves a very elegant way to compose events and async actions, make your code more robust and extensible.
+Let's explore advanced techniques with RxJS!
   "
   subtype: presentation
   # advanced: true
