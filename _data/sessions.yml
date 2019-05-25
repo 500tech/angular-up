@@ -31,7 +31,8 @@
   id: "quiz"
   title: "<b>Angular Quiz</b> - Hosted by <b>Shay Reznik</b>"
   place: "Hall A"
-  service: true
+  subtype: presentation
+  center: true
   speakers: ["Reznik"]
 
 -
