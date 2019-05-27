@@ -155,8 +155,10 @@
   speakers: ["Younes"]
 -
   id: "Martin"
-  title: "SEO demystified"
-  description: "More details soon"
+  title: "Technical SEO Demystified"
+  description: "In this session we will break through the fog that surrounds SEO. We will find out what is good SEO, 
+what is technical SEO and what we as developers should do to make our Angular apps work better with search engines. 
+We will learn about crawling, rendering and indexing and how to test our web apps."
   subtype: presentation
   # advanced: false
   speakers: ["Martin"]
