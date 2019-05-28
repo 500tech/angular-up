@@ -29,7 +29,7 @@
   service: true
 -
   id: "quiz"
-  title: "<b>Angular Quiz</b> - Hosted by <b>Shay Reznik</b>"
+  title: "<b>Angular Quiz</b> - Hosted by <b>Shai Reznik</b>"
   place: "Hall A"
   subtype: presentation
   center: true
@@ -49,7 +49,7 @@
   service: true
 -
   id: "Rob"
-  title: "Keynote - What's new and coming in Angular"
+  title: "Keynote -  What's New and Coming in Angular"
   place: "Hall A"
   description: "Hear from Rob, @angular core team and DevRel, and author of NgRx, about the new and exciting in Angular"
   subtype: presentation
@@ -70,7 +70,7 @@
   speakers: ["Kim"]
 -
   id: "Nir"
-  title: "The year of the cat"
+  title: "The Year of the Cat "
   description: "<p>
     Let’s learn how you can leverage your existing Angular development skills and pattern to build a robust, scalable NodeJS application.
     </p><p>
@@ -118,7 +118,7 @@
   speakers: ["Craig"]
 -
   id: "Eliran"
-  title: "Ivy is coming!"
+  title: "Ivy Is Coming!"
   description: "<p>
     After eight great seasons (well, maybe the first one wasn’t that good, at least they killed it in the end), it’s finally coming for real - Ivy is HERE!
   </p><p>
@@ -131,7 +131,7 @@
   speakers: ["Eliran"]
 -
   id: "Younes"
-  title: "Boost your Time to Market by Dancing the Limbo"
+  title: "Boost Your Time to Market by Dancing the Limbo"
   description: "<p>
     A colleague begs you again to review some merge request. You hesitate between closing your eyes and accept the changes or ask him to rewrite the whole thing but you end up leaving some minor changes suggestions in order not to hurt someone’s feelings.
     The next release is approaching but you can’t tell the consequences.
@@ -167,7 +167,7 @@
   speakers: ["Martin"]
 -
   id: "Gil"
-  title: "I'm with Web Components and Web Components are with Me"
+  title: "I'm with Web Components and Web Components Are with Me"
   description: "
   <p>
     Web development changed dramatically during the last years. With the enormous amount of JavaScript libraries and the new HTML5 standard, today it is much easier to create web apps. When building a web app, you will probably want to reuse some of the web components you built. But how can you do that with the current state of HTML?
@@ -217,7 +217,7 @@
   speakers: ["Revital", "Doron"]
 -
   id: "Sebastian"
-  title: "Building a chatbot for an Angular Application"
+  title: "Building a Chatbot for an Angular Application"
   description: "<p>
     Chatbots introduce a whole new way for users to interact with your websites. A good chatbot can save your users from long and complicated forms, cut down on support requests, and make your services more approachable.
   </p><p>
@@ -250,7 +250,7 @@
   speakers: ["Jesse"]
 -
   id: "Michael"
-  title: "Advanced patterns in Angular & RxJS - Operateing heavily dynamic UI’s with RxJS"
+  title: "Advanced Patterns in Angular & RxJS - Operate Heavily Dynamic UI’s with Rxjs"
   description: "<p>The web changed a lot in the past years, more and more applications provide UI’s that are heavily interactive and often also include some background tasks.
 RxJS serves a very elegant way to compose events and async actions, make your code more robust and extensible.
 Let's explore advanced techniques with RxJS!
@@ -260,7 +260,7 @@ Let's explore advanced techniques with RxJS!
   speakers: ["Michael"]
 -
   id: "Stanimira"
-  title: "Supercharging Angular libraries with 'ng add' and schematics"
+  title: "Supercharging Angular Libraries with 'ng add' and Schematics"
   description: "<p>
     You have just written an amazing Angular library. You put it on GitHub because it will save tons of time for other developers. You impatiently refresh the npm page checking the downloads.
     </p><p>
