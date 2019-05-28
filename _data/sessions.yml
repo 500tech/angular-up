@@ -31,7 +31,8 @@
   id: "quiz"
   title: "<b>Angular Quiz</b> - Hosted by <b>Shay Reznik</b>"
   place: "Hall A"
-  service: true
+  subtype: presentation
+  center: true
   speakers: ["Reznik"]
 
 -
@@ -121,7 +122,7 @@
   description: "<p>
     After eight great seasons (well, maybe the first one wasn’t that good, at least they killed it in the end), it’s finally coming for real - Ivy is HERE!
   </p><p>
-    But, now what? What are the benefits? Will my bundle shrink in size? Are my builds going to be faster? 
+    But, now what? What are the benefits? Will my bundle shrink in size? Are my builds going to be faster?
   </p><p>
     In this talk, I will demonstrate why Angular Ivy is truly a game changer. We will understand how we can leverage the Ivy renderer to create higher order components (HOC), how to import non-routable components dynamically, how it reduces our bundle size, how it helps us with much easier debugging tools and how our build process becomes much faster.
   </p>"
@@ -156,9 +157,11 @@
 -
   id: "Martin"
   title: "Technical SEO Demystified"
-  description: "In this session we will break through the fog that surrounds SEO. We will find out what is good SEO, 
-what is technical SEO and what we as developers should do to make our Angular apps work better with search engines. 
-We will learn about crawling, rendering and indexing and how to test our web apps."
+  description: "<p>
+    In this session we will break through the fog that surrounds SEO. We will find out what is good SEO, 
+    what is technical SEO and what we as developers should do to make our Angular apps work better with search engines. 
+    We will learn about crawling, rendering and indexing and how to test our web apps.
+  </p>"
   subtype: presentation
   # advanced: false
   speakers: ["Martin"]
@@ -167,9 +170,9 @@ We will learn about crawling, rendering and indexing and how to test our web app
   title: "I'm with Web Components and Web Components are with Me"
   description: "
   <p>
-    Web development changed dramatically during the last years. With the enormous amount of JavaScript libraries and the new HTML5 standard, today it is much easier to create web apps. When building a web app, you will probably want to reuse some of the web components you built. But how can you do that with the current state of HTML? 
+    Web development changed dramatically during the last years. With the enormous amount of JavaScript libraries and the new HTML5 standard, today it is much easier to create web apps. When building a web app, you will probably want to reuse some of the web components you built. But how can you do that with the current state of HTML?
   </p><p>
-    One of the new and emerging web standards is Web Components. The Web Components standard enables you to create reusable web components that include HTML, CSS and JavaScript. On the other hand, crafting raw components can be cumbersome. 
+    One of the new and emerging web standards is Web Components. The Web Components standard enables you to create reusable web components that include HTML, CSS and JavaScript. On the other hand, crafting raw components can be cumbersome.
   </p><p>
     In this session you will get to know Angular Elements, the new way to write reusable Angular Web Components.
   </p>
@@ -181,7 +184,7 @@ We will learn about crawling, rendering and indexing and how to test our web app
   id: "John"
   title: "Using MockStore in NgRx 8"
   description: "<p>
-    What's new in NgRx testing?  Actually, a lot!  The two most recent releases of NgRx have quietly introduced and iterated the @ngrx/store/testing module, giving developers easier ways to test store-dependent components and services.  
+    What's new in NgRx testing?  Actually, a lot!  The two most recent releases of NgRx have quietly introduced and iterated the @ngrx/store/testing module, giving developers easier ways to test store-dependent components and services.
   </p><p>
     In this session, I will demonstrate testing store-dependent components and services using the NgRx MockStore, which provides the ability to mock the entire state or individual selectors.  Say goodbye to the StoreModule!
   </p>"
@@ -201,7 +204,7 @@ We will learn about crawling, rendering and indexing and how to test our web app
   speakers: ["Mike"]
 -
   id: "Revital"
-  title: "Migrations - An Upgrade Story"
+  title: "Migrations - an Upgrade Story"
   description: "<p>
     Many startups are embarking on the journey of bringing AngularJS applications up to modern-day web development standards with Angular, and there are a lot of approaches.
     It can be challenging for startups to balance business requirements, scarce resources, and aggressive deadlines.
