@@ -207,6 +207,11 @@ $small-label-width: 80px;
             padding: 20px 0 0px 0;
         }
     }
+    @media (max-width: 767px) {
+        .slot.center-slot.speakers-slot .slot-title {
+            padding-left: 139px;
+        }
+    }
 }
 .color-line {
     height: 5px;
