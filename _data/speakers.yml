@@ -269,7 +269,7 @@ When he’s not coding, John organizes the Coders Only Meetup, iOSDevCampDC conf
   longTitle: "UI Architect @ hibob"
   bio: "Doron is an experienced software engineer, who began developing frontend technologies during a time when JQuery still seemed like science fiction. Currently working at Hibob as a UI Architect, Doron is focused on the development of bob’s core infrastructure, developer tooling, and development culture."
   thumbnailUrl: doron.png
-    social:
+  social:
    - { name: "twitter", link: "https://twitter.com/doron_cy"}
 
 -
