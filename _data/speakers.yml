@@ -107,6 +107,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  bio: "Revital Friedman is a passionate Full-stack developer. In the army she has served in the special intelligence technology unit, called Unit 8200. Revital has been a software developer for the last seven years, currently working at Hibob as a front end developer, using Angular as the main platform. In her spare time, she likes to go wall climbing, play volleyball, snowboard and take care of her two cats."
  thumbnailUrl: revital.jpg
  social:
+ - { name: "twitter", link: "https://twitter.com/revitalFriedman"}
 -
  id: "Craig"
  name: "Craig"
@@ -206,7 +207,7 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
  name: "Eliran"
  surname: "Eliassy"
  company: "500Tech"
- title: "eb Developer & Trainer @ 500Tech"
+ title: "Web Developer & Trainer @ 500Tech"
  longTitle: "Web Developer & Trainer @ 500Tech"
  bio: "Eliran is an experienced Front End developer, specialised in B2C applications. Angular IL meetup co-organizer."
  thumbnailUrl: eliassi.jpg
@@ -264,10 +265,13 @@ When he’s not coding, John organizes the Coders Only Meetup, iOSDevCampDC conf
   name: "Doron"
   surname: "Cyngiser"
   company: "Hibob"
-  title: "UI Architect @ Hibob"
-  longTitle: "UI Architect @ Hibob"
+  title: "UI Architect @ hibob"
+  longTitle: "UI Architect @ hibob"
   bio: "Doron is an experienced software engineer, who began developing frontend technologies during a time when JQuery still seemed like science fiction. Currently working at Hibob as a UI Architect, Doron is focused on the development of bob’s core infrastructure, developer tooling, and development culture."
   thumbnailUrl: doron.png
+  social:
+   - { name: "twitter", link: "https://twitter.com/doron_cy"}
+
 -
   id: "Reznik"
   name: "Shai"
