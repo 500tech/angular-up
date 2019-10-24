@@ -1,5 +1,5 @@
 ---
-title: AngularUP 2019
+title: AngularUP 2020
 timezone: UTC
 collections:
   posts:
@@ -32,8 +32,8 @@ socialImageSrcFacebook: "/img/seo/ad.jpg"
 c4sponsorsUrl: https://docs.google.com/forms/d/e/1FAIpQLSfzbke-GgklGguCjmTyixRu21VuBA-MD3XlgGlcwulCfbHxKw/viewform
 # c4pUrl: https://docs.google.com/forms/d/e/1FAIpQLSeeTA11De9DcH5VfzOtSsldDs02sXHFban_MJYhnp9TSjxaCA/viewform
 navigationLinks:
-- permalink: "/#schedule"
-  text: Schedule
+#- permalink: "/#schedule"
+#  text: Schedule
 # - permalink: "/#speakers"
 #   text: Speakers
 - permalink: "/#organizers"
@@ -44,8 +44,8 @@ navigationLinks:
   text: Venue
 - permalink: "/tour"
   text: ng-tour
-- link: http://2018.angular-up.com
-  text: 2018
+- link: http://2019.angular-up.com
+  text: 2019
 - link: https://www.youtube.com/channel/UCBmp3Hpuq1RAsgiyJ6vr-FA/playlists
   text: Videos
 bottomNavigationLinks: 
@@ -55,7 +55,7 @@ rightNavigationButtons:
 heroImage: hero.jpg
 heroTitle: AngularUP
 heroSubtitle: Israel's International Angular Conference & Tour
-eventDate: Tel Aviv, June 12th 2019
+eventDate: Tel Aviv, June 25th 2020
 heroButtons:
 - permalink: "/#tickets"
   text: Tickets
@@ -133,8 +133,8 @@ footerBlocks:
   links:
   - link: https://meetup.com/angularjs-il
     text: AngularJS-IL
-  - link: http://500tech.com
-    text: 500Tech
+  - link: http://eventhandler.co.il
+    text: EventHandler
 - title: Contacts
   links:
   - link: mailto:info@angular-up.com
