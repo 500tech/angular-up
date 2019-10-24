@@ -51,14 +51,14 @@ navigationLinks:
 bottomNavigationLinks: 
 rightNavigationButtons:
 - permalink: "/#tickets"
-  text: Tickets
+  text: Ticket sale will be open soon!
 heroImage: hero.jpg
 heroTitle: AngularUP
 heroSubtitle: Israel's International Angular Conference & Tour
 eventDate: Tel Aviv, June 25th 2020
 heroButtons:
 - permalink: "/#tickets"
-  text: Tickets
+  text: Ticket sale will be open soon!
 aboutTitle: About AngularUP
 aboutBlock:
 - title: Speakers
