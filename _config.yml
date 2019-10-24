@@ -66,45 +66,45 @@ aboutBlock:
   text: Hear top speakers from around the world. Learn about the present and future
     of Angular and its ecosystem, TypeScript, tools and much more
 - title: Venue
-  image: about-section/danp.jpg
-  text: Join us at the beautiful convention center of Dan Panorama hotel,
-    located on the beach. Enjoy full lunch and refreshments throughout the event.
+  image: about-section/zoa.jpg
+  text: Join us at the beautiful ZOA House - A cultural center for theater, art exhibitions & conferences
+    in the heart of Tel Aviv. Enjoy full lunch and refreshments throughout the event.
 - title: Tour
   image: tour/deadsea.jpg
   text: Join our Angular tour of Israel, float in the dead sea, walk in the streets
     of Jerusalem, and eat great Hummus
   moreLink: "/tour"
-statisticBlockImage: statistic.jpg
-statisticBlock:
-- count: 600
-  specialCharacter: "+"
-  info: developers
-  detail: 
-- count: 18
-  specialCharacter: "+"
-  info: speakers
-  detail: 
-- count: 1
-  specialCharacter: 
-  info: day
-  detail: 
-- count: 2
-  specialCharacter: 
-  info: parallel tracks
-  detail: 
+# statisticBlockImage: statistic.jpg
+# statisticBlock:
+# - count: 600
+#   specialCharacter: "+"
+#   info: developers
+#   detail: 
+# - count: 18
+#   specialCharacter: "+"
+#   info: speakers
+#   detail: 
+# - count: 1
+#   specialCharacter: 
+#   info: day
+#   detail: 
+# - count: 2
+#   specialCharacter: 
+#   info: parallel tracks
+#   detail: 
 latestNewsTitle: Latest news
 rockstarSpeakersImage: rockstar-speakers.jpg
 rockstarSpeakersCount: 4
 rockstarSpeakersTitle: Rock star speakers
 rockstarSpeakersButtonText: See the schedule
 locationBlockTitle: Location
-eventLocationName: Dan Panorama Hotel 
-eventStreetAddress: 10 Prof. Yehezkel Kaufmann Street
+eventLocationName: ZOA House 
+eventStreetAddress: 1 Daniel Frisch Street
 eventAddressLocality: Tel Aviv-Yafo
 eventAddressCountry: Israel
-eventStartTime: 2017-09-10 08:30:00.000000000 Z
+eventStartTime: 2020-5-25 08:30:00.000000000 Z
 eventDoorTime: '08:30'
-eventEndTime: 2017-09-10 18:00:00.000000000 Z
+eventEndTime: 2020-06-25 18:00:00.000000000 Z
 eventPlaceCoordinates: 32.0653958,34.7640649
 mapCenterCoordinates: 32.0653958,34.7640649
 mapMobileCenterCoordinates: 32.0653958,34.7640649
