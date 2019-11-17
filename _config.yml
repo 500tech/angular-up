@@ -51,7 +51,7 @@ navigationLinks:
 bottomNavigationLinks: 
 rightNavigationButtons:
 - permalink: "/#tickets"
-`  text: secure your seat now!
+  text: secure your seat now!
 - link: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
 heroImage: hero.jpg
 heroTitle: AngularUP
@@ -60,7 +60,7 @@ eventDate: Tel Aviv, June 25th 2020
 heroButtons:
 - permalink: "/#tickets"
   text: Get your ticket now!
--link: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
+- link: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
 aboutTitle: About AngularUP
 aboutBlock:
 - title: Speakers
