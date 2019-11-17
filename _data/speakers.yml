@@ -1,17 +1,4 @@
 -
-  # id: "Rob"
-  # name: "Rob"
-  # surname: "Wormald"
-  # company: "Google"
-  # title: "@angular core, @ngrx founder"
-  # longTitle: "@angular core, @ngrx founder"
-  # bio: "Rob is a Developer Advocate on the Angular team at Google. He’s the Angular team’s resident reactive programming geek and founded the Reactive Extensions for Angular project, ngrx."
-  # thumbnailUrl: rob.jpg
-  # rockstar: true
-  # social:
-  #   - {name: "twitter", link: "https://twitter.com/robwormald"}
-  #   - {name: "github", link: "http://github.com/robwormald"}
--
  id: "Kim"
  name: "Kim"
  surname: "Maida"
@@ -24,19 +11,32 @@
      - { name: "twitter", link: "https://twitter.com/KimMaida"}
      - { name: "github", link: "https://github.com/kmaida"}
      - { name: "site", link: "https://auth0.com/blog/authors/kim-maida/"}
+-
+ id: 31
+ name: "Maybe"
+ surname: "You?"
+ company: ""
+ title: ""
+ longTitle: ""
+ bio: <br><a href=\"https://forms.gle/3zvnXt1TmJE2pExd9" target=\"_blank\">Submit your CFP here</a>"
+ thumbnailUrl: faceman.png
+ rockstar: true
+ social:
+     - {name: "github", link: ""}
+     - {name: "twitter", link: ""}
 # -
-#  id: "Mike"
-#  name: "Mike"
-#  surname: "Hartington"
-#  company: "Ionic"
-#  title: "Developer Advocate @ Ionic"
-#  longTitle: "Developer Advocate @ Ionic"
-#  bio: "Mike is a developer, Angular GDE, and Ionic Developer Advocate who's been working in the mobile landscape for most of his professional career. When he's not working Ionic itself, Mike works with community members and helps them succeed at mobile. In his spare time, he’s an aspiring woodworker, occasional musician, and enjoys a good scotch."
-#  thumbnailUrl: mike.jpg
-#  social:
-#      - { name: "twitter", link: "https://twitter.com/mhartington"}
-#      - { name: "github", link: "https://github.com/mhartington"}
-#      - { name: "site", link: "https://mhartington.io/"}
+#   id: 32
+#   name: "Maybe"
+#   surname: "You?"
+#   company: ""
+#   title: ""
+#   longTitle: ""
+#   bio: "Have something interesting to share with the community?<br><a href=\"https://forms.gle/3zvnXt1TmJE2pExd9" target=\"_blank\">Submit your CFP here</a>"
+#   thumbnailUrl: facewoman.png
+#   rockstar: true
+#   social:
+#       - {name: "github", link: ""}
+#       - {name: "twitter", link: ""}
 -
  id: "Frosty"
  name: "Aaron"
@@ -49,7 +49,21 @@
  social:
      - { name: "twitter", link: "https://twitter.com/aaronfrost"}
      - { name: "github", link: "https://github.com/aaronfrost"}
-     
+-
+ id: "Michael"
+ name: "Michael"
+ surname: "Hladky"
+ company: "Freelance"
+ title: "GDE"
+ longTitle: "GDE"
+ bio: "Angular by heart and code. Michael is a full-stack developer located in Vienna, Austria.
+He is a Google Developer Expert and an active part of the community. As co-founder of the Angular-Austria association, organizer of Angular-Vienna and NestJS-Vienna Meetup he grows the Austrian community. He is a developer, trainer and consultant with the focus on Angular as well as ionic and surrounding technologies, and gives workshops on Angular, RxJs and Typescript.
+He regularly speaks at conferences and meetups and enjoys participating in the dev community and OSS."
+ thumbnailUrl: michaelh.jpg
+ social:
+     - { name: "twitter", link: "https://twitter.com/michael_hladky"}
+     - { name: "github", link: "https://github.com/BioPhoton"}
+-
 # -
 #  id: "Nir"
 #  name: "Nir"
@@ -66,20 +80,6 @@
 #    - {name: "twitter", link: "https://twitter.com/nirkaufman"}
 #    - {name: "github", link: "https://github.com/nirkaufman"}
   #  - {name: "site", link: "http://500tech.com"}?-
- id: "Michael"
- name: "Michael"
- surname: "Hladky"
- company: "Freelance"
- title: "GDE"
- longTitle: "GDE"
- bio: "Angular by heart and code. Michael is a full-stack developer located in Vienna, Austria.
-He is a Google Developer Expert and an active part of the community. As co-founder of the Angular-Austria association, organizer of Angular-Vienna and NestJS-Vienna Meetup he grows the Austrian community. He is a developer, trainer and consultant with the focus on Angular as well as ionic and surrounding technologies, and gives workshops on Angular, RxJs and Typescript.
-He regularly speaks at conferences and meetups and enjoys participating in the dev community and OSS."
- thumbnailUrl: michaelh.jpg
- social:
-     - { name: "twitter", link: "https://twitter.com/michael_hladky"}
-     - { name: "github", link: "https://github.com/BioPhoton"}
-
 # -
 #  id: "Revital"
 #  name: "Revital"
@@ -273,30 +273,29 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
 #   social:
 #    - {name: "twitter", link: "https://twitter.com/shai_reznik"}
 
+  # id: "Rob"
+  # name: "Rob"
+  # surname: "Wormald"
+  # company: "Google"
+  # title: "@angular core, @ngrx founder"
+  # longTitle: "@angular core, @ngrx founder"
+  # bio: "Rob is a Developer Advocate on the Angular team at Google. He’s the Angular team’s resident reactive programming geek and founded the Reactive Extensions for Angular project, ngrx."
+  # thumbnailUrl: rob.jpg
+  # rockstar: true
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/robwormald"}
+  #   - {name: "github", link: "http://github.com/robwormald"}
+# -
+#  id: "Mike"
+#  name: "Mike"
+#  surname: "Hartington"
+#  company: "Ionic"
+#  title: "Developer Advocate @ Ionic"
+#  longTitle: "Developer Advocate @ Ionic"
+#  bio: "Mike is a developer, Angular GDE, and Ionic Developer Advocate who's been working in the mobile landscape for most of his professional career. When he's not working Ionic itself, Mike works with community members and helps them succeed at mobile. In his spare time, he’s an aspiring woodworker, occasional musician, and enjoys a good scotch."
+#  thumbnailUrl: mike.jpg
+#  social:
+#      - { name: "twitter", link: "https://twitter.com/mhartington"}
+#      - { name: "github", link: "https://github.com/mhartington"}
+#      - { name: "site", link: "https://mhartington.io/"}
 -
-  id: 31
-  name: "Maybe"
-  surname: "You?"
-  company: ""
-  title: ""
-  longTitle: ""
-  bio: "Have something interesting to share with the community?<br><a href=\"https://forms.gle/3zvnXt1TmJE2pExd9" target=\"_blank\">Submit your CFP here</a>"
-  thumbnailUrl: faceman.png
-  rockstar: true
-  social:
-   - {name: "github", link: ""}
-   - {name: "twitter", link: ""}
--
-  id: 32
-  name: "Maybe"
-  surname: "You?"
-  company: ""
-  title: ""
-  longTitle: ""
-  bio: "Have something interesting to share with the community?<br><a href=\"https://forms.gle/3zvnXt1TmJE2pExd9" target=\"_blank\">Submit your CFP here</a>"
-  thumbnailUrl: facewoman.png
-  rockstar: true
-  social:
-   - {name: "github", link: ""}
-   - {name: "twitter", link: ""}
-
