@@ -51,14 +51,16 @@ navigationLinks:
 bottomNavigationLinks: 
 rightNavigationButtons:
 - permalink: "/#tickets"
-  text: Ticket sale will be open soon!
+  text: secure your set now!
+- link: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
 heroImage: hero.jpg
 heroTitle: AngularUP
 heroSubtitle: Israel's International Angular Conference & Tour
 eventDate: Tel Aviv, June 25th 2020
 heroButtons:
 - permalink: "/#tickets"
-  text: Ticket sale will be open soon!
+  text: Get your ticket now!
+-link: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
 aboutTitle: About AngularUP
 aboutBlock:
 - title: Speakers
