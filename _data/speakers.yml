@@ -1,16 +1,16 @@
 -
-  id: "Rob"
-  name: "Rob"
-  surname: "Wormald"
-  company: "Google"
-  title: "@angular core, @ngrx founder"
-  longTitle: "@angular core, @ngrx founder"
-  bio: "Rob is a Developer Advocate on the Angular team at Google. He’s the Angular team’s resident reactive programming geek and founded the Reactive Extensions for Angular project, ngrx."
-  thumbnailUrl: rob.jpg
-  rockstar: true
-  social:
-    - {name: "twitter", link: "https://twitter.com/robwormald"}
-    - {name: "github", link: "http://github.com/robwormald"}
+  # id: "Rob"
+  # name: "Rob"
+  # surname: "Wormald"
+  # company: "Google"
+  # title: "@angular core, @ngrx founder"
+  # longTitle: "@angular core, @ngrx founder"
+  # bio: "Rob is a Developer Advocate on the Angular team at Google. He’s the Angular team’s resident reactive programming geek and founded the Reactive Extensions for Angular project, ngrx."
+  # thumbnailUrl: rob.jpg
+  # rockstar: true
+  # social:
+  #   - {name: "twitter", link: "https://twitter.com/robwormald"}
+  #   - {name: "github", link: "http://github.com/robwormald"}
 -
  id: "Kim"
  name: "Kim"
@@ -24,19 +24,19 @@
      - { name: "twitter", link: "https://twitter.com/KimMaida"}
      - { name: "github", link: "https://github.com/kmaida"}
      - { name: "site", link: "https://auth0.com/blog/authors/kim-maida/"}
--
- id: "Mike"
- name: "Mike"
- surname: "Hartington"
- company: "Ionic"
- title: "Developer Advocate @ Ionic"
- longTitle: "Developer Advocate @ Ionic"
- bio: "Mike is a developer, Angular GDE, and Ionic Developer Advocate who's been working in the mobile landscape for most of his professional career. When he's not working Ionic itself, Mike works with community members and helps them succeed at mobile. In his spare time, he’s an aspiring woodworker, occasional musician, and enjoys a good scotch."
- thumbnailUrl: mike.jpg
- social:
-     - { name: "twitter", link: "https://twitter.com/mhartington"}
-     - { name: "github", link: "https://github.com/mhartington"}
-     - { name: "site", link: "https://mhartington.io/"}
+# -
+#  id: "Mike"
+#  name: "Mike"
+#  surname: "Hartington"
+#  company: "Ionic"
+#  title: "Developer Advocate @ Ionic"
+#  longTitle: "Developer Advocate @ Ionic"
+#  bio: "Mike is a developer, Angular GDE, and Ionic Developer Advocate who's been working in the mobile landscape for most of his professional career. When he's not working Ionic itself, Mike works with community members and helps them succeed at mobile. In his spare time, he’s an aspiring woodworker, occasional musician, and enjoys a good scotch."
+#  thumbnailUrl: mike.jpg
+#  social:
+#      - { name: "twitter", link: "https://twitter.com/mhartington"}
+#      - { name: "github", link: "https://github.com/mhartington"}
+#      - { name: "site", link: "https://mhartington.io/"}
 -
  id: "Frosty"
  name: "Aaron"
@@ -50,39 +50,22 @@
      - { name: "twitter", link: "https://twitter.com/aaronfrost"}
      - { name: "github", link: "https://github.com/aaronfrost"}
      
--
- id: "Nir"
- name: "Nir"
- surname: "Kaufman"
- company: "500Tech"
- title: "Principal Frontend Consultant @ 500Tech"
- longTitle: "Principal Frontend Consultant @ 500Tech"
- bio: "Google Developer Expert in web technologies, public speaker and trainer, tech community activist ( ReactNYC ).
-  Author of books about Front-end development, and the founder of the 'Frontend Band' - The first open-source rock n’ roll label in the world!
-  Principal consultant at 500Tech, a front-end consultancy in NYC."
- thumbnailUrl: nirnew.png
- rockstar: true
- social:
-   - {name: "twitter", link: "https://twitter.com/nirkaufman"}
-   - {name: "github", link: "https://github.com/nirkaufman"}
-   - {name: "site", link: "http://500tech.com"}
--
- id: "Martin"
- name: "Martin"
- surname: "Splitt"
- company: "Google"
- title: "Developer Advocate @ Google"
- longTitle: "Developer Advocate @ Google"
- bio: "Martin is pretty decent at humaning and pretty good at computering,
-so he decided to use his computering to improve his and other's humaning.
-
-He loves the open web and open source and helps to make things better with, but not limited to, code."
- thumbnailUrl: martin.jpeg
- social:
-     - { name: "twitter", link: "https://twitter.com/g33konaut"}
-     - { name: "github", link: "https://github.com/AVGP"}
-
--
+# -
+#  id: "Nir"
+#  name: "Nir"
+#  surname: "Kaufman"
+#  company: "500Tech"
+#  title: "Principal Frontend Consultant @ 500Tech"
+#  longTitle: "Principal Frontend Consultant @ 500Tech"
+#  bio: "Google Developer Expert in web technologies, public speaker and trainer, tech community activist ( ReactNYC ).
+#   Author of books about Front-end development, and the founder of the 'Frontend Band' - The first open-source rock n’ roll label in the world!
+#   Principal consultant at 500Tech, a front-end consultancy in NYC."
+#  thumbnailUrl: nirnew.png
+#  rockstar: true
+#  social:
+#    - {name: "twitter", link: "https://twitter.com/nirkaufman"}
+#    - {name: "github", link: "https://github.com/nirkaufman"}
+  #  - {name: "site", link: "http://500tech.com"}?-
  id: "Michael"
  name: "Michael"
  surname: "Hladky"
@@ -97,223 +80,223 @@ He regularly speaks at conferences and meetups and enjoys participating in the d
      - { name: "twitter", link: "https://twitter.com/michael_hladky"}
      - { name: "github", link: "https://github.com/BioPhoton"}
 
--
- id: "Revital"
- name: "Revital"
- surname: "Friedman"
- company: "hibob"
- title: "Frontend Developer @ hibob"
- longTitle: "Frontend Developer @ hibob"
- bio: "Revital Friedman is a passionate Full-stack developer. In the army she has served in the special intelligence technology unit, called Unit 8200. Revital has been a software developer for the last seven years, currently working at Hibob as a front end developer, using Angular as the main platform. In her spare time, she likes to go wall climbing, play volleyball, snowboard and take care of her two cats."
- thumbnailUrl: revital.jpg
- social:
- - { name: "twitter", link: "https://twitter.com/revitalFriedman"}
--
- id: "Craig"
- name: "Craig"
- surname: "Spence"
- company: "Trade Me"
- title: "Development Technical Lead @ Trade Me"
- longTitle: "Development Technical Lead @ Trade Me"
- bio: "Craig is a Software Engineer from New Zealand, currently based in Stockholm. He loves building cool things that help teams build cool things! He also loves punk rock, Disney's Frozen, and his cat Cosy."
- thumbnailUrl: craig.jpg
- social:
-   - { name: "site", link: "https://medium.com/@phenomnominal"}
-   - { name: "twitter", link: "https://twitter.com/phenomnominal"}
-   - { name: "github", link: "https://github.com/phenomnomnominal"}
+# -
+#  id: "Revital"
+#  name: "Revital"
+#  surname: "Friedman"
+#  company: "hibob"
+#  title: "Frontend Developer @ hibob"
+#  longTitle: "Frontend Developer @ hibob"
+#  bio: "Revital Friedman is a passionate Full-stack developer. In the army she has served in the special intelligence technology unit, called Unit 8200. Revital has been a software developer for the last seven years, currently working at Hibob as a front end developer, using Angular as the main platform. In her spare time, she likes to go wall climbing, play volleyball, snowboard and take care of her two cats."
+#  thumbnailUrl: revital.jpg
+#  social:
+#  - { name: "twitter", link: "https://twitter.com/revitalFriedman"}
+# -
+#  id: "Craig"
+#  name: "Craig"
+#  surname: "Spence"
+#  company: "Trade Me"
+#  title: "Development Technical Lead @ Trade Me"
+#  longTitle: "Development Technical Lead @ Trade Me"
+#  bio: "Craig is a Software Engineer from New Zealand, currently based in Stockholm. He loves building cool things that help teams build cool things! He also loves punk rock, Disney's Frozen, and his cat Cosy."
+#  thumbnailUrl: craig.jpg
+#  social:
+#    - { name: "site", link: "https://medium.com/@phenomnominal"}
+#    - { name: "twitter", link: "https://twitter.com/phenomnominal"}
+#    - { name: "github", link: "https://github.com/phenomnomnominal"}
+
+# -
+#  id: "Stanimira"
+#  name: "Stanimira"
+#  surname: "Vlaeva"
+#  company: "Progress"
+#  title: "Software Engineer @ Progress, NativeScript Core Team"
+#  longTitle: "Software Engineer @ Progress, NativeScript Core Team"
+#  bio: "Stanimira Vlaeva is a software engineer on the NativeScript team at Progress and a Google Developer Expert for Angular and Web Technologies. She's working on NativeScript Angular, NativeScript schematics, and the integration of webpack within the {N} build system. She's also co-organizing the Angular meetup in Sofia, Bulgaria."
+#  thumbnailUrl: stani.jpg
+#  social:
+#    - { name: "site", link: "https://www.nativescript.org/blog/author/stanimira-vlaeva"}
+#    - { name: "twitter", link: "https://twitter.com/stanimiravlaeva"}
+#    - { name: "github", link: "https://github.com/sis0k0"}
+# -
+#  id: "Uri"
+#  name: "Uri"
+#  surname: "Shaked"
+#  title: "Web Technologies GDE"
+#  longTitle: "Web Technologies Google Developer Expert"
+#  bio: "Uri Shaked is a Google Developer Expert for Web Technologies. He created the popular angular-moment open source module and regularly speaks about Web and IoT-related technologies in conferences and meetups. Among his interests are reverse engineering, hardware hacking, building 3d-printed robots and games, playing music and Salsa dancing"
+#  thumbnailUrl: uri.jpg
+#  rockstar: true
+#  social:
+#   - {name: "twitter", link: "https://twitter.com/UriShaked"}
+#   - {name: "github", link: "https://github.com/urish"}
+#   - {name: "site", link: "http://urish.org/"}
+# -
+#   id: "Gil"
+#   name: "Gil"
+#   surname: "Fink"
+#   company: "sparXys"
+#   title: "CEO and Senior Consultant @ sparXys"
+#   longTitle: "CEO and Senior Consultant @ sparXys"
+#   bio: "Gil is a web development expert, Microsoft MVP and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web and RIA-based solutions. He conducts lectures and workshops for individuals and enterprises who want to specialize in infrastructure and web development. He is also co-author of several Microsoft Official Courses (MOCs) and training kits, co-author of Pro Single Page Application Development book (Apress), co-organiser of GDG Rashlatz Meetup and Angular UP conference."
+#   thumbnailUrl: gil.jpg
+#   rockstar: true
+#   social:
+#    - {name: "twitter", link: "https://twitter.com/gilfink"}
+#    - {name: "github", link: "https://github.com/gilf"}
+#    - {name: "site", link: "http://gilfink.azurewebsites.net/"}
+# -
+#   id: "Younes"
+#   name: "Younes"
+#   surname: "Jaaidi"
+#   company: 
+#   title: "Web Developer & eXtreme Programming Coach"
+#   longTitle: "Web Developer & eXtreme Programming Coach"
+#   bio: "<p>
+#     Younes is a pythonic full-stack web developer with a focus on Angular.
+#     </p><p>
+#     He is a trainer, consultant & eXtreme Programming coach who loves the challenge of boosting teams efficiency and helping everyone enjoy every part of their job.
+#     </p><p>
+#     His experience convinced him that the key to making quality products is collective ownership, kindness and knowledge sharing.
+#     </p><p>
+#     On his spare time, you will find him contributing to open-source software, writing articles or speaking at meetups or conferences… and sometimes sailing.
+#     </p><p>
+#     His favorite trick? Adding features by removing code.
+#   "
+#   thumbnailUrl: younes-portrait.jpg
+#   rockstar: true
+#   social:
+#    - {name: "twitter", link: "https://twitter.com/yjaaidi"}
+#    - {name: "linkedin", link: "https://www.linkedin.com/in/yjaaidi/"}
+#    - {name: "site", link: "https://wishtack.io"}
+#    - {name: "site", link: "https://medium.com/@yjaaidi"}
+#    - {name: "github", link: "https://github.com/wishtack"}
+
+# -
+#   id: "Jesse"
+#   name: "Jesse"
+#   surname: "Sanders"
+#   company: "BrieBug Software, Inc"
+#   title: "CEO, Founder @ BrieBug Software, Inc"
+#   longTitle: "CEO, Founder @ BrieBug Software, Inc"
+#   bio: "Jesse Sanders is the founder and CEO of BrieBug, a premier broker of technology solutions. He learned to code BASIC at 13 years old on his TRS80 Color Computer and started as a developer over 20 years ago on the Microsoft stack using VB4. He founded BrieBug in 2009 and has since built a team of talented developers dedicated to delivering cutting edge enterprise solutions. He is an expert in JavaScript languages, including Angular and React. When Jesse isn’t busy running a software business, he enjoys skiing and cycling in his home state of Colorado. His other hobbies include spending time with his three kids and their dog, Sparkle."
+#   thumbnailUrl: Jesse.jpg
+#   social:
+#       - { name: "twitter", link: "https://twitter.com/@JesseS_BrieBug"}
+#       - { name: "linkedin", link: "https://www.linkedin.com/in/jessesandersbriebug/"}
+#       - { name: "github", link: "https://github.com/briebug/"}
+# -
+#  id: "Eliran"
+#  name: "Eliran"
+#  surname: "Eliassy"
+#  company: "500Tech"
+#  title: "Web Developer & Trainer @ 500Tech"
+#  longTitle: "Web Developer & Trainer @ 500Tech"
+#  bio: "Eliran is an experienced Front End developer, specialised in B2C applications. Angular IL meetup co-organizer."
+#  thumbnailUrl: eliassi.jpg
+#  social:
+#      - { name: "twitter", link: "https://twitter.com/EliranEliassy"}
+#      - { name: "github", link: "https://github.com/eliraneliassy"}
+
+# -
+#  id: "Sebastian"
+#  name: "Sebastian"
+#  surname: "Witalec"
+#  company: "Progress"
+#  title: "Senior Developer Advocate @ Progress"
+#  longTitle: "Senior Developer Advocate @ Progress"
+#  bio: "<p>Sebastian Witalec is a Senior Developer Advocate for Progress who specialises in Angular and NativeScript. He loves working on both serious and fun projects and one day he will use his robot army to conquer the world.
+#       </p><p>
+#       He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London and is actively working with various Dev communities in Europe. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
+#       </p>
+#  "
+#  thumbnailUrl: seb.png
+#  social:
+#      - { name: "twitter", link: "https://twitter.com/sebawita"}
+#      - { name: "github", link: "https://github.com/sebawita"}
+
+# -
+#   id: "Elad"
+#   name: "Elad"
+#   surname: "Bezalel"
+#   company: ""
+#   title: "Core Angular Animations team member"
+#   longTitle: "Core Angular Animations team member"
+#   bio: "Elad is a fullstack developer with a very strong love for design. Since 8 years old, he's been designing in Photoshop and later on fell in love with programming. This strong bond between design and computer programming gave birth to a new kind of love. And he is currently doing the combination of both focused on implementing immersive UI and UX."
+#   thumbnailUrl: elad.png
+#   social:
+#    - {name: "github", link: "https://github.com/EladBezalel"}
+#    - {name: "twitter", link: "https://twitter.com/elad_bezalel"}
+
+# -
+#   id: "John"
+#   name: "John"
+#   surname: "Crowson"
+#   company: "Capital One"
+#   title: "Software Engineer @ Capital One"
+#   longTitle: "Software Engineer @ Capital One"
+#   bio: "John Crowson is a software developer at Capital One, building performant Angular applications that scale to millions of users. He started his career as an iOS developer, but traded in RxSwift and ReSwift for RxJs and NgRx. He enjoys writing for the NG-Conf blog on Medium and contributing to open source software including NgRx and Angular Material.
+# When he’s not coding, John organizes the Coders Only Meetup, iOSDevCampDC conference, and scuba dives."
+#   thumbnailUrl: john.jpeg
+#   social:
+#    - {name: "github", link: "https://github.com/jtcrowson"}
+#    - {name: "site", link: "https://johncrowson.com/"}
+#    - {name: "twitter", link: "https://twitter.com/john_crowson"}
+
+# -
+#   id: "Doron"
+#   name: "Doron"
+#   surname: "Cyngiser"
+#   company: "Hibob"
+#   title: "UI Architect @ hibob"
+#   longTitle: "UI Architect @ hibob"
+#   bio: "Doron is an experienced software engineer, who began developing frontend technologies during a time when JQuery still seemed like science fiction. Currently working at Hibob as a UI Architect, Doron is focused on the development of bob’s core infrastructure, developer tooling, and development culture."
+#   thumbnailUrl: doron.png
+#   social:
+#    - { name: "twitter", link: "https://twitter.com/doron_cy"}
+
+# -
+#   id: "Reznik"
+#   name: "Shai"
+#   surname: "Reznik"
+#   company: "TestAngular"
+#   title: "Founder @ TestAngular.com"
+#   longTitle: "Founder @ TestAngular.com"
+#   bio: "Founder and teacher at TestAngular.com and HiRez.io – entertaining in-depth Angular & Testing video courses 
+# that help people become experts and certified Angular rock stars (you get a guitar and all). 
+# An Angular Google developer expert, a spy, a mock, a blogger, a flower arranger, 
+# a panelist on the Adventures in Angular podcast and a worldwide speaker also known 
+# for his unusual Angular talks – 'ng-wat' and 'The ng-show', 'ng-rap', 'ng-game-show' etc. 
+# The founder of JavaScript Israel meetup & facebook group
+# a professional Improv performer and a legit crazy person."
+#   thumbnailUrl: shai1.jpg 
+#   social:
+#    - {name: "twitter", link: "https://twitter.com/shai_reznik"}
 
 -
- id: "Stanimira"
- name: "Stanimira"
- surname: "Vlaeva"
- company: "Progress"
- title: "Software Engineer @ Progress, NativeScript Core Team"
- longTitle: "Software Engineer @ Progress, NativeScript Core Team"
- bio: "Stanimira Vlaeva is a software engineer on the NativeScript team at Progress and a Google Developer Expert for Angular and Web Technologies. She's working on NativeScript Angular, NativeScript schematics, and the integration of webpack within the {N} build system. She's also co-organizing the Angular meetup in Sofia, Bulgaria."
- thumbnailUrl: stani.jpg
- social:
-   - { name: "site", link: "https://www.nativescript.org/blog/author/stanimira-vlaeva"}
-   - { name: "twitter", link: "https://twitter.com/stanimiravlaeva"}
-   - { name: "github", link: "https://github.com/sis0k0"}
--
- id: "Uri"
- name: "Uri"
- surname: "Shaked"
- title: "Web Technologies GDE"
- longTitle: "Web Technologies Google Developer Expert"
- bio: "Uri Shaked is a Google Developer Expert for Web Technologies. He created the popular angular-moment open source module and regularly speaks about Web and IoT-related technologies in conferences and meetups. Among his interests are reverse engineering, hardware hacking, building 3d-printed robots and games, playing music and Salsa dancing"
- thumbnailUrl: uri.jpg
- rockstar: true
- social:
-  - {name: "twitter", link: "https://twitter.com/UriShaked"}
-  - {name: "github", link: "https://github.com/urish"}
-  - {name: "site", link: "http://urish.org/"}
--
-  id: "Gil"
-  name: "Gil"
-  surname: "Fink"
-  company: "sparXys"
-  title: "CEO and Senior Consultant @ sparXys"
-  longTitle: "CEO and Senior Consultant @ sparXys"
-  bio: "Gil is a web development expert, Microsoft MVP and sparXys CEO. He is currently consulting for various enterprises and companies, where he helps to develop web and RIA-based solutions. He conducts lectures and workshops for individuals and enterprises who want to specialize in infrastructure and web development. He is also co-author of several Microsoft Official Courses (MOCs) and training kits, co-author of Pro Single Page Application Development book (Apress), co-organiser of GDG Rashlatz Meetup and Angular UP conference."
-  thumbnailUrl: gil.jpg
-  rockstar: true
-  social:
-   - {name: "twitter", link: "https://twitter.com/gilfink"}
-   - {name: "github", link: "https://github.com/gilf"}
-   - {name: "site", link: "http://gilfink.azurewebsites.net/"}
--
-  id: "Younes"
-  name: "Younes"
-  surname: "Jaaidi"
-  company: 
-  title: "Web Developer & eXtreme Programming Coach"
-  longTitle: "Web Developer & eXtreme Programming Coach"
-  bio: "<p>
-    Younes is a pythonic full-stack web developer with a focus on Angular.
-    </p><p>
-    He is a trainer, consultant & eXtreme Programming coach who loves the challenge of boosting teams efficiency and helping everyone enjoy every part of their job.
-    </p><p>
-    His experience convinced him that the key to making quality products is collective ownership, kindness and knowledge sharing.
-    </p><p>
-    On his spare time, you will find him contributing to open-source software, writing articles or speaking at meetups or conferences… and sometimes sailing.
-    </p><p>
-    His favorite trick? Adding features by removing code.
-  "
-  thumbnailUrl: younes-portrait.jpg
-  rockstar: true
-  social:
-   - {name: "twitter", link: "https://twitter.com/yjaaidi"}
-   - {name: "linkedin", link: "https://www.linkedin.com/in/yjaaidi/"}
-   - {name: "site", link: "https://wishtack.io"}
-   - {name: "site", link: "https://medium.com/@yjaaidi"}
-   - {name: "github", link: "https://github.com/wishtack"}
-
--
-  id: "Jesse"
-  name: "Jesse"
-  surname: "Sanders"
-  company: "BrieBug Software, Inc"
-  title: "CEO, Founder @ BrieBug Software, Inc"
-  longTitle: "CEO, Founder @ BrieBug Software, Inc"
-  bio: "Jesse Sanders is the founder and CEO of BrieBug, a premier broker of technology solutions. He learned to code BASIC at 13 years old on his TRS80 Color Computer and started as a developer over 20 years ago on the Microsoft stack using VB4. He founded BrieBug in 2009 and has since built a team of talented developers dedicated to delivering cutting edge enterprise solutions. He is an expert in JavaScript languages, including Angular and React. When Jesse isn’t busy running a software business, he enjoys skiing and cycling in his home state of Colorado. His other hobbies include spending time with his three kids and their dog, Sparkle."
-  thumbnailUrl: Jesse.jpg
-  social:
-      - { name: "twitter", link: "https://twitter.com/@JesseS_BrieBug"}
-      - { name: "linkedin", link: "https://www.linkedin.com/in/jessesandersbriebug/"}
-      - { name: "github", link: "https://github.com/briebug/"}
--
- id: "Eliran"
- name: "Eliran"
- surname: "Eliassy"
- company: "500Tech"
- title: "Web Developer & Trainer @ 500Tech"
- longTitle: "Web Developer & Trainer @ 500Tech"
- bio: "Eliran is an experienced Front End developer, specialised in B2C applications. Angular IL meetup co-organizer."
- thumbnailUrl: eliassi.jpg
- social:
-     - { name: "twitter", link: "https://twitter.com/EliranEliassy"}
-     - { name: "github", link: "https://github.com/eliraneliassy"}
-
--
- id: "Sebastian"
- name: "Sebastian"
- surname: "Witalec"
- company: "Progress"
- title: "Senior Developer Advocate @ Progress"
- longTitle: "Senior Developer Advocate @ Progress"
- bio: "<p>Sebastian Witalec is a Senior Developer Advocate for Progress who specialises in Angular and NativeScript. He loves working on both serious and fun projects and one day he will use his robot army to conquer the world.
-      </p><p>
-      He is always happy to learn about the new stuff and to pass the knowledge as far as his voice (or the wire) can take him. Sebastian is based in London and is actively working with various Dev communities in Europe. When not acting techie he is a massive football fan/player (probably bigger at heart than skills).
-      </p>
- "
- thumbnailUrl: seb.png
- social:
-     - { name: "twitter", link: "https://twitter.com/sebawita"}
-     - { name: "github", link: "https://github.com/sebawita"}
-
--
-  id: "Elad"
-  name: "Elad"
-  surname: "Bezalel"
+  id: 31
+  name: "Maybe"
+  surname: "You?"
   company: ""
-  title: "Core Angular Animations team member"
-  longTitle: "Core Angular Animations team member"
-  bio: "Elad is a fullstack developer with a very strong love for design. Since 8 years old, he's been designing in Photoshop and later on fell in love with programming. This strong bond between design and computer programming gave birth to a new kind of love. And he is currently doing the combination of both focused on implementing immersive UI and UX."
-  thumbnailUrl: elad.png
+  title: ""
+  longTitle: ""
+  bio: "Have something interesting to share with the community?<br><a href=\"https://forms.gle/3zvnXt1TmJE2pExd9" target=\"_blank\">Submit your CFP here</a>"
+  thumbnailUrl: faceman.png
+  rockstar: true
   social:
-   - {name: "github", link: "https://github.com/EladBezalel"}
-   - {name: "twitter", link: "https://twitter.com/elad_bezalel"}
-
+   - {name: "github", link: ""}
+   - {name: "twitter", link: ""}
 -
-  id: "John"
-  name: "John"
-  surname: "Crowson"
-  company: "Capital One"
-  title: "Software Engineer @ Capital One"
-  longTitle: "Software Engineer @ Capital One"
-  bio: "John Crowson is a software developer at Capital One, building performant Angular applications that scale to millions of users. He started his career as an iOS developer, but traded in RxSwift and ReSwift for RxJs and NgRx. He enjoys writing for the NG-Conf blog on Medium and contributing to open source software including NgRx and Angular Material.
-When he’s not coding, John organizes the Coders Only Meetup, iOSDevCampDC conference, and scuba dives."
-  thumbnailUrl: john.jpeg
+  id: 32
+  name: "Maybe"
+  surname: "You?"
+  company: ""
+  title: ""
+  longTitle: ""
+  bio: "Have something interesting to share with the community?<br><a href=\"https://forms.gle/3zvnXt1TmJE2pExd9" target=\"_blank\">Submit your CFP here</a>"
+  thumbnailUrl: facewoman.png
+  rockstar: true
   social:
-   - {name: "github", link: "https://github.com/jtcrowson"}
-   - {name: "site", link: "https://johncrowson.com/"}
-   - {name: "twitter", link: "https://twitter.com/john_crowson"}
-
--
-  id: "Doron"
-  name: "Doron"
-  surname: "Cyngiser"
-  company: "Hibob"
-  title: "UI Architect @ hibob"
-  longTitle: "UI Architect @ hibob"
-  bio: "Doron is an experienced software engineer, who began developing frontend technologies during a time when JQuery still seemed like science fiction. Currently working at Hibob as a UI Architect, Doron is focused on the development of bob’s core infrastructure, developer tooling, and development culture."
-  thumbnailUrl: doron.png
-  social:
-   - { name: "twitter", link: "https://twitter.com/doron_cy"}
-
--
-  id: "Reznik"
-  name: "Shai"
-  surname: "Reznik"
-  company: "TestAngular"
-  title: "Founder @ TestAngular.com"
-  longTitle: "Founder @ TestAngular.com"
-  bio: "Founder and teacher at TestAngular.com and HiRez.io – entertaining in-depth Angular & Testing video courses 
-that help people become experts and certified Angular rock stars (you get a guitar and all). 
-An Angular Google developer expert, a spy, a mock, a blogger, a flower arranger, 
-a panelist on the Adventures in Angular podcast and a worldwide speaker also known 
-for his unusual Angular talks – 'ng-wat' and 'The ng-show', 'ng-rap', 'ng-game-show' etc. 
-The founder of JavaScript Israel meetup & facebook group
-a professional Improv performer and a legit crazy person."
-  thumbnailUrl: shai1.jpg 
-  social:
-   - {name: "twitter", link: "https://twitter.com/shai_reznik"}
-
-# -
-#   id: 31
-#   name: "Maybe"
-#   surname: "You?"
-#   company: ""
-#   title: ""
-#   longTitle: ""
-#   bio: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
-#   thumbnailUrl: faceman.png
-#   rockstar: true
-#   social:
-#    - {name: "github", link: ""}
-#    - {name: "twitter", link: ""}
-# -
-#   id: 32
-#   name: "Maybe"
-#   surname: "You?"
-#   company: ""
-#   title: ""
-#   longTitle: ""
-#   bio: "Have something interesting to share with the community?<br><a href=\"https://goo.gl/forms/dai8HuPp47oI65IY2\" target=\"_blank\">Submit your CFP here</a>"
-#   thumbnailUrl: facewoman.png
-#   rockstar: true
-#   social:
-#    - {name: "github", link: ""}
-#    - {name: "twitter", link: ""}
+   - {name: "github", link: ""}
+   - {name: "twitter", link: ""}
 
