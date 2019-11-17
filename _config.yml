@@ -51,7 +51,7 @@ navigationLinks:
 bottomNavigationLinks: 
 rightNavigationButtons:
 - permalink: "/#tickets"
-  text: secure your seat now!
+`  text: secure your seat now!
 - link: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
 heroImage: hero.jpg
 heroTitle: AngularUP
@@ -271,11 +271,11 @@ ticketsOffers:
   price: 400
   priceCurrency: ILS
   validity: 
-  buyButtonLink: https://angularup2019.eventbrite.com/#tickets
+  buyButtonLink: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
   buyButtonText: Buy Now
   euroPrice: 93
-  soldOut: true 
-  disabled: true
+  soldOut: false 
+  disabled: false
   #soldOutText: Sold Out!
 - name: Regular
   price: 650
@@ -296,7 +296,7 @@ ticketsOffers:
   euroPrice: 200
   soldOut: false
   #soldOutText: Sold Out! 
-  disabled: false
+  disabled: true
 - name: Last Minute
   price: 1000
   priceCurrency: ILS
@@ -306,5 +306,5 @@ ticketsOffers:
   euroPrice: 230
   soldOut: false
   #soldOutText: Sold Out! 
-  disabled: false
+  disabled: true
 
