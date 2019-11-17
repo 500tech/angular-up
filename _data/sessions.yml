@@ -57,7 +57,7 @@
   speakers: ["Rob"]
 -
   id: "Kim"
-  title: "The Science of Authenticating Angular Apps"
+  title: ""
   description: "<p>
     Authentication can be a daunting topic for many developers, including those of us working in the landscape of web apps.
     </p><p>
@@ -92,7 +92,7 @@
   speakers: ["Uri"]
 -
   id: "Frosty"
-  title: "Adv Lazy Loading w/ Angular"
+  title: ""
   description: "<p>
   If you need to lazy load components when the route changes, Angular has got you covered. But what if you want to lazy load code when something else happens besides a route change? Maybe we can load a different set of admin services if a certain user logs in. Perhaps when we open a modal that's not tied to a route, we want to load a large library and do some Angular things with it.
   </p>
@@ -250,7 +250,7 @@
   speakers: ["Jesse"]
 -
   id: "Michael"
-  title: "Advanced Patterns in Angular & RxJS - Operate Heavily Dynamic UI’s with Rxjs"
+  title: ""
   description: "<p>The web changed a lot in the past years, more and more applications provide UI’s that are heavily interactive and often also include some background tasks.
 RxJS serves a very elegant way to compose events and async actions, make your code more robust and extensible.
 Let's explore advanced techniques with RxJS!
