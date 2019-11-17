@@ -57,10 +57,10 @@ heroImage: hero.jpg
 heroTitle: AngularUP
 heroSubtitle: Israel's International Angular Conference & Tour
 eventDate: Tel Aviv, June 25th 2020
-heroButtons:
-- permalink: "/#tickets"
-  text: Get your ticket now!
-- link: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
+# heroButtons:
+# - permalink: "/#tickets"
+#   text: Get your ticket now!
+# - link: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
 heroButtons:
   text: Apply to Speak
 - link: https://forms.gle/3zvnXt1TmJE2pExd9
