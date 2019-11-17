@@ -288,13 +288,13 @@ ticketsOffers:
   buyButtonLink: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
   buyButtonText: Buy Now
   euroPrice: 150
-  soldOut: true
+  soldOut: false
   #soldOutText: Sold Out!
   disabled: false
 - name: Late Bird
   price: 850
   priceCurrency: ILS
-  validity: #We told you to hurry up, didn't we?
+  validity: Available till June 15th
   buyButtonLink: https://angularup2019.eventbrite.com/#tickets
   buyButtonText: Buy Now
   euroPrice: 200
@@ -304,7 +304,7 @@ ticketsOffers:
 - name: Last Minute
   price: 1000
   priceCurrency: ILS
-  validity:
+  validity: From June 16th
   buyButtonLink: https://angularup2019.eventbrite.com/#tickets
   buyButtonText: Buy Now
   euroPrice: 230
