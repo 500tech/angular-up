@@ -61,6 +61,9 @@ heroButtons:
 - permalink: "/#tickets"
   text: Get your ticket now!
 - link: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
+heroButtons:
+  text: Apply to Speak
+- link: https://forms.gle/3zvnXt1TmJE2pExd9
 aboutTitle: About AngularUP
 aboutBlock:
 - title: Speakers
