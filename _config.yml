@@ -51,7 +51,7 @@ navigationLinks:
 bottomNavigationLinks: 
 rightNavigationButtons:
 - permalink: "/#tickets"
-  text: secure your set now!
+  text: secure your seat now!
 - link: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
 heroImage: hero.jpg
 heroTitle: AngularUP
