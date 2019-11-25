@@ -3,14 +3,25 @@
  name: "Kim"
  surname: "Maida"
  company: "Auth0 "
- title: " Manager of Community & Technical Content @ Auth0"
- longTitle: "Manager of Community & Technical Content @ Auth0 "
+ title: "Head of Developer Relations @ Auth0"
+ longTitle: "Head of Developer Relations @ Auth0"
  bio: "I am the Manager of Community & Technical Content for Auth0 and a Google Developer Expert in Angular. I'm passionate about identity, authentication, and the developer community. I love teaching and learning from and sharing with other developers. I'm an international speaker and enjoy running workshops at tech conferences around the world."
  thumbnailUrl: kim.jpg
  social:
      - { name: "twitter", link: "https://twitter.com/KimMaida"}
      - { name: "github", link: "https://github.com/kmaida"}
      - { name: "site", link: "https://auth0.com/blog/authors/kim-maida/"}
+-
+ id: "Marta"
+ name: "Marta"
+ surname: "Wiśniewska"
+ company: " "
+ title: "GDE, Angular Developer @ e-point"
+ longTitle: "GDE, Angular Developer @ e-point"
+ bio: "Marta is a Google Developer Expert in Angular and Web Technologies from Poland. She is an international speaker, blogger, enthusiast of Angular, PWA, hybrid apps who loves exploring new web features and following hottest trends in tech. Marta is passionate about sharing knowledge in the community and spreading her love for tech. Currently, she satisfies herself as an organizer in Women Techmakers Warsaw and Google Developers Group Warsaw and PWA Fire co-creator ."
+ thumbnailUrl: marta.jpg
+ social:
+     - { name: "twitter", link: "https://twitter.com/MartaW_PL"}
 -
 
  id: 32
