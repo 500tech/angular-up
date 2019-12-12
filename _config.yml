@@ -278,7 +278,7 @@ ticketsOffers:
   buyButtonLink: https://www.eventbrite.com/e/angularup-2020-tickets-76267436957
   buyButtonText: Buy Now
   euroPrice: 93
-  soldOut: false 
+  soldOut: true 
   disabled: false
   #soldOutText: Sold Out!
 - name: Regular
