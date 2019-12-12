@@ -6,7 +6,7 @@
     #- {name: "extreme", scale: "2", description: "extreme.co.il", link: "http://bit.ly/2FsveZv", imageUrl: "extreme.png"}
     #- {name: "Google", scale: "1.8", description: "google", link: "https://google.com/", imageUrl: "googlelogo.png"}
     - {name: "Trax", scale: "1.9", description: "Trax", link: "https://traxretail.com/careers/", imageUrl: "trax.png"}
-    - {name: "Dialog", scale: "2.6", description: "Dialog", link: "https://dialog.co.il/", imageUrl: "dial.png"}
+    - {name: "Dialog", scale: "2.6", description: "Dialog", link: "https://dialog.co.il/", imageUrl: "Dial.png"}
     #- {name: "Appsflyer", scale: "2", description: "Appsflyer", link: "https://medium.com/appsflyer/", imageUrl: "af.png"}
     #- {name: "Algotec", scale: "1.5", description: "Algotec", link: " https://www.facebook.com/AlgotecSystems/", imageUrl: "Algotec.png"}
     #- {name: "HiBob", scale: "1", description: "HiBob", link: "https://www.hibob.com/", imageUrl: "bob_logo.png"}
